@@ -2,4 +2,4 @@
 [![Download Molecular Oncology Almanac GK-Pilot Data](assets/data-moa-blue.svg)](https://doi.org/10.5281/zenodo.7080008)
 
 # gk-pilot
-A pilot implementation of GKS Work Stream specifications.
+A Genomic Knowledge pilot implementation of GKS Work Stream specifications.
