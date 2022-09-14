@@ -1,0 +1,12 @@
+$schema: http://json-schema.org/draft/2020-12/schema
+title: CVC-MetaKB-ClinVar-Custom-Definitions
+type: object
+strict: true
+
+imports:
+  va: annotation-source.yaml
+
+namespaces:
+  va: annotation.json#/$defs/
+
+$defs:
