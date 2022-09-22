@@ -2,12 +2,15 @@
 name = "gk-pilot"
 version = "0.1.0"
 description = ""
-authors = ["Alex Handler Wagner <Alex.Wagner@nationwidechildrens.org>"]
+authors = ["Alex Handler Wagner <Alex.Wagner@nationwidechildrens.org>",
+    "Lawrence Babb <lbabb@broadinstitute.org>"]
 readme = "README.md"
 packages = [{include = "gk_pilot"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+Sphinx = ">=4.2,<5.0"
+sphinx-rtd-theme = "^1.0.0"
 
 
 [build-system]
