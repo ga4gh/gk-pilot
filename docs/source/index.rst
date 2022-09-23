@@ -31,5 +31,4 @@ GKS Work Stream developed this project to:
 
    schema
    tools
-   analyses
    downloads

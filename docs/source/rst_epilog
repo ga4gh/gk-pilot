@@ -9,6 +9,10 @@
 .. _VRS SequenceLocation: https://vrs.ga4gh.org/en/latest/terms_and_model.html#sequencelocation
 .. _VRS Sequence: https://vrs.ga4gh.org/en/latest/terms_and_model.html#sequence
 .. _VRS Gene: https://vrs.ga4gh.org/en/latest/terms_and_model.html#gene
+.. _VRS draft implementation: https://vrs.ga4gh.org/en/metaschema-update/
+.. _clinical knowledge statements schema: https://github.com/ga4gh/va-spec/tree/metakb-cvc/schema
+.. _categorical variation specification: https://vrsatile.readthedocs.io/en/metaschema-update/catvars/index.html#
+.. _value object descriptor specification: https://vrsatile.readthedocs.io/en/metaschema-update/value_object_descriptor/index.html
 
 .. |vrs| replace:: `VRS <https://vrs.ga4gh.org/>`__
 
