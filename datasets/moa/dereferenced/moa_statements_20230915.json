@@ -3,6 +3,18 @@
         "id": "moa.assertion:71",
         "description": "T315I mutant ABL1 in p210 BCR-ABL cells resulted in retained high levels of phosphotyrosine at increasing concentrations of inhibitor STI-571, whereas wildtype appropriately received inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:44",
@@ -240,6 +252,18 @@
         "id": "moa.assertion:73",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [T315I, V299L, T315A, F317L/V/I/C] are known to be less sensitive to dasatinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -409,6 +433,18 @@
         "id": "moa.assertion:74",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [T315I, V299L, T315A, F317L/V/I/C] are known to be less sensitive to dasatinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -571,6 +607,18 @@
         "id": "moa.assertion:75",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [T315I, V299L, T315A, F317L/V/I/C] are known to be less sensitive to dasatinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -733,6 +781,18 @@
         "id": "moa.assertion:76",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [T315I, V299L, T315A, F317L/V/I/C] are known to be less sensitive to dasatinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -902,6 +962,18 @@
         "id": "moa.assertion:77",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [T315I, V299L, T315A, F317L/V/I/C] are known to be less sensitive to dasatinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -1071,6 +1143,18 @@
         "id": "moa.assertion:78",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [T315I, V299L, T315A, F317L/V/I/C] are known to be less sensitive to dasatinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -1233,6 +1317,18 @@
         "id": "moa.assertion:80",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [E255K/V, Y253H, F359V/C/I] are known to be less sensitive to Nilotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -1388,6 +1484,18 @@
         "id": "moa.assertion:81",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [E255K/V, Y253H, F359V/C/I] are known to be less sensitive to Nilotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -1543,6 +1651,18 @@
         "id": "moa.assertion:82",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [E255K/V, Y253H, F359V/C/I] are known to be less sensitive to Nilotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -1698,6 +1818,18 @@
         "id": "moa.assertion:83",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [E255K/V, Y253H, F359V/C/I] are known to be less sensitive to Nilotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -1853,6 +1985,18 @@
         "id": "moa.assertion:84",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [E255K/V, Y253H, F359V/C/I] are known to be less sensitive to Nilotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -2001,6 +2145,18 @@
         "id": "moa.assertion:85",
         "description": "Secondary mutations in BCR-ABL may suggest resistance to imatinib in CML. ABL [E255K/V, Y253H, F359V/C/I] are known to be less sensitive to Nilotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:45",
@@ -2156,6 +2312,18 @@
         "id": "moa.assertion:86",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -2323,6 +2491,18 @@
         "id": "moa.assertion:87",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -2490,6 +2670,18 @@
         "id": "moa.assertion:88",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -2657,6 +2849,18 @@
         "id": "moa.assertion:89",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -2824,6 +3028,18 @@
         "id": "moa.assertion:90",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -2984,6 +3200,18 @@
         "id": "moa.assertion:91",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -3151,6 +3379,18 @@
         "id": "moa.assertion:92",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -3297,6 +3537,18 @@
         "id": "moa.assertion:93",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -3450,6 +3702,18 @@
         "id": "moa.assertion:94",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -3603,6 +3867,18 @@
         "id": "moa.assertion:95",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -3749,6 +4025,18 @@
         "id": "moa.assertion:96",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -3902,6 +4190,18 @@
         "id": "moa.assertion:97",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -4048,6 +4348,18 @@
         "id": "moa.assertion:98",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -4215,6 +4527,18 @@
         "id": "moa.assertion:99",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -4382,6 +4706,18 @@
         "id": "moa.assertion:100",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -4542,6 +4878,18 @@
         "id": "moa.assertion:101",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -4709,6 +5057,18 @@
         "id": "moa.assertion:102",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -4876,6 +5236,18 @@
         "id": "moa.assertion:103",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5036,6 +5408,18 @@
         "id": "moa.assertion:104",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5203,6 +5587,18 @@
         "id": "moa.assertion:105",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5363,6 +5759,18 @@
         "id": "moa.assertion:106",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5530,6 +5938,18 @@
         "id": "moa.assertion:107",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5697,6 +6117,18 @@
         "id": "moa.assertion:108",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5857,6 +6289,18 @@
         "id": "moa.assertion:109",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -5980,6 +6424,18 @@
         "id": "moa.assertion:110",
         "description": "Selection of alternate TKI in the context of TKI-resistant or possible-TKI resistant BCR-ABL1 mutant CML may be based on mutantion profile.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:46",
@@ -6147,6 +6603,18 @@
         "id": "moa.assertion:115",
         "description": "Ceritinib (LDK378), an ALK TKI, was evaluated in the context of crizotinib resistant ALK rearrangement positive non-small cell lung cancers. It was found that Certinib potently overcame crizotinib-resistant mutations. In particular, L1196M, G1269A, I1171T, S1206Y but it was not able to overcome G1202R and F1174C.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:48",
@@ -6302,6 +6770,18 @@
         "id": "moa.assertion:116",
         "description": "Ceritinib (LDK378), an ALK TKI, was evaluated in the context of crizotinib resistant ALK rearrangement positive non-small cell lung cancers. It was found that Certinib potently overcame crizotinib-resistant mutations. In particular, L1196M, G1269A, I1171T, S1206Y but it was not able to overcome G1202R and F1174C.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:48",
@@ -6457,6 +6937,18 @@
         "id": "moa.assertion:117",
         "description": "Ceritinib (LDK378), an ALK TKI, was evaluated in the context of crizotinib resistant ALK rearrangement positive non-small cell lung cancers. It was found that Certinib potently overcame crizotinib-resistant mutations. In particular, L1196M, G1269A, I1171T, S1206Y but it was not able to overcome G1202R and F1174C.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:48",
@@ -6612,6 +7104,18 @@
         "id": "moa.assertion:118",
         "description": "Ceritinib (LDK378), an ALK TKI, was evaluated in the context of crizotinib resistant ALK rearrangement positive non-small cell lung cancers. It was found that Certinib potently overcame crizotinib-resistant mutations. In particular, L1196M, G1269A, I1171T, S1206Y but it was not able to overcome G1202R and F1174C.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:48",
@@ -6767,6 +7271,18 @@
         "id": "moa.assertion:119",
         "description": "Ceritinib (LDK378), an ALK TKI, was evaluated in the context of crizotinib resistant ALK rearrangement positive non-small cell lung cancers. It was found that Certinib potently overcame crizotinib-resistant mutations. In particular, L1196M, G1269A, I1171T, S1206Y but it was not able to overcome G1202R and F1174C.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:48",
@@ -6922,6 +7438,18 @@
         "id": "moa.assertion:120",
         "description": "Androgen receptor mutation may predict resistance to second generation androgen deprivation or direct androgen inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:49",
@@ -7077,6 +7605,18 @@
         "id": "moa.assertion:121",
         "description": "Androgen receptor mutation may predict resistance to second generation androgen deprivation or direct androgen inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:49",
@@ -7225,6 +7765,18 @@
         "id": "moa.assertion:122",
         "description": "Activating mutations in ARAF may predict sensitivity to sorafenib or other RAF inhibitors. Patient received 5 year response to sorafenib with ARAF S214C.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:50",
@@ -7392,6 +7944,18 @@
         "id": "moa.assertion:134",
         "description": "HCT116 colorectal cancer cell lines are heterozygous for c.3380C>A and sensitive to PARP inhibition following shRNA depletion of ATM. Deletion of p53 enhances sensitivity.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:55",
@@ -7589,6 +8153,18 @@
         "id": "moa.assertion:149",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to dabrafenib as a single agent for the treament of patients with unresectable or metastatic melanoma (MEL) with BRAF V600E mutation, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:60",
@@ -7770,6 +8346,18 @@
         "id": "moa.assertion:155",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to trametinib as a single agent for the treament of patients with unresectable or metastatic melanoma (MEL) with BRAF V600E or V600K mutation, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:61",
@@ -7923,6 +8511,18 @@
         "id": "moa.assertion:156",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to trametinib as a single agent for the treament of patients with unresectable or metastatic melanoma (MEL) with BRAF V600E or V600K mutation, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:61",
@@ -8076,6 +8676,18 @@
         "id": "moa.assertion:157",
         "description": "The U.S. Food and Drug Administration (FDA) granted regular approval to encorafenib for the treatment of patients with unresectable or metastatic melanoma (MEL) with BRAF V600K mutation, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:62",
@@ -8243,6 +8855,18 @@
         "id": "moa.assertion:158",
         "description": "The U.S. Food and Drug Administration (FDA) granted regular approval to encorafenib for the treatment of patients with unresectable or metastatic melanoma (MEL) with BRAF V600E mutation, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:62",
@@ -8410,6 +9034,18 @@
         "id": "moa.assertion:160",
         "description": "The U.S. Food and Drug Administration (FDA) granted regular approval to vemurafenib for the treatment of patients with unresectable or metastatic melanoma (MEL) with BRAF V600E mutation, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:63",
@@ -8577,6 +9213,18 @@
         "id": "moa.assertion:161",
         "description": "BRAF V600E makes response to panitumumab or cetuximab highly unlikely unless given with a BRAF inhibitor in metastatic colorectal cancer.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:64",
@@ -8744,6 +9392,18 @@
         "id": "moa.assertion:163",
         "description": "Activating BRAF mutations are associated with an increased sensitivity to BRAF inhibitors. Co-administration with a MEK inhibitor may potentiate the effects of BRAF inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:66",
@@ -8911,6 +9571,18 @@
         "id": "moa.assertion:164",
         "description": "Activating BRAF mutations are associated with an increased sensitivity to BRAF inhibitors. Co-administration with a MEK inhibitor may potentiate the effects of BRAF inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:66",
@@ -9092,6 +9764,18 @@
         "id": "moa.assertion:170",
         "description": "Administration of bevacizumab in a dabrafenib-resistant cell line counteracted the tumor growth stimulating effect of administering dabrafenib post-resistance.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:69",
@@ -9331,6 +10015,18 @@
         "id": "moa.assertion:171",
         "description": "Administration of GSK2126458A, a PI3K/AKT/mTOR pathway inhibitor, in a dabrafenib-resistant cell line counteracted the tumor growth stimulating effect of administering dabrafenib post-resistance.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:69",
@@ -9463,6 +10159,18 @@
         "id": "moa.assertion:173",
         "description": "Three human melanoma cell lines displayed sensitivity to bleomycin, particularly when co-administered with human interferon-beta gene or herpes simplex virus thymidine kinase/ganciclovir suicide gene lipofection.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:71",
@@ -9595,6 +10303,18 @@
         "id": "moa.assertion:175",
         "description": "Activating BRAF mutations are associated with an increased sensitivity to BRAF inhibitors. Co-administration with a MEK inhibitor may potentiate the effects of BRAF inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:73",
@@ -9773,6 +10493,18 @@
         "id": "moa.assertion:176",
         "description": "Activating BRAF mutations are associated with an increased sensitivity to BRAF inhibitors. Co-administration with a MEK inhibitor may potentiate the effects of BRAF inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:73",
@@ -9951,6 +10683,18 @@
         "id": "moa.assertion:177",
         "description": "Activating BRAF mutations are associated with an increased sensitivity to BRAF inhibitors. Co-administration with a MEK inhibitor may potentiate the effects of BRAF inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:73",
@@ -10129,6 +10873,18 @@
         "id": "moa.assertion:178",
         "description": "Study of a patient-derived orthotopic xenograft (PDOX) model suggests some vemurafenib-resistant BRAF-V600E-mutated melanomas may be sensitive to trametinib (but not cobimetinib) treatment.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:74",
@@ -10284,6 +11040,18 @@
         "id": "moa.assertion:188",
         "description": "BRAF V600E mutations were associated with sensitivity to the BRAF inhibitor PLX-4032 in a study of 109 microdissected pancreatic ductal adenocarcinoma patients.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:52",
@@ -10453,6 +11221,18 @@
         "id": "moa.assertion:190",
         "description": "BRAF V600E makes response to panitumumab or cetuximab highly unlikely unless given with a BRAF inhibitor in metastatic colorectal cancer.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:64",
@@ -10648,6 +11428,18 @@
         "id": "moa.assertion:254",
         "description": "Osimertinib is a kinase inhibitor indicated for the treatment of patients with metastatic epidermal growth factor receptor (EGFR) T790M mutation positive non-small cell lung cancer (NSCLC), as detected by an FDA approved test, whose disease has progressed on or after EGFR TKI therapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:90",
@@ -10801,6 +11593,18 @@
         "id": "moa.assertion:257",
         "description": "Second-site mutations within the EGFR kinase domain, such as T790M, are associated with acquired resistance to EGFR TKIs.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:91",
@@ -10954,6 +11758,18 @@
         "id": "moa.assertion:263",
         "description": "HM61713 showed clinical activity in patients with an EGFR T790M mutation in a Phase I trial.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:94",
@@ -11094,6 +11910,18 @@
         "id": "moa.assertion:267",
         "description": "Dacomitinib is being evaluated in comparison with gefitinib for the treatment of locally advanced or metastatic non-small cell lung cancer.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:98",
@@ -11258,6 +12086,18 @@
         "id": "moa.assertion:269",
         "description": "Osimertinib is being evaluated in patients who have progressed following treatment with an EGFR TKI.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:100",
@@ -11422,6 +12262,18 @@
         "id": "moa.assertion:270",
         "description": "Rociletinib was found to be effective in some patients in a 130-patient trial.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:101",
@@ -11563,6 +12415,18 @@
         "id": "moa.assertion:272",
         "description": "Osimertinib is FDA-Approved for metastatic non-small cell lung cancer patients with EGFR T790M mutations.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:103",
@@ -11718,6 +12582,18 @@
         "id": "moa.assertion:273",
         "description": "EGF816 demonstrated clinical activity in a Phase 1 trial of patients with L858R and T790M mutations.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:103",
@@ -11850,6 +12726,18 @@
         "id": "moa.assertion:274",
         "description": "EGF816 demonstrated clinical activity in a Phase 1 trial of patients with L858R and T790M mutations.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:103",
@@ -11982,6 +12870,18 @@
         "id": "moa.assertion:275",
         "description": "PF-06747775, a small molecule inhibitor of EGFR T790M, is being evaluated in advanced NSCLC patients with EGFR mutations (del 19 and L858R with or without T790M).",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:103",
@@ -12114,6 +13014,18 @@
         "id": "moa.assertion:276",
         "description": "PF-06747775, a small molecule inhibitor of EGFR T790M, is being evaluated in advanced NSCLC patients with EGFR mutations (del 19 and L858R with or without T790M).",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:103",
@@ -12246,6 +13158,18 @@
         "id": "moa.assertion:277",
         "description": "TKI therapy for patients with T790M has limited benefit.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:104",
@@ -12415,6 +13339,18 @@
         "id": "moa.assertion:278",
         "description": "TKI therapy for patients with T790M has limited benefit.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:104",
@@ -12575,6 +13511,18 @@
         "id": "moa.assertion:281",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval for afatinib for treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant EGFR mutations as detected by an FDA-approved test. Safety and efficacy were not established for tumors with resistant EGFR mutations. Most common non-resistant mutations were exon 21 L858R and exon 19 deletions.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:105",
@@ -12733,6 +13681,18 @@
         "id": "moa.assertion:284",
         "description": "In a phase 3 trial, EGFR mutant positive advanced NSCLC (n=556) patients observed significantly longer PFS when treated with osimertinib instead of standard EGFR-TKIs.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:107",
@@ -12881,6 +13841,18 @@
         "id": "moa.assertion:286",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval for osimertinib for adjuvant therapy after tumor resection in patients with non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 21 L858R mutations, as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:108",
@@ -13027,6 +13999,18 @@
         "id": "moa.assertion:294",
         "description": "Rapid disease regression was notd in a patient with a ERFFI1 p.E384X nonsense variant when treated with erlotinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:23",
@@ -13189,6 +14173,18 @@
         "id": "moa.assertion:300",
         "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to tazemetostat, an EZH2 inhibitor, for adult patients with relapsed or refactory (R/R) follicular lymphoma (FL) whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies, and for adult patients with R/R FL who have no satisfactory alternative treatment options.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:115",
@@ -13320,6 +14316,18 @@
         "id": "moa.assertion:301",
         "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to tazemetostat, an EZH2 inhibitor, for adult patients with relapsed or refactory (R/R) follicular lymphoma (FL) whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies, and for adult patients with R/R FL who have no satisfactory alternative treatment options.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:115",
@@ -13451,6 +14459,18 @@
         "id": "moa.assertion:302",
         "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to tazemetostat, an EZH2 inhibitor, for adult patients with relapsed or refactory (R/R) follicular lymphoma (FL) whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies, and for adult patients with R/R FL who have no satisfactory alternative treatment options.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:115",
@@ -13582,6 +14602,18 @@
         "id": "moa.assertion:303",
         "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to tazemetostat, an EZH2 inhibitor, for adult patients with relapsed or refactory (R/R) follicular lymphoma (FL) whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies, and for adult patients with R/R FL who have no satisfactory alternative treatment options.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:115",
@@ -13713,6 +14745,18 @@
         "id": "moa.assertion:304",
         "description": "The U.S. Food and Drug Administration (FDA) granted accelerated approval to tazemetostat, an EZH2 inhibitor, for adult patients with relapsed or refactory (R/R) follicular lymphoma (FL) whose tumors are positive for an EZH2 mutation as detected by an FDA-approved test and who have received at least 2 prior systemic therapies, and for adult patients with R/R FL who have no satisfactory alternative treatment options.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:115",
@@ -13844,6 +14888,18 @@
         "id": "moa.assertion:307",
         "description": "Erdafitinib is indictated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma that has susceptible FGFR3 or FGFR2 genetic alterations, and has progressed during or following at least one line of prior platinum-containing chemotherapy including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:27",
@@ -13997,6 +15053,18 @@
         "id": "moa.assertion:308",
         "description": "Erdafitinib is indictated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma that has susceptible FGFR3 or FGFR2 genetic alterations, and has progressed during or following at least one line of prior platinum-containing chemotherapy including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:27",
@@ -14150,6 +15218,18 @@
         "id": "moa.assertion:309",
         "description": "Erdafitinib is indictated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma that has susceptible FGFR3 or FGFR2 genetic alterations, and has progressed during or following at least one line of prior platinum-containing chemotherapy including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:27",
@@ -14303,6 +15383,18 @@
         "id": "moa.assertion:310",
         "description": "Erdafitinib is indictated for the treatment of adult patients with locally advanced or metastatic urothelial carcinoma that has susceptible FGFR3 or FGFR2 genetic alterations, and has progressed during or following at least one line of prior platinum-containing chemotherapy including within 12 months of neoadjuvant or adjuvant platinum-containing chemotherapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:27",
@@ -14456,6 +15548,18 @@
         "id": "moa.assertion:317",
         "description": "A second FTL3 internal tanden duplication mutation (FTL3 p.F691L) was detected in a patient with acute myeloid leukemia at the time of relapse followed Quizartinib (AC220) treatment. Normal karyotype of NPM1 and FLT3-ITD was observed before treatment.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:119",
@@ -14588,6 +15692,18 @@
         "id": "moa.assertion:318",
         "description": "Sunitinib successfully inhibits cellular proliferation of cells Ba/F3 FLT3 K663Q cells in a dose-dependent manner.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:120",
@@ -14771,6 +15887,18 @@
         "id": "moa.assertion:319",
         "description": "GATA3 mutation did not influence baseline Ki67 levels but was enriched in samples exhibiting greater percentage of Ki67 decline. While this requires further validation, it suggests that GATA3 mutation may be a positive marker for aromatase inhibitor response.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:121",
@@ -14919,6 +16047,18 @@
         "id": "moa.assertion:323",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib, an isocitrate dehydrogenase-1 (IDH1) inhibitor, indicated for the treatment of adult patients with a susceptible IDH1 mutation as detected by an FDA approved test with newly-diagnosed AML who are greater than or equal to 75 years old or who have comorbidities that preclude the use of intensive induction chemotherapy as well as relapsed or refractory AML.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:125",
@@ -15086,6 +16226,18 @@
         "id": "moa.assertion:324",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib, an isocitrate dehydrogenase-1 (IDH1) inhibitor, indicated for the treatment of adult patients with a susceptible IDH1 mutation as detected by an FDA approved test with newly-diagnosed AML who are greater than or equal to 75 years old or who have comorbidities that preclude the use of intensive induction chemotherapy as well as relapsed or refractory AML.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:125",
@@ -15253,6 +16405,18 @@
         "id": "moa.assertion:325",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib, an isocitrate dehydrogenase-1 (IDH1) inhibitor, indicated for the treatment of adult patients with a susceptible IDH1 mutation as detected by an FDA approved test with locally advanced or metastatic cholangiocarcinoma who have been previously treated.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:125",
@@ -15420,6 +16584,18 @@
         "id": "moa.assertion:326",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib, an isocitrate dehydrogenase-1 (IDH1) inhibitor, indicated for the treatment of adult patients with a susceptible IDH1 mutation as detected by an FDA approved test with locally advanced or metastatic cholangiocarcinoma who have been previously treated.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:125",
@@ -15587,6 +16763,18 @@
         "id": "moa.assertion:329",
         "description": "The U.S. Food and Drug Administration (FDA) granted regular approval to enasidenib for the treatment of adult patients with relapsed or refractory acute myeloid leukemia with an isocitrate dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:126",
@@ -15726,6 +16914,18 @@
         "id": "moa.assertion:330",
         "description": "The U.S. Food and Drug Administration (FDA) granted regular approval to enasidenib for the treatment of adult patients with relapsed or refractory acute myeloid leukemia with an isocitrate dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:126",
@@ -15858,6 +17058,18 @@
         "id": "moa.assertion:331",
         "description": "The U.S. Food and Drug Administration (FDA) granted regular approval to enasidenib for the treatment of adult patients with relapsed or refractory acute myeloid leukemia with an isocitrate dehydrogenase-2 (IDH2) mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:126",
@@ -15990,6 +17202,18 @@
         "id": "moa.assertion:338",
         "description": "MOHITO JAK1 V658F transplated mice were highly sensitive to growth inhibition by PU-H71.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:128",
@@ -16115,6 +17339,18 @@
         "id": "moa.assertion:339",
         "description": "MOHITO JAK1 A634D transplated mice were highly sensitive to growth inhibition by PU-H71.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:128",
@@ -16247,6 +17483,18 @@
         "id": "moa.assertion:352",
         "description": "FDA-approved for locally advanced, unresectable or metastatic gastrointestinal stromal tumor (GIST) who have been previously treated with imatinib mesylate and sunitinib malate.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:131",
@@ -16414,6 +17662,18 @@
         "id": "moa.assertion:353",
         "description": "FDA-approved for locally advanced, unresectable or metastatic gastrointestinal stromal tumor (GIST) who have been previously treated with imatinib mesylate and sunitinib malate.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:131",
@@ -16581,6 +17841,18 @@
         "id": "moa.assertion:355",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to Sunitinib for the treatment of gastrointestinal stromal tumor (GIST) after disease progression on or intolerance of imatinib mesylate.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:132",
@@ -16762,6 +18034,18 @@
         "id": "moa.assertion:356",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to Sunitinib for the treatment of gastrointestinal stromal tumor (GIST) after disease progression on or intolerance of imatinib mesylate.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:132",
@@ -16943,6 +18227,18 @@
         "id": "moa.assertion:361",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -17178,6 +18474,18 @@
         "id": "moa.assertion:362",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -17413,6 +18721,18 @@
         "id": "moa.assertion:363",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -17648,6 +18968,18 @@
         "id": "moa.assertion:364",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -17890,6 +19222,18 @@
         "id": "moa.assertion:365",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -18132,6 +19476,18 @@
         "id": "moa.assertion:366",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -18374,6 +19730,18 @@
         "id": "moa.assertion:367",
         "description": "KIT exon 11 and 13 variants (W557, V559, L576P, and K642E) appear to have high level of sensitivity to KIT inhibition.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -18609,6 +19977,18 @@
         "id": "moa.assertion:369",
         "description": "KIT exon 17 variants (D816H) appear to have minimal or no sensitivity to KIT inhibitors.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:134",
@@ -18851,6 +20231,18 @@
         "id": "moa.assertion:374",
         "description": "Avapritnib inhibited the autophosphorylation of KIT p.D816V in cellular assays relative to wild-type KIT.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:137",
@@ -18982,6 +20374,18 @@
         "id": "moa.assertion:387",
         "description": "The U.S. Food and Drug Administration (FDA) has granted accelerated approval to sotorasib, a RAS GTPase family inhibitor, for adult patients with KRAS G12C mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA approved test, who have received at least one prior systemic therapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:141",
@@ -19135,6 +20539,18 @@
         "id": "moa.assertion:388",
         "description": "5/10 NSCLC patients with KRAS G12C variants observed a PR to AMG 510.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:142",
@@ -19297,6 +20713,18 @@
         "id": "moa.assertion:402",
         "description": "Presence of this variant in vitro suggests resistance to PLX4720, a precursor to Vemurafenib, in metastatic melanoma.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:70",
@@ -19459,6 +20887,18 @@
         "id": "moa.assertion:403",
         "description": "Presence of this variant in vitro suggests resistance to PLX4720, a precursor to Vemurafenib, in metastatic melanoma.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:70",
@@ -19621,6 +21061,18 @@
         "id": "moa.assertion:404",
         "description": "Presence of this variant may suggest resistance to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:70",
@@ -19754,6 +21206,18 @@
         "id": "moa.assertion:405",
         "description": "Cell line NCI-H1437 harbors MAP2K1 p.Q56P, a known transformation-component allele of MEK1 originally identified in rat fibroblasts, and is sensitive to treatment with Selumetinib (AZD6244).",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:150",
@@ -19887,6 +21351,18 @@
         "id": "moa.assertion:406",
         "description": "MEK1 Q56P confers resistance to monotherapy with RAF or MEK inhibitors in vitro.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:151",
@@ -20049,6 +21525,18 @@
         "id": "moa.assertion:407",
         "description": "MEK1 Q56P confers resistance to monotherapy with RAF or MEK inhibitors in vitro.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:151",
@@ -20182,6 +21670,18 @@
         "id": "moa.assertion:408",
         "description": "MEK1 C121S confers resistance to monotherapy with RAF or MEK inhibitors in vitro.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:152",
@@ -20344,6 +21844,18 @@
         "id": "moa.assertion:409",
         "description": "MEK1 C121S confers resistance to monotherapy with RAF or MEK inhibitors in vitro.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:152",
@@ -20477,6 +21989,18 @@
         "id": "moa.assertion:410",
         "description": "MEK2 Q60P was observed in a patient's trametinib resistant tumor but not pretreatment tumor.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:78",
@@ -20632,6 +22156,18 @@
         "id": "moa.assertion:411",
         "description": "In an exceptional responder, erlotinib resulted in complete and rapid response in MAPK1 mutant HNSCC",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:153",
@@ -20794,6 +22330,18 @@
         "id": "moa.assertion:413",
         "description": "Presence of this variant may suggest sensitivity to SU11274.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:155",
@@ -20926,6 +22474,18 @@
         "id": "moa.assertion:432",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21059,6 +22619,18 @@
         "id": "moa.assertion:433",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21192,6 +22764,18 @@
         "id": "moa.assertion:434",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21325,6 +22909,18 @@
         "id": "moa.assertion:435",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21458,6 +23054,18 @@
         "id": "moa.assertion:436",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21591,6 +23199,18 @@
         "id": "moa.assertion:437",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21724,6 +23344,18 @@
         "id": "moa.assertion:438",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21864,6 +23496,18 @@
         "id": "moa.assertion:439",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -21997,6 +23641,18 @@
         "id": "moa.assertion:440",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22130,6 +23786,18 @@
         "id": "moa.assertion:441",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22270,6 +23938,18 @@
         "id": "moa.assertion:442",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22410,6 +24090,18 @@
         "id": "moa.assertion:443",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22550,6 +24242,18 @@
         "id": "moa.assertion:444",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22683,6 +24387,18 @@
         "id": "moa.assertion:445",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22816,6 +24532,18 @@
         "id": "moa.assertion:446",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -22956,6 +24684,18 @@
         "id": "moa.assertion:447",
         "description": "Presence of this variant may suggest sensitivity to Selumetinib.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:161",
@@ -23089,6 +24829,18 @@
         "id": "moa.assertion:459",
         "description": "Mutations in PDGFRA are associated with response to imatinib, with the exception of p.D842V.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:135",
@@ -23331,6 +25083,18 @@
         "id": "moa.assertion:460",
         "description": "Avapritnib inhibited the autophosphorylation of PDGFRA p.D842V in cellular assays.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:137",
@@ -23469,6 +25233,18 @@
         "id": "moa.assertion:462",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to avapritinib, a KIT inhibitor, for the treatment of adults with unresectable or metastatic GIST harboring a platelet-derived growth factor alpha (PDGFRA) exon 18 variant, including PDGFRA p.D842V.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:137",
@@ -23607,6 +25383,18 @@
         "id": "moa.assertion:467",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -23739,6 +25527,18 @@
         "id": "moa.assertion:468",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -23871,6 +25671,18 @@
         "id": "moa.assertion:469",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24003,6 +25815,18 @@
         "id": "moa.assertion:470",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24135,6 +25959,18 @@
         "id": "moa.assertion:471",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24267,6 +26103,18 @@
         "id": "moa.assertion:472",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24399,6 +26247,18 @@
         "id": "moa.assertion:473",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24531,6 +26391,18 @@
         "id": "moa.assertion:474",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24663,6 +26535,18 @@
         "id": "moa.assertion:475",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24795,6 +26679,18 @@
         "id": "moa.assertion:476",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -24927,6 +26823,18 @@
         "id": "moa.assertion:477",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25059,6 +26967,18 @@
         "id": "moa.assertion:478",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25191,6 +27111,18 @@
         "id": "moa.assertion:479",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25323,6 +27255,18 @@
         "id": "moa.assertion:480",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25455,6 +27399,18 @@
         "id": "moa.assertion:481",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25587,6 +27543,18 @@
         "id": "moa.assertion:482",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25719,6 +27687,18 @@
         "id": "moa.assertion:483",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25851,6 +27831,18 @@
         "id": "moa.assertion:484",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -25983,6 +27975,18 @@
         "id": "moa.assertion:485",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -26115,6 +28119,18 @@
         "id": "moa.assertion:486",
         "description": "In vivo models harboring PIK3CA variants were especially sensitive to GDC-0941.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:58",
@@ -26247,6 +28263,18 @@
         "id": "moa.assertion:529",
         "description": "Certain missesnse mutations may predict resistance to RET inhibitors",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:173",
@@ -26416,6 +28444,18 @@
         "id": "moa.assertion:530",
         "description": "Certain missesnse mutations may predict sensitivity to RET inhibitors",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:173",
@@ -26585,6 +28625,18 @@
         "id": "moa.assertion:820",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib in combination with azacitidine or as a monotherapy indicated for patients with a susceptible iDH1 mutation as detected by an FDA-approved test for the treatment of newly diagnosed AML in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:251",
@@ -26752,6 +28804,18 @@
         "id": "moa.assertion:821",
         "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib in combination with azacitidine or as a monotherapy indicated for patients with a susceptible iDH1 mutation as detected by an FDA-approved test for the treatment of newly diagnosed AML in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:251",
@@ -26919,6 +28983,18 @@
         "id": "moa.assertion:865",
         "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:271",
@@ -27049,6 +29125,18 @@
         "id": "moa.assertion:866",
         "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:271",
@@ -27179,6 +29267,18 @@
         "id": "moa.assertion:867",
         "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:271",
@@ -27309,6 +29409,18 @@
         "id": "moa.assertion:868",
         "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:271",
@@ -27439,6 +29551,18 @@
         "id": "moa.assertion:869",
         "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:271",
@@ -27569,6 +29693,18 @@
         "id": "moa.assertion:870",
         "description": "The U.S. Food and Drug Administration (FDA) has granted approval to adagrasib for adult patients with KRAS G12C mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA approved test, who have received at least one prior systemic therapy.",
         "type": "VariantTherapeuticResponseStudy",
+        "specifiedBy": {
+            "id": "metakb.method:4",
+            "label": "MOAlmanac (2021)",
+            "type": "Method",
+            "isReportedIn": {
+                "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+                "type": "Document",
+                "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+                "doi": "10.1038/s43018-021-00243-3",
+                "pmid": 35121878
+            }
+        },
         "isReportedIn": [
             {
                 "id": "moa.source:272",
