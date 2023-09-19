@@ -1,0 +1,1918 @@
+{
+  "civic.source:167": {
+    "id": "civic.source:167",
+    "label": "Denis et al., 2015, Clin. Chim. Acta",
+    "type": "Document",
+    "title": "PubMed: Denis et al., 2015, Clin. Chim. Acta",
+    "pmid": 25668228
+  },
+  "civic.source:954": {
+    "id": "civic.source:954",
+    "label": "Chapman et al., 2011, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Chapman et al., 2011, N. Engl. J. Med.",
+    "pmid": 21639808
+  },
+  "civic.source:1053": {
+    "id": "civic.source:1053",
+    "label": "Greig, 2016, Drugs",
+    "type": "Document",
+    "title": "PubMed: Greig, 2016, Drugs",
+    "pmid": 26729184
+  },
+  "civic.source:1286": {
+    "id": "civic.source:1286",
+    "label": "Mok et al., 2016, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Mok et al., 2016, N. Engl. J. Med.",
+    "pmid": 27959700
+  },
+  "civic.source:1724": {
+    "id": "civic.source:1724",
+    "label": "Khozin et al., 2014, Oncologist",
+    "type": "Document",
+    "title": "PubMed: Khozin et al., 2014, Oncologist",
+    "pmid": 24868098
+  },
+  "civic.source:1725": {
+    "id": "civic.source:1725",
+    "label": "Dungo et al., 2013, Drugs",
+    "type": "Document",
+    "title": "PubMed: Dungo et al., 2013, Drugs",
+    "pmid": 23982599
+  },
+  "civic.source:4080": {
+    "id": "civic.source:4080",
+    "label": "Skoulidis et al., 2021, N Engl J Med",
+    "type": "Document",
+    "title": "PubMed: Skoulidis et al., 2021, N Engl J Med",
+    "pmid": 34096690
+  },
+  "civic.source:1488": {
+    "id": "civic.source:1488",
+    "label": "Long et al., 2011, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Long et al., 2011, J. Clin. Oncol.",
+    "pmid": 21343559
+  },
+  "civic.source:1920": {
+    "id": "civic.source:1920",
+    "label": "Kaczirek et al., 2015, Clin Colorectal Cancer",
+    "type": "Document",
+    "title": "PubMed: Kaczirek et al., 2015, Clin Colorectal Cancer",
+    "pmid": 25666295
+  },
+  "civic.source:104": {
+    "id": "civic.source:104",
+    "label": "Ponti et al., 2013, J. Clin. Pathol.",
+    "type": "Document",
+    "title": "PubMed: Ponti et al., 2013, J. Clin. Pathol.",
+    "pmid": 23463675
+  },
+  "civic.source:947": {
+    "id": "civic.source:947",
+    "label": "McArthur et al., 2014, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: McArthur et al., 2014, Lancet Oncol.",
+    "pmid": 24508103
+  },
+  "civic.source:2158": {
+    "id": "civic.source:2158",
+    "label": "Ramalingam et al., 2016, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Ramalingam et al., 2016, Ann. Oncol.",
+    "pmid": 26768165
+  },
+  "civic.source:61": {
+    "id": "civic.source:61",
+    "label": "Corless et al., 2005, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Corless et al., 2005, J. Clin. Oncol.",
+    "pmid": 15928335
+  },
+  "civic.source:62": {
+    "id": "civic.source:62",
+    "label": "Heinrich et al., 2006, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Heinrich et al., 2006, J. Clin. Oncol.",
+    "pmid": 16954519
+  },
+  "civic.source:64": {
+    "id": "civic.source:64",
+    "label": "Kiladjian et al., 2006, Blood",
+    "type": "Document",
+    "title": "PubMed: Kiladjian et al., 2006, Blood",
+    "pmid": 16709929
+  },
+  "civic.source:169": {
+    "id": "civic.source:169",
+    "label": "Sequist et al., 2011, Sci Transl Med",
+    "type": "Document",
+    "title": "PubMed: Sequist et al., 2011, Sci Transl Med",
+    "pmid": 21430269
+  },
+  "civic.source:123": {
+    "id": "civic.source:123",
+    "label": "De Roock et al., 2010, JAMA",
+    "type": "Document",
+    "title": "PubMed: De Roock et al., 2010, JAMA",
+    "pmid": 20978259
+  },
+  "civic.source:259": {
+    "id": "civic.source:259",
+    "label": "Woyach et al., 2014, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Woyach et al., 2014, N. Engl. J. Med.",
+    "pmid": 24869598
+  },
+  "civic.source:408": {
+    "id": "civic.source:408",
+    "label": "Sequist et al., 2015, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Sequist et al., 2015, N. Engl. J. Med.",
+    "pmid": 25923550
+  },
+  "civic.source:430": {
+    "id": "civic.source:430",
+    "label": "Caronia et al., 2009, Pharmacogenomics J.",
+    "type": "Document",
+    "title": "PubMed: Caronia et al., 2009, Pharmacogenomics J.",
+    "pmid": 19434073
+  },
+  "civic.source:486": {
+    "id": "civic.source:486",
+    "label": "Yoo et al., 2016, Cancer Res Treat",
+    "type": "Document",
+    "title": "PubMed: Yoo et al., 2016, Cancer Res Treat",
+    "pmid": 26130666
+  },
+  "civic.source:592": {
+    "id": "civic.source:592",
+    "label": "Sequist et al., 2013, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Sequist et al., 2013, J. Clin. Oncol.",
+    "pmid": 23816960
+  },
+  "civic.source:667": {
+    "id": "civic.source:667",
+    "label": "J\u00e4nne et al., 2015, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: J\u00e4nne et al., 2015, N. Engl. J. Med.",
+    "pmid": 25923549
+  },
+  "civic.source:679": {
+    "id": "civic.source:679",
+    "label": "Wu et al., 2014, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Wu et al., 2014, Lancet Oncol.",
+    "pmid": 24439929
+  },
+  "civic.source:747": {
+    "id": "civic.source:747",
+    "label": "Norton et al., 2014, Cancer Immunol Res",
+    "type": "Document",
+    "title": "PubMed: Norton et al., 2014, Cancer Immunol Res",
+    "pmid": 24989892
+  },
+  "civic.source:814": {
+    "id": "civic.source:814",
+    "label": "Rowland et al., 2016, Eur. J. Cancer",
+    "type": "Document",
+    "title": "PubMed: Rowland et al., 2016, Eur. J. Cancer",
+    "pmid": 26812186
+  },
+  "civic.source:953": {
+    "id": "civic.source:953",
+    "label": "Kopetz et al., 2015, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Kopetz et al., 2015, J. Clin. Oncol.",
+    "pmid": 26460303
+  },
+  "civic.source:1170": {
+    "id": "civic.source:1170",
+    "label": "Gotlib et al., 2016, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Gotlib et al., 2016, N. Engl. J. Med.",
+    "pmid": 27355533
+  },
+  "civic.source:352": {
+    "id": "civic.source:352",
+    "label": "Flaherty et al., 2010, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Flaherty et al., 2010, N. Engl. J. Med.",
+    "pmid": 20818844
+  },
+  "civic.source:1221": {
+    "id": "civic.source:1221",
+    "label": "Nikas et al., 2015, Am J Cancer Res",
+    "type": "Document",
+    "title": "PubMed: Nikas et al., 2015, Am J Cancer Res",
+    "pmid": 26693073
+  },
+  "civic.source:1237": {
+    "id": "civic.source:1237",
+    "label": "Maddocks et al., 2015, JAMA Oncol",
+    "type": "Document",
+    "title": "PubMed: Maddocks et al., 2015, JAMA Oncol",
+    "pmid": 26182309
+  },
+  "civic.source:1282": {
+    "id": "civic.source:1282",
+    "label": "Sun et al., 2013, Lung Cancer",
+    "type": "Document",
+    "title": "PubMed: Sun et al., 2013, Lung Cancer",
+    "pmid": 24035188
+  },
+  "civic.source:1210": {
+    "id": "civic.source:1210",
+    "label": "Flaherty et al., 2012, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Flaherty et al., 2012, N. Engl. J. Med.",
+    "pmid": 22663011
+  },
+  "civic.source:1501": {
+    "id": "civic.source:1501",
+    "label": "Douillard et al., 2010, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Douillard et al., 2010, J. Clin. Oncol.",
+    "pmid": 20038723
+  },
+  "civic.source:1745": {
+    "id": "civic.source:1745",
+    "label": "Hyman et al., 2017, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Hyman et al., 2017, J. Clin. Oncol.",
+    "pmid": 28489509
+  },
+  "civic.source:60": {
+    "id": "civic.source:60",
+    "label": "Trunzer et al., 2013, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Trunzer et al., 2013, J. Clin. Oncol.",
+    "pmid": 23569304
+  },
+  "civic.source:2414": {
+    "id": "civic.source:2414",
+    "label": "Hainsworth et al., 2018, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Hainsworth et al., 2018, J. Clin. Oncol.",
+    "pmid": 29320312
+  },
+  "civic.source:3012": {
+    "id": "civic.source:3012",
+    "label": "Donadieu et al., 2019, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Donadieu et al., 2019, J. Clin. Oncol.",
+    "pmid": 31513482
+  },
+  "civic.source:3021": {
+    "id": "civic.source:3021",
+    "label": "Isabel Arrillaga, 2019, ASCO Annual Meeting, Abstract 3005",
+    "type": "Document",
+    "title": "ASCO: Isabel Arrillaga, 2019, ASCO Annual Meeting, Abstract 3005"
+  },
+  "civic.source:3061": {
+    "id": "civic.source:3061",
+    "label": "Sherman et al., 2016, Cancer",
+    "type": "Document",
+    "title": "PubMed: Sherman et al., 2016, Cancer",
+    "pmid": 27525386
+  },
+  "civic.source:1052": {
+    "id": "civic.source:1052",
+    "label": "Brose et al., 2016, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Brose et al., 2016, Lancet Oncol.",
+    "pmid": 27460442
+  },
+  "civic.source:4081": {
+    "id": "civic.source:4081",
+    "label": "Tabernero et al., 2015, Lancet Oncol",
+    "type": "Document",
+    "title": "PubMed: Tabernero et al., 2015, Lancet Oncol",
+    "pmid": 26184520
+  },
+  "civic.source:76": {
+    "id": "civic.source:76",
+    "label": "De Roock et al., 2010, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: De Roock et al., 2010, Lancet Oncol.",
+    "pmid": 20619739
+  },
+  "civic.source:168": {
+    "id": "civic.source:168",
+    "label": "Kobayashi et al., 2005, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Kobayashi et al., 2005, N. Engl. J. Med.",
+    "pmid": 15728811
+  },
+  "civic.source:192": {
+    "id": "civic.source:192",
+    "label": "Prenen et al., 2006, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Prenen et al., 2006, Clin. Cancer Res.",
+    "pmid": 16638875
+  },
+  "civic.source:424": {
+    "id": "civic.source:424",
+    "label": "Huang et al., 2009, Cancer Chemother. Pharmacol.",
+    "type": "Document",
+    "title": "PubMed: Huang et al., 2009, Cancer Chemother. Pharmacol.",
+    "pmid": 18704422
+  },
+  "civic.source:428": {
+    "id": "civic.source:428",
+    "label": "Gr\u00e9en et al., 2006, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Gr\u00e9en et al., 2006, Clin. Cancer Res.",
+    "pmid": 16467099
+  },
+  "civic.source:594": {
+    "id": "civic.source:594",
+    "label": "Yang et al., 2012, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Yang et al., 2012, Lancet Oncol.",
+    "pmid": 22452895
+  },
+  "civic.source:595": {
+    "id": "civic.source:595",
+    "label": "Rosell et al., 2012, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Rosell et al., 2012, Lancet Oncol.",
+    "pmid": 22285168
+  },
+  "civic.source:666": {
+    "id": "civic.source:666",
+    "label": "Thress et al., 2015, Nat. Med.",
+    "type": "Document",
+    "title": "PubMed: Thress et al., 2015, Nat. Med.",
+    "pmid": 25939061
+  },
+  "civic.source:668": {
+    "id": "civic.source:668",
+    "label": "Sequist et al., 2016, JAMA Oncol",
+    "type": "Document",
+    "title": "PubMed: Sequist et al., 2016, JAMA Oncol",
+    "pmid": 26720284
+  },
+  "civic.source:813": {
+    "id": "civic.source:813",
+    "label": "Schirripa et al., 2015, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Schirripa et al., 2015, Ann. Oncol.",
+    "pmid": 26371285
+  },
+  "civic.source:928": {
+    "id": "civic.source:928",
+    "label": "Lam et al., 2010, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Lam et al., 2010, J. Clin. Oncol.",
+    "pmid": 20368568
+  },
+  "civic.source:345": {
+    "id": "civic.source:345",
+    "label": "Falchook et al., 2012, Lancet",
+    "type": "Document",
+    "title": "PubMed: Falchook et al., 2012, Lancet",
+    "pmid": 22608338
+  },
+  "civic.source:354": {
+    "id": "civic.source:354",
+    "label": "Sosman et al., 2012, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Sosman et al., 2012, N. Engl. J. Med.",
+    "pmid": 22356324
+  },
+  "civic.source:1127": {
+    "id": "civic.source:1127",
+    "label": "Yang et al., 2008, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Yang et al., 2008, J. Clin. Oncol.",
+    "pmid": 18509184
+  },
+  "civic.source:1130": {
+    "id": "civic.source:1130",
+    "label": "Hoogstraat et al., 2015, Pigment Cell Melanoma Res",
+    "type": "Document",
+    "title": "PubMed: Hoogstraat et al., 2015, Pigment Cell Melanoma Res",
+    "pmid": 25515853
+  },
+  "civic.source:1208": {
+    "id": "civic.source:1208",
+    "label": "Choudhury et al., 2016, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Choudhury et al., 2016, J. Clin. Oncol.",
+    "pmid": 27044931
+  },
+  "civic.source:1479": {
+    "id": "civic.source:1479",
+    "label": "Souglakos et al., 2009, Br. J. Cancer",
+    "type": "Document",
+    "title": "PubMed: Souglakos et al., 2009, Br. J. Cancer",
+    "pmid": 19603024
+  },
+  "civic.source:1524": {
+    "id": "civic.source:1524",
+    "label": "Kosaka et al., 2006, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Kosaka et al., 2006, Clin. Cancer Res.",
+    "pmid": 17020982
+  },
+  "civic.source:1513": {
+    "id": "civic.source:1513",
+    "label": "Han et al., 2012, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Han et al., 2012, J. Clin. Oncol.",
+    "pmid": 22370314
+  },
+  "civic.source:1955": {
+    "id": "civic.source:1955",
+    "label": "Rutkowski et al., 2015, Contemp Oncol (Pozn)",
+    "type": "Document",
+    "title": "PubMed: Rutkowski et al., 2015, Contemp Oncol (Pozn)",
+    "pmid": 26557775
+  },
+  "civic.source:1957": {
+    "id": "civic.source:1957",
+    "label": "Ugurel et al., 2015, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Ugurel et al., 2015, Ann. Oncol.",
+    "pmid": 25524477
+  },
+  "civic.source:1040": {
+    "id": "civic.source:1040",
+    "label": "Hyman et al., 2015, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Hyman et al., 2015, N. Engl. J. Med.",
+    "pmid": 26287849
+  },
+  "civic.source:540": {
+    "id": "civic.source:540",
+    "label": "Osumi et al., 2015, Mol Clin Oncol",
+    "type": "Document",
+    "title": "PubMed: Osumi et al., 2015, Mol Clin Oncol",
+    "pmid": 26623049
+  },
+  "civic.source:688": {
+    "id": "civic.source:688",
+    "label": "Zimmer et al., 2014, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Zimmer et al., 2014, Clin. Cancer Res.",
+    "pmid": 24947927
+  },
+  "civic.source:1043": {
+    "id": "civic.source:1043",
+    "label": "Tiacci et al., 2015, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Tiacci et al., 2015, N. Engl. J. Med.",
+    "pmid": 26352686
+  },
+  "civic.source:1416": {
+    "id": "civic.source:1416",
+    "label": "Endoh et al., 2006, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Endoh et al., 2006, J Thorac Oncol",
+    "pmid": 17409929
+  },
+  "civic.source:1417": {
+    "id": "civic.source:1417",
+    "label": "Greco et al., 2009, J. Exp. Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Greco et al., 2009, J. Exp. Clin. Cancer Res.",
+    "pmid": 19284554
+  },
+  "civic.source:1425": {
+    "id": "civic.source:1425",
+    "label": "Houillier et al., 2010, Neurology",
+    "type": "Document",
+    "title": "PubMed: Houillier et al., 2010, Neurology",
+    "pmid": 20975057
+  },
+  "civic.source:1434": {
+    "id": "civic.source:1434",
+    "label": "2015, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: 2015, Cancer Discov",
+    "pmid": 25583779
+  },
+  "civic.source:2067": {
+    "id": "civic.source:2067",
+    "label": "De Gr\u00e8ve et al., 2016, PLoS ONE",
+    "type": "Document",
+    "title": "PubMed: De Gr\u00e8ve et al., 2016, PLoS ONE",
+    "pmid": 27032107
+  },
+  "civic.source:2478": {
+    "id": "civic.source:2478",
+    "label": "Urata et al., 2016, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Urata et al., 2016, J. Clin. Oncol.",
+    "pmid": 27022112
+  },
+  "civic.source:4567": {
+    "id": "civic.source:4567",
+    "label": "Vega-Ruiz et al., 2009, Leuk Res",
+    "type": "Document",
+    "title": "PubMed: Vega-Ruiz et al., 2009, Leuk Res",
+    "pmid": 19193436
+  },
+  "civic.source:1412": {
+    "id": "civic.source:1412",
+    "label": "Amado et al., 2008, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Amado et al., 2008, J. Clin. Oncol.",
+    "pmid": 18316791
+  },
+  "civic.source:1328": {
+    "id": "civic.source:1328",
+    "label": "Swisher et al., 2017, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Swisher et al., 2017, Lancet Oncol.",
+    "pmid": 27908594
+  },
+  "civic.source:1924": {
+    "id": "civic.source:1924",
+    "label": "Su et al., 2012, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Su et al., 2012, N. Engl. J. Med.",
+    "pmid": 22256804
+  },
+  "civic.source:2008": {
+    "id": "civic.source:2008",
+    "label": "Misale et al., 2012, Nature",
+    "type": "Document",
+    "title": "PubMed: Misale et al., 2012, Nature",
+    "pmid": 22722830
+  },
+  "civic.source:2030": {
+    "id": "civic.source:2030",
+    "label": "Fiedler et al., 2005, Blood",
+    "type": "Document",
+    "title": "PubMed: Fiedler et al., 2005, Blood",
+    "pmid": 15459012
+  },
+  "civic.source:2056": {
+    "id": "civic.source:2056",
+    "label": "Kluger et al., 2011, Cancer",
+    "type": "Document",
+    "title": "PubMed: Kluger et al., 2011, Cancer",
+    "pmid": 21523734
+  },
+  "civic.source:2079": {
+    "id": "civic.source:2079",
+    "label": "Lund-Iversen et al., 2012, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Lund-Iversen et al., 2012, J Thorac Oncol",
+    "pmid": 22895145
+  },
+  "civic.source:2116": {
+    "id": "civic.source:2116",
+    "label": "Arcila et al., 2013, Mol. Cancer Ther.",
+    "type": "Document",
+    "title": "PubMed: Arcila et al., 2013, Mol. Cancer Ther.",
+    "pmid": 23371856
+  },
+  "civic.source:2117": {
+    "id": "civic.source:2117",
+    "label": "Khamaysi et al., 2016, Br. J. Dermatol.",
+    "type": "Document",
+    "title": "PubMed: Khamaysi et al., 2016, Br. J. Dermatol.",
+    "pmid": 26822128
+  },
+  "civic.source:2123": {
+    "id": "civic.source:2123",
+    "label": "Rizvi et al., 2015, Science",
+    "type": "Document",
+    "title": "PubMed: Rizvi et al., 2015, Science",
+    "pmid": 25765070
+  },
+  "civic.source:296": {
+    "id": "civic.source:296",
+    "label": "Str\u00f6bel et al., 2004, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Str\u00f6bel et al., 2004, N. Engl. J. Med.",
+    "pmid": 15201427
+  },
+  "civic.source:372": {
+    "id": "civic.source:372",
+    "label": "Wagle et al., 2014, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Wagle et al., 2014, N. Engl. J. Med.",
+    "pmid": 25295501
+  },
+  "civic.source:472": {
+    "id": "civic.source:472",
+    "label": "Montagut et al., 2012, Nat. Med.",
+    "type": "Document",
+    "title": "PubMed: Montagut et al., 2012, Nat. Med.",
+    "pmid": 22270724
+  },
+  "civic.source:477": {
+    "id": "civic.source:477",
+    "label": "Bahadoran et al., 2013, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Bahadoran et al., 2013, J. Clin. Oncol.",
+    "pmid": 23715574
+  },
+  "civic.source:525": {
+    "id": "civic.source:525",
+    "label": "Van Allen et al., 2015, JAMA Oncol",
+    "type": "Document",
+    "title": "PubMed: Van Allen et al., 2015, JAMA Oncol",
+    "pmid": 26181029
+  },
+  "civic.source:958": {
+    "id": "civic.source:958",
+    "label": "Ali et al., 2014, Case Rep Oncol",
+    "type": "Document",
+    "title": "PubMed: Ali et al., 2014, Case Rep Oncol",
+    "pmid": 24987354
+  },
+  "civic.source:1036": {
+    "id": "civic.source:1036",
+    "label": "Zaretsky et al., 2016, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Zaretsky et al., 2016, N. Engl. J. Med.",
+    "pmid": 27433843
+  },
+  "civic.source:1062": {
+    "id": "civic.source:1062",
+    "label": "Wagle et al., 2011, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Wagle et al., 2011, J. Clin. Oncol.",
+    "pmid": 21383288
+  },
+  "civic.source:1065": {
+    "id": "civic.source:1065",
+    "label": "Zhou et al., 2016, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Zhou et al., 2016, N. Engl. J. Med.",
+    "pmid": 27518686
+  },
+  "civic.source:1124": {
+    "id": "civic.source:1124",
+    "label": "Grisham et al., 2015, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Grisham et al., 2015, J. Clin. Oncol.",
+    "pmid": 26324360
+  },
+  "civic.source:1283": {
+    "id": "civic.source:1283",
+    "label": "Bahcall et al., 2016, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Bahcall et al., 2016, Cancer Discov",
+    "pmid": 27694386
+  },
+  "civic.source:1395": {
+    "id": "civic.source:1395",
+    "label": "Sharma et al., 2016, Oncotarget",
+    "type": "Document",
+    "title": "PubMed: Sharma et al., 2016, Oncotarget",
+    "pmid": 27626698
+  },
+  "civic.source:1509": {
+    "id": "civic.source:1509",
+    "label": "Pao et al., 2004, Proc. Natl. Acad. Sci. U.S.A.",
+    "type": "Document",
+    "title": "PubMed: Pao et al., 2004, Proc. Natl. Acad. Sci. U.S.A.",
+    "pmid": 15329413
+  },
+  "civic.source:1230": {
+    "id": "civic.source:1230",
+    "label": "Yasuda et al., 2013, Sci Transl Med",
+    "type": "Document",
+    "title": "PubMed: Yasuda et al., 2013, Sci Transl Med",
+    "pmid": 24353160
+  },
+  "civic.source:1941": {
+    "id": "civic.source:1941",
+    "label": "Shi et al., 2014, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Shi et al., 2014, Cancer Discov",
+    "pmid": 24265155
+  },
+  "civic.source:2522": {
+    "id": "civic.source:2522",
+    "label": "Dao et al., 2014, Leuk Res Rep",
+    "type": "Document",
+    "title": "PubMed: Dao et al., 2014, Leuk Res Rep",
+    "pmid": 25180155
+  },
+  "civic.source:2196": {
+    "id": "civic.source:2196",
+    "label": "Xu et al., 2017, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Xu et al., 2017, Clin. Cancer Res.",
+    "pmid": 28424201
+  },
+  "civic.source:4032": {
+    "id": "civic.source:4032",
+    "label": "Guan et al., 2018, Cold Spring Harb Mol Case Stud",
+    "type": "Document",
+    "title": "PubMed: Guan et al., 2018, Cold Spring Harb Mol Case Stud",
+    "pmid": 29907598
+  },
+  "civic.source:409": {
+    "id": "civic.source:409",
+    "label": "Mateo et al., 2015, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Mateo et al., 2015, N. Engl. J. Med.",
+    "pmid": 26510020
+  },
+  "civic.source:457": {
+    "id": "civic.source:457",
+    "label": "Boidot et al., 2016, Int J Colorectal Dis",
+    "type": "Document",
+    "title": "PubMed: Boidot et al., 2016, Int J Colorectal Dis",
+    "pmid": 26561417
+  },
+  "civic.source:466": {
+    "id": "civic.source:466",
+    "label": "Davies et al., 2015, Mol. Cancer Ther.",
+    "type": "Document",
+    "title": "PubMed: Davies et al., 2015, Mol. Cancer Ther.",
+    "pmid": 26351323
+  },
+  "civic.source:487": {
+    "id": "civic.source:487",
+    "label": "Shiver et al., 2015, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Shiver et al., 2015, N. Engl. J. Med.",
+    "pmid": 26466009
+  },
+  "civic.source:492": {
+    "id": "civic.source:492",
+    "label": "Yauch et al., 2009, Science",
+    "type": "Document",
+    "title": "PubMed: Yauch et al., 2009, Science",
+    "pmid": 19726788
+  },
+  "civic.source:729": {
+    "id": "civic.source:729",
+    "label": "Kris et al., 2015, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Kris et al., 2015, Ann. Oncol.",
+    "pmid": 25899785
+  },
+  "civic.source:859": {
+    "id": "civic.source:859",
+    "label": "Moss\u00e9 et al., 2013, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Moss\u00e9 et al., 2013, Lancet Oncol.",
+    "pmid": 23598171
+  },
+  "civic.source:944": {
+    "id": "civic.source:944",
+    "label": "Hellmann et al., 2014, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Hellmann et al., 2014, J Thorac Oncol",
+    "pmid": 25521405
+  },
+  "civic.source:948": {
+    "id": "civic.source:948",
+    "label": "Sahadudheen et al., 2016, Case Rep Oncol Med",
+    "type": "Document",
+    "title": "PubMed: Sahadudheen et al., 2016, Case Rep Oncol Med",
+    "pmid": 26989536
+  },
+  "civic.source:338": {
+    "id": "civic.source:338",
+    "label": "Dahlman et al., 2012, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Dahlman et al., 2012, Cancer Discov",
+    "pmid": 22798288
+  },
+  "civic.source:850": {
+    "id": "civic.source:850",
+    "label": "Falchook et al., 2012, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Falchook et al., 2012, Lancet Oncol.",
+    "pmid": 22805292
+  },
+  "civic.source:1028": {
+    "id": "civic.source:1028",
+    "label": "Baker et al., 2013, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Baker et al., 2013, Clin. Cancer Res.",
+    "pmid": 23969938
+  },
+  "civic.source:1147": {
+    "id": "civic.source:1147",
+    "label": "Sharman et al., 2014, Clin Lymphoma Myeloma Leuk",
+    "type": "Document",
+    "title": "PubMed: Sharman et al., 2014, Clin Lymphoma Myeloma Leuk",
+    "pmid": 24997557
+  },
+  "civic.source:1244": {
+    "id": "civic.source:1244",
+    "label": "Klughammer et al., 2016, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Klughammer et al., 2016, J Thorac Oncol",
+    "pmid": 26773740
+  },
+  "civic.source:661": {
+    "id": "civic.source:661",
+    "label": "De Gr\u00e8ve et al., 2012, Lung Cancer",
+    "type": "Document",
+    "title": "PubMed: De Gr\u00e8ve et al., 2012, Lung Cancer",
+    "pmid": 22325357
+  },
+  "civic.source:1330": {
+    "id": "civic.source:1330",
+    "label": "Tran et al., 2016, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Tran et al., 2016, N. Engl. J. Med.",
+    "pmid": 27959684
+  },
+  "civic.source:1593": {
+    "id": "civic.source:1593",
+    "label": "Carvajal et al., 2011, JAMA",
+    "type": "Document",
+    "title": "PubMed: Carvajal et al., 2011, JAMA",
+    "pmid": 21642685
+  },
+  "civic.source:1689": {
+    "id": "civic.source:1689",
+    "label": "Drilon et al., 2017, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Drilon et al., 2017, Cancer Discov",
+    "pmid": 28183697
+  },
+  "civic.source:1734": {
+    "id": "civic.source:1734",
+    "label": "Cameron et al., 2011, Case Rep Oncol",
+    "type": "Document",
+    "title": "PubMed: Cameron et al., 2011, Case Rep Oncol",
+    "pmid": 22114577
+  },
+  "civic.source:1974": {
+    "id": "civic.source:1974",
+    "label": "del Bufalo et al., 2014, J Transl Med",
+    "type": "Document",
+    "title": "PubMed: del Bufalo et al., 2014, J Transl Med",
+    "pmid": 25524464
+  },
+  "civic.source:1984": {
+    "id": "civic.source:1984",
+    "label": "Combe et al., 2015, Invest New Drugs",
+    "type": "Document",
+    "title": "PubMed: Combe et al., 2015, Invest New Drugs",
+    "pmid": 26490654
+  },
+  "civic.source:1503": {
+    "id": "civic.source:1503",
+    "label": "Wu et al., 2011, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Wu et al., 2011, Clin. Cancer Res.",
+    "pmid": 21531810
+  },
+  "civic.source:965": {
+    "id": "civic.source:965",
+    "label": "Heinrich et al., 2008, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Heinrich et al., 2008, J. Clin. Oncol.",
+    "pmid": 18955458
+  },
+  "civic.source:507": {
+    "id": "civic.source:507",
+    "label": "Doebele et al., 2012, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Doebele et al., 2012, Clin. Cancer Res.",
+    "pmid": 22235099
+  },
+  "civic.source:2178": {
+    "id": "civic.source:2178",
+    "label": "Bowyer et al., 2014, Melanoma Res.",
+    "type": "Document",
+    "title": "PubMed: Bowyer et al., 2014, Melanoma Res.",
+    "pmid": 24933606
+  },
+  "civic.source:2359": {
+    "id": "civic.source:2359",
+    "label": "Cecchini et al., 2017, J Natl Compr Canc Netw",
+    "type": "Document",
+    "title": "PubMed: Cecchini et al., 2017, J Natl Compr Canc Netw",
+    "pmid": 28874593
+  },
+  "civic.source:2745": {
+    "id": "civic.source:2745",
+    "label": "Alexander E. Drilon, 2018, ASCO Annual Meeting, Abstract 102",
+    "type": "Document",
+    "title": "ASCO: Alexander E. Drilon, 2018, ASCO Annual Meeting, Abstract 102"
+  },
+  "civic.source:2054": {
+    "id": "civic.source:2054",
+    "label": "Vita et al., 2014, JAMA Dermatol",
+    "type": "Document",
+    "title": "PubMed: Vita et al., 2014, JAMA Dermatol",
+    "pmid": 25317746
+  },
+  "civic.source:2980": {
+    "id": "civic.source:2980",
+    "label": "Chu et al., 2019, Oncologist",
+    "type": "Document",
+    "title": "PubMed: Chu et al., 2019, Oncologist",
+    "pmid": 31391294
+  },
+  "civic.source:3083": {
+    "id": "civic.source:3083",
+    "label": "Aguirre et al., 2018, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Aguirre et al., 2018, Cancer Discov",
+    "pmid": 29903880
+  },
+  "civic.source:3136": {
+    "id": "civic.source:3136",
+    "label": "Liao et al., 2013, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Liao et al., 2013, Cancer Res.",
+    "pmid": 23786770
+  },
+  "civic.source:3023": {
+    "id": "civic.source:3023",
+    "label": "Fang et al., 2019, BMC Cancer",
+    "type": "Document",
+    "title": "PubMed: Fang et al., 2019, BMC Cancer",
+    "pmid": 31208370
+  },
+  "civic.source:4291": {
+    "id": "civic.source:4291",
+    "label": "Capone et al., 2022, JCO Precis Oncol",
+    "type": "Document",
+    "title": "PubMed: Capone et al., 2022, JCO Precis Oncol",
+    "pmid": 35507888
+  },
+  "civic.source:6": {
+    "id": "civic.source:6",
+    "label": "Imielinski et al., 2014, J. Clin. Invest.",
+    "type": "Document",
+    "title": "PubMed: Imielinski et al., 2014, J. Clin. Invest.",
+    "pmid": 24569458
+  },
+  "civic.source:66": {
+    "id": "civic.source:66",
+    "label": "Banerji et al., 2008, Mol. Cancer Ther.",
+    "type": "Document",
+    "title": "PubMed: Banerji et al., 2008, Mol. Cancer Ther.",
+    "pmid": 18375819
+  },
+  "civic.source:67": {
+    "id": "civic.source:67",
+    "label": "Soon et al., 2011, Arch Dermatol",
+    "type": "Document",
+    "title": "PubMed: Soon et al., 2011, Arch Dermatol",
+    "pmid": 21576590
+  },
+  "civic.source:101": {
+    "id": "civic.source:101",
+    "label": "Rudin et al., 2013, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Rudin et al., 2013, J Thorac Oncol",
+    "pmid": 23524406
+  },
+  "civic.source:500": {
+    "id": "civic.source:500",
+    "label": "Sarker et al., 2015, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Sarker et al., 2015, Clin. Cancer Res.",
+    "pmid": 25370471
+  },
+  "civic.source:528": {
+    "id": "civic.source:528",
+    "label": "Van Allen et al., 2014, Nat. Med.",
+    "type": "Document",
+    "title": "PubMed: Van Allen et al., 2014, Nat. Med.",
+    "pmid": 24836576
+  },
+  "civic.source:641": {
+    "id": "civic.source:641",
+    "label": "Yap et al., 2011, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Yap et al., 2011, J. Clin. Oncol.",
+    "pmid": 22025163
+  },
+  "civic.source:782": {
+    "id": "civic.source:782",
+    "label": "Palmirotta et al., 2009, Anticancer Res.",
+    "type": "Document",
+    "title": "PubMed: Palmirotta et al., 2009, Anticancer Res.",
+    "pmid": 19661358
+  },
+  "civic.source:945": {
+    "id": "civic.source:945",
+    "label": "Masago et al., 2010, Jpn. J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Masago et al., 2010, Jpn. J. Clin. Oncol.",
+    "pmid": 20522446
+  },
+  "civic.source:964": {
+    "id": "civic.source:964",
+    "label": "Iurlo et al., 2014, Oncotarget",
+    "type": "Document",
+    "title": "PubMed: Iurlo et al., 2014, Oncotarget",
+    "pmid": 25015329
+  },
+  "civic.source:1021": {
+    "id": "civic.source:1021",
+    "label": "Turajlic et al., 2014, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Turajlic et al., 2014, Ann. Oncol.",
+    "pmid": 24504448
+  },
+  "civic.source:1026": {
+    "id": "civic.source:1026",
+    "label": "Dolly et al., 2016, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Dolly et al., 2016, Clin. Cancer Res.",
+    "pmid": 26787751
+  },
+  "civic.source:1063": {
+    "id": "civic.source:1063",
+    "label": "Palma et al., 2015, Eur. Urol.",
+    "type": "Document",
+    "title": "PubMed: Palma et al., 2015, Eur. Urol.",
+    "pmid": 25766722
+  },
+  "civic.source:1069": {
+    "id": "civic.source:1069",
+    "label": "Kl\u00fcmpen et al., 2011, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Kl\u00fcmpen et al., 2011, J. Clin. Oncol.",
+    "pmid": 21189378
+  },
+  "civic.source:1116": {
+    "id": "civic.source:1116",
+    "label": "Heist et al., 2016, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Heist et al., 2016, J Thorac Oncol",
+    "pmid": 27343442
+  },
+  "civic.source:1158": {
+    "id": "civic.source:1158",
+    "label": "Palma et al., 2014, Case Rep Oncol",
+    "type": "Document",
+    "title": "PubMed: Palma et al., 2014, Case Rep Oncol",
+    "pmid": 25232318
+  },
+  "civic.source:186": {
+    "id": "civic.source:186",
+    "label": "Borad et al., 2014, PLoS Genet.",
+    "type": "Document",
+    "title": "PubMed: Borad et al., 2014, PLoS Genet.",
+    "pmid": 24550739
+  },
+  "civic.source:1516": {
+    "id": "civic.source:1516",
+    "label": "Planchard et al., 2015, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Planchard et al., 2015, Ann. Oncol.",
+    "pmid": 26269204
+  },
+  "civic.source:1586": {
+    "id": "civic.source:1586",
+    "label": "Heinrich et al., 2008, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Heinrich et al., 2008, J. Clin. Oncol.",
+    "pmid": 18955451
+  },
+  "civic.source:412": {
+    "id": "civic.source:412",
+    "label": "Heinrich et al., 2003, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Heinrich et al., 2003, J. Clin. Oncol.",
+    "pmid": 14645423
+  },
+  "civic.source:1649": {
+    "id": "civic.source:1649",
+    "label": "Lutzky et al., 2008, Pigment Cell Melanoma Res",
+    "type": "Document",
+    "title": "PubMed: Lutzky et al., 2008, Pigment Cell Melanoma Res",
+    "pmid": 18510589
+  },
+  "civic.source:1669": {
+    "id": "civic.source:1669",
+    "label": "Leventakos et al., 2016, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Leventakos et al., 2016, J Thorac Oncol",
+    "pmid": 27211795
+  },
+  "civic.source:2045": {
+    "id": "civic.source:2045",
+    "label": "George et al., 2012, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: George et al., 2012, J. Clin. Oncol.",
+    "pmid": 22614970
+  },
+  "civic.source:1360": {
+    "id": "civic.source:1360",
+    "label": "Brody et al., 2016, Cancer Biol. Ther.",
+    "type": "Document",
+    "title": "PubMed: Brody et al., 2016, Cancer Biol. Ther.",
+    "pmid": 27466707
+  },
+  "civic.source:2444": {
+    "id": "civic.source:2444",
+    "label": "Hamada et al., 2014, PLoS ONE",
+    "type": "Document",
+    "title": "PubMed: Hamada et al., 2014, PLoS ONE",
+    "pmid": 24788118
+  },
+  "civic.source:2719": {
+    "id": "civic.source:2719",
+    "label": "Mayfield et al., 2017, Pediatr Blood Cancer",
+    "type": "Document",
+    "title": "PubMed: Mayfield et al., 2017, Pediatr Blood Cancer",
+    "pmid": 27860260
+  },
+  "civic.source:3376": {
+    "id": "civic.source:3376",
+    "label": "Lucas et al., 2020, Blood",
+    "type": "Document",
+    "title": "PubMed: Lucas et al., 2020, Blood",
+    "pmid": 32232486
+  },
+  "civic.source:3502": {
+    "id": "civic.source:3502",
+    "label": "Blombery et al., 2019, Br. J. Haematol.",
+    "type": "Document",
+    "title": "PubMed: Blombery et al., 2019, Br. J. Haematol.",
+    "pmid": 31234236
+  },
+  "civic.source:3765": {
+    "id": "civic.source:3765",
+    "label": "Champer et al., 2019, Gynecol Oncol Rep",
+    "type": "Document",
+    "title": "PubMed: Champer et al., 2019, Gynecol Oncol Rep",
+    "pmid": 30809568
+  },
+  "civic.source:2517": {
+    "id": "civic.source:2517",
+    "label": "Italiano et al., 2018, Lancet Oncol.",
+    "type": "Document",
+    "title": "PubMed: Italiano et al., 2018, Lancet Oncol.",
+    "pmid": 29650362
+  },
+  "civic.source:2978": {
+    "id": "civic.source:2978",
+    "label": "Hong et al., 2019, Ann. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Hong et al., 2019, Ann. Oncol.",
+    "pmid": 30624546
+  },
+  "civic.source:822": {
+    "id": "civic.source:822",
+    "label": "Loaiza-Bonilla et al., 2016, Cureus",
+    "type": "Document",
+    "title": "PubMed: Loaiza-Bonilla et al., 2016, Cureus",
+    "pmid": 27004155
+  },
+  "civic.source:946": {
+    "id": "civic.source:946",
+    "label": "Yu et al., 2015, JAMA Oncol",
+    "type": "Document",
+    "title": "PubMed: Yu et al., 2015, JAMA Oncol",
+    "pmid": 26181354
+  },
+  "civic.source:381": {
+    "id": "civic.source:381",
+    "label": "Awad et al., 2013, N. Engl. J. Med.",
+    "type": "Document",
+    "title": "PubMed: Awad et al., 2013, N. Engl. J. Med.",
+    "pmid": 23724914
+  },
+  "civic.source:1996": {
+    "id": "civic.source:1996",
+    "label": "Cortes et al., 2011, Blood",
+    "type": "Document",
+    "title": "PubMed: Cortes et al., 2011, Blood",
+    "pmid": 21865346
+  },
+  "civic.source:1997": {
+    "id": "civic.source:1997",
+    "label": "Khoury et al., 2012, Blood",
+    "type": "Document",
+    "title": "PubMed: Khoury et al., 2012, Blood",
+    "pmid": 22371878
+  },
+  "civic.source:1421": {
+    "id": "civic.source:1421",
+    "label": "Rowley et al., 2002, Oncogene",
+    "type": "Document",
+    "title": "PubMed: Rowley et al., 2002, Oncogene",
+    "pmid": 12483530
+  },
+  "civic.source:1528": {
+    "id": "civic.source:1528",
+    "label": "Kancha et al., 2009, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Kancha et al., 2009, Clin. Cancer Res.",
+    "pmid": 19147750
+  },
+  "civic.source:1706": {
+    "id": "civic.source:1706",
+    "label": "Miller et al., 2016, Mol. Cancer Ther.",
+    "type": "Document",
+    "title": "PubMed: Miller et al., 2016, Mol. Cancer Ther.",
+    "pmid": 27364904
+  },
+  "civic.source:493": {
+    "id": "civic.source:493",
+    "label": "Atwood et al., 2015, Cancer Cell",
+    "type": "Document",
+    "title": "PubMed: Atwood et al., 2015, Cancer Cell",
+    "pmid": 25759020
+  },
+  "civic.source:170": {
+    "id": "civic.source:170",
+    "label": "Bose et al., 2013, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Bose et al., 2013, Cancer Discov",
+    "pmid": 23220880
+  },
+  "civic.source:2128": {
+    "id": "civic.source:2128",
+    "label": "Testoni et al., 2016, EMBO Mol Med",
+    "type": "Document",
+    "title": "PubMed: Testoni et al., 2016, EMBO Mol Med",
+    "pmid": 26758680
+  },
+  "civic.source:2042": {
+    "id": "civic.source:2042",
+    "label": "Garner et al., 2014, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Garner et al., 2014, Clin. Cancer Res.",
+    "pmid": 25239608
+  },
+  "civic.source:80": {
+    "id": "civic.source:80",
+    "label": "Heinrich et al., 2012, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Heinrich et al., 2012, Clin. Cancer Res.",
+    "pmid": 22745105
+  },
+  "civic.source:79": {
+    "id": "civic.source:79",
+    "label": "George et al., 2008, Nature",
+    "type": "Document",
+    "title": "PubMed: George et al., 2008, Nature",
+    "pmid": 18923525
+  },
+  "civic.source:179": {
+    "id": "civic.source:179",
+    "label": "Hammerman et al., 2011, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Hammerman et al., 2011, Cancer Discov",
+    "pmid": 22328973
+  },
+  "civic.source:181": {
+    "id": "civic.source:181",
+    "label": "Paez et al., 2004, Science",
+    "type": "Document",
+    "title": "PubMed: Paez et al., 2004, Science",
+    "pmid": 15118125
+  },
+  "civic.source:195": {
+    "id": "civic.source:195",
+    "label": "Tanaka et al., 2011, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Tanaka et al., 2011, Clin. Cancer Res.",
+    "pmid": 21558396
+  },
+  "civic.source:198": {
+    "id": "civic.source:198",
+    "label": "Courtney et al., 2010, J. Clin. Oncol.",
+    "type": "Document",
+    "title": "PubMed: Courtney et al., 2010, J. Clin. Oncol.",
+    "pmid": 20085938
+  },
+  "civic.source:261": {
+    "id": "civic.source:261",
+    "label": "Shi et al., 2014, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Shi et al., 2014, Cancer Discov",
+    "pmid": 24265152
+  },
+  "civic.source:523": {
+    "id": "civic.source:523",
+    "label": "Cho et al., 2014, Mol. Cancer",
+    "type": "Document",
+    "title": "PubMed: Cho et al., 2014, Mol. Cancer",
+    "pmid": 24894453
+  },
+  "civic.source:678": {
+    "id": "civic.source:678",
+    "label": "Rohle et al., 2013, Science",
+    "type": "Document",
+    "title": "PubMed: Rohle et al., 2013, Science",
+    "pmid": 23558169
+  },
+  "civic.source:746": {
+    "id": "civic.source:746",
+    "label": "S\u00e1nchez-Mart\u00edn et al., 2016, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: S\u00e1nchez-Mart\u00edn et al., 2016, Clin. Cancer Res.",
+    "pmid": 26888827
+  },
+  "civic.source:919": {
+    "id": "civic.source:919",
+    "label": "Infarinato et al., 2016, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Infarinato et al., 2016, Cancer Discov",
+    "pmid": 26554404
+  },
+  "civic.source:1025": {
+    "id": "civic.source:1025",
+    "label": "Rodrik-Outmezguine et al., 2016, Nature",
+    "type": "Document",
+    "title": "PubMed: Rodrik-Outmezguine et al., 2016, Nature",
+    "pmid": 27279227
+  },
+  "civic.source:1129": {
+    "id": "civic.source:1129",
+    "label": "Wagenaar et al., 2014, Pigment Cell Melanoma Res",
+    "type": "Document",
+    "title": "PubMed: Wagenaar et al., 2014, Pigment Cell Melanoma Res",
+    "pmid": 24112705
+  },
+  "civic.source:1332": {
+    "id": "civic.source:1332",
+    "label": "Yang et al., 2016, Oncotarget",
+    "type": "Document",
+    "title": "PubMed: Yang et al., 2016, Oncotarget",
+    "pmid": 26701727
+  },
+  "civic.source:1435": {
+    "id": "civic.source:1435",
+    "label": "O'Brien et al., 2010, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: O'Brien et al., 2010, Clin. Cancer Res.",
+    "pmid": 20453058
+  },
+  "civic.source:1525": {
+    "id": "civic.source:1525",
+    "label": "Li et al., 2008, Oncogene",
+    "type": "Document",
+    "title": "PubMed: Li et al., 2008, Oncogene",
+    "pmid": 18408761
+  },
+  "civic.source:1732": {
+    "id": "civic.source:1732",
+    "label": "Kampa-Schittenhelm et al., 2013, Mol. Cancer",
+    "type": "Document",
+    "title": "PubMed: Kampa-Schittenhelm et al., 2013, Mol. Cancer",
+    "pmid": 23497317
+  },
+  "civic.source:351": {
+    "id": "civic.source:351",
+    "label": "Yang et al., 2010, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Yang et al., 2010, Cancer Res.",
+    "pmid": 20551065
+  },
+  "civic.source:2486": {
+    "id": "civic.source:2486",
+    "label": "Eichhorn et al., 2008, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Eichhorn et al., 2008, Cancer Res.",
+    "pmid": 19010894
+  },
+  "civic.source:2521": {
+    "id": "civic.source:2521",
+    "label": "Fleischman et al., 2013, Blood",
+    "type": "Document",
+    "title": "PubMed: Fleischman et al., 2013, Blood",
+    "pmid": 24081659
+  },
+  "civic.source:2307": {
+    "id": "civic.source:2307",
+    "label": "Souroullas et al., 2016, Nat. Med.",
+    "type": "Document",
+    "title": "PubMed: Souroullas et al., 2016, Nat. Med.",
+    "pmid": 27135738
+  },
+  "civic.source:3332": {
+    "id": "civic.source:3332",
+    "label": "Mori et al., 2017, Invest New Drugs",
+    "type": "Document",
+    "title": "PubMed: Mori et al., 2017, Invest New Drugs",
+    "pmid": 28516360
+  },
+  "civic.source:3472": {
+    "id": "civic.source:3472",
+    "label": "Williams et al., 2013, Leukemia",
+    "type": "Document",
+    "title": "PubMed: Williams et al., 2013, Leukemia",
+    "pmid": 22858906
+  },
+  "civic.source:58": {
+    "id": "civic.source:58",
+    "label": "Emery et al., 2009, Proc. Natl. Acad. Sci. U.S.A.",
+    "type": "Document",
+    "title": "PubMed: Emery et al., 2009, Proc. Natl. Acad. Sci. U.S.A.",
+    "pmid": 19915144
+  },
+  "civic.source:65": {
+    "id": "civic.source:65",
+    "label": "Wernig et al., 2008, Cancer Cell",
+    "type": "Document",
+    "title": "PubMed: Wernig et al., 2008, Cancer Cell",
+    "pmid": 18394554
+  },
+  "civic.source:73": {
+    "id": "civic.source:73",
+    "label": "Sasaki et al., 2010, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Sasaki et al., 2010, Cancer Res.",
+    "pmid": 21030459
+  },
+  "civic.source:77": {
+    "id": "civic.source:77",
+    "label": "Sakamoto et al., 2011, Cancer Cell",
+    "type": "Document",
+    "title": "PubMed: Sakamoto et al., 2011, Cancer Cell",
+    "pmid": 21575866
+  },
+  "civic.source:78": {
+    "id": "civic.source:78",
+    "label": "Heuckmann et al., 2011, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Heuckmann et al., 2011, Clin. Cancer Res.",
+    "pmid": 21948233
+  },
+  "civic.source:74": {
+    "id": "civic.source:74",
+    "label": "Woodman et al., 2009, Mol. Cancer Ther.",
+    "type": "Document",
+    "title": "PubMed: Woodman et al., 2009, Mol. Cancer Ther.",
+    "pmid": 19671763
+  },
+  "civic.source:90": {
+    "id": "civic.source:90",
+    "label": "Coxon et al., 2012, J. Endocrinol. Invest.",
+    "type": "Document",
+    "title": "PubMed: Coxon et al., 2012, J. Endocrinol. Invest.",
+    "pmid": 21422803
+  },
+  "civic.source:91": {
+    "id": "civic.source:91",
+    "label": "Couto et al., 2012, PLoS ONE",
+    "type": "Document",
+    "title": "PubMed: Couto et al., 2012, PLoS ONE",
+    "pmid": 23056499
+  },
+  "civic.source:98": {
+    "id": "civic.source:98",
+    "label": "Nissan et al., 2014, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Nissan et al., 2014, Cancer Res.",
+    "pmid": 24576830
+  },
+  "civic.source:119": {
+    "id": "civic.source:119",
+    "label": "Bresler et al., 2011, Sci Transl Med",
+    "type": "Document",
+    "title": "PubMed: Bresler et al., 2011, Sci Transl Med",
+    "pmid": 22072639
+  },
+  "civic.source:163": {
+    "id": "civic.source:163",
+    "label": "Beaver et al., 2013, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Beaver et al., 2013, Clin. Cancer Res.",
+    "pmid": 23888070
+  },
+  "civic.source:196": {
+    "id": "civic.source:196",
+    "label": "Kang et al., 2005, Proc. Natl. Acad. Sci. U.S.A.",
+    "type": "Document",
+    "title": "PubMed: Kang et al., 2005, Proc. Natl. Acad. Sci. U.S.A.",
+    "pmid": 15647370
+  },
+  "civic.source:199": {
+    "id": "civic.source:199",
+    "label": "Jackson et al., 2012, Cancer Cell",
+    "type": "Document",
+    "title": "PubMed: Jackson et al., 2012, Cancer Cell",
+    "pmid": 22698404
+  },
+  "civic.source:411": {
+    "id": "civic.source:411",
+    "label": "Hirota et al., 2003, Gastroenterology",
+    "type": "Document",
+    "title": "PubMed: Hirota et al., 2003, Gastroenterology",
+    "pmid": 12949711
+  },
+  "civic.source:505": {
+    "id": "civic.source:505",
+    "label": "Walter et al., 2013, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Walter et al., 2013, Cancer Discov",
+    "pmid": 24065731
+  },
+  "civic.source:665": {
+    "id": "civic.source:665",
+    "label": "Cross et al., 2014, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Cross et al., 2014, Cancer Discov",
+    "pmid": 24893891
+  },
+  "civic.source:758": {
+    "id": "civic.source:758",
+    "label": "Lee et al., 2012, Proc. Natl. Acad. Sci. U.S.A.",
+    "type": "Document",
+    "title": "PubMed: Lee et al., 2012, Proc. Natl. Acad. Sci. U.S.A.",
+    "pmid": 22550175
+  },
+  "civic.source:790": {
+    "id": "civic.source:790",
+    "label": "Hatzivassiliou et al., 2013, Nature",
+    "type": "Document",
+    "title": "PubMed: Hatzivassiliou et al., 2013, Nature",
+    "pmid": 23934108
+  },
+  "civic.source:952": {
+    "id": "civic.source:952",
+    "label": "Byron et al., 2008, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Byron et al., 2008, Cancer Res.",
+    "pmid": 18757403
+  },
+  "civic.source:917": {
+    "id": "civic.source:917",
+    "label": "Wang et al., 2016, Sci Rep",
+    "type": "Document",
+    "title": "PubMed: Wang et al., 2016, Sci Rep",
+    "pmid": 26786851
+  },
+  "civic.source:193": {
+    "id": "civic.source:193",
+    "label": "Engelman et al., 2008, Nat. Med.",
+    "type": "Document",
+    "title": "PubMed: Engelman et al., 2008, Nat. Med.",
+    "pmid": 19029981
+  },
+  "civic.source:1396": {
+    "id": "civic.source:1396",
+    "label": "Kancha et al., 2011, PLoS ONE",
+    "type": "Document",
+    "title": "PubMed: Kancha et al., 2011, PLoS ONE",
+    "pmid": 22046346
+  },
+  "civic.source:1468": {
+    "id": "civic.source:1468",
+    "label": "Baselga et al., 2016, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Baselga et al., 2016, Clin. Cancer Res.",
+    "pmid": 26920887
+  },
+  "civic.source:1515": {
+    "id": "civic.source:1515",
+    "label": "Engelman et al., 2007, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Engelman et al., 2007, Cancer Res.",
+    "pmid": 18089823
+  },
+  "civic.source:1541": {
+    "id": "civic.source:1541",
+    "label": "Navrkalova et al., 2013, Haematologica",
+    "type": "Document",
+    "title": "PubMed: Navrkalova et al., 2013, Haematologica",
+    "pmid": 23585524
+  },
+  "civic.source:1526": {
+    "id": "civic.source:1526",
+    "label": "Shimamura et al., 2006, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Shimamura et al., 2006, Cancer Res.",
+    "pmid": 16818618
+  },
+  "civic.source:1632": {
+    "id": "civic.source:1632",
+    "label": "Janakiraman et al., 2010, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Janakiraman et al., 2010, Cancer Res.",
+    "pmid": 20570890
+  },
+  "civic.source:1708": {
+    "id": "civic.source:1708",
+    "label": "Arjumand et al., 2016, Oncotarget",
+    "type": "Document",
+    "title": "PubMed: Arjumand et al., 2016, Oncotarget",
+    "pmid": 27489350
+  },
+  "civic.source:367": {
+    "id": "civic.source:367",
+    "label": "Clark et al., 2004, Blood",
+    "type": "Document",
+    "title": "PubMed: Clark et al., 2004, Blood",
+    "pmid": 15256420
+  },
+  "civic.source:1731": {
+    "id": "civic.source:1731",
+    "label": "Yee et al., 2004, Blood",
+    "type": "Document",
+    "title": "PubMed: Yee et al., 2004, Blood",
+    "pmid": 15304385
+  },
+  "civic.source:108": {
+    "id": "civic.source:108",
+    "label": "Yang et al., 2012, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Yang et al., 2012, Cancer Res.",
+    "pmid": 22180495
+  },
+  "civic.source:2024": {
+    "id": "civic.source:2024",
+    "label": "Sato et al., 2012, Oncol. Rep.",
+    "type": "Document",
+    "title": "PubMed: Sato et al., 2012, Oncol. Rep.",
+    "pmid": 22246397
+  },
+  "civic.source:1608": {
+    "id": "civic.source:1608",
+    "label": "Lee et al., 2006, PLoS Med.",
+    "type": "Document",
+    "title": "PubMed: Lee et al., 2006, PLoS Med.",
+    "pmid": 17177598
+  },
+  "civic.source:1991": {
+    "id": "civic.source:1991",
+    "label": "de Gunst et al., 2007, Mol. Cancer",
+    "type": "Document",
+    "title": "PubMed: de Gunst et al., 2007, Mol. Cancer",
+    "pmid": 17877814
+  },
+  "civic.source:2081": {
+    "id": "civic.source:2081",
+    "label": "Foster et al., 2010, World J Surg Oncol",
+    "type": "Document",
+    "title": "PubMed: Foster et al., 2010, World J Surg Oncol",
+    "pmid": 20942962
+  },
+  "civic.source:2086": {
+    "id": "civic.source:2086",
+    "label": "Konduri et al., 2016, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Konduri et al., 2016, Cancer Discov",
+    "pmid": 27102076
+  },
+  "civic.source:1952": {
+    "id": "civic.source:1952",
+    "label": "Tsai et al., 2008, Proc. Natl. Acad. Sci. U.S.A.",
+    "type": "Document",
+    "title": "PubMed: Tsai et al., 2008, Proc. Natl. Acad. Sci. U.S.A.",
+    "pmid": 18287029
+  },
+  "civic.source:337": {
+    "id": "civic.source:337",
+    "label": "Smalley et al., 2009, Oncogene",
+    "type": "Document",
+    "title": "PubMed: Smalley et al., 2009, Oncogene",
+    "pmid": 18794803
+  },
+  "civic.source:2397": {
+    "id": "civic.source:2397",
+    "label": "Hanker et al., 2017, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Hanker et al., 2017, Cancer Discov",
+    "pmid": 28274957
+  },
+  "civic.source:3005": {
+    "id": "civic.source:3005",
+    "label": "Yao et al., 2017, Nature",
+    "type": "Document",
+    "title": "PubMed: Yao et al., 2017, Nature",
+    "pmid": 28783719
+  },
+  "civic.source:3631": {
+    "id": "civic.source:3631",
+    "label": "Xie et al., 2019, Exp Ther Med",
+    "type": "Document",
+    "title": "PubMed: Xie et al., 2019, Exp Ther Med",
+    "pmid": 31316618
+  },
+  "civic.source:3500": {
+    "id": "civic.source:3500",
+    "label": "Birkinshaw et al., 2019, Nat Commun",
+    "type": "Document",
+    "title": "PubMed: Birkinshaw et al., 2019, Nat Commun",
+    "pmid": 31160589
+  },
+  "civic.source:4212": {
+    "id": "civic.source:4212",
+    "label": "Kuo et al., 2016, Am J Cancer Res",
+    "type": "Document",
+    "title": "PubMed: Kuo et al., 2016, Am J Cancer Res",
+    "pmid": 27904766
+  },
+  "civic.source:1683": {
+    "id": "civic.source:1683",
+    "label": "Sulkowski et al., 2017, Sci Transl Med",
+    "type": "Document",
+    "title": "PubMed: Sulkowski et al., 2017, Sci Transl Med",
+    "pmid": 28148839
+  },
+  "civic.source:465": {
+    "id": "civic.source:465",
+    "label": "Lassen et al., 2014, Mol. Cancer",
+    "type": "Document",
+    "title": "PubMed: Lassen et al., 2014, Mol. Cancer",
+    "pmid": 24735930
+  },
+  "civic.source:643": {
+    "id": "civic.source:643",
+    "label": "Takakuwa et al., 2011, J Thorac Oncol",
+    "type": "Document",
+    "title": "PubMed: Takakuwa et al., 2011, J Thorac Oncol",
+    "pmid": 21964527
+  },
+  "civic.source:669": {
+    "id": "civic.source:669",
+    "label": "Hirano et al., 2015, Oncotarget",
+    "type": "Document",
+    "title": "PubMed: Hirano et al., 2015, Oncotarget",
+    "pmid": 26515464
+  },
+  "civic.source:808": {
+    "id": "civic.source:808",
+    "label": "Engelman et al., 2006, J. Clin. Invest.",
+    "type": "Document",
+    "title": "PubMed: Engelman et al., 2006, J. Clin. Invest.",
+    "pmid": 16906227
+  },
+  "civic.source:911": {
+    "id": "civic.source:911",
+    "label": "Grabiner et al., 2014, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Grabiner et al., 2014, Cancer Discov",
+    "pmid": 24631838
+  },
+  "civic.source:927": {
+    "id": "civic.source:927",
+    "label": "Lui et al., 2013, Cancer Discov",
+    "type": "Document",
+    "title": "PubMed: Lui et al., 2013, Cancer Discov",
+    "pmid": 23619167
+  },
+  "civic.source:981": {
+    "id": "civic.source:981",
+    "label": "Serra et al., 2008, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Serra et al., 2008, Cancer Res.",
+    "pmid": 18829560
+  },
+  "civic.source:984": {
+    "id": "civic.source:984",
+    "label": "Zumsteg et al., 2016, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Zumsteg et al., 2016, Clin. Cancer Res.",
+    "pmid": 26589432
+  },
+  "civic.source:988": {
+    "id": "civic.source:988",
+    "label": "Atefi et al., 2011, PLoS ONE",
+    "type": "Document",
+    "title": "PubMed: Atefi et al., 2011, PLoS ONE",
+    "pmid": 22194965
+  },
+  "civic.source:171": {
+    "id": "civic.source:171",
+    "label": "Toy et al., 2013, Nat. Genet.",
+    "type": "Document",
+    "title": "PubMed: Toy et al., 2013, Nat. Genet.",
+    "pmid": 24185512
+  },
+  "civic.source:1420": {
+    "id": "civic.source:1420",
+    "label": "Rowley et al., 2000, Blood",
+    "type": "Document",
+    "title": "PubMed: Rowley et al., 2000, Blood",
+    "pmid": 11050000
+  },
+  "civic.source:1422": {
+    "id": "civic.source:1422",
+    "label": "Hoang et al., 2006, Blood",
+    "type": "Document",
+    "title": "PubMed: Hoang et al., 2006, Blood",
+    "pmid": 16497971
+  },
+  "civic.source:1527": {
+    "id": "civic.source:1527",
+    "label": "Cha et al., 2012, Int. J. Cancer",
+    "type": "Document",
+    "title": "PubMed: Cha et al., 2012, Int. J. Cancer",
+    "pmid": 21732342
+  },
+  "civic.source:1648": {
+    "id": "civic.source:1648",
+    "label": "Ashida et al., 2009, Int. J. Cancer",
+    "type": "Document",
+    "title": "PubMed: Ashida et al., 2009, Int. J. Cancer",
+    "pmid": 19035443
+  },
+  "civic.source:1685": {
+    "id": "civic.source:1685",
+    "label": "Marks et al., 2008, Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Marks et al., 2008, Cancer Res.",
+    "pmid": 18632602
+  },
+  "civic.source:1935": {
+    "id": "civic.source:1935",
+    "label": "Camaj et al., 2015, Future Oncol",
+    "type": "Document",
+    "title": "PubMed: Camaj et al., 2015, Future Oncol",
+    "pmid": 26161928
+  },
+  "civic.source:1993": {
+    "id": "civic.source:1993",
+    "label": "Harada et al., 2011, Oncogene",
+    "type": "Document",
+    "title": "PubMed: Harada et al., 2011, Oncogene",
+    "pmid": 21132006
+  },
+  "civic.source:2114": {
+    "id": "civic.source:2114",
+    "label": "Stordal et al., 2013, Mol Oncol",
+    "type": "Document",
+    "title": "PubMed: Stordal et al., 2013, Mol Oncol",
+    "pmid": 23415752
+  },
+  "civic.source:2913": {
+    "id": "civic.source:2913",
+    "label": "Gozgit et al., 2011, Mol. Cancer Ther.",
+    "type": "Document",
+    "title": "PubMed: Gozgit et al., 2011, Mol. Cancer Ther.",
+    "pmid": 21482694
+  },
+  "civic.source:3161": {
+    "id": "civic.source:3161",
+    "label": "Li et al., 2015, Nat. Med.",
+    "type": "Document",
+    "title": "PubMed: Li et al., 2015, Nat. Med.",
+    "pmid": 25962120
+  },
+  "civic.source:3336": {
+    "id": "civic.source:3336",
+    "label": "Lee et al., 2017, Blood",
+    "type": "Document",
+    "title": "PubMed: Lee et al., 2017, Blood",
+    "pmid": 27908881
+  },
+  "civic.source:529": {
+    "id": "civic.source:529",
+    "label": "Puyol et al., 2010, Cancer Cell",
+    "type": "Document",
+    "title": "PubMed: Puyol et al., 2010, Cancer Cell",
+    "pmid": 20609353
+  },
+  "civic.source:926": {
+    "id": "civic.source:926",
+    "label": "Wirtz et al., 2015, JAMA Otolaryngol Head Neck Surg",
+    "type": "Document",
+    "title": "PubMed: Wirtz et al., 2015, JAMA Otolaryngol Head Neck Surg",
+    "pmid": 25855885
+  },
+  "civic.source:932": {
+    "id": "civic.source:932",
+    "label": "Young et al., 2014, Pigment Cell Melanoma Res",
+    "type": "Document",
+    "title": "PubMed: Young et al., 2014, Pigment Cell Melanoma Res",
+    "pmid": 24495407
+  },
+  "civic.source:949": {
+    "id": "civic.source:949",
+    "label": "Keam et al., 2015, Anticancer Res.",
+    "type": "Document",
+    "title": "PubMed: Keam et al., 2015, Anticancer Res.",
+    "pmid": 25550549
+  },
+  "civic.source:2070": {
+    "id": "civic.source:2070",
+    "label": "Ray et al., 2016, Oncotarget",
+    "type": "Document",
+    "title": "PubMed: Ray et al., 2016, Oncotarget",
+    "pmid": 27612423
+  },
+  "civic.source:834": {
+    "id": "civic.source:834",
+    "label": "Jennis et al., 2016, Genes Dev.",
+    "type": "Document",
+    "title": "PubMed: Jennis et al., 2016, Genes Dev.",
+    "pmid": 27034505
+  },
+  "civic.source:446": {
+    "id": "civic.source:446",
+    "label": "Agelopoulos et al., 2015, Clin. Cancer Res.",
+    "type": "Document",
+    "title": "PubMed: Agelopoulos et al., 2015, Clin. Cancer Res.",
+    "pmid": 26179511
+  },
+  "civic.source:184": {
+    "id": "civic.source:184",
+    "label": "Ai et al., 2014, Amino Acids",
+    "type": "Document",
+    "title": "PubMed: Ai et al., 2014, Amino Acids",
+    "pmid": 24658966
+  }
+}

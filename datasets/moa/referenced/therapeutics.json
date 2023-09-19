@@ -1,0 +1,1687 @@
+{
+  "moa.normalize.therapy.rxcui:282388": {
+    "id": "moa.normalize.therapy.rxcui:282388",
+    "label": "Imatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:282388"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:669",
+              "type": "Disease",
+              "label": "Systemic mastocytosis",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9235"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:634",
+              "type": "Disease",
+              "label": "Myelodysplastic syndrome",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3247"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:602",
+              "type": "Disease",
+              "label": "Gastrointestinal stromal tumor",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3868"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:33893",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia pediatric"
+            },
+            {
+              "id": "hemonc:667",
+              "type": "Disease",
+              "label": "Soft tissue sarcoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9306"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:616",
+              "type": "Disease",
+              "label": "Hypereosinophilic syndrome",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C27038"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1546019": {
+    "id": "moa.normalize.therapy.rxcui:1546019",
+    "label": "Dasatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1546019"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:662281": {
+    "id": "moa.normalize.therapy.rxcui:662281",
+    "label": "Nilotinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:662281"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1307619": {
+    "id": "moa.normalize.therapy.rxcui:1307619",
+    "label": "Bosutinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1307619"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "EFO:0000339",
+              "type": "Disease",
+              "label": "chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1364347": {
+    "id": "moa.normalize.therapy.rxcui:1364347",
+    "label": "Ponatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1364347"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1546446": {
+    "id": "moa.normalize.therapy.rxcui:1546446",
+    "label": "Omacetaxine",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1546446"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1535457": {
+    "id": "moa.normalize.therapy.rxcui:1535457",
+    "label": "Ceritinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1535457"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1100071": {
+    "id": "moa.normalize.therapy.rxcui:1100071",
+    "label": "Abiraterone",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1100071"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:658",
+              "type": "Disease",
+              "label": "Prostate cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7378"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:495881": {
+    "id": "moa.normalize.therapy.rxcui:495881",
+    "label": "Sorafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:495881"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:65823",
+              "type": "Disease",
+              "label": "Thyroid cancer differentiated"
+            },
+            {
+              "id": "hemonc:612",
+              "type": "Disease",
+              "label": "Hepatocellular carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3099"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:660",
+              "type": "Disease",
+              "label": "Renal cell carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1597582": {
+    "id": "moa.normalize.therapy.rxcui:1597582",
+    "label": "Olaparib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1597582"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:645",
+              "type": "Disease",
+              "label": "Ovarian cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7431"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:648",
+              "type": "Disease",
+              "label": "Pancreatic cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C43298"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:658",
+              "type": "Disease",
+              "label": "Prostate cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7378"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1424911": {
+    "id": "moa.normalize.therapy.rxcui:1424911",
+    "label": "Dabrafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1424911"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:629",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:675",
+              "type": "Disease",
+              "label": "Thyroid cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7510"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1425098": {
+    "id": "moa.normalize.therapy.rxcui:1425098",
+    "label": "Trametinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1425098"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2049106": {
+    "id": "moa.normalize.therapy.rxcui:2049106",
+    "label": "Encorafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2049106"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D008545",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1147220": {
+    "id": "moa.normalize.therapy.rxcui:1147220",
+    "label": "Vemurafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1147220"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:629",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:594",
+              "type": "Disease",
+              "label": "Erdheim-Chester disease",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C53972"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:263034": {
+    "id": "moa.normalize.therapy.rxcui:263034",
+    "label": "Panitumumab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:263034"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2046138": {
+    "id": "moa.normalize.therapy.rxcui:2046138",
+    "label": "Bevacizumab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2046138"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D002289",
+              "type": "Disease",
+              "label": "Carcinoma, Non-Small-Cell Lung",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D003110",
+              "type": "Disease",
+              "label": "Colonic Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2953"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D002583",
+              "type": "Disease",
+              "label": "Uterine Cervical Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9311"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D002292",
+              "type": "Disease",
+              "label": "Carcinoma, Renal Cell",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D005909",
+              "type": "Disease",
+              "label": "Glioblastoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3058"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C88270": {
+    "id": "moa.normalize.therapy.ncit:C88270",
+    "label": "Omipalisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C88270"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1622": {
+    "id": "moa.normalize.therapy.rxcui:1622",
+    "label": "Bleomycin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1622"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:318341": {
+    "id": "moa.normalize.therapy.rxcui:318341",
+    "label": "Cetuximab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:318341"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D006258",
+              "type": "Disease",
+              "label": "Head and Neck Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4013"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D002294",
+              "type": "Disease",
+              "label": "Carcinoma, Squamous Cell",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2929"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1721560": {
+    "id": "moa.normalize.therapy.rxcui:1721560",
+    "label": "Osimertinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1721560"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:328134": {
+    "id": "moa.normalize.therapy.rxcui:328134",
+    "label": "Gefitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:328134"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C101791": {
+    "id": "moa.normalize.therapy.ncit:C101791",
+    "label": "Olmutinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C101791"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2058848": {
+    "id": "moa.normalize.therapy.rxcui:2058848",
+    "label": "Dacomitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2058848"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C99905": {
+    "id": "moa.normalize.therapy.ncit:C99905",
+    "label": "Rociletinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C99905"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C115109": {
+    "id": "moa.normalize.therapy.ncit:C115109",
+    "label": "EGF816",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C115109"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C120307": {
+    "id": "moa.normalize.therapy.ncit:C120307",
+    "label": "PF-06747775",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C120307"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:337525": {
+    "id": "moa.normalize.therapy.rxcui:337525",
+    "label": "Erlotinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:337525"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:648",
+              "type": "Disease",
+              "label": "Pancreatic cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C43298"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1430438": {
+    "id": "moa.normalize.therapy.rxcui:1430438",
+    "label": "Afatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1430438"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:25316",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer squamous"
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2274378": {
+    "id": "moa.normalize.therapy.rxcui:2274378",
+    "label": "Tazemetostat",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2274378"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": []
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2123125": {
+    "id": "moa.normalize.therapy.rxcui:2123125",
+    "label": "Erdafitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2123125"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:569",
+              "type": "Disease",
+              "label": "Bladder cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9334"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C68936": {
+    "id": "moa.normalize.therapy.ncit:C68936",
+    "label": "Quizartinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C68936"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:357977": {
+    "id": "moa.normalize.therapy.rxcui:357977",
+    "label": "Sunitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:357977"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:647",
+              "type": "Disease",
+              "label": "Pancreatic NET",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C27720"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:602",
+              "type": "Disease",
+              "label": "Gastrointestinal stromal tumor",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3868"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:660",
+              "type": "Disease",
+              "label": "Renal cell carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:72965": {
+    "id": "moa.normalize.therapy.rxcui:72965",
+    "label": "Letrozole",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:72965"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2049873": {
+    "id": "moa.normalize.therapy.rxcui:2049873",
+    "label": "Ivosidenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2049873"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:580",
+              "type": "Disease",
+              "label": "Cholangiocarcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4436"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:552",
+              "type": "Disease",
+              "label": "Acute myeloid leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3171"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1940332": {
+    "id": "moa.normalize.therapy.rxcui:1940332",
+    "label": "Enasidenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1940332"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.drugbank:DB12638": {
+    "id": "moa.normalize.therapy.drugbank:DB12638",
+    "label": "PU-H71",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "drugbank:DB12638"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:1312397": {
+    "id": "moa.normalize.therapy.rxcui:1312397",
+    "label": "Regorafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1312397"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2272107": {
+    "id": "moa.normalize.therapy.rxcui:2272107",
+    "label": "Avapritinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2272107"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": []
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2550714": {
+    "id": "moa.normalize.therapy.rxcui:2550714",
+    "label": "Sotorasib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2550714"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2289380": {
+    "id": "moa.normalize.therapy.rxcui:2289380",
+    "label": "Selumetinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2289380"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": []
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.iuphar.ligand:5057": {
+    "id": "moa.normalize.therapy.iuphar.ligand:5057",
+    "label": "SU11274",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:5057"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C165479": {
+    "id": "moa.normalize.therapy.ncit:C165479",
+    "label": "Pictilisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C165479"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.rxcui:2370147": {
+    "id": "moa.normalize.therapy.rxcui:2370147",
+    "label": "LOXO-292",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2370147"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:675",
+              "type": "Disease",
+              "label": "Thyroid cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7510"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C129687": {
+    "id": "moa.normalize.therapy.ncit:C129687",
+    "label": "Olutasidenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C129687"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "moa.normalize.therapy.ncit:C157493": {
+    "id": "moa.normalize.therapy.ncit:C157493",
+    "label": "Adagrasib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C157493"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  }
+}

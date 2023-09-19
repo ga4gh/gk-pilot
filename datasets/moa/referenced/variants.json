@@ -1,0 +1,5559 @@
+{
+  "moa.variant:71": {
+    "id": "moa.variant:71",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133747580",
+          "end_position": "133747580",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.944C>T",
+          "protein_change": "p.T315I",
+          "exon": "5"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "71"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
+      "digest": "EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.2UGEX11rbVdN0Nbzc5RU0G0A5elENRTH",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 314,
+        "end": 315
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:73": {
+    "id": "moa.variant:73",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133747582",
+          "end_position": "133747582",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.943A>G",
+          "protein_change": "p.T315A",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "73"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519772"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.qbnw4YYTBl2YDdhr0z0XA4fU3iJhAZcL",
+      "digest": "qbnw4YYTBl2YDdhr0z0XA4fU3iJhAZcL",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.2UGEX11rbVdN0Nbzc5RU0G0A5elENRTH",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 314,
+        "end": 315
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:75": {
+    "id": "moa.variant:75",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748290",
+          "end_position": "133748290",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.951C>G",
+          "protein_change": "p.F317L",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "75"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.QTxmPlYF_CKz0TztSjLuSbemD6VEsBGs",
+      "digest": "QTxmPlYF_CKz0TztSjLuSbemD6VEsBGs",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 316,
+        "end": 317
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:76": {
+    "id": "moa.variant:76",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748288",
+          "end_position": "133748288",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.949T>G",
+          "protein_change": "p.F317V",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "76"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519773"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.jZimtJIxEgZJpm2M0rLRASgAQ2MaIsO7",
+      "digest": "jZimtJIxEgZJpm2M0rLRASgAQ2MaIsO7",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 316,
+        "end": 317
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:77": {
+    "id": "moa.variant:77",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748288",
+          "end_position": "133748288",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.949T>A",
+          "protein_change": "p.F317I",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "77"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519773"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.cXPrtYOCpmLn9IABpIEmlqMmKHwVmpEt",
+      "digest": "cXPrtYOCpmLn9IABpIEmlqMmKHwVmpEt",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 316,
+        "end": 317
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:78": {
+    "id": "moa.variant:78",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133747586",
+          "end_position": "133747586",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.950T>G",
+          "protein_change": "p.F317C",
+          "exon": "5"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "78"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.BB5Y-5S65SdncMnYr25Y-B9NK5f9dUgL",
+      "digest": "BB5Y-5S65SdncMnYr25Y-B9NK5f9dUgL",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 316,
+        "end": 317
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:80": {
+    "id": "moa.variant:80",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133738306",
+          "end_position": "133738306",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.763G>A",
+          "protein_change": "p.E255K",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "80"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs387906517"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.jbAa2KnWMuqRw-w5OJYnmS1rqFocmQUg",
+      "digest": "jbAa2KnWMuqRw-w5OJYnmS1rqFocmQUg",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.Q6Dq5AJNXhMZ4XHkFcywsJQNz7t5Axt5",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 254,
+        "end": 255
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:81": {
+    "id": "moa.variant:81",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133738307",
+          "end_position": "133738307",
+          "reference_allele": "A",
+          "alternate_allele": "T",
+          "cdna_change": "c.764A>T",
+          "protein_change": "p.E255V",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "81"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs387906516"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.m9WGrTqkAjBideCtBZh0lBXlzXBsTHCb",
+      "digest": "m9WGrTqkAjBideCtBZh0lBXlzXBsTHCb",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.Q6Dq5AJNXhMZ4XHkFcywsJQNz7t5Axt5",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 254,
+        "end": 255
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:82": {
+    "id": "moa.variant:82",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133738357",
+          "end_position": "133738357",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.757T>C",
+          "protein_change": "p.Y253H",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "82"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913461"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.eJWzr6OvJK0kMUQQZXESoKrs8-rl-HGP",
+      "digest": "eJWzr6OvJK0kMUQQZXESoKrs8-rl-HGP",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.BtVoqhr3fIOAXogEo_ChbOGKPaedJYdY",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 252,
+        "end": 253
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "moa.variant:83": {
+    "id": "moa.variant:83",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748414",
+          "end_position": "133748414",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.1075T>G",
+          "protein_change": "p.F359V",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "83"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913452"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.JDw4aS7wj0mYRD59aJrL_56kHjqedsRL",
+      "digest": "JDw4aS7wj0mYRD59aJrL_56kHjqedsRL",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.rtz4_ubX1zOti7pVco9FHIBrtA1W715X",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 358,
+        "end": 359
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:84": {
+    "id": "moa.variant:84",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748358",
+          "end_position": "133748358",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.1076T>G",
+          "protein_change": "p.F359C",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "84"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.2a1Fh2wKruS5dYj6t36zmN-l2NctVl1M",
+      "digest": "2a1Fh2wKruS5dYj6t36zmN-l2NctVl1M",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.rtz4_ubX1zOti7pVco9FHIBrtA1W715X",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 358,
+        "end": 359
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:85": {
+    "id": "moa.variant:85",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748414",
+          "end_position": "133748414",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.1075T>A",
+          "protein_change": "p.F359I",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "85"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913452"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.fGNl59JYudIJ7PPnavXRQJTdYh2FQf48",
+      "digest": "fGNl59JYudIJ7PPnavXRQJTdYh2FQf48",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.rtz4_ubX1zOti7pVco9FHIBrtA1W715X",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 358,
+        "end": 359
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:97": {
+    "id": "moa.variant:97",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133747531",
+          "end_position": "133747531",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.895G>T",
+          "protein_change": "p.V299L",
+          "exon": "5"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "97"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.5aPKjFwHUb8shGd_Hsau5cRLeB-MwDeQ",
+      "digest": "5aPKjFwHUb8shGd_Hsau5cRLeB-MwDeQ",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.wKDS6N_E0eKqLRkIJTYQ7PCVp3pl61Ug",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 298,
+        "end": 299
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:108": {
+    "id": "moa.variant:108",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "9",
+          "start_position": "133748283",
+          "end_position": "133748283",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.944C>T",
+          "protein_change": "p.T315I",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "108"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
+      "digest": "EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.2UGEX11rbVdN0Nbzc5RU0G0A5elENRTH",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+        },
+        "start": 314,
+        "end": 315
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:115": {
+    "id": "moa.variant:115",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "29443613",
+          "end_position": "29443613",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.3604G>A",
+          "protein_change": "p.G1202R",
+          "exon": "23"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "115"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519783"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.4s_0jqh0QXhGnP0ShCReCVIXHz8TPMlM",
+      "digest": "4s_0jqh0QXhGnP0ShCReCVIXHz8TPMlM",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.q4vVoU9jvQ0la6lOkBSlZLXZSXM_mzox",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
+        },
+        "start": 1201,
+        "end": 1202
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:116": {
+    "id": "moa.variant:116",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "29443696",
+          "end_position": "29443696",
+          "reference_allele": "A",
+          "alternate_allele": "C",
+          "cdna_change": "c.3521T>G",
+          "protein_change": "p.F1174C",
+          "exon": "23"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "116"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519697"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.1Mzdazk16WVOInPm-WfW0OgdDkVtC8Q2",
+      "digest": "1Mzdazk16WVOInPm-WfW0OgdDkVtC8Q2",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.n1vbI2DGWZjLWoNdaUdc1ISSHenlCMar",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
+        },
+        "start": 1173,
+        "end": 1174
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:117": {
+    "id": "moa.variant:117",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "29443631",
+          "end_position": "29443631",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.3586C>A",
+          "protein_change": "p.L1196M",
+          "exon": "23"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "117"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519784"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.8DN3YvdDmEnsg924DmoX21Qn8WBogeoq",
+      "digest": "8DN3YvdDmEnsg924DmoX21Qn8WBogeoq",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.gN5Akfr_DYARbaRirrsewGu7QO3iPvXT",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
+        },
+        "start": 1195,
+        "end": 1196
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "M"
+      }
+    }
+  },
+  "moa.variant:118": {
+    "id": "moa.variant:118",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "29432682",
+          "end_position": "29432682",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.3806G>C",
+          "protein_change": "p.G1269A",
+          "exon": "25"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "118"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519781"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.wkm7bGW_q8Cwsc85IlinRzbTLEpsv385",
+      "digest": "wkm7bGW_q8Cwsc85IlinRzbTLEpsv385",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.ZEdbfw_lmvo3aTYPxis9C_DJAYp4OxzQ",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
+        },
+        "start": 1268,
+        "end": 1269
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:119": {
+    "id": "moa.variant:119",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "29443600",
+          "end_position": "29443600",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.3617C>A",
+          "protein_change": "p.S1206Y",
+          "exon": "23"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "119"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519782"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.RdHPumCoCaaMr0a1wFskVsfd9HQav3bm",
+      "digest": "RdHPumCoCaaMr0a1wFskVsfd9HQav3bm",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.uSgo9bV6sWuBevTms1hu-m5qCsaCiS3J",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
+        },
+        "start": 1205,
+        "end": 1206
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Y"
+      }
+    }
+  },
+  "moa.variant:120": {
+    "id": "moa.variant:120",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "X",
+          "start_position": "66943552",
+          "end_position": "66943552",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.2632A>G",
+          "protein_change": "p.T878A",
+          "exon": "8"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "120"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs137852578"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.P5bnb_Bm2ICqpheNyp1jJkxt9RHX_Z9R",
+      "digest": "P5bnb_Bm2ICqpheNyp1jJkxt9RHX_Z9R",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.0LJSfyrejt3d5lWKgoMF1zLl2Z_iGU6J",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.3i2gUccySg7YHyjquhJ5ICgAPeHzvFFW"
+        },
+        "start": 877,
+        "end": 878
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:121": {
+    "id": "moa.variant:121",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "X",
+          "start_position": "66931463",
+          "end_position": "66931463",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.2105T>A",
+          "protein_change": "p.L702H",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "121"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.1BZZyobZrrW-ZSyXZhrP2vm849plYkRa",
+      "digest": "1BZZyobZrrW-ZSyXZhrP2vm849plYkRa",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.mjndn6DEBNziec77Ea-5eYFxwFsw7ZMy",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.3i2gUccySg7YHyjquhJ5ICgAPeHzvFFW"
+        },
+        "start": 701,
+        "end": 702
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "moa.variant:122": {
+    "id": "moa.variant:122",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "X",
+          "start_position": "47426121",
+          "end_position": "47426121",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.641C>G",
+          "protein_change": "p.S214C",
+          "exon": "7"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "122"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.0XRP9ec08nseaod7LSuyfLDce-hpvEfm",
+      "digest": "0XRP9ec08nseaod7LSuyfLDce-hpvEfm",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.aLNS5vmoCkYAlgAlZOUGVDsai7ucgVL1",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.zWUEijoFMvm7vDgj6af1ZwwBERSNnm4a"
+        },
+        "start": 213,
+        "end": 214
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:134": {
+    "id": "moa.variant:134",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "11",
+          "start_position": "108150313",
+          "end_position": "108150313",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.3380C>A",
+          "protein_change": "p.A1127D",
+          "exon": "23"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "134"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1555090340"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.p3QRG8lzug4HZPdrtP11LWWw8rCARm2c",
+      "digest": "p3QRG8lzug4HZPdrtP11LWWw8rCARm2c",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.oO7KDpFT1LfDSa3stQ4qbHY0xnv2uvJc",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.6k1y4bTo7pEJ-a1GaniRBaCJXXGkBGFO"
+        },
+        "start": 1126,
+        "end": 1127
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:149": {
+    "id": "moa.variant:149",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "140453136",
+          "end_position": "140453136",
+          "reference_allele": "A",
+          "alternate_allele": "T",
+          "cdna_change": "c.1799T>A",
+          "protein_change": "p.V600E",
+          "exon": "15"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "149"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs113488022"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.4XBXAxSAk-WyAu5H0S1-plrk_SCTW1PO",
+      "digest": "4XBXAxSAk-WyAu5H0S1-plrk_SCTW1PO",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.ZA1XNKhCT_7m2UtmnYb8ZYOVS4eplMEK",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.cQvw4UsHHRRlogxbWCB8W-mKD4AraM9y"
+        },
+        "start": 599,
+        "end": 600
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "E"
+      }
+    }
+  },
+  "moa.variant:151": {
+    "id": "moa.variant:151",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "140453136",
+          "end_position": "140453137",
+          "reference_allele": "AC",
+          "alternate_allele": "TT",
+          "cdna_change": "c.1798_1799GT>AA",
+          "protein_change": "p.V600K",
+          "exon": "15"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "151"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913227"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.2E2_MppFwuFLm3OF88kEywJUYc6cVTHC",
+      "digest": "2E2_MppFwuFLm3OF88kEywJUYc6cVTHC",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.ZA1XNKhCT_7m2UtmnYb8ZYOVS4eplMEK",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.cQvw4UsHHRRlogxbWCB8W-mKD4AraM9y"
+        },
+        "start": 599,
+        "end": 600
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:254": {
+    "id": "moa.variant:254",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "55249071",
+          "end_position": "55249071",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.2369C>T",
+          "protein_change": "p.T790M",
+          "exon": "20"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "254"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121434569"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.faKID4aj8rP8NKZpWL4mWDToEztTUmbr",
+      "digest": "faKID4aj8rP8NKZpWL4mWDToEztTUmbr",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.C1y_lDZe8e9pKy3jcj3oJKw_7252Hrxa",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
+        },
+        "start": 789,
+        "end": 790
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "M"
+      }
+    }
+  },
+  "moa.variant:267": {
+    "id": "moa.variant:267",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "55259515",
+          "end_position": "55259515",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.2573T>G",
+          "protein_change": "p.L858R",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "267"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121434568"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "digest": "z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.yVGJnwqxV6oCGqC_8nNb58D_wPXJeNJo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
+        },
+        "start": 857,
+        "end": 858
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:284": {
+    "id": "moa.variant:284",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "55259515",
+          "end_position": "55259515",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.2573T>G",
+          "protein_change": "p.L858R",
+          "exon": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "284"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "digest": "z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.yVGJnwqxV6oCGqC_8nNb58D_wPXJeNJo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
+        },
+        "start": 857,
+        "end": 858
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:286": {
+    "id": "moa.variant:286",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "55259515",
+          "end_position": "55259515",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.2573T>G",
+          "protein_change": "p.L858R",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "286"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "digest": "z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.yVGJnwqxV6oCGqC_8nNb58D_wPXJeNJo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
+        },
+        "start": 857,
+        "end": 858
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:294": {
+    "id": "moa.variant:294",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "8073509",
+          "end_position": "8073509",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.1150G>T",
+          "protein_change": "p.E384*",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "294"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.kWW7c-ipidvW6wjftZ21AGcUIcXkn_2F",
+      "digest": "kWW7c-ipidvW6wjftZ21AGcUIcXkn_2F",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.ywU3EnaEVGev-HAzMQceWPLbR2EEEMEW",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.C49OdjhPGBXjeiBVRZb2HYBbiYuYPtK_"
+        },
+        "start": 383,
+        "end": 384
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "*"
+      }
+    }
+  },
+  "moa.variant:300": {
+    "id": "moa.variant:300",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "148508726",
+          "end_position": "148508726",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.1938C>A",
+          "protein_change": "p.Y646*",
+          "exon": "16"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "300"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.h_rW93M4Pq9U-vxlgliU5WTLVP9iHm_u",
+      "digest": "h_rW93M4Pq9U-vxlgliU5WTLVP9iHm_u",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
+        },
+        "start": 645,
+        "end": 646
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "*"
+      }
+    }
+  },
+  "moa.variant:301": {
+    "id": "moa.variant:301",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "148508727",
+          "end_position": "148508727",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.1937A>T",
+          "protein_change": "p.Y646F",
+          "exon": "16"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "301"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.lBiBkFGa4jG5y2kIbDYYJyZpQTfmHfss",
+      "digest": "lBiBkFGa4jG5y2kIbDYYJyZpQTfmHfss",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
+        },
+        "start": 645,
+        "end": 646
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "F"
+      }
+    }
+  },
+  "moa.variant:302": {
+    "id": "moa.variant:302",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "148508728",
+          "end_position": "148508728",
+          "reference_allele": "A",
+          "alternate_allele": "T",
+          "cdna_change": "c.1936T>A",
+          "protein_change": "p.Y646N",
+          "exon": "16"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "302"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.ZIFtvZO383LfXmK_EjDwBg00nk6IpWCx",
+      "digest": "ZIFtvZO383LfXmK_EjDwBg00nk6IpWCx",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
+        },
+        "start": 645,
+        "end": 646
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "N"
+      }
+    }
+  },
+  "moa.variant:303": {
+    "id": "moa.variant:303",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "148506467",
+          "end_position": "148506467",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.2045C>G",
+          "protein_change": "p.A682G",
+          "exon": "18"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "303"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.uiR-nXfLnWDW5vylgZUJYspvhrejn6Rg",
+      "digest": "uiR-nXfLnWDW5vylgZUJYspvhrejn6Rg",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.V4x5K2TR8P-qK5uTUWfQI_qnjydqcgev",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
+        },
+        "start": 681,
+        "end": 682
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "G"
+      }
+    }
+  },
+  "moa.variant:304": {
+    "id": "moa.variant:304",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "148506437",
+          "end_position": "148506437",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.2075C>T",
+          "protein_change": "p.A692V",
+          "exon": "18"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "304"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.R21kM-FsKdGp1C8yMbv_n5nRCPzFobky",
+      "digest": "R21kM-FsKdGp1C8yMbv_n5nRCPzFobky",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.r1Vwwc4OnEUnOzjGohfckx2oPHa0HDnx",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
+        },
+        "start": 691,
+        "end": 692
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:307": {
+    "id": "moa.variant:307",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "1803564",
+          "end_position": "1803564",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.742C>T",
+          "protein_change": "p.R248C",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "307"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913482"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.H_aL3z44T3GS4AmKNmagobkf9baVNadl",
+      "digest": "H_aL3z44T3GS4AmKNmagobkf9baVNadl",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.6iQ0A8Tf32yWNT6Ao-MN53cjpB21rngn",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
+        },
+        "start": 247,
+        "end": 248
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:308": {
+    "id": "moa.variant:308",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "1803568",
+          "end_position": "1803568",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.746C>G",
+          "protein_change": "p.S249C",
+          "exon": "6"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "308"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913483"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.ScwqpwMfwX2Vt2TkAnlqTatmdC2UwnMi",
+      "digest": "ScwqpwMfwX2Vt2TkAnlqTatmdC2UwnMi",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.Q9zQuJzbEtQG2B7hyCuLmZovGiNuWxiY",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
+        },
+        "start": 248,
+        "end": 249
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:309": {
+    "id": "moa.variant:309",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "1806089",
+          "end_position": "1806089",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.1180G>T",
+          "protein_change": "p.G370C",
+          "exon": "8"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "309"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913479"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.CeRXhVWp6LYRHDAv5705EBpMhjhHeTaK",
+      "digest": "CeRXhVWp6LYRHDAv5705EBpMhjhHeTaK",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.rXgyyQerEZh7w9q7VwvJReQRohv_RYJj",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
+        },
+        "start": 369,
+        "end": 370
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:310": {
+    "id": "moa.variant:310",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "1806099",
+          "end_position": "1806099",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.1118A>G",
+          "protein_change": "p.Y373C",
+          "exon": "8"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "310"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913485"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.Ip0lvUIZ99pzeVua47nHkzYGY1uVo2JW",
+      "digest": "Ip0lvUIZ99pzeVua47nHkzYGY1uVo2JW",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.9hFB6DxmWen2a8EpXXhCbLzMG3igb_3c",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
+        },
+        "start": 372,
+        "end": 373
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:317": {
+    "id": "moa.variant:317",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "13",
+          "start_position": "28601361",
+          "end_position": "28601361",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.2071T>C",
+          "protein_change": "p.F691L",
+          "exon": "17"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "317"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs759272576"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.NVkWgPaa9dCPDndshGoWOCuQMYewzQko",
+      "digest": "NVkWgPaa9dCPDndshGoWOCuQMYewzQko",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.AnCd0VcHeire_BKaf72ZWX-qAENUVmEg",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.0dtDG7QKyvW7BntvQVpLS83mYRA58LKH"
+        },
+        "start": 690,
+        "end": 691
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:318": {
+    "id": "moa.variant:318",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "13",
+          "start_position": "28602381",
+          "end_position": "28602381",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.1987A>C",
+          "protein_change": "p.K663Q",
+          "exon": "16"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "318"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057520026"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.bWHQwkGvCjYkfUcMiNJ3r704TO8P9K_J",
+      "digest": "bWHQwkGvCjYkfUcMiNJ3r704TO8P9K_J",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.RJHh5xx4s7hia9Br7ALHs1LUobOjUoX5",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.0dtDG7QKyvW7BntvQVpLS83mYRA58LKH"
+        },
+        "start": 662,
+        "end": 663
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Q"
+      }
+    }
+  },
+  "moa.variant:319": {
+    "id": "moa.variant:319",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "10",
+          "start_position": "8106058",
+          "end_position": "8106058",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.881T>A",
+          "protein_change": "p.M294K",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "319"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.oqWAawz1WfBGSDViRTNAvIy0ly4DBQn0",
+      "digest": "oqWAawz1WfBGSDViRTNAvIy0ly4DBQn0",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.NCUBJYr_dsZWTJWYc7PdUPHSn2VLhUOK",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.bdosHg0m0-PjJbEXRptxUwqJcIlmb-z0"
+        },
+        "start": 293,
+        "end": 294
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:323": {
+    "id": "moa.variant:323",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "209113112",
+          "end_position": "209113112",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.395G>A",
+          "protein_change": "p.R132H",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "323"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913500"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.Wks7qWMMqFTj1uw9ZUHDeHXj-coBFGll",
+      "digest": "Wks7qWMMqFTj1uw9ZUHDeHXj-coBFGll",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
+        },
+        "start": 131,
+        "end": 132
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "moa.variant:324": {
+    "id": "moa.variant:324",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "209113113",
+          "end_position": "209113113",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.394C>T",
+          "protein_change": "p.R132C",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "324"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913499"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.348znVA1UKrjwKuq8LLOVrb77xWo5XUO",
+      "digest": "348znVA1UKrjwKuq8LLOVrb77xWo5XUO",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
+        },
+        "start": 131,
+        "end": 132
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:329": {
+    "id": "moa.variant:329",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "15",
+          "start_position": "90631934",
+          "end_position": "90631934",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.419G>A",
+          "protein_change": "p.R140Q",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "329"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913502"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.rFy4vZCsPpqYMl89i645V5kqKDTiKyEx",
+      "digest": "rFy4vZCsPpqYMl89i645V5kqKDTiKyEx",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.tTL03ySKboV3akKwIyNN1fbDZIdHQm0c",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xop1Mrzn5Llu7Dj-BULoAd8Xmlbs-l-y"
+        },
+        "start": 139,
+        "end": 140
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Q"
+      }
+    }
+  },
+  "moa.variant:330": {
+    "id": "moa.variant:330",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "15",
+          "start_position": "90631837",
+          "end_position": "90631837",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.516G>T",
+          "protein_change": "p.R172S",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "330"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA._FltBdzGX2ZEGXoUJuNp_GkMRvkJ-I9F",
+      "digest": "_FltBdzGX2ZEGXoUJuNp_GkMRvkJ-I9F",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.S96XVtEmUDbmmReLp9wm1xLExLJnDAlh",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xop1Mrzn5Llu7Dj-BULoAd8Xmlbs-l-y"
+        },
+        "start": 171,
+        "end": 172
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "moa.variant:331": {
+    "id": "moa.variant:331",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "15",
+          "start_position": "90631837",
+          "end_position": "90631837",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.515G>A",
+          "protein_change": "p.R172K",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "331"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.TZcEHDB0pmd-0S1UtouZpSLmvEs6ufFD",
+      "digest": "TZcEHDB0pmd-0S1UtouZpSLmvEs6ufFD",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.S96XVtEmUDbmmReLp9wm1xLExLJnDAlh",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.xop1Mrzn5Llu7Dj-BULoAd8Xmlbs-l-y"
+        },
+        "start": 171,
+        "end": 172
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:338": {
+    "id": "moa.variant:338",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "65312353",
+          "end_position": "65312353",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.1966G>T",
+          "protein_change": "p.V656F",
+          "exon": "14"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "338"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.XnJnqxS9_Nuv7A5RtU9SBF8uUNFv0IIt",
+      "digest": "XnJnqxS9_Nuv7A5RtU9SBF8uUNFv0IIt",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.3_l7dcXSZiZPiuIeCHcWlG1XGlIVN0SN",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.cu-mo9BHF4qdXH41R2iO9Zjkgjg9NZ94"
+        },
+        "start": 655,
+        "end": 656
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "F"
+      }
+    }
+  },
+  "moa.variant:339": {
+    "id": "moa.variant:339",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "65312418",
+          "end_position": "65312418",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.1901C>A",
+          "protein_change": "p.A634D",
+          "exon": "14"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "339"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs869312953"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.meZZOt_nYNyyI0JGccyAMABsTzxITVVc",
+      "digest": "meZZOt_nYNyyI0JGccyAMABsTzxITVVc",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.NJO8gPAHM466nwWiqYW8qXeFtCPoC_TW",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.cu-mo9BHF4qdXH41R2iO9Zjkgjg9NZ94"
+        },
+        "start": 633,
+        "end": 634
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:352": {
+    "id": "moa.variant:352",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55595519",
+          "end_position": "55595519",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.2009C>T",
+          "protein_change": "p.T670I",
+          "exon": "14"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "352"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913516"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.f55Nm2_RKZg7Hnpo-JVhQVAliadbUqMJ",
+      "digest": "f55Nm2_RKZg7Hnpo-JVhQVAliadbUqMJ",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.jq2-jclk1pqHSIl0gTtHsMPBMD7VcMmN",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 669,
+        "end": 670
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:353": {
+    "id": "moa.variant:353",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55594258",
+          "end_position": "55594258",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.1961T>C",
+          "protein_change": "p.V654A",
+          "exon": "13"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "353"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913523"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.9mxRMKbFtCe8j6s8x9imRCuq0xIpXRt6",
+      "digest": "9mxRMKbFtCe8j6s8x9imRCuq0xIpXRt6",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.um97SDid7E4raxzVp8ci7g1w8NKAoJs8",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 653,
+        "end": 654
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:361": {
+    "id": "moa.variant:361",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55593605",
+          "end_position": "55593605",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.1671G>T",
+          "protein_change": "p.W557C",
+          "exon": "11"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "361"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.RnbzvibOLVWiNZB91Ot6Q7vDQIB6t0Et",
+      "digest": "RnbzvibOLVWiNZB91Ot6Q7vDQIB6t0Et",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.h_G08gkRQqoTWYU8G-uQqRIqgFi1bL6l",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 556,
+        "end": 557
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:362": {
+    "id": "moa.variant:362",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55593603",
+          "end_position": "55593603",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.1669T>G",
+          "protein_change": "p.W557G",
+          "exon": "11"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "362"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.CzSnz2xNOsZOxSjHK_BVDW8_ym-wU72I",
+      "digest": "CzSnz2xNOsZOxSjHK_BVDW8_ym-wU72I",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.h_G08gkRQqoTWYU8G-uQqRIqgFi1bL6l",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 556,
+        "end": 557
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "G"
+      }
+    }
+  },
+  "moa.variant:363": {
+    "id": "moa.variant:363",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55593603",
+          "end_position": "55593603",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.1669T>C",
+          "protein_change": "p.W557R",
+          "exon": "11"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "363"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.1vaKGACcNlKLw8INR0oGnVr5DSj86zxE",
+      "digest": "1vaKGACcNlKLw8INR0oGnVr5DSj86zxE",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.h_G08gkRQqoTWYU8G-uQqRIqgFi1bL6l",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 556,
+        "end": 557
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:364": {
+    "id": "moa.variant:364",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55593610",
+          "end_position": "55593610",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.1676T>C",
+          "protein_change": "p.V559A",
+          "exon": "11"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "364"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913517"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.SE3E5-nwwAJ9l-bKSDfurARrDu6VH2cG",
+      "digest": "SE3E5-nwwAJ9l-bKSDfurARrDu6VH2cG",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.x7Hcqa-bjYl3poWQxSaNrgoq0t-TIzug",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 558,
+        "end": 559
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:365": {
+    "id": "moa.variant:365",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55593610",
+          "end_position": "55593610",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.1676T>G",
+          "protein_change": "p.V559G",
+          "exon": "11"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "365"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913517"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.-vOEUGExUxTNEnGaCAM5V9b3B791wYYp",
+      "digest": "-vOEUGExUxTNEnGaCAM5V9b3B791wYYp",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.x7Hcqa-bjYl3poWQxSaNrgoq0t-TIzug",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 558,
+        "end": 559
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "G"
+      }
+    }
+  },
+  "moa.variant:366": {
+    "id": "moa.variant:366",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55593661",
+          "end_position": "55593661",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.1727T>C",
+          "protein_change": "p.L576P",
+          "exon": "11"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "366"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913513"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.HWknWoV4xcSvDuWAAwCjl8LfzvkYKaur",
+      "digest": "HWknWoV4xcSvDuWAAwCjl8LfzvkYKaur",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.CsgoOC4XNjQhj2UDGEcredbnxi0kTV5V",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 575,
+        "end": 576
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "moa.variant:367": {
+    "id": "moa.variant:367",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55594221",
+          "end_position": "55594221",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.1924A>G",
+          "protein_change": "p.K642E",
+          "exon": "13"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "367"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.c3eVCAN6jp3r4vtwc3oFyMhn2omrwVB4",
+      "digest": "c3eVCAN6jp3r4vtwc3oFyMhn2omrwVB4",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.WREnGgCj6j4vnGFA-gtJI9XkOJ5R6-ix",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 641,
+        "end": 642
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "E"
+      }
+    }
+  },
+  "moa.variant:369": {
+    "id": "moa.variant:369",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55599320",
+          "end_position": "55599320",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.2446G>C",
+          "protein_change": "p.D816H",
+          "exon": "17"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "369"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913506"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.D1eLtjcFQ0eDwFioywcx3Zjp1Fz6OYJ4",
+      "digest": "D1eLtjcFQ0eDwFioywcx3Zjp1Fz6OYJ4",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.EFk3ET7Ws47inqLJnNWEsA-GhUEwihbN",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 815,
+        "end": 816
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "moa.variant:374": {
+    "id": "moa.variant:374",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55599321",
+          "end_position": "55599321",
+          "reference_allele": "A",
+          "alternate_allele": "T",
+          "cdna_change": "c.2447A>T",
+          "protein_change": "p.D816V",
+          "exon": "17"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "374"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.rZDlEZBywJpTMBnXhLjN12Y9HQYHiOiP",
+      "digest": "rZDlEZBywJpTMBnXhLjN12Y9HQYHiOiP",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.EFk3ET7Ws47inqLJnNWEsA-GhUEwihbN",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
+        },
+        "start": 815,
+        "end": 816
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:387": {
+    "id": "moa.variant:387",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "12",
+          "start_position": "25398285",
+          "end_position": "25398285",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.35G>T",
+          "protein_change": "p.G12C",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "387"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913530"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.94GquHCCcRi74uwlI5PGJsf6FsR2M7Ef",
+      "digest": "94GquHCCcRi74uwlI5PGJsf6FsR2M7Ef",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.OndkjmujtyUEZSjjCv0C-gpwnVbRgfj8",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fytWhQSNGnA-86vDiQCxTSzgkk_WfQRS"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:402": {
+    "id": "moa.variant:402",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "15",
+          "start_position": "66729163",
+          "end_position": "66729163",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.371C>T",
+          "protein_change": "p.P124L",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "402"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.VndKn4pZ4WOt9w1qWIoiO7NWeeFpSXCq",
+      "digest": "VndKn4pZ4WOt9w1qWIoiO7NWeeFpSXCq",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.bJ_6m5x0EDWRN2YnyhcXXOcSmmaS2g1D",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.StlJo3M4b8cS253ufe9nPpWqQHBDOSPs"
+        },
+        "start": 123,
+        "end": 124
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:403": {
+    "id": "moa.variant:403",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "15",
+          "start_position": "66727451",
+          "end_position": "66727451",
+          "reference_allele": "A",
+          "alternate_allele": "C",
+          "cdna_change": "c.167A>C",
+          "protein_change": "p.Q56P",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "403"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.1UWRQGqaZI7G0ECXWsKXmqj6agf8ntK5",
+      "digest": "1UWRQGqaZI7G0ECXWsKXmqj6agf8ntK5",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.gD9dUrbXEr7Mtg5oc46vshtPFN0N33aW",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.StlJo3M4b8cS253ufe9nPpWqQHBDOSPs"
+        },
+        "start": 55,
+        "end": 56
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "moa.variant:408": {
+    "id": "moa.variant:408",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "15",
+          "start_position": "66729153",
+          "end_position": "66729153",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.361T>A",
+          "protein_change": "p.C121S",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "408"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.I89UeE6dzevspPAXLR2Hf3hLN-jftmLH",
+      "digest": "I89UeE6dzevspPAXLR2Hf3hLN-jftmLH",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.a4mB6iLipcfATUVODfEznCDlTYAgUqrt",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.StlJo3M4b8cS253ufe9nPpWqQHBDOSPs"
+        },
+        "start": 120,
+        "end": 121
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "moa.variant:410": {
+    "id": "moa.variant:410",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "19",
+          "start_position": "4117541",
+          "end_position": "4117541",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.179A>C",
+          "protein_change": "p.Q60P",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "410"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs1057519808"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.QfWearPOWrTvMBuY1hXQE1QQzFvcD4ja",
+      "digest": "QfWearPOWrTvMBuY1hXQE1QQzFvcD4ja",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.5Zoh4LkWQaLNMlt85XqFd7wisAXmHm4J",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.fGPHz_BuC2mUP2mDkoh1KRbyO7QgvCFi"
+        },
+        "start": 59,
+        "end": 60
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "moa.variant:411": {
+    "id": "moa.variant:411",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "22",
+          "start_position": "22127164",
+          "end_position": "22127164",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.964G>A",
+          "protein_change": "p.E322K",
+          "exon": "7"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "411"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.QN2vnsy7Y2a_gr0ZAv4uo-RTxHQdJzz3",
+      "digest": "QN2vnsy7Y2a_gr0ZAv4uo-RTxHQdJzz3",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.NbB9n-91BtQParIjKMMtzoemNLkllght",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.N-m1tI22kffhKfdRZK8wCOR3QfI-1lfr"
+        },
+        "start": 321,
+        "end": 322
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:413": {
+    "id": "moa.variant:413",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "7",
+          "start_position": "116411990",
+          "end_position": "116411990",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.3029C>T",
+          "protein_change": "p.T1010I",
+          "exon": "14"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "413"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs56391007"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.BbPYwoIWBDR3omZr2LFccNILNY39oNJ1",
+      "digest": "BbPYwoIWBDR3omZr2LFccNILNY39oNJ1",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.rvUiFjOkfoQsQaCth_L8qFmXklqmOyyu",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.QITcgkaDXSK1bJllcGyJVlXeD_SiQdfo"
+        },
+        "start": 991,
+        "end": 992
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:432": {
+    "id": "moa.variant:432",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258747",
+          "end_position": "115258747",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.35G>C",
+          "protein_change": "p.G12A",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "432"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.JyugLCeTO54-9Enp9F00wbCpajtH7PE7",
+      "digest": "JyugLCeTO54-9Enp9F00wbCpajtH7PE7",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:433": {
+    "id": "moa.variant:433",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258748",
+          "end_position": "115258748",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.34G>T",
+          "protein_change": "p.G12C",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "433"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.-CHgoDu2Ljyn5yQvSvfCF5MFjbOFBsAi",
+      "digest": "-CHgoDu2Ljyn5yQvSvfCF5MFjbOFBsAi",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:434": {
+    "id": "moa.variant:434",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258747",
+          "end_position": "115258747",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.35G>A",
+          "protein_change": "p.G12D",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "434"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA._cg7s8ZnDlutDHJ_sTnL3ECyJZID8bNH",
+      "digest": "_cg7s8ZnDlutDHJ_sTnL3ECyJZID8bNH",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:435": {
+    "id": "moa.variant:435",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258748",
+          "end_position": "115258748",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "p.34G>C",
+          "protein_change": "p.G12R",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "435"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.bGjhTixux0Mgn0wh3-1jC-34oAHXpr3Z",
+      "digest": "bGjhTixux0Mgn0wh3-1jC-34oAHXpr3Z",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:436": {
+    "id": "moa.variant:436",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258748",
+          "end_position": "115258748",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "p.34G>A",
+          "protein_change": "p.G12S",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "436"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.HSK0Mc-7T-mfa4ADET_ezqLjRrM5hQKu",
+      "digest": "HSK0Mc-7T-mfa4ADET_ezqLjRrM5hQKu",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "moa.variant:437": {
+    "id": "moa.variant:437",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258747",
+          "end_position": "115258747",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "p.35G>T",
+          "protein_change": "p.G12V",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "437"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.EP8-3-6vja0Dgze0XprxfS-DvzA1jZ5q",
+      "digest": "EP8-3-6vja0Dgze0XprxfS-DvzA1jZ5q",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:438": {
+    "id": "moa.variant:438",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258744",
+          "end_position": "115258744",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.38G>C",
+          "protein_change": "p.G13A",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "438"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121434596"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.qGrcbfw8kWs87JZzppTPj3HjSdA3bdt_",
+      "digest": "qGrcbfw8kWs87JZzppTPj3HjSdA3bdt_",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:439": {
+    "id": "moa.variant:439",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258744",
+          "end_position": "115258744",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.38G>A",
+          "protein_change": "p.G13D",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "439"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.eAAtCyXPBt2Xx3lWF9HbFuaOSpV8rsbL",
+      "digest": "eAAtCyXPBt2Xx3lWF9HbFuaOSpV8rsbL",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:440": {
+    "id": "moa.variant:440",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258745",
+          "end_position": "115258745",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.37G>C",
+          "protein_change": "p.G13R",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "440"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.oRl-S1OOU_B-iA5pyGRW43sUHiR1VSBM",
+      "digest": "oRl-S1OOU_B-iA5pyGRW43sUHiR1VSBM",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:441": {
+    "id": "moa.variant:441",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258744",
+          "end_position": "115258744",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.38G>T",
+          "protein_change": "p.G13V",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "441"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121434596"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.uAR2fOd1IEeZVhp59b6TJbKhNkBEBokH",
+      "digest": "uAR2fOd1IEeZVhp59b6TJbKhNkBEBokH",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:442": {
+    "id": "moa.variant:442",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256530",
+          "end_position": "115256530",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.181C>G",
+          "protein_change": "p.Q61E",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "442"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913254"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.mpIKNx7EtaaxQBzjO7bJID7uwz2KiBTF",
+      "digest": "mpIKNx7EtaaxQBzjO7bJID7uwz2KiBTF",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "E"
+      }
+    }
+  },
+  "moa.variant:443": {
+    "id": "moa.variant:443",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256528",
+          "end_position": "115256528",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.183A>T",
+          "protein_change": "p.Q61H",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "443"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913255"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.6xE3ZgGMlFrM0_1NBcs7yceuW--IIk4A",
+      "digest": "6xE3ZgGMlFrM0_1NBcs7yceuW--IIk4A",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "moa.variant:444": {
+    "id": "moa.variant:444",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256529",
+          "end_position": "115256529",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.182A>T",
+          "protein_change": "p.Q61L",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "444"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.xe-_mdqshkZ6KPFrn549cCE8Xh1_lT8R",
+      "digest": "xe-_mdqshkZ6KPFrn549cCE8Xh1_lT8R",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:446": {
+    "id": "moa.variant:446",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256529",
+          "end_position": "115256529",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.182A>C",
+          "protein_change": "p.Q61P",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "446"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs11554290"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.sLFiStYp7VkdaxqmhNHxnytRHgX2rjNr",
+      "digest": "sLFiStYp7VkdaxqmhNHxnytRHgX2rjNr",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "moa.variant:447": {
+    "id": "moa.variant:447",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256529",
+          "end_position": "115256529",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.182A>G",
+          "protein_change": "p.Q61R",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "447"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.USG7HMsbsCL-HLp7z50IVOkVLuPLyFl-",
+      "digest": "USG7HMsbsCL-HLp7z50IVOkVLuPLyFl-",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:459": {
+    "id": "moa.variant:459",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "4",
+          "start_position": "55152093",
+          "end_position": "55152093",
+          "reference_allele": "A",
+          "alternate_allele": "T",
+          "cdna_change": "c.2525A>T",
+          "protein_change": "p.D842V",
+          "exon": "18"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "459"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121908585"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.vIjnL-aLYl0BSB6JutpdD7yW_qIXtdk8",
+      "digest": "vIjnL-aLYl0BSB6JutpdD7yW_qIXtdk8",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.GHXCPrbd_qdPUoHjPwzv5iVFapJ0cn-o",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.XpQn9sZLGv_GU3uiWO7YHq9-_alGjrVX"
+        },
+        "start": 841,
+        "end": 842
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:467": {
+    "id": "moa.variant:467",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936091",
+          "end_position": "178936091",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.1633G>C",
+          "protein_change": "p.E545Q",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "467"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs104886003"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.tYIEWYlTAg0zDqI79me3cQ9geWvZ7rc_",
+      "digest": "tYIEWYlTAg0zDqI79me3cQ9geWvZ7rc_",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 544,
+        "end": 545
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Q"
+      }
+    }
+  },
+  "moa.variant:468": {
+    "id": "moa.variant:468",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178927980",
+          "end_position": "178927980",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.1258T>C",
+          "protein_change": "p.C420R",
+          "exon": "8"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "468"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913272"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.sW9clODd77-lRPaz7mtJ9uDSRsUl9X95",
+      "digest": "sW9clODd77-lRPaz7mtJ9uDSRsUl9X95",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.8wBa2QJy6PBZLWfYP-48VOsHavtiOe3x",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 419,
+        "end": 420
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:469": {
+    "id": "moa.variant:469",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936082",
+          "end_position": "178936082",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.1624G>A",
+          "protein_change": "p.E542K",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "469"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913273"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.D6daDiDNn1u-e4YtntaYQnxlZ_0T6gtD",
+      "digest": "D6daDiDNn1u-e4YtntaYQnxlZ_0T6gtD",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.DdVC73cqPrOnzCRvVc8N9tA3ecV5Qunt",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 541,
+        "end": 542
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:470": {
+    "id": "moa.variant:470",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936082",
+          "end_position": "178936082",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.1624G>C",
+          "protein_change": "p.E542Q",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "470"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913273"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.62pufg_3cYS1gksw7YA9H2HJjRYT5DxS",
+      "digest": "62pufg_3cYS1gksw7YA9H2HJjRYT5DxS",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.DdVC73cqPrOnzCRvVc8N9tA3ecV5Qunt",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 541,
+        "end": 542
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Q"
+      }
+    }
+  },
+  "moa.variant:471": {
+    "id": "moa.variant:471",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936092",
+          "end_position": "178936092",
+          "reference_allele": "A",
+          "alternate_allele": "C",
+          "cdna_change": "c.1634A>C",
+          "protein_change": "p.E545A",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "471"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913274"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.ZZkO7qVa8qmERi6mVm719Y6GccIWFkdy",
+      "digest": "ZZkO7qVa8qmERi6mVm719Y6GccIWFkdy",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 544,
+        "end": 545
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:472": {
+    "id": "moa.variant:472",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936093",
+          "end_position": "178936093",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.1635G>T",
+          "protein_change": "p.E545D",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "472"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913275"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.nV5mSw7fIcJNccAxRt4swf8r7Y4Qmo6B",
+      "digest": "nV5mSw7fIcJNccAxRt4swf8r7Y4Qmo6B",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 544,
+        "end": 545
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:474": {
+    "id": "moa.variant:474",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936092",
+          "end_position": "178936092",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.1634A>G",
+          "protein_change": "p.E545G",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "474"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913274"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.4-P9VYcskRjr1rJxwQxgXEpV3qkWldhv",
+      "digest": "4-P9VYcskRjr1rJxwQxgXEpV3qkWldhv",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 544,
+        "end": 545
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "G"
+      }
+    }
+  },
+  "moa.variant:475": {
+    "id": "moa.variant:475",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936091",
+          "end_position": "178936091",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.1633G>A",
+          "protein_change": "p.E545K",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "475"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs104886003"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.uw7DyLM7r98pn66LOXU3tAknmkV7jiJ0",
+      "digest": "uw7DyLM7r98pn66LOXU3tAknmkV7jiJ0",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 544,
+        "end": 545
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:476": {
+    "id": "moa.variant:476",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952090",
+          "end_position": "178952090",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.3145G>C",
+          "protein_change": "p.G1049R",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "476"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913277"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.eWCosAQLvB-bdf-vEDT0nIOkDUn_ZJ0s",
+      "digest": "eWCosAQLvB-bdf-vEDT0nIOkDUn_ZJ0s",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.QTbJMRl4fm9kBTuo8M6Zza7CMxC6fOFT",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1048,
+        "end": 1049
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:477": {
+    "id": "moa.variant:477",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952090",
+          "end_position": "178952090",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.3145G>A",
+          "protein_change": "p.G1049S",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "477"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913277"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.1XrWv3KHdvgwCozckVs_YAPHasBAkzt9",
+      "digest": "1XrWv3KHdvgwCozckVs_YAPHasBAkzt9",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.QTbJMRl4fm9kBTuo8M6Zza7CMxC6fOFT",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1048,
+        "end": 1049
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "moa.variant:478": {
+    "id": "moa.variant:478",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952085",
+          "end_position": "178952085",
+          "reference_allele": "A",
+          "alternate_allele": "T",
+          "cdna_change": "c.3140A>T",
+          "protein_change": "p.H1047L",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "478"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913279"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.UF5ba9AU6uHA2aqXR1FLbadsmNFgWhUY",
+      "digest": "UF5ba9AU6uHA2aqXR1FLbadsmNFgWhUY",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.DBBb47ourtRut09MJ_TAvlocEwpTjF9z",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1046,
+        "end": 1047
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:479": {
+    "id": "moa.variant:479",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952085",
+          "end_position": "178952085",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.3140A>G",
+          "protein_change": "p.H1047R",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "479"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913279"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.hcSlm-m3AKXOL7kHM3LghXQfvAjZOmYx",
+      "digest": "hcSlm-m3AKXOL7kHM3LghXQfvAjZOmYx",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.DBBb47ourtRut09MJ_TAvlocEwpTjF9z",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1046,
+        "end": 1047
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:480": {
+    "id": "moa.variant:480",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952084",
+          "end_position": "178952084",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.3139C>T",
+          "protein_change": "p.H1047Y",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "480"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913281"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.YsooKZSlrvK0_vTQ0PU4etSJSvHTSabu",
+      "digest": "YsooKZSlrvK0_vTQ0PU4etSJSvHTSabu",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.DBBb47ourtRut09MJ_TAvlocEwpTjF9z",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1046,
+        "end": 1047
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Y"
+      }
+    }
+  },
+  "moa.variant:481": {
+    "id": "moa.variant:481",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178938860",
+          "end_position": "178938860",
+          "reference_allele": "A",
+          "alternate_allele": "C",
+          "cdna_change": "c.2102A>C",
+          "protein_change": "p.H701P",
+          "exon": "14"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "481"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913282"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.28J2lLbSGfHkJrJOgDiilr4MI4ozhc5B",
+      "digest": "28J2lLbSGfHkJrJOgDiilr4MI4ozhc5B",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.sHPEYhV4JRlfm-YN6htPPHYBtmWNShP_",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 700,
+        "end": 701
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "moa.variant:482": {
+    "id": "moa.variant:482",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952074",
+          "end_position": "178952074",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.3129G>A",
+          "protein_change": "p.M1043I",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "482"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913283"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.XEAFv4p7D-6OHhNaZZlsmtXssL3fu01w",
+      "digest": "XEAFv4p7D-6OHhNaZZlsmtXssL3fu01w",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.ofe7dMinktIlQ5s4xDP3Ey-rqVYE7UA7",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1042,
+        "end": 1043
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "moa.variant:484": {
+    "id": "moa.variant:484",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936074",
+          "end_position": "178936074",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.1616C>G",
+          "protein_change": "p.P539R",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "484"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913285"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.vPiEJB1COzk5FAwEaZwe_o5RzbJVtf55",
+      "digest": "vPiEJB1COzk5FAwEaZwe_o5RzbJVtf55",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.PuNRAVwrWbAOh-zkHlo5JeKeSqGMTSWc",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 538,
+        "end": 539
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:485": {
+    "id": "moa.variant:485",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178936094",
+          "end_position": "178936094",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.1636C>A",
+          "protein_change": "p.Q546K",
+          "exon": "10"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "485"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913286"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA._sTlbdfSMIg8xVrU_g8QSO1XW1ko4iun",
+      "digest": "_sTlbdfSMIg8xVrU_g8QSO1XW1ko4iun",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.82hmyKHlzzMAQPuuLnjRPAVdMpucW7fJ",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 545,
+        "end": 546
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "moa.variant:486": {
+    "id": "moa.variant:486",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "3",
+          "start_position": "178952007",
+          "end_position": "178952007",
+          "reference_allele": "A",
+          "alternate_allele": "G",
+          "cdna_change": "c.3062A>G",
+          "protein_change": "p.Y1021C",
+          "exon": "21"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "486"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913288"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.Txa9TBscrUYwTNEDMTgpiQ8yJ1jdNSBj",
+      "digest": "Txa9TBscrUYwTNEDMTgpiQ8yJ1jdNSBj",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.va36pnBpzXkQnOdy81_1jZc-DB7bK7-A",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
+        },
+        "start": 1020,
+        "end": 1021
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:529": {
+    "id": "moa.variant:529",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "10",
+          "start_position": "43614996",
+          "end_position": "43614996",
+          "reference_allele": "G",
+          "alternate_allele": "A",
+          "cdna_change": "c.2410G>A",
+          "protein_change": "p.V804M",
+          "exon": "14"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "529"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs79658334"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.KtD83NGg8pHKnWVE704OtmzcImuG91vL",
+      "digest": "KtD83NGg8pHKnWVE704OtmzcImuG91vL",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.9z_Iysbjbr6OLphzHBq3j4HLywGtrJnl",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.jMu9-ItXSycQsm4hyABeW_UfSNRXRVnl"
+        },
+        "start": 803,
+        "end": 804
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "M"
+      }
+    }
+  },
+  "moa.variant:530": {
+    "id": "moa.variant:530",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "10",
+          "start_position": "43617416",
+          "end_position": "43617416",
+          "reference_allele": "T",
+          "alternate_allele": "C",
+          "cdna_change": "c.2753T>C",
+          "protein_change": "p.M918T",
+          "exon": "16"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "530"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs74799832"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.w2q9R8i1OYhtNg-QS5vngW71qwbI40pu",
+      "digest": "w2q9R8i1OYhtNg-QS5vngW71qwbI40pu",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.TyVSPbGxZ3uxiWHhkhT0hAi1rEoyMc0-",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.jMu9-ItXSycQsm4hyABeW_UfSNRXRVnl"
+        },
+        "start": 917,
+        "end": 918
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "T"
+      }
+    }
+  },
+  "moa.variant:867": {
+    "id": "moa.variant:867",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "209113113",
+          "end_position": "209113113",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.394C>G",
+          "protein_change": "p.R132G",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "867"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913499"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.FGvWfXKON_Zu0Ing_YvOn4IrDQooy1Po",
+      "digest": "FGvWfXKON_Zu0Ing_YvOn4IrDQooy1Po",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
+        },
+        "start": 131,
+        "end": 132
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "G"
+      }
+    }
+  },
+  "moa.variant:868": {
+    "id": "moa.variant:868",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "209113113",
+          "end_position": "209113113",
+          "reference_allele": "G",
+          "alternate_allele": "T",
+          "cdna_change": "c.394C>A",
+          "protein_change": "p.R132S",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "868"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913499"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.1O8bcJton090DL3Pih8A3w9SX0m2pF6S",
+      "digest": "1O8bcJton090DL3Pih8A3w9SX0m2pF6S",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
+        },
+        "start": 131,
+        "end": 132
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "moa.variant:869": {
+    "id": "moa.variant:869",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "2",
+          "start_position": "209113112",
+          "end_position": "209113112",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.395G>T",
+          "protein_change": "p.R132L",
+          "exon": "4"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "869"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913500"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.AqxwdRrrpFZus43mz7kpHyBJ0bLb8HFF",
+      "digest": "AqxwdRrrpFZus43mz7kpHyBJ0bLb8HFF",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
+        },
+        "start": 131,
+        "end": 132
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  }
+}

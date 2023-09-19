@@ -1,0 +1,5152 @@
+{
+  "civic.tid:15": {
+    "id": "civic.tid:15",
+    "label": "Erlotinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:337525"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:648",
+              "type": "Disease",
+              "label": "Pancreatic cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C43298"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C65530"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:4": {
+    "id": "civic.tid:4",
+    "label": "Vemurafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1147220"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:629",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:594",
+              "type": "Disease",
+              "label": "Erdheim-Chester disease",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C53972"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C64768"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1-propanesulfonamide, N-(3-((5-(4-chlorophenyl)-1h-pyrrolo(2,3-b)pyridin-3-yl)carbonyl)-2,4-difluorophenyl)-",
+      "BRAF (V600E) Kinase Inhibitor RO5185426",
+      "BRAF(V600E) Kinase Inhibitor RO5185426",
+      "PLX-4032",
+      "PLX4032",
+      "RG 7204",
+      "RG7204",
+      "RO 5185426",
+      "Zelboraf"
+    ]
+  },
+  "civic.tid:187": {
+    "id": "civic.tid:187",
+    "label": "Osimertinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1721560"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C116377"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-Propenamide, N-(2-((2-(dimethylamino)ethyl)methylamino)-4-methoxy-5-((4-(1-methyl-1H-indol-3-yl)-2-pyrimidinyl)amino)phenyl)-",
+      "AZD-9291",
+      "AZD9291",
+      "Mereletinib",
+      "Tagrisso"
+    ]
+  },
+  "civic.tid:146": {
+    "id": "civic.tid:146",
+    "label": "Afatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1430438"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:25316",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer squamous"
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C66940"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(2e)-N-(4-(3-Chloro-4-Fluoroanilino)-7-(((3s)-Oxolan-3-yl)Oxy)Quinoxazolin-6-yl)-4-(Dimethylamino)But-2-Enamide",
+      "BIBW 2992",
+      "BIBW2992"
+    ]
+  },
+  "civic.tid:654": {
+    "id": "civic.tid:654",
+    "label": "Sotorasib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2550714"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C154287"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AMG 510",
+      "AMG-510",
+      "AMG510",
+      "Lumakras"
+    ]
+  },
+  "civic.tid:22": {
+    "id": "civic.tid:22",
+    "label": "Dabrafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1424911"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:629",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:675",
+              "type": "Disease",
+              "label": "Thyroid cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7510"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C82386"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "BRAF Inhibitor GSK2118436",
+      "Benzenesulfonamide, N-(3-(5-(2-amino-4-pyrimidinyl)-2-(1,1-dimethylethyl)-4-thiazolyl)-2-fluorophenyl)-2,6-difluoro-",
+      "GSK-2118436",
+      "GSK-2118436A",
+      "GSK2118436"
+    ]
+  },
+  "civic.tid:16": {
+    "id": "civic.tid:16",
+    "label": "Cetuximab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:318341"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D006258",
+              "type": "Disease",
+              "label": "Head and Neck Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4013"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D002294",
+              "type": "Disease",
+              "label": "Carcinoma, Squamous Cell",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2929"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1723"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Cetuximab Biosimilar CDP-1",
+      "Cetuximab Biosimilar CMAB009",
+      "Cetuximab Biosimilar KL 140",
+      "Chimeric Anti-EGFR Monoclonal Antibody",
+      "Chimeric MoAb C225",
+      "Chimeric Monoclonal Antibody C225",
+      "Erbitux",
+      "IMC-C225"
+    ]
+  },
+  "civic.tid:44": {
+    "id": "civic.tid:44",
+    "label": "Dacomitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2058848"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C53398"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(2E)-N-(4-((3-Chloro-4-Fluorophenyl)Amino)-7-Methoxyquinazolin-6-yl)-4-Piperidin-1-ylbut-2-Enamide",
+      "EGFR Inhibitor PF-00299804",
+      "PF-00299804",
+      "PF-00299804-03",
+      "PF-299804",
+      "Vizimpro"
+    ]
+  },
+  "civic.tid:5": {
+    "id": "civic.tid:5",
+    "label": "Imatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:282388"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:669",
+              "type": "Disease",
+              "label": "Systemic mastocytosis",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9235"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:634",
+              "type": "Disease",
+              "label": "Myelodysplastic syndrome",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3247"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:602",
+              "type": "Disease",
+              "label": "Gastrointestinal stromal tumor",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3868"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:33893",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia pediatric"
+            },
+            {
+              "id": "hemonc:667",
+              "type": "Disease",
+              "label": "Soft tissue sarcoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9306"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:616",
+              "type": "Disease",
+              "label": "Hypereosinophilic syndrome",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C27038"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C62035"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-[(4-Methyl-1-piperazinyl)methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]phenyl]benzamide"
+    ]
+  },
+  "civic.tid:24385": {
+    "id": "civic.tid:24385",
+    "label": "Peginterferon Alfa-2b",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:253453"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D008545",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D019698",
+              "type": "Disease",
+              "label": "Hepatitis C, Chronic",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "mondo",
+                    "code": "0005354"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1845"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "PEG Interferon Alpha-2b",
+      "PEG Intron",
+      "PEG-IFN Alfa-2b",
+      "PEG-IFN-a 2b",
+      "PEG-Interferon Alfa-2b",
+      "PEG-Intron",
+      "Pegylated Interferon Alpha-2b",
+      "Polyethylene Glycol IFN-A2b",
+      "Polyethylene Glycol Interferon Alfa-2b",
+      "SCH 54031",
+      "Sylatron"
+    ]
+  },
+  "civic.tid:227": {
+    "id": "civic.tid:227",
+    "label": "Ibrutinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1442981"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:682",
+              "type": "Disease",
+              "label": "Waldenstroem macroglobulinemia"
+            },
+            {
+              "id": "hemonc:605",
+              "type": "Disease",
+              "label": "Graft versus host disease",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3063"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:581",
+              "type": "Disease",
+              "label": "Chronic lymphocytic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3163"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:625",
+              "type": "Disease",
+              "label": "Mantle cell lymphoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4337"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:626",
+              "type": "Disease",
+              "label": "Marginal zone lymphoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4341"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C81934"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-Propen-1-one, 1-((3R)-3-(4-amino-3-(4-phenoxyphenyl)-1h-pyrazolo(3,4-d)pyrimidin-1-yl)-1-piperidinyl)-",
+      "BTK Inhibitor PCI-32765",
+      "CRA-032765",
+      "Imbruvica",
+      "PCI-32765"
+    ]
+  },
+  "civic.tid:91": {
+    "id": "civic.tid:91",
+    "label": "Rociletinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C99905"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C99905"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "CO-1686",
+      "N-(3-((2-((4-(4-Acetylpiperazin-1-yl)-2-methoxyphenyl)amino)-5-(trifluoromethyl)pyrimidin-4-yl)amino)phenyl)prop-2-enamide"
+    ]
+  },
+  "civic.tid:326": {
+    "id": "civic.tid:326",
+    "label": "Cisplatin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2555"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:671",
+              "type": "Disease",
+              "label": "Testicular cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C5053"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:645",
+              "type": "Disease",
+              "label": "Ovarian cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7431"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:569",
+              "type": "Disease",
+              "label": "Bladder cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9334"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C376"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(SP-4-2)-Diamminedichloroplatinum",
+      "Abiplatin",
+      "Blastolem",
+      "Briplatin",
+      "CDDP",
+      "Cis-diammine-dichloroplatinum",
+      "Cis-diamminedichloridoplatinum",
+      "Cis-diamminedichloro Platinum (II)",
+      "Cis-diamminedichloroplatinum",
+      "Cis-dichloroammine Platinum (II)",
+      "Cis-platinous Diamine Dichloride",
+      "Cis-platinum",
+      "Cis-platinum II",
+      "Cis-platinum II Diamine Dichloride",
+      "Cismaplat",
+      "Cisplatina",
+      "Cisplatinum",
+      "Cisplatyl",
+      "Citoplatino",
+      "Citosin",
+      "Cysplatyna",
+      "DDP",
+      "Lederplatin",
+      "Metaplatin",
+      "Neoplatin",
+      "Peyrone's Chloride",
+      "Peyrone's Salt",
+      "Placis",
+      "Plastistil",
+      "Platamine",
+      "Platiblastin",
+      "Platiblastin-S",
+      "Platinex",
+      "Platinol",
+      "Platinol- AQ",
+      "Platinol-AQ",
+      "Platinol-AQ VHA Plus",
+      "Platinoxan",
+      "Platinum",
+      "Platinum Diamminodichloride",
+      "Platinum, Diaminedichloro-, Cis- (8CI)",
+      "Platiran",
+      "Platistin",
+      "Platosin"
+    ]
+  },
+  "civic.tid:84": {
+    "id": "civic.tid:84",
+    "label": "Trastuzumab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2103478"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D001943",
+              "type": "Disease",
+              "label": "Breast Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2910"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1647"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "ABP 980",
+      "ALT02",
+      "Anti-ERB-2",
+      "Anti-HER2/c-erbB2 Monoclonal Antibody",
+      "Anti-c-ERB-2",
+      "Anti-c-erbB2 Monoclonal Antibody",
+      "Anti-erbB-2",
+      "Anti-erbB2 Monoclonal Antibody",
+      "Anti-p185-HER2",
+      "C-erb-2 Monoclonal Antibody",
+      "HER2 Monoclonal Antibody",
+      "Herceptin",
+      "Herceptin Biosimilar PF-05280014",
+      "Herceptin Trastuzumab Biosimilar PF-05280014",
+      "Herzuma",
+      "Immunoglobulin G 1 (Human-Mouse Monoclonal RhuMab HER2gamma1-Chain Antihuman P185(Sup C-erbB2) Receptor), Disulfide With Human-Mouse Monoclonal RhuMab HER2 Light Chain, Dimer",
+      "Kanjinti",
+      "MoAb HER2",
+      "Monoclonal Antibody C-erb-2",
+      "Monoclonal Antibody HER2",
+      "Ogivri",
+      "Ontruzant",
+      "PF-05280014",
+      "RO0452317",
+      "RhuMAb HER2",
+      "SB3",
+      "Trastuzumab Biosimilar ABP 980",
+      "Trastuzumab Biosimilar ALT02",
+      "Trastuzumab Biosimilar EG12014",
+      "Trastuzumab Biosimilar HLX02",
+      "Trastuzumab Biosimilar PF-05280014",
+      "Trastuzumab Biosimilar SB3",
+      "Trastuzumab Biosimilar SIBP-01",
+      "Trastuzumab-anns",
+      "Trastuzumab-dkst",
+      "Trastuzumab-dttb",
+      "Trastuzumab-pkrb",
+      "Trastuzumab-qyyp",
+      "Trazimera"
+    ]
+  },
+  "civic.tid:323": {
+    "id": "civic.tid:323",
+    "label": "Midostaurin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1919083"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:669",
+              "type": "Disease",
+              "label": "Systemic mastocytosis",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9235"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:552",
+              "type": "Disease",
+              "label": "Acute myeloid leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3171"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1872"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "CGP 41251",
+      "CGP41251",
+      "N-Benzoyl-Staurosporine",
+      "N-Benzoylstaurosporine",
+      "PKC-412",
+      "PKC412",
+      "Rydapt"
+    ]
+  },
+  "civic.tid:420": {
+    "id": "civic.tid:420",
+    "label": "Fluorouracil",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:4492"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": []
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C505"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2,4-Dioxo-5-fluoropyrimidine",
+      "5 FU",
+      "5 Fluorouracil",
+      "5 Fluorouracilum",
+      "5-FU",
+      "5-Fluoro-2,4(1H, 3H)-pyrimidinedione",
+      "5-Fluoro-2,4(1H,3H)-pyrimidinedione",
+      "5-Fluorouracil",
+      "5-Fluracil",
+      "5FU",
+      "AccuSite",
+      "Adrucil",
+      "Carac",
+      "Fluoro Uracil",
+      "Fluouracil",
+      "Flurablastin",
+      "Fluracedyl",
+      "Fluracil",
+      "Fluril",
+      "Fluroblastin",
+      "Ribofluor",
+      "Ro 2-9757",
+      "Ro-2-9757"
+    ]
+  },
+  "civic.tid:19": {
+    "id": "civic.tid:19",
+    "label": "Trametinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1425098"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C77908"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "GSK1120212",
+      "JTP-74057",
+      "MEK Inhibitor GSK1120212",
+      "Mekinist",
+      "N-(3-{3-cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2H)-yl}phenyl)acetamide"
+    ]
+  },
+  "civic.tid:14": {
+    "id": "civic.tid:14",
+    "label": "Gefitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:328134"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1855"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-(3'-Chloro-4'-fluoroanilino)-7-methoxy-6-(3-morpholinopropoxy)quinazoline",
+      "Iressa",
+      "N-(3-chloro-4-fluorophenyl)-7-methoxy-6-[3-(4-morpholin) Propoxy]-4-quinazolinamine",
+      "ZD 1839",
+      "ZD1839"
+    ]
+  },
+  "civic.tid:112": {
+    "id": "civic.tid:112",
+    "label": "Capivasertib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C102564"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C102564"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AZD5363"
+    ]
+  },
+  "civic.tid:696": {
+    "id": "civic.tid:696",
+    "label": "Akt/ERK Inhibitor ONC201",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C113792"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C113792"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "ONC-201",
+      "ONC201",
+      "TIC10"
+    ]
+  },
+  "civic.tid:144": {
+    "id": "civic.tid:144",
+    "label": "Cabozantinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1363267"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:65823",
+              "type": "Disease",
+              "label": "Thyroid cancer differentiated"
+            },
+            {
+              "id": "hemonc:660",
+              "type": "Disease",
+              "label": "Renal cell carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:612",
+              "type": "Disease",
+              "label": "Hepatocellular carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3099"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:68942",
+              "type": "Disease",
+              "label": "Thyroid cancer medullary"
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C52200"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1,1-Cyclopropanedicarboxamide, N'-[4-[(6,7-dimethoxy-4-quinolinyl)oxy]phenyl]-N-(4- Fluorophenyl)-",
+      "N-{4-[(6,7-dimethoxyquinolin-4-yl)oxy]phenyl}-N'-(4-fluorophenyl)cyclopropane-1,1- Dicarboxamide"
+    ]
+  },
+  "civic.tid:27": {
+    "id": "civic.tid:27",
+    "label": "Regorafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1312397"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C78204"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-(4-(((4-chloro-3-(trifluoromethyl)phenyl)carbamoyl)amino)-3-fluorophenoxy)-N-methylpyridine-2-carboxamide",
+      "BAY 73-4506",
+      "REGORAFENIB ANHYDROUS",
+      "Stivarga"
+    ]
+  },
+  "civic.tid:157": {
+    "id": "civic.tid:157",
+    "label": "Sunitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:357977"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:647",
+              "type": "Disease",
+              "label": "Pancreatic NET",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C27720"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:602",
+              "type": "Disease",
+              "label": "Gastrointestinal stromal tumor",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3868"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:660",
+              "type": "Disease",
+              "label": "Renal cell carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C71622"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1H-Pyrrole-3-carboxamide, N-(2-(diethylamino)ethyl)-5-((Z)-(5-fluoro-1,2-dihydro-2-oxo-3H-indol-3-ylidene)methyl)-2,4-dimethyl-"
+    ]
+  },
+  "civic.tid:81": {
+    "id": "civic.tid:81",
+    "label": "Paclitaxel",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:56946"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:645",
+              "type": "Disease",
+              "label": "Ovarian cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7431"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:54036",
+              "type": "Disease",
+              "label": "Kaposi sarcoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9087"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1411"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "5Beta,20-epoxy-1,2alpha,4,7beta,10beta,13alpha-hexahydroxytax-11-en-9-one, 4,10-Diacetate 2-Benzoate 13-Ester With (2R,3S)-N-Benzoyl-3-phenylisoserine",
+      "Anzatax",
+      "Asotax",
+      "Bristaxol",
+      "Praxel",
+      "Taxol",
+      "Taxol Konzentrat",
+      "[2aR-[2a Alpha,4beta,4a Beta,6beta,9alpha(alphaR*,betaS*),-11alpha,12alpha,12a Alpha,12b Alpha]]-beta-(benzoylamino)-alpha-hydroxybenzene-propanoic Acid 6,12b-bis(acetyloxy)-12-(benzoyloxy)-1a,33,4,-41,5,6,9,10,11,12,12a,12b-dodecahydro-4,11-dihydroxy-41,8,-12,13-tetramethyl-5-oxo-7,11-methano-1H-cyclodeca[3,4]benz[1,2-b]oxet-9-yl Ester"
+    ]
+  },
+  "civic.tid:6": {
+    "id": "civic.tid:6",
+    "label": "Sorafenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:495881"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:65823",
+              "type": "Disease",
+              "label": "Thyroid cancer differentiated"
+            },
+            {
+              "id": "hemonc:612",
+              "type": "Disease",
+              "label": "Hepatocellular carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3099"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:660",
+              "type": "Disease",
+              "label": "Renal cell carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C61948"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "BA4 43 9006",
+      "BAY 43-9006",
+      "Bay-439006"
+    ]
+  },
+  "civic.tid:237": {
+    "id": "civic.tid:237",
+    "label": "Oxaliplatin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:32592"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:46096",
+              "type": "Disease",
+              "label": "Colorectal cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4978"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:585",
+              "type": "Disease",
+              "label": "Colon cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9242"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1181"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1-OHP",
+      "Ai Heng",
+      "Aiheng",
+      "DACPLAT",
+      "Dacotin",
+      "Diaminocyclohexane Oxalatoplatinum",
+      "ELOXATIN",
+      "Eloxatine",
+      "JM-83",
+      "Oxalato (1R,2R-cyclohexanediamine)platinum(II)",
+      "Oxalato (trans-l-1,2-diaminocyclohexane)platinum(II)",
+      "Oxalatoplatin",
+      "Oxalatoplatinum",
+      "RP 54780",
+      "RP-54780",
+      "SR-96669",
+      "Trans-l DACH Oxalatoplatinum",
+      "Trans-l Diaminocyclohexane Oxalatoplatinum",
+      "[(1R,-2R)-1,2-cyclohexanediamine-N,N'][oxalato (2--)-O,O']platinum",
+      "[SP-4-2-(1R-trans)]-(1,2,cyclohexanediamine-N,N')[ethanedioato(2--)-O,O']platinum"
+    ]
+  },
+  "civic.tid:101": {
+    "id": "civic.tid:101",
+    "label": "Irinotecan",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:153329"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:46096",
+              "type": "Disease",
+              "label": "Colorectal cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4978"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C62040"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(+)-(4S)-4,11-diethyl-4-hydroxy-9-[(4-piperidino-piperidino)carbonyloxy]-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinol-3,14,(4H,12H)-dione",
+      "(+)-7-ethyl-10-hydroxycamptothecine 10-[1,4'-bipiperidine]-1'-carboxylate",
+      "7-ethyl-10-[4-(1-piperidino)-1-piperidino]carbonyloxycamptothecin",
+      "[1,4'-bipiperidine]-1'-carboxylic Acid (S)-4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-3,14-dioxo-1H-pyrano[3',4':6,7]indolizino[1,2-b]quinolin-9-yl Ester"
+    ]
+  },
+  "civic.tid:243": {
+    "id": "civic.tid:243",
+    "label": "MEK Inhibitor RO4987655",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C82696"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C82696"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "RO-4987655",
+      "RO4987655"
+    ]
+  },
+  "civic.tid:328": {
+    "id": "civic.tid:328",
+    "label": "Melphalan",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:6718"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:633",
+              "type": "Disease",
+              "label": "Multiple myeloma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3242"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:645",
+              "type": "Disease",
+              "label": "Ovarian cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7431"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C633"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-[bis(2-chloroethyl)amino]-L-phenylalanine",
+      "Alanine Nitrogen Mustard",
+      "CB-3025",
+      "L-PAM",
+      "L-Phenylalanine Mustard",
+      "L-Sarcolysin",
+      "L-Sarcolysin Phenylalanine Mustard",
+      "L-Sarcolysine",
+      "Melphalanum",
+      "P-di(chloroethyl)amino-L-phenylalanine",
+      "Phenylalanine Mustard",
+      "Phenylalanine Nitrogen Mustard",
+      "Sarcoclorin",
+      "Sarkolysin",
+      "WR-19813"
+    ]
+  },
+  "civic.tid:11": {
+    "id": "civic.tid:11",
+    "label": "Temozolomide",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:37776"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:604",
+              "type": "Disease",
+              "label": "Glioblastoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3058"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:559",
+              "type": "Disease",
+              "label": "Anaplastic glioma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C127816"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1244"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "3,4-dihydro-3-methyl-4-oxoimidazo[5,1-d]-1,2,3,5-tetrazine-8-carboxamide",
+      "8-carbamoyl-3-methylimidazo[5,1-d]-1,2,3,5-tetrazin-4(3H)-one",
+      "CCRG-81045",
+      "Imidazo[5,1-d]-1,2,3,5-tetrazine-8-carboxamide, 3, 4-dihydro-3-methyl-4-oxo-",
+      "M & B 39831",
+      "M And B 39831",
+      "Methazolastone",
+      "RP-46161",
+      "SCH 52365",
+      "TMZ",
+      "Temcad",
+      "Temodal",
+      "Temodar",
+      "Temomedac"
+    ]
+  },
+  "civic.tid:454": {
+    "id": "civic.tid:454",
+    "label": "Ivosidenib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2049873"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:580",
+              "type": "Disease",
+              "label": "Cholangiocarcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4436"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:552",
+              "type": "Disease",
+              "label": "Acute myeloid leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3171"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C114383"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AG-120",
+      "Tibsovo"
+    ]
+  },
+  "civic.tid:537": {
+    "id": "civic.tid:537",
+    "label": "Imatinib Mesylate",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:282388"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:669",
+              "type": "Disease",
+              "label": "Systemic mastocytosis",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9235"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:634",
+              "type": "Disease",
+              "label": "Myelodysplastic syndrome",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3247"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:602",
+              "type": "Disease",
+              "label": "Gastrointestinal stromal tumor",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3868"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:33893",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia pediatric"
+            },
+            {
+              "id": "hemonc:667",
+              "type": "Disease",
+              "label": "Soft tissue sarcoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9306"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:616",
+              "type": "Disease",
+              "label": "Hypereosinophilic syndrome",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C27038"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1687"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-[(4-Methyl-1-piperazinyl)methyl]-N-[4-methyl-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]phenyl]benzamide Monomethanesulfonate",
+      "CGP 57148",
+      "CGP57148B",
+      "Gleevec",
+      "Glivec",
+      "STI 571",
+      "STI-571",
+      "STI571"
+    ]
+  },
+  "civic.tid:28": {
+    "id": "civic.tid:28",
+    "label": "Panitumumab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:263034"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D015179",
+              "type": "Disease",
+              "label": "Colorectal Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2956"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1857"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "ABX-EGF",
+      "ABX-EGF Monoclonal Antibody",
+      "ABX-EGF, Clone E7.6.3",
+      "E7.6.3",
+      "Human IgG2K Monoclonal Antibody",
+      "MoAb ABX-EGF",
+      "MoAb E7.6.3",
+      "Monoclonal Antibody ABX-EGF",
+      "Monoclonal Antibody E7.6.3",
+      "Vectibix"
+    ]
+  },
+  "civic.tid:431": {
+    "id": "civic.tid:431",
+    "label": "Rucaparib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1862579"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C137800"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "6H-Pyrrolo(4,3,2-ef)(2)benzazepin-6-one, 8-Fluoro-1,3,4,5-tetrahydro-2-(4-((methylamino)methyl)phenyl)-",
+      "8-Fluoro-2-(4-((methylamino)methyl)phenyl)-1,3,4,5-tetrahydro-6H-azepino(5,4,3-cd)indol-6-one"
+    ]
+  },
+  "civic.tid:20": {
+    "id": "civic.tid:20",
+    "label": "Dasatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1546019"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C38713"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "5-Thiazolecarboxamide, N-(2-chloro-6-methylphenyl)-2-((6-(4-(2-hydroxyethyl)-1-piperazinyl)-2-methyl-4-pyrimidinyl)amino)-, Monohydrate",
+      "BMS-354825",
+      "Dasatinib Hydrate",
+      "Dasatinib Monohydrate",
+      "Sprycel"
+    ]
+  },
+  "civic.tid:190": {
+    "id": "civic.tid:190",
+    "label": "Vismodegib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1242987"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:587",
+              "type": "Disease",
+              "label": "Cutaneous basal cell carcinoma"
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C74038"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-chloro-N-[4-chloro-3-(pyridin-2-yl)phenyl]-4-(methylsulfonyl)benzamide",
+      "Erivedge",
+      "GDC-0449",
+      "Hedgehog Antagonist GDC-0449"
+    ]
+  },
+  "civic.tid:138": {
+    "id": "civic.tid:138",
+    "label": "Pembrolizumab",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1547545"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D008545",
+              "type": "Disease",
+              "label": "Melanoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3224"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C106432"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Immunoglobulin G4, Anti-(Human Programmed Cell Death 1); Humanized Mouse Monoclonal (228-L-proline(H10-S>P))gamma 4 Heavy Chain (134-218')-disulfide With Humanized Mouse Monoclonal Kappa Light Chain Dimer (226-226'':229-229'')-bisdisulfide",
+      "Keytruda",
+      "Lambrolizumab",
+      "MK-3475",
+      "SCH 900475"
+    ]
+  },
+  "civic.tid:41": {
+    "id": "civic.tid:41",
+    "label": "Everolimus",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:141704"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:641",
+              "type": "Disease",
+              "label": "Neuroendocrine tumor",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3809"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:647",
+              "type": "Disease",
+              "label": "Pancreatic NET",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C27720"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:660",
+              "type": "Disease",
+              "label": "Renal cell carcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9385"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:45070",
+              "type": "Disease",
+              "label": "Subependymal giant cell astrocytoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3696"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C48387"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-1,18-Dihydroxy-12-((1R)-2-((1S,3R,4R)-4-(2-hydroxyethoxy)-3-methoxycyclohexyl)-1-methylethyl)-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo(30.3.1.04,9)hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentaone",
+      "42-O-(2-Hydroxy)ethyl Rapamycin",
+      "Afinitor",
+      "Certican",
+      "RAD 001",
+      "RAD001",
+      "Votubia",
+      "Zortress"
+    ]
+  },
+  "civic.tid:386": {
+    "id": "civic.tid:386",
+    "label": "Ruxolitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1193326"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:605",
+              "type": "Disease",
+              "label": "Graft versus host disease",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3063"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:655",
+              "type": "Disease",
+              "label": "Polycythemia vera",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3336"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:635",
+              "type": "Disease",
+              "label": "Myelofibrosis",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3248"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C77888"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(3R)-3-cyclopentyl-3-(4-(7h-pyrrolo(2,3-d)pyrimidin-4-yl)pyrazol-1-yl)propanenitrile",
+      "INCB-18424",
+      "INCB18424",
+      "Jakafi",
+      "Oral JAK Inhibitor INCB18424"
+    ]
+  },
+  "civic.tid:63": {
+    "id": "civic.tid:63",
+    "label": "Selumetinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2289380"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": []
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C66939"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "ARRY-142886",
+      "AZD6244",
+      "MEK Inhibitor AZD6244"
+    ]
+  },
+  "civic.tid:425": {
+    "id": "civic.tid:425",
+    "label": "Savolitinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C104732"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C104732"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AZD 6094",
+      "AZD6094",
+      "HMPL-504",
+      "Volitinib"
+    ]
+  },
+  "civic.tid:159": {
+    "id": "civic.tid:159",
+    "label": "Ceritinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1535457"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C115112"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2,4-Pyrimidinediamine, 5-chloro-N4-(2-((1-methylethyl)sulfonyl)phenyl)-N2-(5-methyl-2-(1-methylethoxy)-4-(4-piperidinyl)phenyl)-",
+      "LDK 378",
+      "LDK378",
+      "Zykadia"
+    ]
+  },
+  "civic.tid:42": {
+    "id": "civic.tid:42",
+    "label": "Olaparib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1597582"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:645",
+              "type": "Disease",
+              "label": "Ovarian cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7431"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:648",
+              "type": "Disease",
+              "label": "Pancreatic cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C43298"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:658",
+              "type": "Disease",
+              "label": "Prostate cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7378"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C71721"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AZD 2281",
+      "AZD-2281",
+      "AZD2281",
+      "KU-0059436",
+      "Lynparza",
+      "PARP Inhibitor AZD2281"
+    ]
+  },
+  "civic.tid:145": {
+    "id": "civic.tid:145",
+    "label": "Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C2167"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C2167"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:120": {
+    "id": "civic.tid:120",
+    "label": "Idelalisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1544460"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:599",
+              "type": "Disease",
+              "label": "Follicular lymphoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3209"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:581",
+              "type": "Disease",
+              "label": "Chronic lymphocytic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3163"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C78825"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "5-Fluoro-3-phenyl-2-((S)-1-(9H-purin-6-ylamino)-propyl)-3H- Quinazolin-4-one",
+      "CAL-101",
+      "GS 1101",
+      "GS-1101",
+      "Phosphoinositide-3 Kinase Delta Inhibitor CAL-101",
+      "Zydelig"
+    ]
+  },
+  "civic.tid:12": {
+    "id": "civic.tid:12",
+    "label": "Crizotinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1148495"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:25958",
+              "type": "Disease",
+              "label": "Anaplastic large cell lymphoma pediatric"
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C74061"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(R)-3-(1-(2,6-Dichloro-3-Fluorophenyl)Ethoxy)-5-(1-(Piperidin-4-Yl)-1h-Pyrazol-4-Yl)Pyridin-2-Amine",
+      "2-Pyridinamine, 3-((1R)-1-(2,6-Dichloro-3-Fluorophenyl)Ethoxy)-5-(1-(4-Piperidinyl)-1H-Pyrazol-4-yl)-",
+      "MET Tyrosine Kinase Inhibitor PF-02341066",
+      "PF-02341066",
+      "PF-2341066",
+      "Xalkori"
+    ]
+  },
+  "civic.tid:350": {
+    "id": "civic.tid:350",
+    "label": "MEK Inhibitor TAK-733",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C84858"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C84858"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "TAK-733"
+    ]
+  },
+  "civic.tid:685": {
+    "id": "civic.tid:685",
+    "label": "Therapeutic Tumor Infiltrating Lymphocytes",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C28699"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C28699"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Tumor Infiltrating Lymphocyte Therapy",
+      "Tumor Infiltrating Lymphocytes"
+    ]
+  },
+  "civic.tid:426": {
+    "id": "civic.tid:426",
+    "label": "Entrectinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2197862"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": []
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C114984"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "N-(5-(3,5-Difluorobenzyl)-1H-indazol-3-yl)-4-(4-methylpiperazin-1yl)-2-(tetrahydro-2H-pyran-4-ylamino)benzamide",
+      "RXDX 101",
+      "RXDX-101",
+      "RXDX101",
+      "Rozlytrek"
+    ]
+  },
+  "civic.tid:601": {
+    "id": "civic.tid:601",
+    "label": "Selpercatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2370147"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:675",
+              "type": "Disease",
+              "label": "Thyroid cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7510"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C134987"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "6-(2-Hydroxy-2-methylpropoxy)-4-(6-(6-((6-methoxypyridin-3-yl)methyl)-3,6-diazabicyclo(3.1.1)heptan-3-yl)pyridin-3-yl)pyrazolo(1,5-a)pyridine-3-carbonitril",
+      "LOXO-292",
+      "RET Inhibitor LOXO-292",
+      "RET Kinase Inhibitor LOXO-292",
+      "Retevmo",
+      "WHO 10967"
+    ]
+  },
+  "civic.tid:56": {
+    "id": "civic.tid:56",
+    "label": "Pazopanib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:714438"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C74547"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Benzenesulfonamide, 5-((4-((2,3-dimethyl-2H-indazol-6-yl)methylamino)-2-pyrimidinyl)amino)-2-methyl-",
+      "GW786034"
+    ]
+  },
+  "civic.tid:1975": {
+    "id": "civic.tid:1975",
+    "label": "Pemigatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2359268"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:580",
+              "type": "Disease",
+              "label": "Cholangiocarcinoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4436"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C121553"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2H-Pyrrolo(3',2':5,6)pyrido(4,3-d)pyrimidin-2-one, 3-(2,6-difluoro-3,5-dimethoxyphenyl)-1-ethyl-1,3,4,7-tetrahydro-8-(4-morpholinylmethyl)-",
+      "INCB054828",
+      "Pemazyre"
+    ]
+  },
+  "civic.tid:10": {
+    "id": "civic.tid:10",
+    "label": "Tanespimycin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C37899"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C37899"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "17-(Allylamino)-17-demethoxygeldanamycin",
+      "17-AAG",
+      "17-Allylamino-17-demethoxygeldanamycin",
+      "17-Demethoxy-17-(2-propenylamino)geldanamycin",
+      "17-N-allylamino-17-demethoxy Geldanamycin",
+      "17-N-allylamino-17-demethoxygeldanamycin",
+      "Geldanamycin, 17-allylamino-17-demethoxy-",
+      "KOS-953"
+    ]
+  },
+  "civic.tid:141": {
+    "id": "civic.tid:141",
+    "label": "Pictilisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C165479"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:148": {
+    "id": "civic.tid:148",
+    "label": "Abemaciclib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1946825"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C97660"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-Pyrimidinamine, N-(5-((4-ethyl-1-piperazinyl)methyl)-2-pyridinyl)-5-fluoro-4-(4-fluoro-2-methyl-1-(1-methylethyl)-1H-benzimidazol-6-yl)",
+      "LY-2835219",
+      "LY2835219",
+      "Verzenio"
+    ]
+  },
+  "civic.tid:43": {
+    "id": "civic.tid:43",
+    "label": "Akt Inhibitor MK2206",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C90581"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C90581"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1,2,4-Triazolo(3,4-f)(1,6)naphthyridin-3(2H)-one, 8-(4-(1-aminocyclobutyl)phenyl)-9-phenyl-",
+      "MK 2206",
+      "MK-2206",
+      "MK-2206 FREE BASE",
+      "MK2206"
+    ]
+  },
+  "civic.tid:377": {
+    "id": "civic.tid:377",
+    "label": "Apitolisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C91731"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C91731"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "GDC 0980",
+      "GDC-0980",
+      "GNE 390",
+      "RG 7422"
+    ]
+  },
+  "civic.tid:572": {
+    "id": "civic.tid:572",
+    "label": "Meloxicam",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:41493"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": []
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C61439"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-Hydroxy-2-methyl-N-(5-methyl-2-thiazolyl)-2H-1,2-benzothiazine-3-carboxamide 1,1-dioxide",
+      "Mobec",
+      "Mobic",
+      "Mobicox",
+      "Movalis",
+      "Movatec"
+    ]
+  },
+  "civic.tid:574": {
+    "id": "civic.tid:574",
+    "label": "Venetoclax",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1747556"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:552",
+              "type": "Disease",
+              "label": "Acute myeloid leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3171"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:581",
+              "type": "Disease",
+              "label": "Chronic lymphocytic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3163"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C103147"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-(4-((2-(4-Chlorophenyl)-4,4-dimethylcyclohex-1-en-1-yl)methyl)piperazin-1-yl)-N-((3-nitro-4-((tetrahydro-2H-pyran-4-ylmethyl)amino)phenyl)sulfonyl)-2-(1H-pyrrolo(2,3-b)pyridin-5-yloxy)benzamide",
+      "ABT-0199",
+      "ABT-199",
+      "ABT199",
+      "GDC-0199",
+      "RG7601",
+      "Venclexta",
+      "Venclyxto"
+    ]
+  },
+  "civic.tid:411": {
+    "id": "civic.tid:411",
+    "label": "Tazemetostat",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2274378"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": []
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C107506"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "E7438",
+      "EPZ-6438",
+      "EPZ6438",
+      "N-((4,6-Dimethyl-2-oxo-1,2-dihydropyridin-3-yl)methyl)-5-(ethyl(oxan-4-yl)amino)-4-methyl-4'-((morpholin-4-yl)methyl)(1,1'-biphenyl)-3-carboxamide",
+      "N-((4,6-dimethyl-2-oxo-1,2-dihydropyridin-3-yl)methyl)-5-(ethyl(tetrahydro-2H-pyran-4-yl)amino)-4-methyl-4'-(morpholinomethyl)-[1,1'-biphenyl]-3-carboxamide"
+    ]
+  },
+  "civic.tid:573": {
+    "id": "civic.tid:573",
+    "label": "Larotrectinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2105628"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:44382",
+              "type": "Disease",
+              "label": "Malignant solid neoplasm",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C132146"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C115977"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1-Pyrrolidinecarboxamide, N-(5-((2R)-2-(2,5-difluorophenyl)-1-pyrrolidinyl)pyrazolo(1,5-a)pyrimidin-3-yl)-3-hydroxy-, (3S)-",
+      "3S)-N-(5-((2R)-2-(2,5-Difluorophenyl)pyrrolidin-1-yl)pyrazolo(1,5-a)pyrimidin-3-yl)-3-hydroxypyrrolidine- 1-carboxamide",
+      "ARRY 470",
+      "LOXO 101",
+      "LOXO-101"
+    ]
+  },
+  "civic.tid:520": {
+    "id": "civic.tid:520",
+    "label": "Bosutinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1307619"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "EFO:0000339",
+              "type": "Disease",
+              "label": "chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C60809"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-Anilino-3-quinolinecarbonitrile",
+      "4-Anilinobenzo(g)quinoline-3-carbonitrile",
+      "4-[(2,4-dichloro-5-methoxyphenyl)amino]-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline-3-carbonitrile",
+      "Bosulif",
+      "SKI 606",
+      "SKI-606"
+    ]
+  },
+  "civic.tid:45": {
+    "id": "civic.tid:45",
+    "label": "Lapatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:480167"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C26653"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "GSK572016",
+      "GW 2016",
+      "GW2016",
+      "GW572016"
+    ]
+  },
+  "civic.tid:52": {
+    "id": "civic.tid:52",
+    "label": "Neratinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1940643"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C49094"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(2E)-N-(4-((3-chloro-4-((pyridin-2-yl)methoxy)phenyl)amino)-3-cyano-7-ethoxyquinolin-6-yl)-4-(dimethylamino)but-2-enamide",
+      "2-Butenamide, N-(4-((3-chloro-4-(2-pyridinylmethoxy)phenyl)amino)-3-cyano-7-ethoxy-6-quinolinyl)-4-(dimethylamino)-, (2E)-",
+      "HKI 272",
+      "HKI-272",
+      "PB 272",
+      "PB-272"
+    ]
+  },
+  "civic.tid:21": {
+    "id": "civic.tid:21",
+    "label": "Crenolanib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C64639"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C64639"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "4-Piperidinamine, 1-[2-[5-[(3-methyl-3-oxetanyl)methoxy]-1Hbenzimidazol-1-yl]-8-quinolinyl]-",
+      "CP-868,596",
+      "CP-868596",
+      "PDGFR Inhibitor CP-868596",
+      "[1-[2-[5-(3-Methyloxetan-3-ylmethoxy)benzimidazol-1-yl]quinolin-8-yl]piperidin-4-yl]amine"
+    ]
+  },
+  "civic.tid:18": {
+    "id": "civic.tid:18",
+    "label": "TAE684",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C171615"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:66": {
+    "id": "civic.tid:66",
+    "label": "PI3K-alpha Inhibitor MEN1611",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C158603"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C158603"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "5-(7-Methylsulfonyl-2-morpholin-4-yl-5,6-dihydropyrrolo[2,3-d]pyrimidin-4-yl)pyrimidin-2-amine",
+      "Alpha-selective PI3K Inhibitor MEN1611",
+      "CH 5132799",
+      "CH-5132799",
+      "CH5132799",
+      "MEN 1611",
+      "MEN-1611",
+      "MEN1611",
+      "PA 799",
+      "PA-799",
+      "PA799",
+      "PI3Kalpha Inhibitor MEN1611"
+    ]
+  },
+  "civic.tid:67": {
+    "id": "civic.tid:67",
+    "label": "MTOR Inhibitor",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C2201"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C2201"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:473": {
+    "id": "civic.tid:473",
+    "label": "AGI-5198",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:9240"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:241": {
+    "id": "civic.tid:241",
+    "label": "Lorlatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2103164"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:642",
+              "type": "Disease",
+              "label": "Non-small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C2926"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C113655"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2H-4,8-Methenopyrazolo(4,3-H)(2,5,11)benzoxadiazacyclotetradecine-3-carbonitrile, 7-amino-12-fluoro-10,15,16,17-tetrahydro-2,10,16-trimethyl-15-oxo-, (10R)-",
+      "7-Amino-12-fluoro-2,10,16-trimethyl-15-oxo-10,15,16,17-tetrahydro-2H-8,4-(metheno)pyrazolo(4,3-h)(2,5,11)benzoxadiazacyclotetradecine-3-carbonitrile",
+      "Lorbrena",
+      "PF-06463922"
+    ]
+  },
+  "civic.tid:469": {
+    "id": "civic.tid:469",
+    "label": "Sirolimus",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:35302"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:37829",
+              "type": "Disease",
+              "label": "PEComa",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C38150"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1212"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "9,10,12,13,14,21,22,23,24,25,26,27,32,33,34,34a-Hexadecahydro-9,27-dihydroxy-3-((1R)-2-((1S,3R,4R)-4-hydroxy-3-methoxycyclohexyl)-1-methylethyl)-10,21-dimethoxy-6,8,12,14,20,26-hexamethyl-23,27-epoxy-3H-pyrido(2,1-c)(1,4)oxaazacyclohentriacontine-1,5,11,2",
+      "AY 22989",
+      "RAPA",
+      "RAPAMYCIN",
+      "Rapamune",
+      "SILA 9268A",
+      "WY-090217"
+    ]
+  },
+  "civic.tid:124": {
+    "id": "civic.tid:124",
+    "label": "MTOR Kinase Inhibitor AZD8055",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C78856"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C78856"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AZD-8055",
+      "AZD8055"
+    ]
+  },
+  "civic.tid:505": {
+    "id": "civic.tid:505",
+    "label": "Quizartinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C68936"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C68936"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(2E)-N-(4-(3-Chloro-4-Fluoroanilino)-7-(((3S)-Oxolan-3-Yl)Oxy)Quinoxazolin-6-yl)-4-(Dimethylamino)but-2-Enamide",
+      "AC-220",
+      "AC010220",
+      "AC220",
+      "N-(5-tert-butyl-isoxazol-3-yl)-N'-{4-[7-(2-morpholin-4-yl-ethoxy)imidazo [2,1-b] [1,3] Benzothiazol 2-yl]phenyl}urea"
+    ]
+  },
+  "civic.tid:343": {
+    "id": "civic.tid:343",
+    "label": "Dactolisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C74072"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C74072"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "BEZ235",
+      "Benzeneacetonitrile, 4-(2,3-Dihydro-3-methyl-2-oxo-8-(3-quinolinyl)-1H-imidazo(4,5-c)quinolin-1-yl)-alpha,alpha-dimethyl-",
+      "NVPBEZ235"
+    ]
+  },
+  "civic.tid:541": {
+    "id": "civic.tid:541",
+    "label": "JQEZ5",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:9332"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:55": {
+    "id": "civic.tid:55",
+    "label": "Ponatinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1364347"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C95777"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AP-24534",
+      "AP24534",
+      "Benzamide, 3-(2-Imidazo(1,2-B)Pyridazin-3-Ylethynyl)-4-Methyl-N-(4-((4-Methyl-1- Piperazinyl)Methyl)-3-(Trifluoromethyl)Phenyl)"
+    ]
+  },
+  "civic.tid:641": {
+    "id": "civic.tid:641",
+    "label": "Gilteritinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2105806"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C116722"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "6-Ethyl-3-((3-methoxy-4-(4-(4-methylpiperazin-1-yl)piperidin-1-yl)phenyl)amino)-5-((tetrahydro-2H-pyran-4-yl)amino)pyrazine-2-carboxamide",
+      "ASP-2215",
+      "ASP2215",
+      "Xospata"
+    ]
+  },
+  "civic.tid:260": {
+    "id": "civic.tid:260",
+    "label": "Lestaurtinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C48402"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C48402"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "9,12-Epoxy-1H-diindolo(1,2,3-fg:3',2',1'-kl)pyrrolo(3,4-i)(1,6)benzodiazocin-1-one, 2,3,9,10,11,12-hexahydro-10-hydroxy-10-(hydroxymethyl)-9-methyl-, (9S,10S,12R)-",
+      "CEP-701",
+      "KT-5555",
+      "SPM-924"
+    ]
+  },
+  "civic.tid:9": {
+    "id": "civic.tid:9",
+    "label": "Fedratinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2197490"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C88293"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Benzenesulfonamide, N-(1,1-dimethylethyl)-3-((5-methyl-2-((4-(2-(1-pyrrolidinyl)ethoxy)phenyl)amino)-4-pyrimidinyl)amino)-",
+      "SAR302503",
+      "TG101348"
+    ]
+  },
+  "civic.tid:17": {
+    "id": "civic.tid:17",
+    "label": "Alectinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1727455"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C101790"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "5H-benzo(b)carbazole-3-carbonitrile, 9-Ethyl-6,11-dihydro-6,6-dimethyl-8-(4-(4-morpholinyl)-1-piperidinyl)-11-oxo-",
+      "AF-802",
+      "AF802",
+      "ALK Inhibitor RO5424802",
+      "Alecensa",
+      "CH5424802",
+      "RG7853",
+      "RO5424802"
+    ]
+  },
+  "civic.tid:23": {
+    "id": "civic.tid:23",
+    "label": "Motesanib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C71896"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C71896"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:24": {
+    "id": "civic.tid:24",
+    "label": "JAK2 Inhibitor AZD1480",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C91394"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C91394"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "AZD-1480",
+      "AZD1480"
+    ]
+  },
+  "civic.tid:68": {
+    "id": "civic.tid:68",
+    "label": "Doxorubicin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:142433"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:552",
+              "type": "Disease",
+              "label": "Acute myeloid leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3171"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:675",
+              "type": "Disease",
+              "label": "Thyroid cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7510"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:569",
+              "type": "Disease",
+              "label": "Bladder cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9334"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:601",
+              "type": "Disease",
+              "label": "Gastric cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9331"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:614",
+              "type": "Disease",
+              "label": "Hodgkin lymphoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9357"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:666",
+              "type": "Disease",
+              "label": "Small cell lung cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C4917"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:645",
+              "type": "Disease",
+              "label": "Ovarian cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C7431"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:667",
+              "type": "Disease",
+              "label": "Soft tissue sarcoma",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9306"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C456"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(8S-cis)-10-[(3-Amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroacetyl)-1-methoxy-5,12-naphthacenedione",
+      "(8S-cis)-10-[(3-Amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione",
+      "14-Hydroxydaunomycin",
+      "Adriablastin",
+      "Hydroxydaunomycin",
+      "Hydroxyl Daunorubicin",
+      "Hydroxyldaunorubicin"
+    ]
+  },
+  "civic.tid:274": {
+    "id": "civic.tid:274",
+    "label": "Patidegib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C80063"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C80063"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "FIN-5",
+      "IP9 Free Base",
+      "IPI-926",
+      "IPI-926 Free Base",
+      "Saridegib",
+      "Smoothened Antagonist IPI-926"
+    ]
+  },
+  "civic.tid:342": {
+    "id": "civic.tid:342",
+    "label": "Cobimetinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1722365"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "ChEMBL",
+          "has_indications": [
+            {
+              "id": "mesh:D009369",
+              "type": "Disease",
+              "label": "Neoplasms",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3262"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C68923"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Cotellic",
+      "GDC-0973",
+      "MEK Inhibitor GDC-0973",
+      "XL518"
+    ]
+  },
+  "civic.tid:36": {
+    "id": "civic.tid:36",
+    "label": "PD173074",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:5037"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:319": {
+    "id": "civic.tid:319",
+    "label": "AZD3463",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:7706"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:30": {
+    "id": "civic.tid:30",
+    "label": "PLX4720",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "drugbank:DB06999"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:457": {
+    "id": "civic.tid:457",
+    "label": "Trastuzumab Emtansine",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1371041"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C82492"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "ADO-TRASTUZUMAB EMTANSINE",
+      "Ado Trastuzumab Emtansine",
+      "Immunoglobulin G1, Anti-(Human P185neu Receptor) (Human-Mouse Monoclonal RhuMab HER2 Gamma1-Chain), Disulfide With Human-Mouse Monoclonal RhuMab HER2 Light Chain, Dimer, Tetraamide With N2'-(3-((1-((4-carboxycyclohexyl)methyl)-2,5-dioxo-3-pyrrolidinyl)thio)-1-oxopropyl)-N2'-deacetylMaytansine",
+      "Kadcyla",
+      "PRO132365",
+      "RO5304020",
+      "T-DM1",
+      "Trastuzumab-DM1",
+      "Trastuzumab-MCC-DM1",
+      "Trastuzumab-MCC-DM1 Antibody-Drug Conjugate",
+      "Trastuzumab-MCC-DM1 Immunoconjugate"
+    ]
+  },
+  "civic.tid:465": {
+    "id": "civic.tid:465",
+    "label": "Canertinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C77588"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C77588"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-propenamide, N-[4-[(3-chloro-4-fluorophenyl)amino]-7-[3-(4-morpholinyl)propoxy]-6-quinazolinyl]-",
+      "N-{4-[(3-Chloro-4-fluorophenyl)amino]-7-[3-(morpholin-4-yl)propoxy]quinazolin-6-yl}prop-2-enamide"
+    ]
+  },
+  "civic.tid:503": {
+    "id": "civic.tid:503",
+    "label": "Tandutinib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C48404"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C48404"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "1-Piperazinecarboxamide, 4-(6-Methoxy-7-(3-(1-piperidinyl)propoxy)-4-quinazolinyl)-N-(4-(1-methylethoxy)phenyl)-",
+      "CT53518",
+      "MLN 518",
+      "MLN518"
+    ]
+  },
+  "civic.tid:568": {
+    "id": "civic.tid:568",
+    "label": "U0126",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:5282"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:1629": {
+    "id": "civic.tid:1629",
+    "label": "FLT3/ABL/Aurora Kinase Inhibitor KW-2449",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C116858"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C116858"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "KW-2449"
+    ]
+  },
+  "civic.tid:111": {
+    "id": "civic.tid:111",
+    "label": "Uprosertib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C84870"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C84870"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-Furancarboxamide, N-((1S)-2-Amino-1-((3,4-difluorophenyl)methyl)ethyl)-5-chloro-4-(4-chloro-1-methyl-1H-pyrazol-5-yl)-",
+      "GSK2141795",
+      "Oral Akt Inhibitor GSK2141795"
+    ]
+  },
+  "civic.tid:181": {
+    "id": "civic.tid:181",
+    "label": "Amrubicin",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C80089"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C80089"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(+)-(7S,9S)-9-Acetyl-9-amino-7-((2-deoxy-beta-D-erythro-pentopyranosyl)oxy)- 6,11-dihydroxy-7,8,9,10-tetrahydrotetracene-5,12-dione"
+    ]
+  },
+  "civic.tid:660": {
+    "id": "civic.tid:660",
+    "label": "Taselisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C116876"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C116876"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "GDC-0032",
+      "RO5537381"
+    ]
+  },
+  "civic.tid:407": {
+    "id": "civic.tid:407",
+    "label": "Aromatase Inhibitor",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C1740"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1740"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:173": {
+    "id": "civic.tid:173",
+    "label": "Cytarabine",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:3041"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:575",
+              "type": "Disease",
+              "label": "CNS leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C5440"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:582",
+              "type": "Disease",
+              "label": "Chronic myelogenous leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3174"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:552",
+              "type": "Disease",
+              "label": "Acute myeloid leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3171"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            },
+            {
+              "id": "hemonc:24309",
+              "type": "Disease",
+              "label": "Acute lymphoblastic leukemia",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C3167"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C408"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      ".beta.-Cytosine Arabinoside",
+      "1-.beta.-D-Arabinofuranosyl-4-amino-2(1H)pyrimidinone",
+      "1-.beta.-D-Arabinofuranosylcytosine",
+      "1-Beta-D-arabinofuranosyl-4-amino-2(1H)pyrimidinone",
+      "1-Beta-D-arabinofuranosylcytosine",
+      "1.beta.-D-Arabinofuranosylcytosine",
+      "2(1H)-Pyrimidinone, 4-Amino-1-beta-D-arabinofuranosyl-",
+      "2(1H)-Pyrimidinone, 4-amino-1.beta.-D-arabinofuranosyl-",
+      "4-Amino-1-beta-D-arabinofuranosyl-2(1H)-pyrimidinone",
+      "ARA-cell",
+      "Alexan",
+      "Ara-C",
+      "Arabine",
+      "Arabinofuranosylcytosine",
+      "Arabinosylcytosine",
+      "Aracytidine",
+      "Aracytin",
+      "Aracytine",
+      "Beta-Cytosine Arabinoside",
+      "CHX-3311",
+      "Cytarabinum",
+      "Cytarbel",
+      "Cytosar",
+      "Cytosar-U",
+      "Cytosine Arabinoside",
+      "Cytosine-.beta.-arabinoside",
+      "Cytosine-beta-arabinoside",
+      "Erpalfa",
+      "Starasid",
+      "Tarabine PFS",
+      "U 19920",
+      "U-19920",
+      "Udicil",
+      "WR-28453"
+    ]
+  },
+  "civic.tid:429": {
+    "id": "civic.tid:429",
+    "label": "Palbociclib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:1601374"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C49176"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-8h-pyrido(2,3-d)pyrimidin-7-one",
+      "Ibrance",
+      "PD 0332991",
+      "PD 332991",
+      "PD 991",
+      "PD-0332991",
+      "Pyrido(2,3-d)pyrimidin-7(8H)-one, 6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(1-piperazinyl)-2-pyridinyl)amino)-"
+    ]
+  },
+  "civic.tid:570": {
+    "id": "civic.tid:570",
+    "label": "Alpelisib",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "rxcui:2169285"
+      },
+      {
+        "type": "Extension",
+        "name": "regulatory_approval",
+        "value": {
+          "approval_rating": "FDA",
+          "has_indications": [
+            {
+              "id": "hemonc:572",
+              "type": "Disease",
+              "label": "Breast cancer",
+              "mappings": [
+                {
+                  "coding": {
+                    "system": "ncit",
+                    "code": "C9335"
+                  },
+                  "relation": "relatedMatch"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C94214"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "BYL719",
+      "Phosphoinositide 3-kinase Inhibitor BYL719",
+      "Piqray"
+    ]
+  },
+  "civic.tid:19830": {
+    "id": "civic.tid:19830",
+    "label": "PI-103",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "iuphar.ligand:5701"
+      }
+    ],
+    "type": "TherapeuticAgent"
+  },
+  "civic.tid:51": {
+    "id": "civic.tid:51",
+    "label": "Staurosporine",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C1237"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "ncit:C1237"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "(9alpha,10beta,11beta,13alpha)-(+)-2,3,10,11,12,13-Hexahydro-10-methoxy-9-methyl-11-(methylamino)-9,13-epoxy-1H-9H-diindolo[1,2,3-gh:3',2',1'-lm]pyrrolo[3,4-j][1,7]benzodiazonin-1-one",
+      "8,12-Epoxy-1H,8H-2,7b,12a-triazadibenzo(a,g)cyclonona(cde)trinden-1-one, 2,3,9,10,11,12-hexahydro-9-methoxy-8-methyl-10-(methylamino)-, (8alpha,9beta,10beta,12alpha)-(+)-",
+      "AM-2282",
+      "Antibiotic 230",
+      "Antibiotic AM 2282",
+      "CGP-39360"
+    ]
+  }
+}
