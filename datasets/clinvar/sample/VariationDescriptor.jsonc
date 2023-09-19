@@ -1,0 +1,231 @@
+{
+    "description": "NM_004700.4(KCNQ4):c.803CCT[1] (p.Ser269del)",
+    "type": "CanonicalVariationDescriptor",
+    "xrefs": [
+        "https://identifiers.org/clinvar:208366",
+        "https://www.ncbi.nlm.nih.gov/clinvar/208366"
+    ],
+    "canonical_variation": {
+        "id": "ga4gh:CLV.gJm0ft2X9pWpYcfrJS0T0evSArGNi-sC",
+        "type": "CanonicalVariation",
+        "canonical_context": {
+            "id": "ga4gh:VA.Ti7zPciQelW7jTfgg-uzjZpxosnGzROK",
+            "type": "Allele",
+            "location": {
+                "id": "ga4gh:SL.0p7IvmD09kXlV7XDzrNeSSRpOJwgO7vv",
+                "type": "SequenceLocation",
+                "sequence_id": "ga4gh:SQ.Ya6Rs7DHhDeg7YaOSg1EoNi3U_nQ9SvO",
+                "start": {
+                    "type": "Number",
+                    "value": 40819438
+                },
+                "end": {
+                    "type": "Number",
+                    "value": 40819446
+                }
+            },
+            "state": {
+                "type": "LiteralSequenceExpression",
+                "sequence": "CTCCT"
+            }
+        }
+    },
+    "extensions": [
+        {
+            "type": "Extension",
+            "name": "clinvar_variation",
+            "value": "https://identifiers.org/clinvar:208366"
+        },
+        {
+            "type": "Extension",
+            "name": "child_ids",
+            "value": []
+        },
+        {
+            "type": "Extension",
+            "name": "clingen_version",
+            "value": 0
+        },
+        {
+            "type": "Extension",
+            "name": "canonical_expression",
+            "value": "NC_000001.11:40819438:CTCCTCCT:CTCCT"
+        },
+        {
+            "type": "Extension",
+            "name": "variation_type",
+            "value": "Microsatellite"
+        },
+        {
+            "type": "Extension",
+            "name": "candidate_expressions",
+            "value": [
+                {
+                    "label": "Text",
+                    "expression": "208366"
+                },
+                {
+                    "label": "SPDI",
+                    "expression": "NC_000001.11:40819438:CTCCTCCT:CTCCT"
+                },
+                {
+                    "label": "GRCh37",
+                    "expression": "NC_000001.10:g.41285113CCT[1]"
+                },
+                {
+                    "label": "GRCh38",
+                    "expression": "NC_000001.11:g.40819441CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "Extension",
+            "name": "entity_type",
+            "value": "variation"
+        },
+        {
+            "type": "Extension",
+            "name": "protein_change",
+            "value": "S269del"
+        },
+        {
+            "type": "Extension",
+            "name": "descendant_ids",
+            "value": []
+        },
+        {
+            "type": "Extension",
+            "name": "subclass_type",
+            "value": "SimpleAllele"
+        },
+        {
+            "type": "Extension",
+            "name": "allele_id",
+            "value": "204595"
+        }
+    ],
+    "label": "NM_004700.4(KCNQ4):c.803CCT[1] (p.Ser269del)",
+    "id": "cgterms:VariationDescriptor_208366.2022-08-13",
+    "members": [
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.p",
+                    "value": "NP_751895.1:p.Ser269del"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.g",
+                    "value": "NC_000001.10:g.41285113CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.g",
+                    "value": "NC_000001.11:g.40819441CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.g",
+                    "value": "LRG_1378:g.40655CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.p",
+                    "value": "NP_004691.2:p.Ser269del"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.c",
+                    "value": "LRG_1378t1:c.803CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "spdi",
+                    "value": "NC_000001.11:40819438:CTCCTCCT:CTCCT"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.c",
+                    "value": "NM_004700.4:c.803CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.c",
+                    "value": "NM_172163.3:c.803CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.g",
+                    "value": "NG_008139.3:g.40655CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.c",
+                    "value": "NM_004700.4(KCNQ4):c.803_805CCT[1]"
+                }
+            ]
+        },
+        {
+            "type": "VariationMember",
+            "expressions": [
+                {
+                    "type": "Expression",
+                    "syntax": "hgvs.p",
+                    "value": "LRG_1378p1:p.Ser269del"
+                }
+            ]
+        }
+    ]
+}

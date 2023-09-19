@@ -1,0 +1,61 @@
+{
+    "description": "The c.806_808delCCT variant in the KCNQ4 gene has been reported in at least two families with autosomal dominant hearing loss (Abdelfatah et al., 2013; Watabe et al., 2013). The c.806_808delCCT variant was not observed in approximately 6,500 individuals of European and African American ancestry in the NHLBI Exome Sequencing Project, indicating it is not a common benign variant in these populations. The c.806_808delCCT variant is an in-frame deletion that results in the loss of a single Serine residue, denoted p.Ser269del within the extracellular topological domain (Uniprot). The residue removed by this deletion occurs at a position where amino acids with similar properties to Serine are tolerated across species. Based on currently available evidence, we interpret c.806_808delCCT to be likely pathogenic.",
+    "specified_by": {
+        "id": "59b7c9a80608f0c4986f692973a41532",
+        "type": "Method",
+        "label": "GeneDx Variant Classification (06012015)",
+        "is_reported_in": {
+            "id": "https://submit.ncbi.nlm.nih.gov/ft/byid/dhtz9flo/genedx_interprules_final_061215.pdf",
+            "type": "Document"
+        }
+    },
+    "type": "VariationGermlinePathogenicityStatement",
+    "classification": {
+        "type": "Coding",
+        "id": "cgterms:lp",
+        "label": "Likely_pathogenic"
+    },
+    "record_metadata": {
+        "type": "RecordMetadata",
+        "is_version_of": "cgterms:SCV_Statement_SCV000568660",
+        "version": "2022-07-19"
+    },
+    "contributions": [
+        {
+            "type": "Contribution",
+            "contributor": {
+                "id": "cgterms:clinvar.submitter/26957",
+                "type": "Agent"
+            },
+            "date": "2019-04-17",
+            "activity": {
+                "id": "cgterms:Submitter",
+                "type": "Coding"
+            }
+        },
+        {
+            "type": "Contribution",
+            "contributor": {
+                "id": "cgterms:clinvar.submitter/26957",
+                "type": "Agent"
+            },
+            "date": "2018-11-01",
+            "activity": {
+                "id": "cgterms:Approver",
+                "type": "Coding"
+            }
+        }
+    ],
+    "id": "cgterms:SCV_Statement_SCV000568660.2022-07-19",
+    "target_proposition": {
+        "type": "VariationGermlinePathogenicityProposition",
+        "subject": "ga4gh:CLV.gJm0ft2X9pWpYcfrJS0T0evSArGNi-sC",
+        "predicate": "causes_mendelian_condition",
+        "object": {
+            "id": "medgen:CN517202",
+            "type": "Disease"
+        }
+    },
+    "subject_descriptor": "cgterms:VariationDescriptor_208366.2022-07-19",
+    "direction": "supports"
+}
