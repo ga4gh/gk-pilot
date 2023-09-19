@@ -1,0 +1,376 @@
+{
+  "moa.normalize.disease.ncit:C3174": {
+    "id": "moa.normalize.disease.ncit:C3174",
+    "label": "Chronic Myelogenous Leukemia",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3174"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Chronic Myelogenous Leukemia",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "CML"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C2926": {
+    "id": "moa.normalize.disease.ncit:C2926",
+    "label": "Non-Small Cell Lung Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C2926"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Non-Small Cell Lung Cancer",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "NSCLC"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C2919": {
+    "id": "moa.normalize.disease.ncit:C2919",
+    "label": "Prostate Adenocarcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C2919"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Prostate Adenocarcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "PRAD"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C5105": {
+    "id": "moa.normalize.disease.ncit:C5105",
+    "label": "Colorectal Adenocarcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C5105"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Colorectal Adenocarcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "COADREAD"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3224": {
+    "id": "moa.normalize.disease.ncit:C3224",
+    "label": "Melanoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3224"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Melanoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "MEL"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3107": {
+    "id": "moa.normalize.disease.ncit:C3107",
+    "label": "Langerhans Cell Histiocytosis",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3107"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Langerhans Cell Histiocytosis",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "LCH"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C53972": {
+    "id": "moa.normalize.disease.ncit:C53972",
+    "label": "Non-Langerhans Cell Histiocytosis/Erdheim-Chester Disease",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C53972"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Non-Langerhans Cell Histiocytosis/Erdheim-Chester Disease",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "ECD"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C8294": {
+    "id": "moa.normalize.disease.ncit:C8294",
+    "label": "Pancreatic Adenocarcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C8294"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Pancreatic Adenocarcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "PAAD"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C4436": {
+    "id": "moa.normalize.disease.ncit:C4436",
+    "label": "Cholangiocarcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C4436"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Cholangiocarcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "CHOL"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3209": {
+    "id": "moa.normalize.disease.ncit:C3209",
+    "label": "Follicular Lymphoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3209"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Follicular Lymphoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "FL"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C39851": {
+    "id": "moa.normalize.disease.ncit:C39851",
+    "label": "Bladder Urothelial Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C39851"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Bladder Urothelial Carcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "BLCA"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3171": {
+    "id": "moa.normalize.disease.ncit:C3171",
+    "label": "Acute Myeloid Leukemia",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3171"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Acute Myeloid Leukemia",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "AML"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C9245": {
+    "id": "moa.normalize.disease.ncit:C9245",
+    "label": "Invasive Breast Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C9245"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Invasive Breast Carcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "BRCA"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3167": {
+    "id": "moa.normalize.disease.ncit:C3167",
+    "label": "Acute Lymphoid Leukemia",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3167"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Acute Lymphoid Leukemia",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "ALL"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3868": {
+    "id": "moa.normalize.disease.ncit:C3868",
+    "label": "Gastrointestinal Stromal Tumor",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3868"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Gastrointestinal Stromal Tumor",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "GIST"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C34447": {
+    "id": "moa.normalize.disease.ncit:C34447",
+    "label": "Head and Neck Squamous Cell Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C34447"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Head and Neck Squamous Cell Carcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "HNSC"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3879": {
+    "id": "moa.normalize.disease.ncit:C3879",
+    "label": "Medullary Thyroid Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3879"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Medullary Thyroid Cancer",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "THME"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  }
+}
