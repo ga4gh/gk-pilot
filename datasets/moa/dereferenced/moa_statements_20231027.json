@@ -55,6 +55,7 @@
         },
         "variant": {
             "id": "moa.variant:71",
+            "label": "ABL1 p.T315I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -304,6 +305,7 @@
         },
         "variant": {
             "id": "moa.variant:73",
+            "label": "ABL1 p.T315A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -485,6 +487,7 @@
         },
         "variant": {
             "id": "moa.variant:71",
+            "label": "ABL1 p.T315I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -659,6 +662,7 @@
         },
         "variant": {
             "id": "moa.variant:75",
+            "label": "ABL1 p.F317L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -833,6 +837,7 @@
         },
         "variant": {
             "id": "moa.variant:76",
+            "label": "ABL1 p.F317V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -1014,6 +1019,7 @@
         },
         "variant": {
             "id": "moa.variant:77",
+            "label": "ABL1 p.F317I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -1195,6 +1201,7 @@
         },
         "variant": {
             "id": "moa.variant:78",
+            "label": "ABL1 p.F317C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -1369,6 +1376,7 @@
         },
         "variant": {
             "id": "moa.variant:80",
+            "label": "ABL1 p.E255K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -1536,6 +1544,7 @@
         },
         "variant": {
             "id": "moa.variant:81",
+            "label": "ABL1 p.E255V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -1703,6 +1712,7 @@
         },
         "variant": {
             "id": "moa.variant:82",
+            "label": "ABL1 p.Y253H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -1870,6 +1880,7 @@
         },
         "variant": {
             "id": "moa.variant:83",
+            "label": "ABL1 p.F359V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -2037,6 +2048,7 @@
         },
         "variant": {
             "id": "moa.variant:84",
+            "label": "ABL1 p.F359C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -2197,6 +2209,7 @@
         },
         "variant": {
             "id": "moa.variant:85",
+            "label": "ABL1 p.F359I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -2362,6 +2375,7 @@
         },
         "variant": {
             "id": "moa.variant:82",
+            "label": "ABL1 p.Y253H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -2541,6 +2555,7 @@
         },
         "variant": {
             "id": "moa.variant:80",
+            "label": "ABL1 p.E255K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -2720,6 +2735,7 @@
         },
         "variant": {
             "id": "moa.variant:81",
+            "label": "ABL1 p.E255V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -2899,6 +2915,7 @@
         },
         "variant": {
             "id": "moa.variant:83",
+            "label": "ABL1 p.F359V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -3078,6 +3095,7 @@
         },
         "variant": {
             "id": "moa.variant:84",
+            "label": "ABL1 p.F359C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -3250,6 +3268,7 @@
         },
         "variant": {
             "id": "moa.variant:85",
+            "label": "ABL1 p.F359I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -3429,6 +3448,7 @@
         },
         "variant": {
             "id": "moa.variant:75",
+            "label": "ABL1 p.F317L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -3587,6 +3607,7 @@
         },
         "variant": {
             "id": "moa.variant:76",
+            "label": "ABL1 p.F317V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -3752,6 +3773,7 @@
         },
         "variant": {
             "id": "moa.variant:77",
+            "label": "ABL1 p.F317I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -3917,6 +3939,7 @@
         },
         "variant": {
             "id": "moa.variant:78",
+            "label": "ABL1 p.F317C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -4075,6 +4098,7 @@
         },
         "variant": {
             "id": "moa.variant:73",
+            "label": "ABL1 p.T315A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -4240,6 +4264,7 @@
         },
         "variant": {
             "id": "moa.variant:97",
+            "label": "ABL1 p.V299L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -4398,6 +4423,7 @@
         },
         "variant": {
             "id": "moa.variant:80",
+            "label": "ABL1 p.E255K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -4577,6 +4603,7 @@
         },
         "variant": {
             "id": "moa.variant:81",
+            "label": "ABL1 p.E255V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -4756,6 +4783,7 @@
         },
         "variant": {
             "id": "moa.variant:75",
+            "label": "ABL1 p.F317L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -4928,6 +4956,7 @@
         },
         "variant": {
             "id": "moa.variant:76",
+            "label": "ABL1 p.F317V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -5107,6 +5136,7 @@
         },
         "variant": {
             "id": "moa.variant:77",
+            "label": "ABL1 p.F317I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -5286,6 +5316,7 @@
         },
         "variant": {
             "id": "moa.variant:78",
+            "label": "ABL1 p.F317C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -5458,6 +5489,7 @@
         },
         "variant": {
             "id": "moa.variant:83",
+            "label": "ABL1 p.F359V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -5637,6 +5669,7 @@
         },
         "variant": {
             "id": "moa.variant:84",
+            "label": "ABL1 p.F359C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -5809,6 +5842,7 @@
         },
         "variant": {
             "id": "moa.variant:73",
+            "label": "ABL1 p.T315A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -5988,6 +6022,7 @@
         },
         "variant": {
             "id": "moa.variant:82",
+            "label": "ABL1 p.Y253H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -6167,6 +6202,7 @@
         },
         "variant": {
             "id": "moa.variant:108",
+            "label": "ABL1 p.T315I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -6339,6 +6375,7 @@
         },
         "variant": {
             "id": "moa.variant:108",
+            "label": "ABL1 p.T315I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -6474,6 +6511,7 @@
         },
         "variant": {
             "id": "moa.variant:85",
+            "label": "ABL1 p.F359I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -6655,6 +6693,7 @@
         },
         "variant": {
             "id": "moa.variant:115",
+            "label": "ALK p.G1202R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -6822,6 +6861,7 @@
         },
         "variant": {
             "id": "moa.variant:116",
+            "label": "ALK p.F1174C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -6989,6 +7029,7 @@
         },
         "variant": {
             "id": "moa.variant:117",
+            "label": "ALK p.L1196M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -7156,6 +7197,7 @@
         },
         "variant": {
             "id": "moa.variant:118",
+            "label": "ALK p.G1269A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -7323,6 +7365,7 @@
         },
         "variant": {
             "id": "moa.variant:119",
+            "label": "ALK p.S1206Y (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -7490,6 +7533,7 @@
         },
         "variant": {
             "id": "moa.variant:120",
+            "label": "AR p.T878A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -7657,6 +7701,7 @@
         },
         "variant": {
             "id": "moa.variant:121",
+            "label": "AR p.L702H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -7817,6 +7862,7 @@
         },
         "variant": {
             "id": "moa.variant:122",
+            "label": "ARAF p.S214C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -7996,6 +8042,7 @@
         },
         "variant": {
             "id": "moa.variant:134",
+            "label": "ATM p.A1127D (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -8203,6 +8250,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -8396,6 +8444,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -8561,6 +8610,7 @@
         },
         "variant": {
             "id": "moa.variant:151",
+            "label": "BRAF p.V600K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -8726,6 +8776,7 @@
         },
         "variant": {
             "id": "moa.variant:151",
+            "label": "BRAF p.V600K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -8905,6 +8956,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -9084,6 +9136,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -9263,6 +9316,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -9442,6 +9496,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -9621,6 +9676,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -9816,6 +9872,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -10067,6 +10124,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -10211,6 +10269,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -10364,6 +10423,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -10554,6 +10614,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -10744,6 +10805,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -10925,6 +10987,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -11092,6 +11155,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -11271,6 +11335,7 @@
         },
         "variant": {
             "id": "moa.variant:149",
+            "label": "BRAF p.V600E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -11478,6 +11543,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -11643,6 +11709,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -11818,6 +11885,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -11971,6 +12039,7 @@
         },
         "variant": {
             "id": "moa.variant:267",
+            "label": "EGFR p.L858R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -12147,6 +12216,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -12323,6 +12393,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -12467,6 +12538,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -12634,6 +12706,7 @@
         },
         "variant": {
             "id": "moa.variant:267",
+            "label": "EGFR p.L858R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -12778,6 +12851,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -12922,6 +12996,7 @@
         },
         "variant": {
             "id": "moa.variant:267",
+            "label": "EGFR p.L858R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -13066,6 +13141,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -13210,6 +13286,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -13391,6 +13468,7 @@
         },
         "variant": {
             "id": "moa.variant:254",
+            "label": "EGFR p.T790M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -13561,6 +13639,7 @@
         },
         "variant": {
             "id": "moa.variant:267",
+            "label": "EGFR p.L858R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -13733,6 +13812,7 @@
         },
         "variant": {
             "id": "moa.variant:284",
+            "label": "EGFR p.L858R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -13891,6 +13971,7 @@
         },
         "variant": {
             "id": "moa.variant:286",
+            "label": "EGFR p.L858R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14051,6 +14132,7 @@
         },
         "variant": {
             "id": "moa.variant:294",
+            "label": "ERRFI1 p.E384* (Nonsense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14223,6 +14305,7 @@
         },
         "variant": {
             "id": "moa.variant:300",
+            "label": "EZH2 p.Y646* (Nonsense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14366,6 +14449,7 @@
         },
         "variant": {
             "id": "moa.variant:301",
+            "label": "EZH2 p.Y646F (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14509,6 +14593,7 @@
         },
         "variant": {
             "id": "moa.variant:302",
+            "label": "EZH2 p.Y646N (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14652,6 +14737,7 @@
         },
         "variant": {
             "id": "moa.variant:303",
+            "label": "EZH2 p.A682G (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14795,6 +14881,7 @@
         },
         "variant": {
             "id": "moa.variant:304",
+            "label": "EZH2 p.A692V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -14938,6 +15025,7 @@
         },
         "variant": {
             "id": "moa.variant:307",
+            "label": "FGFR3 p.R248C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -15103,6 +15191,7 @@
         },
         "variant": {
             "id": "moa.variant:308",
+            "label": "FGFR3 p.S249C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -15268,6 +15357,7 @@
         },
         "variant": {
             "id": "moa.variant:309",
+            "label": "FGFR3 p.G370C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -15433,6 +15523,7 @@
         },
         "variant": {
             "id": "moa.variant:310",
+            "label": "FGFR3 p.Y373C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -15600,6 +15691,7 @@
         },
         "variant": {
             "id": "moa.variant:317",
+            "label": "FLT3 p.F691L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -15744,6 +15836,7 @@
         },
         "variant": {
             "id": "moa.variant:318",
+            "label": "FLT3 p.K663Q (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -15939,6 +16032,7 @@
         },
         "variant": {
             "id": "moa.variant:319",
+            "label": "GATA3 p.M294K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -16097,6 +16191,7 @@
         },
         "variant": {
             "id": "moa.variant:323",
+            "label": "IDH1 p.R132H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -16276,6 +16371,7 @@
         },
         "variant": {
             "id": "moa.variant:324",
+            "label": "IDH1 p.R132C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -16455,6 +16551,7 @@
         },
         "variant": {
             "id": "moa.variant:323",
+            "label": "IDH1 p.R132H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -16634,6 +16731,7 @@
         },
         "variant": {
             "id": "moa.variant:324",
+            "label": "IDH1 p.R132C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -16822,6 +16920,7 @@
         },
         "variant": {
             "id": "moa.variant:329",
+            "label": "IDH2 p.R140Q (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -16973,6 +17072,7 @@
         },
         "variant": {
             "id": "moa.variant:330",
+            "label": "IDH2 p.R172S (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -17117,6 +17217,7 @@
         },
         "variant": {
             "id": "moa.variant:331",
+            "label": "IDH2 p.R172K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -17254,6 +17355,7 @@
         },
         "variant": {
             "id": "moa.variant:338",
+            "label": "JAK1 p.V656F (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -17391,6 +17493,7 @@
         },
         "variant": {
             "id": "moa.variant:339",
+            "label": "JAK1 p.A634D (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -17533,6 +17636,7 @@
         },
         "variant": {
             "id": "moa.variant:352",
+            "label": "KIT p.T670I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -17712,6 +17816,7 @@
         },
         "variant": {
             "id": "moa.variant:353",
+            "label": "KIT p.V654A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -17891,6 +17996,7 @@
         },
         "variant": {
             "id": "moa.variant:352",
+            "label": "KIT p.T670I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -18084,6 +18190,7 @@
         },
         "variant": {
             "id": "moa.variant:353",
+            "label": "KIT p.V654A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -18277,6 +18384,7 @@
         },
         "variant": {
             "id": "moa.variant:361",
+            "label": "KIT p.W557C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -18524,6 +18632,7 @@
         },
         "variant": {
             "id": "moa.variant:362",
+            "label": "KIT p.W557G (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -18771,6 +18880,7 @@
         },
         "variant": {
             "id": "moa.variant:363",
+            "label": "KIT p.W557R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -19018,6 +19128,7 @@
         },
         "variant": {
             "id": "moa.variant:364",
+            "label": "KIT p.V559A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -19272,6 +19383,7 @@
         },
         "variant": {
             "id": "moa.variant:365",
+            "label": "KIT p.V559G (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -19526,6 +19638,7 @@
         },
         "variant": {
             "id": "moa.variant:366",
+            "label": "KIT p.L576P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -19780,6 +19893,7 @@
         },
         "variant": {
             "id": "moa.variant:367",
+            "label": "KIT p.K642E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -20027,6 +20141,7 @@
         },
         "variant": {
             "id": "moa.variant:374",
+            "label": "KIT p.D816V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -20170,6 +20285,7 @@
         },
         "variant": {
             "id": "moa.variant:387",
+            "label": "KRAS p.G12C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -20344,6 +20460,7 @@
         },
         "variant": {
             "id": "moa.variant:387",
+            "label": "KRAS p.G12C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -20511,6 +20628,7 @@
         },
         "variant": {
             "id": "moa.variant:402",
+            "label": "MAP2K1 p.P124L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -20685,6 +20803,7 @@
         },
         "variant": {
             "id": "moa.variant:403",
+            "label": "MAP2K1 p.Q56P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -20859,6 +20978,7 @@
         },
         "variant": {
             "id": "moa.variant:402",
+            "label": "MAP2K1 p.P124L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21004,6 +21124,7 @@
         },
         "variant": {
             "id": "moa.variant:403",
+            "label": "MAP2K1 p.Q56P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21149,6 +21270,7 @@
         },
         "variant": {
             "id": "moa.variant:403",
+            "label": "MAP2K1 p.Q56P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21323,6 +21445,7 @@
         },
         "variant": {
             "id": "moa.variant:403",
+            "label": "MAP2K1 p.Q56P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21468,6 +21591,7 @@
         },
         "variant": {
             "id": "moa.variant:408",
+            "label": "MAP2K1 p.C121S (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21642,6 +21766,7 @@
         },
         "variant": {
             "id": "moa.variant:408",
+            "label": "MAP2K1 p.C121S (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21787,6 +21912,7 @@
         },
         "variant": {
             "id": "moa.variant:410",
+            "label": "MAP2K2 p.Q60P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -21954,6 +22080,7 @@
         },
         "variant": {
             "id": "moa.variant:411",
+            "label": "MAPK1 p.E322K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22128,6 +22255,7 @@
         },
         "variant": {
             "id": "moa.variant:413",
+            "label": "MET p.T1010I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22272,6 +22400,7 @@
         },
         "variant": {
             "id": "moa.variant:432",
+            "label": "NRAS p.G12A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22417,6 +22546,7 @@
         },
         "variant": {
             "id": "moa.variant:433",
+            "label": "NRAS p.G12C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22562,6 +22692,7 @@
         },
         "variant": {
             "id": "moa.variant:434",
+            "label": "NRAS p.G12D (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22707,6 +22838,7 @@
         },
         "variant": {
             "id": "moa.variant:435",
+            "label": "NRAS p.G12R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22852,6 +22984,7 @@
         },
         "variant": {
             "id": "moa.variant:436",
+            "label": "NRAS p.G12S (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -22997,6 +23130,7 @@
         },
         "variant": {
             "id": "moa.variant:437",
+            "label": "NRAS p.G12V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -23142,6 +23276,7 @@
         },
         "variant": {
             "id": "moa.variant:438",
+            "label": "NRAS p.G13A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -23294,6 +23429,7 @@
         },
         "variant": {
             "id": "moa.variant:439",
+            "label": "NRAS p.G13D (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -23439,6 +23575,7 @@
         },
         "variant": {
             "id": "moa.variant:440",
+            "label": "NRAS p.G13R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -23584,6 +23721,7 @@
         },
         "variant": {
             "id": "moa.variant:441",
+            "label": "NRAS p.G13V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -23736,6 +23874,7 @@
         },
         "variant": {
             "id": "moa.variant:442",
+            "label": "NRAS p.Q61E (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -23888,6 +24027,7 @@
         },
         "variant": {
             "id": "moa.variant:443",
+            "label": "NRAS p.Q61H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24040,6 +24180,7 @@
         },
         "variant": {
             "id": "moa.variant:444",
+            "label": "NRAS p.Q61L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24185,6 +24326,7 @@
         },
         "variant": {
             "id": "moa.variant:444",
+            "label": "NRAS p.Q61L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24330,6 +24472,7 @@
         },
         "variant": {
             "id": "moa.variant:446",
+            "label": "NRAS p.Q61P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24482,6 +24625,7 @@
         },
         "variant": {
             "id": "moa.variant:447",
+            "label": "NRAS p.Q61R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24625,6 +24769,7 @@
         },
         "variant": {
             "id": "moa.variant:459",
+            "label": "PDGFRA p.D842V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24775,6 +24920,7 @@
         },
         "variant": {
             "id": "moa.variant:459",
+            "label": "PDGFRA p.D842V (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -24927,6 +25073,7 @@
         },
         "variant": {
             "id": "moa.variant:467",
+            "label": "PIK3CA p.E545Q (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25071,6 +25218,7 @@
         },
         "variant": {
             "id": "moa.variant:468",
+            "label": "PIK3CA p.C420R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25215,6 +25363,7 @@
         },
         "variant": {
             "id": "moa.variant:469",
+            "label": "PIK3CA p.E542K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25359,6 +25508,7 @@
         },
         "variant": {
             "id": "moa.variant:470",
+            "label": "PIK3CA p.E542Q (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25503,6 +25653,7 @@
         },
         "variant": {
             "id": "moa.variant:471",
+            "label": "PIK3CA p.E545A (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25647,6 +25798,7 @@
         },
         "variant": {
             "id": "moa.variant:472",
+            "label": "PIK3CA p.E545D (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25791,6 +25943,7 @@
         },
         "variant": {
             "id": "moa.variant:472",
+            "label": "PIK3CA p.E545D (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -25935,6 +26088,7 @@
         },
         "variant": {
             "id": "moa.variant:474",
+            "label": "PIK3CA p.E545G (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26079,6 +26233,7 @@
         },
         "variant": {
             "id": "moa.variant:475",
+            "label": "PIK3CA p.E545K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26223,6 +26378,7 @@
         },
         "variant": {
             "id": "moa.variant:476",
+            "label": "PIK3CA p.G1049R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26367,6 +26523,7 @@
         },
         "variant": {
             "id": "moa.variant:477",
+            "label": "PIK3CA p.G1049S (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26511,6 +26668,7 @@
         },
         "variant": {
             "id": "moa.variant:478",
+            "label": "PIK3CA p.H1047L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26655,6 +26813,7 @@
         },
         "variant": {
             "id": "moa.variant:479",
+            "label": "PIK3CA p.H1047R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26799,6 +26958,7 @@
         },
         "variant": {
             "id": "moa.variant:480",
+            "label": "PIK3CA p.H1047Y (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -26943,6 +27103,7 @@
         },
         "variant": {
             "id": "moa.variant:481",
+            "label": "PIK3CA p.H701P (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27087,6 +27248,7 @@
         },
         "variant": {
             "id": "moa.variant:482",
+            "label": "PIK3CA p.M1043I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27231,6 +27393,7 @@
         },
         "variant": {
             "id": "moa.variant:482",
+            "label": "PIK3CA p.M1043I (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27375,6 +27538,7 @@
         },
         "variant": {
             "id": "moa.variant:484",
+            "label": "PIK3CA p.P539R (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27519,6 +27683,7 @@
         },
         "variant": {
             "id": "moa.variant:485",
+            "label": "PIK3CA p.Q546K (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27663,6 +27828,7 @@
         },
         "variant": {
             "id": "moa.variant:486",
+            "label": "PIK3CA p.Y1021C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27807,6 +27973,7 @@
         },
         "variant": {
             "id": "moa.variant:528",
+            "label": "RET p.V804M (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -27988,6 +28155,7 @@
         },
         "variant": {
             "id": "moa.variant:529",
+            "label": "RET p.M918T (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -28167,6 +28335,7 @@
         },
         "variant": {
             "id": "moa.variant:323",
+            "label": "IDH1 p.R132H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -28346,6 +28515,7 @@
         },
         "variant": {
             "id": "moa.variant:324",
+            "label": "IDH1 p.R132C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -28525,6 +28695,7 @@
         },
         "variant": {
             "id": "moa.variant:324",
+            "label": "IDH1 p.R132C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -28667,6 +28838,7 @@
         },
         "variant": {
             "id": "moa.variant:323",
+            "label": "IDH1 p.R132H (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -28809,6 +28981,7 @@
         },
         "variant": {
             "id": "moa.variant:866",
+            "label": "IDH1 p.R132G (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -28951,6 +29124,7 @@
         },
         "variant": {
             "id": "moa.variant:867",
+            "label": "IDH1 p.R132S (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -29093,6 +29267,7 @@
         },
         "variant": {
             "id": "moa.variant:868",
+            "label": "IDH1 p.R132L (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
@@ -29235,6 +29410,7 @@
         },
         "variant": {
             "id": "moa.variant:387",
+            "label": "KRAS p.G12C (Missense)",
             "extensions": [
                 {
                     "type": "Extension",
