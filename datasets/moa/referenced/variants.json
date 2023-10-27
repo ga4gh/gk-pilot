@@ -3021,61 +3021,6 @@
       }
     }
   },
-  "moa.variant:369": {
-    "id": "moa.variant:369",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "4",
-          "start_position": "55599320",
-          "end_position": "55599320",
-          "reference_allele": "G",
-          "alternate_allele": "C",
-          "cdna_change": "c.2446G>C",
-          "protein_change": "p.D816H",
-          "exon": "17"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "369"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "rs121913506"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.D1eLtjcFQ0eDwFioywcx3Zjp1Fz6OYJ4",
-      "digest": "D1eLtjcFQ0eDwFioywcx3Zjp1Fz6OYJ4",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.EFk3ET7Ws47inqLJnNWEsA-GhUEwihbN",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
-        },
-        "start": 815,
-        "end": 816
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "H"
-      }
-    }
-  },
   "moa.variant:374": {
     "id": "moa.variant:374",
     "extensions": [
@@ -5281,8 +5226,8 @@
       }
     }
   },
-  "moa.variant:529": {
-    "id": "moa.variant:529",
+  "moa.variant:528": {
+    "id": "moa.variant:528",
     "extensions": [
       {
         "type": "Extension",
@@ -5303,7 +5248,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "529"
+          "code": "528"
         },
         "relation": "exactMatch"
       },
@@ -5336,8 +5281,8 @@
       }
     }
   },
-  "moa.variant:530": {
-    "id": "moa.variant:530",
+  "moa.variant:529": {
+    "id": "moa.variant:529",
     "extensions": [
       {
         "type": "Extension",
@@ -5358,7 +5303,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "530"
+          "code": "529"
         },
         "relation": "exactMatch"
       },
@@ -5391,8 +5336,8 @@
       }
     }
   },
-  "moa.variant:867": {
-    "id": "moa.variant:867",
+  "moa.variant:866": {
+    "id": "moa.variant:866",
     "extensions": [
       {
         "type": "Extension",
@@ -5413,7 +5358,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "867"
+          "code": "866"
         },
         "relation": "exactMatch"
       },
@@ -5446,8 +5391,8 @@
       }
     }
   },
-  "moa.variant:868": {
-    "id": "moa.variant:868",
+  "moa.variant:867": {
+    "id": "moa.variant:867",
     "extensions": [
       {
         "type": "Extension",
@@ -5468,7 +5413,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "868"
+          "code": "867"
         },
         "relation": "exactMatch"
       },
@@ -5501,8 +5446,8 @@
       }
     }
   },
-  "moa.variant:869": {
-    "id": "moa.variant:869",
+  "moa.variant:868": {
+    "id": "moa.variant:868",
     "extensions": [
       {
         "type": "Extension",
@@ -5523,7 +5468,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "869"
+          "code": "868"
         },
         "relation": "exactMatch"
       },

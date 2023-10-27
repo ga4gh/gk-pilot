@@ -1,27 +1,27 @@
 {
-  "vicc.e00009": {
+  "vicc.e000009": {
     "label": "preclinical evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00009"
+    "code": "e000009"
   },
-  "vicc.e00007": {
+  "vicc.e000007": {
     "label": "observational study evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00007"
+    "code": "e000007"
   },
-  "vicc.e00003": {
+  "vicc.e000003": {
     "label": "professional guideline evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00003"
+    "code": "e000003"
   },
-  "vicc.e00002": {
+  "vicc.e000002": {
     "label": "FDA recognized evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00002"
+    "code": "e000002"
   },
-  "vicc.e00006": {
+  "vicc.e000006": {
     "label": "interventional study evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00006"
+    "code": "e000006"
   }
 }

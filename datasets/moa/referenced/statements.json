@@ -24,7 +24,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:44"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -53,7 +53,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -82,7 +82,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -111,7 +111,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -140,7 +140,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -169,7 +169,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -198,7 +198,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -227,7 +227,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -256,7 +256,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -285,7 +285,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -314,7 +314,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -343,7 +343,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -372,7 +372,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:45"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -401,7 +401,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -430,7 +430,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -459,7 +459,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -488,7 +488,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -517,7 +517,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -546,7 +546,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -575,7 +575,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -604,7 +604,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -633,7 +633,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -662,7 +662,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -691,7 +691,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -720,7 +720,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:662281",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -749,7 +749,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -778,7 +778,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -807,7 +807,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -836,7 +836,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -865,7 +865,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -894,7 +894,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -923,7 +923,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -952,7 +952,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -981,7 +981,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -1010,7 +1010,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1307619",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -1039,7 +1039,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1364347",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -1068,7 +1068,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546446",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -1097,7 +1097,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:46"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1546019",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3174"
   },
@@ -1124,9 +1124,9 @@
     "variant": "variants.json#/moa.variant:115",
     "specifiedBy": "methods.json#/moa.variant:115",
     "isReportedIn": [
-      "documents.json#/moa.source:48"
+      "documents.json#/moa.source:49"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1535457",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1153,9 +1153,9 @@
     "variant": "variants.json#/moa.variant:116",
     "specifiedBy": "methods.json#/moa.variant:116",
     "isReportedIn": [
-      "documents.json#/moa.source:48"
+      "documents.json#/moa.source:49"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1535457",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1182,9 +1182,9 @@
     "variant": "variants.json#/moa.variant:117",
     "specifiedBy": "methods.json#/moa.variant:117",
     "isReportedIn": [
-      "documents.json#/moa.source:48"
+      "documents.json#/moa.source:49"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1535457",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1211,9 +1211,9 @@
     "variant": "variants.json#/moa.variant:118",
     "specifiedBy": "methods.json#/moa.variant:118",
     "isReportedIn": [
-      "documents.json#/moa.source:48"
+      "documents.json#/moa.source:49"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1535457",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1240,9 +1240,9 @@
     "variant": "variants.json#/moa.variant:119",
     "specifiedBy": "methods.json#/moa.variant:119",
     "isReportedIn": [
-      "documents.json#/moa.source:48"
+      "documents.json#/moa.source:49"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1535457",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1269,9 +1269,9 @@
     "variant": "variants.json#/moa.variant:120",
     "specifiedBy": "methods.json#/moa.variant:120",
     "isReportedIn": [
-      "documents.json#/moa.source:49"
+      "documents.json#/moa.source:50"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1100071",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2919"
   },
@@ -1298,9 +1298,9 @@
     "variant": "variants.json#/moa.variant:121",
     "specifiedBy": "methods.json#/moa.variant:121",
     "isReportedIn": [
-      "documents.json#/moa.source:49"
+      "documents.json#/moa.source:50"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1100071",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2919"
   },
@@ -1327,9 +1327,9 @@
     "variant": "variants.json#/moa.variant:122",
     "specifiedBy": "methods.json#/moa.variant:122",
     "isReportedIn": [
-      "documents.json#/moa.source:50"
+      "documents.json#/moa.source:51"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:495881",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1356,9 +1356,9 @@
     "variant": "variants.json#/moa.variant:134",
     "specifiedBy": "methods.json#/moa.variant:134",
     "isReportedIn": [
-      "documents.json#/moa.source:55"
+      "documents.json#/moa.source:56"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1597582",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C5105"
   },
@@ -1385,9 +1385,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:60"
+      "documents.json#/moa.source:61"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1424911",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1414,9 +1414,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:61"
+      "documents.json#/moa.source:62"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1425098",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1443,9 +1443,9 @@
     "variant": "variants.json#/moa.variant:151",
     "specifiedBy": "methods.json#/moa.variant:151",
     "isReportedIn": [
-      "documents.json#/moa.source:61"
+      "documents.json#/moa.source:62"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1425098",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1472,9 +1472,9 @@
     "variant": "variants.json#/moa.variant:151",
     "specifiedBy": "methods.json#/moa.variant:151",
     "isReportedIn": [
-      "documents.json#/moa.source:62"
+      "documents.json#/moa.source:63"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049106",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1501,9 +1501,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:62"
+      "documents.json#/moa.source:63"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049106",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1530,9 +1530,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:63"
+      "documents.json#/moa.source:64"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1559,9 +1559,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:64"
+      "documents.json#/moa.source:65"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:263034",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C5105"
   },
@@ -1588,9 +1588,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:66"
+      "documents.json#/moa.source:67"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1617,9 +1617,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:66"
+      "documents.json#/moa.source:67"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1424911",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1646,9 +1646,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:69"
+      "documents.json#/moa.source:70"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2046138",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1675,9 +1675,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:69"
+      "documents.json#/moa.source:70"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C88270",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1704,9 +1704,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:71"
+      "documents.json#/moa.source:72"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1622",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1733,9 +1733,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:73"
+      "documents.json#/moa.source:74"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3107"
   },
@@ -1762,9 +1762,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:73"
+      "documents.json#/moa.source:74"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C53972"
   },
@@ -1791,9 +1791,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:73"
+      "documents.json#/moa.source:74"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1820,9 +1820,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:74"
+      "documents.json#/moa.source:75"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1425098",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -1849,9 +1849,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:52"
+      "documents.json#/moa.source:53"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C8294"
   },
@@ -1878,9 +1878,9 @@
     "variant": "variants.json#/moa.variant:149",
     "specifiedBy": "methods.json#/moa.variant:149",
     "isReportedIn": [
-      "documents.json#/moa.source:64"
+      "documents.json#/moa.source:65"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:318341",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C5105"
   },
@@ -1907,9 +1907,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:90"
+      "documents.json#/moa.source:91"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1721560",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1936,9 +1936,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:91"
+      "documents.json#/moa.source:92"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:328134",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1965,9 +1965,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:94"
+      "documents.json#/moa.source:95"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C101791",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -1994,9 +1994,9 @@
     "variant": "variants.json#/moa.variant:267",
     "specifiedBy": "methods.json#/moa.variant:267",
     "isReportedIn": [
-      "documents.json#/moa.source:98"
+      "documents.json#/moa.source:99"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2058848",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2023,9 +2023,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:100"
+      "documents.json#/moa.source:101"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1721560",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2052,9 +2052,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:101"
+      "documents.json#/moa.source:102"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C99905",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2081,9 +2081,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:103"
+      "documents.json#/moa.source:104"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1721560",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2110,9 +2110,9 @@
     "variant": "variants.json#/moa.variant:267",
     "specifiedBy": "methods.json#/moa.variant:267",
     "isReportedIn": [
-      "documents.json#/moa.source:103"
+      "documents.json#/moa.source:104"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C115109",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2139,9 +2139,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:103"
+      "documents.json#/moa.source:104"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C115109",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2168,9 +2168,9 @@
     "variant": "variants.json#/moa.variant:267",
     "specifiedBy": "methods.json#/moa.variant:267",
     "isReportedIn": [
-      "documents.json#/moa.source:103"
+      "documents.json#/moa.source:104"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C120307",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2197,9 +2197,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:103"
+      "documents.json#/moa.source:104"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C120307",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2226,9 +2226,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:104"
+      "documents.json#/moa.source:105"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:337525",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2255,9 +2255,9 @@
     "variant": "variants.json#/moa.variant:254",
     "specifiedBy": "methods.json#/moa.variant:254",
     "isReportedIn": [
-      "documents.json#/moa.source:104"
+      "documents.json#/moa.source:105"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1430438",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2284,9 +2284,9 @@
     "variant": "variants.json#/moa.variant:267",
     "specifiedBy": "methods.json#/moa.variant:267",
     "isReportedIn": [
-      "documents.json#/moa.source:105"
+      "documents.json#/moa.source:106"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1430438",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2313,9 +2313,9 @@
     "variant": "variants.json#/moa.variant:284",
     "specifiedBy": "methods.json#/moa.variant:284",
     "isReportedIn": [
-      "documents.json#/moa.source:107"
+      "documents.json#/moa.source:108"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1721560",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2342,9 +2342,9 @@
     "variant": "variants.json#/moa.variant:286",
     "specifiedBy": "methods.json#/moa.variant:286",
     "isReportedIn": [
-      "documents.json#/moa.source:108"
+      "documents.json#/moa.source:109"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1721560",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -2373,7 +2373,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:23"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:337525",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C4436"
   },
@@ -2400,9 +2400,9 @@
     "variant": "variants.json#/moa.variant:300",
     "specifiedBy": "methods.json#/moa.variant:300",
     "isReportedIn": [
-      "documents.json#/moa.source:115"
+      "documents.json#/moa.source:116"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2274378",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3209"
   },
@@ -2429,9 +2429,9 @@
     "variant": "variants.json#/moa.variant:301",
     "specifiedBy": "methods.json#/moa.variant:301",
     "isReportedIn": [
-      "documents.json#/moa.source:115"
+      "documents.json#/moa.source:116"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2274378",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3209"
   },
@@ -2458,9 +2458,9 @@
     "variant": "variants.json#/moa.variant:302",
     "specifiedBy": "methods.json#/moa.variant:302",
     "isReportedIn": [
-      "documents.json#/moa.source:115"
+      "documents.json#/moa.source:116"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2274378",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3209"
   },
@@ -2487,9 +2487,9 @@
     "variant": "variants.json#/moa.variant:303",
     "specifiedBy": "methods.json#/moa.variant:303",
     "isReportedIn": [
-      "documents.json#/moa.source:115"
+      "documents.json#/moa.source:116"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2274378",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3209"
   },
@@ -2516,9 +2516,9 @@
     "variant": "variants.json#/moa.variant:304",
     "specifiedBy": "methods.json#/moa.variant:304",
     "isReportedIn": [
-      "documents.json#/moa.source:115"
+      "documents.json#/moa.source:116"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2274378",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3209"
   },
@@ -2547,7 +2547,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:27"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2123125",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C39851"
   },
@@ -2576,7 +2576,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:27"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2123125",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C39851"
   },
@@ -2605,7 +2605,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:27"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2123125",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C39851"
   },
@@ -2634,7 +2634,7 @@
     "isReportedIn": [
       "documents.json#/moa.source:27"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2123125",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C39851"
   },
@@ -2661,9 +2661,9 @@
     "variant": "variants.json#/moa.variant:317",
     "specifiedBy": "methods.json#/moa.variant:317",
     "isReportedIn": [
-      "documents.json#/moa.source:119"
+      "documents.json#/moa.source:120"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C68936",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2690,9 +2690,9 @@
     "variant": "variants.json#/moa.variant:318",
     "specifiedBy": "methods.json#/moa.variant:318",
     "isReportedIn": [
-      "documents.json#/moa.source:120"
+      "documents.json#/moa.source:121"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:357977",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2719,9 +2719,9 @@
     "variant": "variants.json#/moa.variant:319",
     "specifiedBy": "methods.json#/moa.variant:319",
     "isReportedIn": [
-      "documents.json#/moa.source:121"
+      "documents.json#/moa.source:122"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:72965",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -2748,9 +2748,9 @@
     "variant": "variants.json#/moa.variant:323",
     "specifiedBy": "methods.json#/moa.variant:323",
     "isReportedIn": [
-      "documents.json#/moa.source:125"
+      "documents.json#/moa.source:126"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049873",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2777,9 +2777,9 @@
     "variant": "variants.json#/moa.variant:324",
     "specifiedBy": "methods.json#/moa.variant:324",
     "isReportedIn": [
-      "documents.json#/moa.source:125"
+      "documents.json#/moa.source:126"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049873",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2806,9 +2806,9 @@
     "variant": "variants.json#/moa.variant:323",
     "specifiedBy": "methods.json#/moa.variant:323",
     "isReportedIn": [
-      "documents.json#/moa.source:125"
+      "documents.json#/moa.source:126"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049873",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C4436"
   },
@@ -2835,9 +2835,9 @@
     "variant": "variants.json#/moa.variant:324",
     "specifiedBy": "methods.json#/moa.variant:324",
     "isReportedIn": [
-      "documents.json#/moa.source:125"
+      "documents.json#/moa.source:126"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049873",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C4436"
   },
@@ -2864,9 +2864,9 @@
     "variant": "variants.json#/moa.variant:329",
     "specifiedBy": "methods.json#/moa.variant:329",
     "isReportedIn": [
-      "documents.json#/moa.source:126"
+      "documents.json#/moa.source:127"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1940332",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2893,9 +2893,9 @@
     "variant": "variants.json#/moa.variant:330",
     "specifiedBy": "methods.json#/moa.variant:330",
     "isReportedIn": [
-      "documents.json#/moa.source:126"
+      "documents.json#/moa.source:127"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1940332",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2922,9 +2922,9 @@
     "variant": "variants.json#/moa.variant:331",
     "specifiedBy": "methods.json#/moa.variant:331",
     "isReportedIn": [
-      "documents.json#/moa.source:126"
+      "documents.json#/moa.source:127"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1940332",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -2951,9 +2951,9 @@
     "variant": "variants.json#/moa.variant:338",
     "specifiedBy": "methods.json#/moa.variant:338",
     "isReportedIn": [
-      "documents.json#/moa.source:128"
+      "documents.json#/moa.source:129"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.drugbank:DB12638",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3167"
   },
@@ -2980,9 +2980,9 @@
     "variant": "variants.json#/moa.variant:339",
     "specifiedBy": "methods.json#/moa.variant:339",
     "isReportedIn": [
-      "documents.json#/moa.source:128"
+      "documents.json#/moa.source:129"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.drugbank:DB12638",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3167"
   },
@@ -3009,9 +3009,9 @@
     "variant": "variants.json#/moa.variant:352",
     "specifiedBy": "methods.json#/moa.variant:352",
     "isReportedIn": [
-      "documents.json#/moa.source:131"
+      "documents.json#/moa.source:132"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1312397",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -3038,9 +3038,9 @@
     "variant": "variants.json#/moa.variant:353",
     "specifiedBy": "methods.json#/moa.variant:353",
     "isReportedIn": [
-      "documents.json#/moa.source:131"
+      "documents.json#/moa.source:132"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1312397",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -3067,9 +3067,9 @@
     "variant": "variants.json#/moa.variant:352",
     "specifiedBy": "methods.json#/moa.variant:352",
     "isReportedIn": [
-      "documents.json#/moa.source:132"
+      "documents.json#/moa.source:133"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:357977",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -3096,9 +3096,9 @@
     "variant": "variants.json#/moa.variant:353",
     "specifiedBy": "methods.json#/moa.variant:353",
     "isReportedIn": [
-      "documents.json#/moa.source:132"
+      "documents.json#/moa.source:133"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:357977",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -3125,9 +3125,9 @@
     "variant": "variants.json#/moa.variant:361",
     "specifiedBy": "methods.json#/moa.variant:361",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3154,9 +3154,9 @@
     "variant": "variants.json#/moa.variant:362",
     "specifiedBy": "methods.json#/moa.variant:362",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3183,9 +3183,9 @@
     "variant": "variants.json#/moa.variant:363",
     "specifiedBy": "methods.json#/moa.variant:363",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3212,9 +3212,9 @@
     "variant": "variants.json#/moa.variant:364",
     "specifiedBy": "methods.json#/moa.variant:364",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3241,9 +3241,9 @@
     "variant": "variants.json#/moa.variant:365",
     "specifiedBy": "methods.json#/moa.variant:365",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3270,9 +3270,9 @@
     "variant": "variants.json#/moa.variant:366",
     "specifiedBy": "methods.json#/moa.variant:366",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3299,38 +3299,9 @@
     "variant": "variants.json#/moa.variant:367",
     "specifiedBy": "methods.json#/moa.variant:367",
     "isReportedIn": [
-      "documents.json#/moa.source:134"
+      "documents.json#/moa.source:135"
     ],
-    "strength": "strengths.json#/vicc.e00003",
-    "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
-    "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
-  },
-  {
-    "id": "moa.assertion:369",
-    "description": "KIT exon 17 variants (D816H) appear to have minimal or no sensitivity to KIT inhibitors.",
-    "type": "VariantTherapeuticResponseStudy",
-    "predicate": "predictsSensitivityTo",
-    "qualifiers": {
-      "alleleOrigin": "somatic",
-      "geneContext": {
-        "id": "moa.normalize.gene:KIT",
-        "label": "KIT",
-        "extensions": [
-          {
-            "type": "Extension",
-            "name": "gene_normalizer_id",
-            "value": "hgnc:6342"
-          }
-        ],
-        "type": "Gene"
-      }
-    },
-    "variant": "variants.json#/moa.variant:369",
-    "specifiedBy": "methods.json#/moa.variant:369",
-    "isReportedIn": [
-      "documents.json#/moa.source:134"
-    ],
-    "strength": "strengths.json#/vicc.e00003",
+    "strength": "strengths.json#/vicc.e000003",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3357,9 +3328,9 @@
     "variant": "variants.json#/moa.variant:374",
     "specifiedBy": "methods.json#/moa.variant:374",
     "isReportedIn": [
-      "documents.json#/moa.source:137"
+      "documents.json#/moa.source:138"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2272107",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -3386,9 +3357,9 @@
     "variant": "variants.json#/moa.variant:387",
     "specifiedBy": "methods.json#/moa.variant:387",
     "isReportedIn": [
-      "documents.json#/moa.source:141"
+      "documents.json#/moa.source:142"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2550714",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -3415,9 +3386,9 @@
     "variant": "variants.json#/moa.variant:387",
     "specifiedBy": "methods.json#/moa.variant:387",
     "isReportedIn": [
-      "documents.json#/moa.source:142"
+      "documents.json#/moa.source:143"
     ],
-    "strength": "strengths.json#/vicc.e00006",
+    "strength": "strengths.json#/vicc.e000006",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2550714",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -3444,9 +3415,9 @@
     "variant": "variants.json#/moa.variant:402",
     "specifiedBy": "methods.json#/moa.variant:402",
     "isReportedIn": [
-      "documents.json#/moa.source:70"
+      "documents.json#/moa.source:71"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3473,9 +3444,9 @@
     "variant": "variants.json#/moa.variant:403",
     "specifiedBy": "methods.json#/moa.variant:403",
     "isReportedIn": [
-      "documents.json#/moa.source:70"
+      "documents.json#/moa.source:71"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3502,9 +3473,9 @@
     "variant": "variants.json#/moa.variant:402",
     "specifiedBy": "methods.json#/moa.variant:402",
     "isReportedIn": [
-      "documents.json#/moa.source:70"
+      "documents.json#/moa.source:71"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3531,9 +3502,9 @@
     "variant": "variants.json#/moa.variant:403",
     "specifiedBy": "methods.json#/moa.variant:403",
     "isReportedIn": [
-      "documents.json#/moa.source:150"
+      "documents.json#/moa.source:151"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   },
@@ -3560,9 +3531,9 @@
     "variant": "variants.json#/moa.variant:403",
     "specifiedBy": "methods.json#/moa.variant:403",
     "isReportedIn": [
-      "documents.json#/moa.source:151"
+      "documents.json#/moa.source:152"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3589,9 +3560,9 @@
     "variant": "variants.json#/moa.variant:403",
     "specifiedBy": "methods.json#/moa.variant:403",
     "isReportedIn": [
-      "documents.json#/moa.source:151"
+      "documents.json#/moa.source:152"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3618,9 +3589,9 @@
     "variant": "variants.json#/moa.variant:408",
     "specifiedBy": "methods.json#/moa.variant:408",
     "isReportedIn": [
-      "documents.json#/moa.source:152"
+      "documents.json#/moa.source:153"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1147220",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3647,9 +3618,9 @@
     "variant": "variants.json#/moa.variant:408",
     "specifiedBy": "methods.json#/moa.variant:408",
     "isReportedIn": [
-      "documents.json#/moa.source:152"
+      "documents.json#/moa.source:153"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3676,9 +3647,9 @@
     "variant": "variants.json#/moa.variant:410",
     "specifiedBy": "methods.json#/moa.variant:410",
     "isReportedIn": [
-      "documents.json#/moa.source:78"
+      "documents.json#/moa.source:79"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:1425098",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3705,9 +3676,9 @@
     "variant": "variants.json#/moa.variant:411",
     "specifiedBy": "methods.json#/moa.variant:411",
     "isReportedIn": [
-      "documents.json#/moa.source:153"
+      "documents.json#/moa.source:154"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:337525",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C34447"
   },
@@ -3734,9 +3705,9 @@
     "variant": "variants.json#/moa.variant:413",
     "specifiedBy": "methods.json#/moa.variant:413",
     "isReportedIn": [
-      "documents.json#/moa.source:155"
+      "documents.json#/moa.source:156"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.iuphar.ligand:5057",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C34447"
   },
@@ -3763,9 +3734,9 @@
     "variant": "variants.json#/moa.variant:432",
     "specifiedBy": "methods.json#/moa.variant:432",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3792,9 +3763,9 @@
     "variant": "variants.json#/moa.variant:433",
     "specifiedBy": "methods.json#/moa.variant:433",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3821,9 +3792,9 @@
     "variant": "variants.json#/moa.variant:434",
     "specifiedBy": "methods.json#/moa.variant:434",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3850,9 +3821,9 @@
     "variant": "variants.json#/moa.variant:435",
     "specifiedBy": "methods.json#/moa.variant:435",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3879,9 +3850,9 @@
     "variant": "variants.json#/moa.variant:436",
     "specifiedBy": "methods.json#/moa.variant:436",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3908,9 +3879,9 @@
     "variant": "variants.json#/moa.variant:437",
     "specifiedBy": "methods.json#/moa.variant:437",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3937,9 +3908,9 @@
     "variant": "variants.json#/moa.variant:438",
     "specifiedBy": "methods.json#/moa.variant:438",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3966,9 +3937,9 @@
     "variant": "variants.json#/moa.variant:439",
     "specifiedBy": "methods.json#/moa.variant:439",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -3995,9 +3966,9 @@
     "variant": "variants.json#/moa.variant:440",
     "specifiedBy": "methods.json#/moa.variant:440",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4024,9 +3995,9 @@
     "variant": "variants.json#/moa.variant:441",
     "specifiedBy": "methods.json#/moa.variant:441",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4053,9 +4024,9 @@
     "variant": "variants.json#/moa.variant:442",
     "specifiedBy": "methods.json#/moa.variant:442",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4082,9 +4053,9 @@
     "variant": "variants.json#/moa.variant:443",
     "specifiedBy": "methods.json#/moa.variant:443",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4111,9 +4082,9 @@
     "variant": "variants.json#/moa.variant:444",
     "specifiedBy": "methods.json#/moa.variant:444",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4140,9 +4111,9 @@
     "variant": "variants.json#/moa.variant:444",
     "specifiedBy": "methods.json#/moa.variant:444",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4169,9 +4140,9 @@
     "variant": "variants.json#/moa.variant:446",
     "specifiedBy": "methods.json#/moa.variant:446",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
   },
@@ -4198,40 +4169,11 @@
     "variant": "variants.json#/moa.variant:447",
     "specifiedBy": "methods.json#/moa.variant:447",
     "isReportedIn": [
-      "documents.json#/moa.source:161"
+      "documents.json#/moa.source:162"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2289380",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3224"
-  },
-  {
-    "id": "moa.assertion:459",
-    "description": "Mutations in PDGFRA are associated with response to imatinib, with the exception of p.D842V.",
-    "type": "VariantTherapeuticResponseStudy",
-    "predicate": "predictsSensitivityTo",
-    "qualifiers": {
-      "alleleOrigin": "somatic",
-      "geneContext": {
-        "id": "moa.normalize.gene:PDGFRA",
-        "label": "PDGFRA",
-        "extensions": [
-          {
-            "type": "Extension",
-            "name": "gene_normalizer_id",
-            "value": "hgnc:8803"
-          }
-        ],
-        "type": "Gene"
-      }
-    },
-    "variant": "variants.json#/moa.variant:459",
-    "specifiedBy": "methods.json#/moa.variant:459",
-    "isReportedIn": [
-      "documents.json#/moa.source:135"
-    ],
-    "strength": "strengths.json#/vicc.e00003",
-    "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:282388",
-    "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
   {
     "id": "moa.assertion:460",
@@ -4256,9 +4198,9 @@
     "variant": "variants.json#/moa.variant:459",
     "specifiedBy": "methods.json#/moa.variant:459",
     "isReportedIn": [
-      "documents.json#/moa.source:137"
+      "documents.json#/moa.source:138"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2272107",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -4285,9 +4227,9 @@
     "variant": "variants.json#/moa.variant:459",
     "specifiedBy": "methods.json#/moa.variant:459",
     "isReportedIn": [
-      "documents.json#/moa.source:137"
+      "documents.json#/moa.source:138"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2272107",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3868"
   },
@@ -4314,9 +4256,9 @@
     "variant": "variants.json#/moa.variant:467",
     "specifiedBy": "methods.json#/moa.variant:467",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4343,9 +4285,9 @@
     "variant": "variants.json#/moa.variant:468",
     "specifiedBy": "methods.json#/moa.variant:468",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4372,9 +4314,9 @@
     "variant": "variants.json#/moa.variant:469",
     "specifiedBy": "methods.json#/moa.variant:469",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4401,9 +4343,9 @@
     "variant": "variants.json#/moa.variant:470",
     "specifiedBy": "methods.json#/moa.variant:470",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4430,9 +4372,9 @@
     "variant": "variants.json#/moa.variant:471",
     "specifiedBy": "methods.json#/moa.variant:471",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4459,9 +4401,9 @@
     "variant": "variants.json#/moa.variant:472",
     "specifiedBy": "methods.json#/moa.variant:472",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4488,9 +4430,9 @@
     "variant": "variants.json#/moa.variant:472",
     "specifiedBy": "methods.json#/moa.variant:472",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4517,9 +4459,9 @@
     "variant": "variants.json#/moa.variant:474",
     "specifiedBy": "methods.json#/moa.variant:474",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4546,9 +4488,9 @@
     "variant": "variants.json#/moa.variant:475",
     "specifiedBy": "methods.json#/moa.variant:475",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4575,9 +4517,9 @@
     "variant": "variants.json#/moa.variant:476",
     "specifiedBy": "methods.json#/moa.variant:476",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4604,9 +4546,9 @@
     "variant": "variants.json#/moa.variant:477",
     "specifiedBy": "methods.json#/moa.variant:477",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4633,9 +4575,9 @@
     "variant": "variants.json#/moa.variant:478",
     "specifiedBy": "methods.json#/moa.variant:478",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4662,9 +4604,9 @@
     "variant": "variants.json#/moa.variant:479",
     "specifiedBy": "methods.json#/moa.variant:479",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4691,9 +4633,9 @@
     "variant": "variants.json#/moa.variant:480",
     "specifiedBy": "methods.json#/moa.variant:480",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4720,9 +4662,9 @@
     "variant": "variants.json#/moa.variant:481",
     "specifiedBy": "methods.json#/moa.variant:481",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4749,9 +4691,9 @@
     "variant": "variants.json#/moa.variant:482",
     "specifiedBy": "methods.json#/moa.variant:482",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4778,9 +4720,9 @@
     "variant": "variants.json#/moa.variant:482",
     "specifiedBy": "methods.json#/moa.variant:482",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4807,9 +4749,9 @@
     "variant": "variants.json#/moa.variant:484",
     "specifiedBy": "methods.json#/moa.variant:484",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4836,9 +4778,9 @@
     "variant": "variants.json#/moa.variant:485",
     "specifiedBy": "methods.json#/moa.variant:485",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
@@ -4865,14 +4807,14 @@
     "variant": "variants.json#/moa.variant:486",
     "specifiedBy": "methods.json#/moa.variant:486",
     "isReportedIn": [
-      "documents.json#/moa.source:58"
+      "documents.json#/moa.source:59"
     ],
-    "strength": "strengths.json#/vicc.e00009",
+    "strength": "strengths.json#/vicc.e000009",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C165479",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C9245"
   },
   {
-    "id": "moa.assertion:529",
+    "id": "moa.assertion:528",
     "description": "Certain missesnse mutations may predict resistance to RET inhibitors",
     "type": "VariantTherapeuticResponseStudy",
     "predicate": "predictsResistanceTo",
@@ -4891,17 +4833,17 @@
         "type": "Gene"
       }
     },
-    "variant": "variants.json#/moa.variant:529",
-    "specifiedBy": "methods.json#/moa.variant:529",
+    "variant": "variants.json#/moa.variant:528",
+    "specifiedBy": "methods.json#/moa.variant:528",
     "isReportedIn": [
-      "documents.json#/moa.source:173"
+      "documents.json#/moa.source:174"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2370147",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3879"
   },
   {
-    "id": "moa.assertion:530",
+    "id": "moa.assertion:529",
     "description": "Certain missesnse mutations may predict sensitivity to RET inhibitors",
     "type": "VariantTherapeuticResponseStudy",
     "predicate": "predictsSensitivityTo",
@@ -4920,17 +4862,17 @@
         "type": "Gene"
       }
     },
-    "variant": "variants.json#/moa.variant:530",
-    "specifiedBy": "methods.json#/moa.variant:530",
+    "variant": "variants.json#/moa.variant:529",
+    "specifiedBy": "methods.json#/moa.variant:529",
     "isReportedIn": [
-      "documents.json#/moa.source:173"
+      "documents.json#/moa.source:174"
     ],
-    "strength": "strengths.json#/vicc.e00007",
+    "strength": "strengths.json#/vicc.e000007",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2370147",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3879"
   },
   {
-    "id": "moa.assertion:820",
+    "id": "moa.assertion:819",
     "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib in combination with azacitidine or as a monotherapy indicated for patients with a susceptible iDH1 mutation as detected by an FDA-approved test for the treatment of newly diagnosed AML in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
     "type": "VariantTherapeuticResponseStudy",
     "predicate": "predictsSensitivityTo",
@@ -4952,14 +4894,14 @@
     "variant": "variants.json#/moa.variant:323",
     "specifiedBy": "methods.json#/moa.variant:323",
     "isReportedIn": [
-      "documents.json#/moa.source:251"
+      "documents.json#/moa.source:252"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049873",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
   {
-    "id": "moa.assertion:821",
+    "id": "moa.assertion:820",
     "description": "The U.S. Food and Drug Administration (FDA) granted approval to ivosidenib in combination with azacitidine or as a monotherapy indicated for patients with a susceptible iDH1 mutation as detected by an FDA-approved test for the treatment of newly diagnosed AML in adults 75 years or older, or who have comorbidities that preclude use of intensive induction chemotherapy.",
     "type": "VariantTherapeuticResponseStudy",
     "predicate": "predictsSensitivityTo",
@@ -4981,10 +4923,39 @@
     "variant": "variants.json#/moa.variant:324",
     "specifiedBy": "methods.json#/moa.variant:324",
     "isReportedIn": [
-      "documents.json#/moa.source:251"
+      "documents.json#/moa.source:252"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.rxcui:2049873",
+    "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
+  },
+  {
+    "id": "moa.assertion:864",
+    "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
+    "type": "VariantTherapeuticResponseStudy",
+    "predicate": "predictsSensitivityTo",
+    "qualifiers": {
+      "alleleOrigin": "somatic",
+      "geneContext": {
+        "id": "moa.normalize.gene:IDH1",
+        "label": "IDH1",
+        "extensions": [
+          {
+            "type": "Extension",
+            "name": "gene_normalizer_id",
+            "value": "hgnc:5382"
+          }
+        ],
+        "type": "Gene"
+      }
+    },
+    "variant": "variants.json#/moa.variant:324",
+    "specifiedBy": "methods.json#/moa.variant:324",
+    "isReportedIn": [
+      "documents.json#/moa.source:272"
+    ],
+    "strength": "strengths.json#/vicc.e000002",
+    "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C129687",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
   {
@@ -5007,12 +4978,12 @@
         "type": "Gene"
       }
     },
-    "variant": "variants.json#/moa.variant:324",
-    "specifiedBy": "methods.json#/moa.variant:324",
+    "variant": "variants.json#/moa.variant:323",
+    "specifiedBy": "methods.json#/moa.variant:323",
     "isReportedIn": [
-      "documents.json#/moa.source:271"
+      "documents.json#/moa.source:272"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C129687",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -5036,12 +5007,12 @@
         "type": "Gene"
       }
     },
-    "variant": "variants.json#/moa.variant:323",
-    "specifiedBy": "methods.json#/moa.variant:323",
+    "variant": "variants.json#/moa.variant:866",
+    "specifiedBy": "methods.json#/moa.variant:866",
     "isReportedIn": [
-      "documents.json#/moa.source:271"
+      "documents.json#/moa.source:272"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C129687",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -5068,9 +5039,9 @@
     "variant": "variants.json#/moa.variant:867",
     "specifiedBy": "methods.json#/moa.variant:867",
     "isReportedIn": [
-      "documents.json#/moa.source:271"
+      "documents.json#/moa.source:272"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C129687",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
@@ -5097,43 +5068,14 @@
     "variant": "variants.json#/moa.variant:868",
     "specifiedBy": "methods.json#/moa.variant:868",
     "isReportedIn": [
-      "documents.json#/moa.source:271"
+      "documents.json#/moa.source:272"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C129687",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
   },
   {
     "id": "moa.assertion:869",
-    "description": "The U.S. Food and Drug Administration (FDA) has granted approval to Rezlidhia (olutasidenib) for the treatment of adult patients with relapsed or refractory acute myeloid leukemia (AML) with a susceptible IDH1 mutation as detected by an FDA-approved test.",
-    "type": "VariantTherapeuticResponseStudy",
-    "predicate": "predictsSensitivityTo",
-    "qualifiers": {
-      "alleleOrigin": "somatic",
-      "geneContext": {
-        "id": "moa.normalize.gene:IDH1",
-        "label": "IDH1",
-        "extensions": [
-          {
-            "type": "Extension",
-            "name": "gene_normalizer_id",
-            "value": "hgnc:5382"
-          }
-        ],
-        "type": "Gene"
-      }
-    },
-    "variant": "variants.json#/moa.variant:869",
-    "specifiedBy": "methods.json#/moa.variant:869",
-    "isReportedIn": [
-      "documents.json#/moa.source:271"
-    ],
-    "strength": "strengths.json#/vicc.e00002",
-    "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C129687",
-    "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C3171"
-  },
-  {
-    "id": "moa.assertion:870",
     "description": "The U.S. Food and Drug Administration (FDA) has granted approval to adagrasib for adult patients with KRAS G12C mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA approved test, who have received at least one prior systemic therapy.",
     "type": "VariantTherapeuticResponseStudy",
     "predicate": "predictsSensitivityTo",
@@ -5155,9 +5097,9 @@
     "variant": "variants.json#/moa.variant:387",
     "specifiedBy": "methods.json#/moa.variant:387",
     "isReportedIn": [
-      "documents.json#/moa.source:272"
+      "documents.json#/moa.source:273"
     ],
-    "strength": "strengths.json#/vicc.e00002",
+    "strength": "strengths.json#/vicc.e000002",
     "therapeutic": "therapeutics.json#/moa.normalize.therapy.ncit:C157493",
     "tumorType": "tumorTypes.json#/moa.normalize.disease.ncit:C2926"
   }
