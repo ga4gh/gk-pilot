@@ -4,7 +4,23 @@ type: object
 
 namespaces:
   caf: imports/cohort-allele-frequency.json
-  cafDefs: imports/cohort-allele-frequency.json#/$defs/
+
+$defs:
+  GrpMaxFAF95:
+    type: object
+    properties:
+      frequency:
+        type: number
+      confidenceInterval:
+        type: number
+        const: 0.95
+        default: 0.95
+      groupId:
+        type: string
+        description: >-
+          The genetic ancestry group from which the max frequency was calculated.
+    required: [ frequency, confidenceInterval, groupId ]
+    additionalProperties: false
 
 allOf:
   - $refCurie: caf:#
@@ -13,12 +29,12 @@ allOf:
         type: object
         properties:
           grpMaxFAF95:
-            $refCurie: cafDefs:GrpMaxFAF95
+            $ref: "#/$defs/GrpMaxFAF95"
           jointGrpMaxFAF95:
             description: >-
               The Group Max Filtering Allele Frequency (95% confidence interval) calculated jointly
               from genome and exome data.
-            $refCurie: cafDefs:GrpMaxFAF95
+            $ref: "#/$defs/GrpMaxFAF95"
           homozygotes:
             type: integer
           hemizygotes:
