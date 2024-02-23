@@ -1,0 +1,884 @@
+{
+  "moa.source:44": {
+    "id": "moa.source:44",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Gorre, Mercedes E., et al. \"Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification.\" Science 293.5531 (2001): 876-880.",
+    "url": "https://doi.org/10.1126/science.1062538",
+    "doi": "10.1126/science.1062538",
+    "pmid": 11423618
+  },
+  "moa.source:45": {
+    "id": "moa.source:45",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Soverini S, Hochhaus A, Nicolini FE, Gruber F, Lange T, Saglio G, et al. (2011) Bcr-Abl kinase domain mutation analysis in chronic myeloid leukemia patients treated with tyrosine kinase inihibitors: recommendations from an expert panel on behalf of European LeukemiaNet. Blood: blood-2010-2012-326405",
+    "url": "https://doi.org/10.1182/blood-2010-12-326405",
+    "doi": "10.1182/blood-2010-12-326405",
+    "pmid": 27760149
+  },
+  "moa.source:46": {
+    "id": "moa.source:46",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "National Comprehensive Cancer Network. Chronic Myeloid Leukemia NCCN Evidence Blocks (Version 1.2019). https://www.nccn.org/professionals/physician_gls/pdf/cml_blocks.pdf. Accessed August 9th, 2019.",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/cml_blocks.pdf"
+  },
+  "moa.source:48": {
+    "id": "moa.source:48",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Friboulet L, Li N, Katayama R, et al. The ALK inhibitor ceritinib overcomes crizotinib resistance in non-small cell lung cancer. Cancer Discov. 2014;4(6):662-673.",
+    "url": "https://doi.org/10.1158/2159-8290.CD-13-0846",
+    "doi": "10.1158/2159-8290.CD-13-0846",
+    "pmid": 24675041
+  },
+  "moa.source:49": {
+    "id": "moa.source:49",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Chen EJ, Sowalsky AG, Gao S, et al. Abiraterone treatment in castration-resistant prostate cancer selects for progesterone responsive mutant androgen receptors. Clin Cancer Res. 2015;21(6):1273-80.",
+    "url": "https://doi.org/10.1158/1078-0432.CCR-14-1220",
+    "doi": "10.1158/1078-0432.CCR-14-1220",
+    "pmid": 25320358
+  },
+  "moa.source:50": {
+    "id": "moa.source:50",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Imielinski M, Greulich H, Kaplan B, et al. Oncogenic and sorafenib-sensitive ARAF mutations in lung adenocarcinoma. J Clin Invest. 2014;124(4):1582-6.",
+    "url": "https://doi.org/10.1172/JCI72763",
+    "doi": "10.1172/JCI72763",
+    "pmid": 24569458
+  },
+  "moa.source:55": {
+    "id": "moa.source:55",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Wang C, Jette N, Moussienko D, Bebb DG, Lees-Miller SP. ATM-Deficient Colorectal Cancer Cells Are Sensitive to the PARP Inhibitor Olaparib Translational Oncology. 2017; 10(2):190-196.",
+    "url": "https://doi.org/10.1016/j.tranon.2017107",
+    "doi": "10.1016/j.tranon.2017107",
+    "pmid": 28182994
+  },
+  "moa.source:60": {
+    "id": "moa.source:60",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Novartis Pharmaceuticals Corporation. Tafinlar (dabrafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf"
+  },
+  "moa.source:61": {
+    "id": "moa.source:61",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Novartis Pharmaceuticals Corporation. Mekinist (trametinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf"
+  },
+  "moa.source:62": {
+    "id": "moa.source:62",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Array BioPharma Inc. Braftovi (encorafenib) [package insert]. U.S. Food and Drug Administration website. www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf. Revised April 2020. Accessed October 15, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf"
+  },
+  "moa.source:63": {
+    "id": "moa.source:63",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Genentech, Inc. Zelboraf (vemurafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf"
+  },
+  "moa.source:64": {
+    "id": "moa.source:64",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "National Comprehensive Cancer Network. Colon Cancer NCCN Evidence Blocks (Version 4.2018). https://www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf. Accessed March 20th, 2019.",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf"
+  },
+  "moa.source:66": {
+    "id": "moa.source:66",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "National Comprehensive Cancer Network. Melanoma NCCN Evidence Blocks (Version 3.2016). https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf"
+  },
+  "moa.source:69": {
+    "id": "moa.source:69",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Caporali S, Alvino E, Lacal PM, et al. Targeting the PI3K/AKT/mTOR pathway overcomes the stimulating effect of dabrafenib on the invasive behavior of melanoma cells with acquired resistance to the BRAF inhibitor. Int J Oncol. 2016;49(3):1164-74.",
+    "url": "https://doi.org/10.3892/ijo.2016.3594",
+    "doi": "10.3892/ijo.2016.3594",
+    "pmid": 27572939
+  },
+  "moa.source:71": {
+    "id": "moa.source:71",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Fondello C, Agnetti L, Villaverde MS, Simian M, Glikin GC, Finocchiaro LM. The combination of bleomycin with suicide or interferon-beta gene transfer is able to efficiently eliminate human melanoma tumor initiating cells. Biomed Pharmacother. 2016;83:290-301.",
+    "url": "https://doi.org/10.1016/j.biopha.2016638",
+    "doi": "10.1016/j.biopha.2016638",
+    "pmid": 27399807
+  },
+  "moa.source:73": {
+    "id": "moa.source:73",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT01524978"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Hyman DM, Puzanov I, Subbiah V, et al. Vemurafenib in Multiple Nonmelanoma Cancers with BRAF V600 Mutations. N Engl J Med. 2015;373(8):726-36.",
+    "url": "https://doi.org/10.1056/NEJMoa1502309",
+    "doi": "10.1056/NEJMoa1502309",
+    "pmid": 26287849
+  },
+  "moa.source:74": {
+    "id": "moa.source:74",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Kawaguchi K, Murakami T, Chmielowski B, et al. Vemurafenib-resistant BRAF-V600E-mutated melanoma is regressed by MEK-targeting drug trametinib, but not cobimetinib in a patient-derived orthotopic xenograft (PDOX) mouse model. Oncotarget. 2016;",
+    "url": "https://doi.org/10.18632/oncotarget.12328",
+    "doi": "10.18632/oncotarget.12328",
+    "pmid": 27690220
+  },
+  "moa.source:52": {
+    "id": "moa.source:52",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Witkiewicz AK, Mcmillan EA, Balaji U, et al. Whole-exome sequencing of pancreatic cancer defines genetic diversity and therapeutic targets. Nat Commun. 2015;6:6744.",
+    "url": "https://doi.org/10.1038/ncomms7744",
+    "doi": "10.1038/ncomms7744",
+    "pmid": 25855536
+  },
+  "moa.source:90": {
+    "id": "moa.source:90",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "AstraZeneca Pharmaceuticals, LP. Tagrisso (osimertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s016lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s016lbl.pdf"
+  },
+  "moa.source:91": {
+    "id": "moa.source:91",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "National Comprehensive Cancer Network. Non-Small Cell Lung Cancer NCCN Evidence Blocks (Version 1.2017). Accessed November 5, 2016.",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/nscl_blocks.pdf"
+  },
+  "moa.source:94": {
+    "id": "moa.source:94",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT01588145"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Park K, Lee J, Han J, et al. 1300: Efficacy and safety of BI 1482694 (HM61713), an EGFR mutant-specific inhibitor, in T790M-positive NSCLC at the recommended phase II dose Journal of Thoracic Oncology. 2016; 11(4):S113-.",
+    "url": "https://doi.org/10.1016/S1556-0864(16)30243-X",
+    "doi": "10.1016/S1556-0864(16)30243-X"
+  },
+  "moa.source:98": {
+    "id": "moa.source:98",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT01774721"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Ke EE, Wu YL. EGFR as a Pharmacological Target in EGFR-Mutant Non-Small-Cell Lung Cancer: Where Do We Stand Now?. Trends Pharmacol Sci. 2016;37(11):887-903.",
+    "url": "https://doi.org/10.1016/j.tips.2016903",
+    "doi": "10.1016/j.tips.2016903",
+    "pmid": 27717507
+  },
+  "moa.source:100": {
+    "id": "moa.source:100",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT02094261"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Ke EE, Wu YL. EGFR as a Pharmacological Target in EGFR-Mutant Non-Small-Cell Lung Cancer: Where Do We Stand Now?. Trends Pharmacol Sci. 2016;37(11):887-903.",
+    "url": "https://doi.org/10.1016/j.tips.2016903",
+    "doi": "10.1016/j.tips.2016903",
+    "pmid": 27717507
+  },
+  "moa.source:101": {
+    "id": "moa.source:101",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT01526928"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Sequist LV, Soria JC, Goldman JW, et al. Rociletinib in EGFR-mutated non-small-cell lung cancer. N Engl J Med. 2015;372(18):1700-9.",
+    "url": "https://doi.org/10.1056/NEJMoa1413654",
+    "doi": "10.1056/NEJMoa1413654",
+    "pmid": 25923550
+  },
+  "moa.source:103": {
+    "id": "moa.source:103",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Wang S, Cang S, Liu D. Third-generation inhibitors targeting EGFR T790M mutation in advanced non-small cell lung cancer. J Hematol Oncol. 2016;9:34.",
+    "url": "https://doi.org/10.1186/s13045-016-0268-z",
+    "doi": "10.1186/s13045-016-0268-z",
+    "pmid": 27071706
+  },
+  "moa.source:104": {
+    "id": "moa.source:104",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Yu HA, Arcila ME, Hellmann MD, Kris MG, Ladanyi M, Riely GJ. Poor response to erlotinib in patients with tumors containing baseline EGFR T790M mutations found by routine clinical molecular testing Annals of Oncology. 2014; 25(2):423-428.",
+    "url": "https://doi.org/10.1093/annonc/mdt573",
+    "doi": "10.1093/annonc/mdt573",
+    "pmid": 24478319
+  },
+  "moa.source:105": {
+    "id": "moa.source:105",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Boehringer Ingelheim Pharmaceuticals, Inc. Gilotrif (afatinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/201292s015lbl.pdf. Revised October 2019. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/201292s015lbl.pdf"
+  },
+  "moa.source:107": {
+    "id": "moa.source:107",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Soria J, Ohe Y, Vansteenkiste J, et al. Osimertinib in Untreated -Mutated Advanced Non-Small-Cell Lung Cancer N Engl J Med. 2018; 378(2):113-125.",
+    "url": "https://doi.org/10.1056/NEJMoa1713137",
+    "doi": "10.1056/NEJMoa1713137",
+    "pmid": 29151359
+  },
+  "moa.source:108": {
+    "id": "moa.source:108",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "AstraZeneca Pharmaceuticals, LP. Tagrisso (osimertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s021lbl.pdf. Revised December 2020. Accessed February 2nd, 2021.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s021lbl.pdf"
+  },
+  "moa.source:23": {
+    "id": "moa.source:23",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Borad MJ, Champion MD, Egan JB, et al. Integrated genomic characterization reveals novel, therapeutically relevant drug targets in FGFR and EGFR pathways in sporadic intrahepatic cholangiocarcinoma. PLoS Genet. 2014;10(2):e1004135.",
+    "url": "https://doi.org/10.1371/journal.pgen.1004135",
+    "doi": "10.1371/journal.pgen.1004135",
+    "pmid": 24550739
+  },
+  "moa.source:115": {
+    "id": "moa.source:115",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Epizyme, Inc. Tazverik (tazemetostat) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213400s000lbl.pdf. Revised June 2020. Accessed November 4th, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213400s000lbl.pdf"
+  },
+  "moa.source:27": {
+    "id": "moa.source:27",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Janssen Products, LP. Balversa (erdafitinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125427s108lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125427s108lbl.pdf"
+  },
+  "moa.source:119": {
+    "id": "moa.source:119",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Albers C, Leischner H, Verbeek M, et al. The secondary FLT3-ITD F691L mutation induces resistance to AC220 in FLT3-ITD+ AML but retains in vitro sensitivity to PKC412 and Sunitinib. Leukemia. 2013;27(6):1416-8.",
+    "url": "https://doi.org/10.1038/leu.2013.14",
+    "doi": "10.1038/leu.2013.14",
+    "pmid": 23392356
+  },
+  "moa.source:120": {
+    "id": "moa.source:120",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Schittenhelm MM, Yee KW, Tyner JW, et al. FLT3 K663Q is a novel AML-associated oncogenic kinase: Determination of biochemical properties and sensitivity to Sunitinib (SU11248). Leukemia. 2006;20(11):2008-14.",
+    "url": "https://doi.org/10.1038/sj.leu.2404374",
+    "doi": "10.1038/sj.leu.2404374",
+    "pmid": 16990784
+  },
+  "moa.source:121": {
+    "id": "moa.source:121",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Ellis MJ, Ding L, Shen D, et al. Whole-genome analysis informs breast cancer response to aromatase inhibition. Nature. 2012;486(7403):353-60.",
+    "url": "https://doi.org/10.1038/nature11143",
+    "doi": "10.1038/nature11143",
+    "pmid": 22722193
+  },
+  "moa.source:125": {
+    "id": "moa.source:125",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Servier Pharmaceuticals LLC. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211192_s008lbl.pdf. Revised August 2021. Accessed September 2nd, 2021.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211192_s008lbl.pdf"
+  },
+  "moa.source:126": {
+    "id": "moa.source:126",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT01915498"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Celgene Corporation. Idhifa (enasidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209606s002lbl.pdf. Revised September 2019. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209606s002lbl.pdf"
+  },
+  "moa.source:128": {
+    "id": "moa.source:128",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Kucine N, Marubayashi S, Bhagwat N, et al. Tumor-specific HSP90 inhibition as a therapeutic approach in JAK-mutant acute lymphoblastic leukemias. Blood. 2015;126(22):2479-83.",
+    "url": "https://doi.org/10.1182/blood-2015-03-635821",
+    "doi": "10.1182/blood-2015-03-635821",
+    "pmid": 26443624
+  },
+  "moa.source:131": {
+    "id": "moa.source:131",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Bayer HealthCare Pharmaceuticals, Inc. Stivarga (regorafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203085s013lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203085s013lbl.pdf"
+  },
+  "moa.source:132": {
+    "id": "moa.source:132",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Pfizer, Inc. Sutent (sunitinib malate) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021938s037lbl.pdf. Revised August 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021938s037lbl.pdf"
+  },
+  "moa.source:134": {
+    "id": "moa.source:134",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "National Comprehensive Cancer Network. Cutaneous Melanoma NCCN Evidence Blocks (Version 2.2019). https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma_blocks.pdf. Accessed August 12, 2019.",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma_blocks.pdf"
+  },
+  "moa.source:137": {
+    "id": "moa.source:137",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Blueprint Medicines Corporation. Ayvakit (avapritinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf. Accessed September 2nd, 2021.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf"
+  },
+  "moa.source:141": {
+    "id": "moa.source:141",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Amgen Inc. Lumakras (sotorasib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214665s000lbl.pdf. Revised May 2021. Accessed June 1st, 2021.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214665s000lbl.pdf"
+  },
+  "moa.source:142": {
+    "id": "moa.source:142",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Abstract"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT03600883"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "J Clin Oncol 37, 2019 (suppl; abstr 3003)",
+    "url": "https://abstracts.asco.org/239/AbstView_239_268371.html"
+  },
+  "moa.source:70": {
+    "id": "moa.source:70",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Emery CM, Vijayendran KG, Zipser MC, et al. MEK1 mutations confer resistance to MEK and B-RAF inhibition. Proc Natl Acad Sci USA. 2009;106(48):20411-6.",
+    "url": "https://doi.org/10.1073/pnas905833106",
+    "doi": "10.1073/pnas905833106",
+    "pmid": 19915144
+  },
+  "moa.source:150": {
+    "id": "moa.source:150",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Marks JL, Gong Y, Chitale D, et al. Novel MEK1 mutation identified by mutational analysis of epidermal growth factor receptor signaling pathway genes in lung adenocarcinoma. Cancer Res. 2008;68(14):5524-8.",
+    "url": "https://doi.org/10.1158/0008-5472.CAN-08-0099",
+    "doi": "10.1158/0008-5472.CAN-08-0099",
+    "pmid": 18632602
+  },
+  "moa.source:151": {
+    "id": "moa.source:151",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Trunzer, Kerstin, et al. \"Pharmacodynamic effects and mechanisms of resistance to vemurafenib in patients with metastatic melanoma.\" Journal of Clinical Oncology 31.14 (2013): 1767-1774.",
+    "url": "https://doi.org/10.1200/JCO.2012.44.7888",
+    "doi": "10.1200/JCO.2012.44.7888",
+    "pmid": 23569304
+  },
+  "moa.source:152": {
+    "id": "moa.source:152",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Wagle N, Emery C, Berger MF, et al. Dissecting therapeutic resistance to RAF inhibition in melanoma by tumor genomic profiling. J Clin Oncol. 2011;29(22):3085-96.",
+    "url": "https://doi.org/10.1200/JCO.2010.33.2312",
+    "doi": "10.1200/JCO.2010.33.2312",
+    "pmid": 21383288
+  },
+  "moa.source:78": {
+    "id": "moa.source:78",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Wagle, Nikhil, et al. \"MAP kinase pathway alterations in BRAF-mutant melanoma patients with acquired resistance to combined RAF/MEK inhibition.\" Cancer discovery 4.1 (2014): 61-68.",
+    "url": "https://doi.org/10.1158/2159-8290.CD-13-0631",
+    "doi": "10.1158/2159-8290.CD-13-0631",
+    "pmid": 24265154
+  },
+  "moa.source:153": {
+    "id": "moa.source:153",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Balbach ST, Orkin SH. An Achilles' Heel for MLL-Rearranged Leukemias: Writers and Readers of H3 Lysine 36 Dimethylation. Cancer Discov. 2016;6(7):700-2.",
+    "url": "https://doi.org/10.1001/jamaoncol.2015.34",
+    "doi": "10.1001/jamaoncol.2015.34",
+    "pmid": 26181029
+  },
+  "moa.source:155": {
+    "id": "moa.source:155",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Seiwert TY, Jagadeeswaran R, Faoro L, et al. The MET receptor tyrosine kinase is a potential novel therapeutic target for head and neck squamous cell carcinoma. Cancer Res. 2009;69(7):3021-31.",
+    "url": "https://doi.org/10.1158/0008-5472.CAN-08-2881",
+    "doi": "10.1158/0008-5472.CAN-08-2881",
+    "pmid": 19318576
+  },
+  "moa.source:161": {
+    "id": "moa.source:161",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Adjei AA, Cohen RB, Franklin W, et al. Phase I pharmacokinetic and pharmacodynamic study of the oral, small-molecule mitogen-activated protein kinase kinase 1/2 inhibitor AZD6244 (ARRY-142886) in patients with advanced cancers. J Clin Oncol. 2008;26(13):2139-46.",
+    "url": "https://doi.org/10.1200/JCO.2007.14.4956",
+    "doi": "10.1200/JCO.2007.14.4956",
+    "pmid": 18390968
+  },
+  "moa.source:135": {
+    "id": "moa.source:135",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "National Comprehensive Cancer Network. Gastrointestinal Stromal Tumors (GIST) NCCN Evidence Blocks (Version 2.2019). https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf. Accessed August 10th, 2019.",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/sarcoma_blocks.pdf"
+  },
+  "moa.source:58": {
+    "id": "moa.source:58",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "O'Brien C, Wallin JJ, Sampath D, et al. Predictive biomarkers of sensitivity to the phosphatidylinositol 3' kinase inhibitor GDC-0941 in breast cancer preclinical models. Clin Cancer Res. 2010;16(14):3670-83.",
+    "url": "https://doi.org/10.1158/1078-0432.CCR-09-2828",
+    "doi": "10.1158/1078-0432.CCR-09-2828",
+    "pmid": 20453058
+  },
+  "moa.source:173": {
+    "id": "moa.source:173",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Subbiah V, Velcheti V, Tuch BB, et al. Selective RET kinase inhibition for patients with RET-altered cancers. Ann Oncol. 2018;29(8):1869-1876.",
+    "url": "https://doi.org/10.1093/annonc/mdy137",
+    "doi": "10.1093/annonc/mdy137",
+    "pmid": 29912274
+  },
+  "moa.source:251": {
+    "id": "moa.source:251",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Servier Pharmaceuticals LLC. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211192s009lbl.pdf. Revised May 2022. Accessed July 7th, 2022.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211192s009lbl.pdf"
+  },
+  "moa.source:271": {
+    "id": "moa.source:271",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Metrics Contract Services. Rezlidhia (olutasidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf. Revised December 2022. Accessed January 5, 2023.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf"
+  },
+  "moa.source:272": {
+    "id": "moa.source:272",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Mirati Therapeutics, Inc. Krazati (adagrasib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216340Orig1s000Corrected_lbl.pdf. Revised Dec 2022. Accessed January 5th, 2023.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216340Orig1s000Corrected_lbl.pdf"
+  }
+}

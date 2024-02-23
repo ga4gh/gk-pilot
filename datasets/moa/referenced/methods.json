@@ -1,0 +1,14 @@
+{
+  "metakb.method:4": {
+    "id": "metakb.method:4",
+    "label": "MOAlmanac (2021)",
+    "type": "Method",
+    "isReportedIn": {
+      "label": "Reardon, B., Moore, N.D., Moore, N.S. et al.",
+      "type": "Document",
+      "title": "Integrating molecular profiles into clinical frameworks through the Molecular Oncology Almanac to prospectively guide precision oncology",
+      "doi": "10.1038/s43018-021-00243-3",
+      "pmid": 35121878
+    }
+  }
+}

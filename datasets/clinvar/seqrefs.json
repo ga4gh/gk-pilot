@@ -1,0 +1,342 @@
+{
+    "NC_000013.11": {
+        "digest": "_0wi-qoDrvram155UmcSC-zA5ZK4fpLT",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "13"
+            }
+        ],
+        "id": "NC_000013.11",
+        "label": "NC_000013.11",
+        "refgetAccession": "SQ._0wi-qoDrvram155UmcSC-zA5ZK4fpLT",
+        "type": "SequenceReference"
+    },
+    "NC_000019.10": {
+        "digest": "IIB53T8CNeJJdUqzn9V_JnRtQadwWCbl",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "19"
+            }
+        ],
+        "id": "NC_000019.10",
+        "label": "NC_000019.10",
+        "refgetAccession": "SQ.IIB53T8CNeJJdUqzn9V_JnRtQadwWCbl",
+        "type": "SequenceReference"
+    },
+    "NC_000011.10": {
+        "digest": "2NkFm8HK88MqeNkCgj78KidCAXgnsfV1",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "11"
+            }
+        ],
+        "id": "NC_000011.10",
+        "label": "NC_000011.10",
+        "refgetAccession": "SQ.2NkFm8HK88MqeNkCgj78KidCAXgnsfV1",
+        "type": "SequenceReference"
+    },
+    "NC_000016.10": {
+        "digest": "yC_0RBj3fgBlvgyAuycbzdubtLxq-rE0",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "16"
+            }
+        ],
+        "id": "NC_000016.10",
+        "label": "NC_000016.10",
+        "refgetAccession": "SQ.yC_0RBj3fgBlvgyAuycbzdubtLxq-rE0",
+        "type": "SequenceReference"
+    },
+    "NC_000006.12": {
+        "digest": "0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "6"
+            }
+        ],
+        "id": "NC_000006.12",
+        "label": "NC_000006.12",
+        "refgetAccession": "SQ.0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV",
+        "type": "SequenceReference"
+    },
+    "NC_000012.12": {
+        "digest": "6wlJpONE3oNb4D69ULmEXhqyDZ4vwNfl",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "12"
+            }
+        ],
+        "id": "NC_000012.12",
+        "label": "NC_000012.12",
+        "refgetAccession": "SQ.6wlJpONE3oNb4D69ULmEXhqyDZ4vwNfl",
+        "type": "SequenceReference"
+    },
+    "NC_000021.9": {
+        "digest": "5ZUqxCmDDgN4xTRbaSjN8LwgZironmB8",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "21"
+            }
+        ],
+        "id": "NC_000021.9",
+        "label": "NC_000021.9",
+        "refgetAccession": "SQ.5ZUqxCmDDgN4xTRbaSjN8LwgZironmB8",
+        "type": "SequenceReference"
+    },
+    "NC_000010.11": {
+        "digest": "ss8r_wB0-b9r44TQTMmVTI92884QvBiB",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "10"
+            }
+        ],
+        "id": "NC_000010.11",
+        "label": "NC_000010.11",
+        "refgetAccession": "SQ.ss8r_wB0-b9r44TQTMmVTI92884QvBiB",
+        "type": "SequenceReference"
+    },
+    "NC_000018.10": {
+        "digest": "vWwFhJ5lQDMhh-czg06YtlWqu0lvFAZV",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "18"
+            }
+        ],
+        "id": "NC_000018.10",
+        "label": "NC_000018.10",
+        "refgetAccession": "SQ.vWwFhJ5lQDMhh-czg06YtlWqu0lvFAZV",
+        "type": "SequenceReference"
+    },
+    "NC_000023.11": {
+        "digest": "w0WZEvgJF0zf_P4yyTzjjv9oW1z61HHP",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "X"
+            }
+        ],
+        "id": "NC_000023.11",
+        "label": "NC_000023.11",
+        "refgetAccession": "SQ.w0WZEvgJF0zf_P4yyTzjjv9oW1z61HHP",
+        "type": "SequenceReference"
+    },
+    "NC_012920.1": {
+        "digest": "k3grVkjY-hoWcCUojHw6VU6GE3MZ8Sct",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "MT"
+            }
+        ],
+        "id": "NC_012920.1",
+        "label": "NC_012920.1",
+        "refgetAccession": "SQ.k3grVkjY-hoWcCUojHw6VU6GE3MZ8Sct",
+        "type": "SequenceReference"
+    },
+    "NC_000002.12": {
+        "digest": "pnAqCRBrTsUoBghSD1yp_jXWSmlbdh4g",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "2"
+            }
+        ],
+        "id": "NC_000002.12",
+        "label": "NC_000002.12",
+        "refgetAccession": "SQ.pnAqCRBrTsUoBghSD1yp_jXWSmlbdh4g",
+        "type": "SequenceReference"
+    },
+    "NC_000001.11": {
+        "digest": "Ya6Rs7DHhDeg7YaOSg1EoNi3U_nQ9SvO",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "1"
+            }
+        ],
+        "id": "NC_000001.11",
+        "label": "NC_000001.11",
+        "refgetAccession": "SQ.Ya6Rs7DHhDeg7YaOSg1EoNi3U_nQ9SvO",
+        "type": "SequenceReference"
+    },
+    "NC_000017.11": {
+        "digest": "dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "17"
+            }
+        ],
+        "id": "NC_000017.11",
+        "label": "NC_000017.11",
+        "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7",
+        "type": "SequenceReference"
+    },
+    "NC_000014.9": {
+        "digest": "eK4D2MosgK_ivBkgi6FVPg5UXs1bYESm",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "14"
+            }
+        ],
+        "id": "NC_000014.9",
+        "label": "NC_000014.9",
+        "refgetAccession": "SQ.eK4D2MosgK_ivBkgi6FVPg5UXs1bYESm",
+        "type": "SequenceReference"
+    },
+    "NC_000019.9": {
+        "digest": "ItRDD47aMoioDCNW_occY5fWKZBKlxCX",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh37"
+            },
+            {
+                "name": "chromosome",
+                "value": "19"
+            }
+        ],
+        "id": "NC_000019.9",
+        "label": "NC_000019.9",
+        "refgetAccession": "SQ.ItRDD47aMoioDCNW_occY5fWKZBKlxCX",
+        "type": "SequenceReference"
+    },
+    "NC_000020.11": {
+        "digest": "-A1QmD_MatoqxvgVxBLZTONHz9-c7nQo",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "20"
+            }
+        ],
+        "id": "NC_000020.11",
+        "label": "NC_000020.11",
+        "refgetAccession": "SQ.-A1QmD_MatoqxvgVxBLZTONHz9-c7nQo",
+        "type": "SequenceReference"
+    },
+    "NC_000007.14": {
+        "digest": "F-LrLMe1SRpfUZHkQmvkVKFEGaoDeHul",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "7"
+            }
+        ],
+        "id": "NC_000007.14",
+        "label": "NC_000007.14",
+        "refgetAccession": "SQ.F-LrLMe1SRpfUZHkQmvkVKFEGaoDeHul",
+        "type": "SequenceReference"
+    },
+    "NC_000003.12": {
+        "digest": "Zu7h9AggXxhTaGVsy7h_EZSChSZGcmgX",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "3"
+            }
+        ],
+        "id": "NC_000003.12",
+        "label": "NC_000003.12",
+        "refgetAccession": "SQ.Zu7h9AggXxhTaGVsy7h_EZSChSZGcmgX",
+        "type": "SequenceReference"
+    },
+    "NC_000015.10": {
+        "digest": "AsXvWL1-2i5U_buw6_niVIxD6zTbAuS6",
+        "extensions": [
+            {
+                "name": "assembly",
+                "value": "GRCh38"
+            },
+            {
+                "name": "chromosome",
+                "value": "15"
+            }
+        ],
+        "id": "NC_000015.10",
+        "label": "NC_000015.10",
+        "refgetAccession": "SQ.AsXvWL1-2i5U_buw6_niVIxD6zTbAuS6",
+        "type": "SequenceReference"
+    }
+}

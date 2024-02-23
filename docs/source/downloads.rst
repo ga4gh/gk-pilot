@@ -9,6 +9,6 @@ Downloads
    for public download. More details on this final dataset availability will be posted here.
 
 
-- `CIViC GK-Pilot Dataset <https://zenodo.org/record/7079919#.Yy1kTuxByDU>`_
-- `Molecular Oncology Almanac GK-Pilot Dataset <https://zenodo.org/record/7080009#.Yy1kWexByDU>`_
+- `CIViC GK-Pilot Dataset <https://github.com/ga4gh/gk-pilot/tree/2-alpha/datasets/civic>`_
+- `Molecular Oncology Almanac GK-Pilot Dataset <https://github.com/ga4gh/gk-pilot/tree/2-alpha/datasets/moa>`_
 - `ClinVar GK-Pilot Dataset <https://github.com/ga4gh/gk-pilot/tree/main/datasets/clinvar>`_
