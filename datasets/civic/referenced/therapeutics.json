@@ -50,7 +50,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C65530"
+          "code": "C65530"
         },
         "relation": "exactMatch"
       }
@@ -108,7 +108,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C64768"
+          "code": "C64768"
         },
         "relation": "exactMatch"
       }
@@ -163,7 +163,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C116377"
+          "code": "C116377"
         },
         "relation": "exactMatch"
       }
@@ -219,7 +219,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C66940"
+          "code": "C66940"
         },
         "relation": "exactMatch"
       }
@@ -268,7 +268,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C154287"
+          "code": "C154287"
         },
         "relation": "exactMatch"
       }
@@ -346,7 +346,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C82386"
+          "code": "C82386"
         },
         "relation": "exactMatch"
       }
@@ -439,7 +439,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1723"
+          "code": "C1723"
         },
         "relation": "exactMatch"
       }
@@ -493,7 +493,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C53398"
+          "code": "C53398"
         },
         "relation": "exactMatch"
       }
@@ -634,7 +634,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C62035"
+          "code": "C62035"
         },
         "relation": "exactMatch"
       }
@@ -695,7 +695,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1845"
+          "code": "C1845"
         },
         "relation": "exactMatch"
       }
@@ -799,7 +799,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C81934"
+          "code": "C81934"
         },
         "relation": "exactMatch"
       }
@@ -827,7 +827,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C99905"
+          "code": "C99905"
         },
         "relation": "exactMatch"
       }
@@ -903,7 +903,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C376"
+          "code": "C376"
         },
         "relation": "exactMatch"
       }
@@ -1007,7 +1007,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1647"
+          "code": "C1647"
         },
         "relation": "exactMatch"
       }
@@ -1106,7 +1106,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1872"
+          "code": "C1872"
         },
         "relation": "exactMatch"
       }
@@ -1144,7 +1144,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C505"
+          "code": "C505"
         },
         "relation": "exactMatch"
       }
@@ -1213,7 +1213,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C77908"
+          "code": "C77908"
         },
         "relation": "exactMatch"
       }
@@ -1264,7 +1264,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1855"
+          "code": "C1855"
         },
         "relation": "exactMatch"
       }
@@ -1292,7 +1292,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C102564"
+          "code": "C102564"
         },
         "relation": "exactMatch"
       }
@@ -1316,7 +1316,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C113792"
+          "code": "C113792"
         },
         "relation": "exactMatch"
       }
@@ -1389,7 +1389,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C52200"
+          "code": "C52200"
         },
         "relation": "exactMatch"
       }
@@ -1451,7 +1451,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C78204"
+          "code": "C78204"
         },
         "relation": "exactMatch"
       }
@@ -1529,7 +1529,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C71622"
+          "code": "C71622"
         },
         "relation": "exactMatch"
       }
@@ -1618,7 +1618,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1411"
+          "code": "C1411"
         },
         "relation": "exactMatch"
       }
@@ -1691,7 +1691,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C61948"
+          "code": "C61948"
         },
         "relation": "exactMatch"
       }
@@ -1754,7 +1754,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1181"
+          "code": "C1181"
         },
         "relation": "exactMatch"
       }
@@ -1820,7 +1820,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C62040"
+          "code": "C62040"
         },
         "relation": "exactMatch"
       }
@@ -1847,7 +1847,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C82696"
+          "code": "C82696"
         },
         "relation": "exactMatch"
       }
@@ -1909,7 +1909,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C633"
+          "code": "C633"
         },
         "relation": "exactMatch"
       }
@@ -1984,7 +1984,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1244"
+          "code": "C1244"
         },
         "relation": "exactMatch"
       }
@@ -2058,7 +2058,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C114383"
+          "code": "C114383"
         },
         "relation": "exactMatch"
       }
@@ -2195,7 +2195,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1687"
+          "code": "C1687"
         },
         "relation": "exactMatch"
       }
@@ -2263,7 +2263,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1857"
+          "code": "C1857"
         },
         "relation": "exactMatch"
       }
@@ -2319,7 +2319,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C137800"
+          "code": "C137800"
         },
         "relation": "exactMatch"
       }
@@ -2381,7 +2381,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C38713"
+          "code": "C38713"
         },
         "relation": "exactMatch"
       }
@@ -2423,7 +2423,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C74038"
+          "code": "C74038"
         },
         "relation": "exactMatch"
       }
@@ -2487,7 +2487,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C106432"
+          "code": "C106432"
         },
         "relation": "exactMatch"
       }
@@ -2594,7 +2594,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C48387"
+          "code": "C48387"
         },
         "relation": "exactMatch"
       }
@@ -2609,6 +2609,33 @@
       "RAD001",
       "Votubia",
       "Zortress"
+    ]
+  },
+  "civic.tid:273": {
+    "id": "civic.tid:273",
+    "label": "Futuximab/Modotuximab Mixture",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C91381"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "C91381"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Anti-EGFR Monoclonal Antibody Mixture Sym004",
+      "Futuximab/Modotuximab",
+      "Futuximab/Zatuximab",
+      "Sym004"
     ]
   },
   "civic.tid:386": {
@@ -2676,7 +2703,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C77888"
+          "code": "C77888"
         },
         "relation": "exactMatch"
       }
@@ -2712,7 +2739,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C66939"
+          "code": "C66939"
         },
         "relation": "exactMatch"
       }
@@ -2738,7 +2765,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C104732"
+          "code": "C104732"
         },
         "relation": "exactMatch"
       }
@@ -2788,7 +2815,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C115112"
+          "code": "C115112"
         },
         "relation": "exactMatch"
       }
@@ -2880,7 +2907,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C71721"
+          "code": "C71721"
         },
         "relation": "exactMatch"
       }
@@ -2909,7 +2936,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C2167"
+          "code": "C2167"
         },
         "relation": "exactMatch"
       }
@@ -2967,7 +2994,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C78825"
+          "code": "C78825"
         },
         "relation": "exactMatch"
       }
@@ -3024,7 +3051,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C74061"
+          "code": "C74061"
         },
         "relation": "exactMatch"
       }
@@ -3053,7 +3080,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C84858"
+          "code": "C84858"
         },
         "relation": "exactMatch"
       }
@@ -3077,7 +3104,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C28699"
+          "code": "C28699"
         },
         "relation": "exactMatch"
       }
@@ -3110,7 +3137,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C114984"
+          "code": "C114984"
         },
         "relation": "exactMatch"
       }
@@ -3175,7 +3202,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C134987"
+          "code": "C134987"
         },
         "relation": "exactMatch"
       }
@@ -3188,6 +3215,30 @@
       "RET Kinase Inhibitor LOXO-292",
       "Retevmo",
       "WHO 10967"
+    ]
+  },
+  "civic.tid:699": {
+    "id": "civic.tid:699",
+    "label": "BRAF Inhibitor",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C155322"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "C155322"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "B-RAF Inhibitor"
     ]
   },
   "civic.tid:56": {
@@ -3227,7 +3278,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C74547"
+          "code": "C74547"
         },
         "relation": "exactMatch"
       }
@@ -3275,7 +3326,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C121553"
+          "code": "C121553"
         },
         "relation": "exactMatch"
       }
@@ -3301,7 +3352,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C37899"
+          "code": "C37899"
         },
         "relation": "exactMatch"
       }
@@ -3328,7 +3379,23 @@
         "value": "ncit:C165479"
       }
     ],
-    "type": "TherapeuticAgent"
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "C165479"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-(1H-indazol-4-yl)-6-((4-(methanesulfonyl)piperazin-1-yl)methyl)-4-(morpholin-4-yl)thieno(3,2-d)pyrimidine",
+      "4-(2-(1H-indazol-4-yl)-6-((4-(methylsulfonyl)piperazin-1-yl)methyl)thieno(3,2-d)pyrimidin-4-yl)morpholine",
+      "GDC 0941",
+      "GDC-0941",
+      "GDC0941"
+    ]
   },
   "civic.tid:148": {
     "id": "civic.tid:148",
@@ -3367,7 +3434,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C97660"
+          "code": "C97660"
         },
         "relation": "exactMatch"
       }
@@ -3394,7 +3461,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C90581"
+          "code": "C90581"
         },
         "relation": "exactMatch"
       }
@@ -3422,7 +3489,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C91731"
+          "code": "C91731"
         },
         "relation": "exactMatch"
       }
@@ -3457,7 +3524,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C61439"
+          "code": "C61439"
         },
         "relation": "exactMatch"
       }
@@ -3523,7 +3590,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C103147"
+          "code": "C103147"
         },
         "relation": "exactMatch"
       }
@@ -3562,7 +3629,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C107506"
+          "code": "C107506"
         },
         "relation": "exactMatch"
       }
@@ -3613,7 +3680,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C115977"
+          "code": "C115977"
         },
         "relation": "exactMatch"
       }
@@ -3678,7 +3745,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C60809"
+          "code": "C60809"
         },
         "relation": "exactMatch"
       }
@@ -3730,7 +3797,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C26653"
+          "code": "C26653"
         },
         "relation": "exactMatch"
       }
@@ -3780,7 +3847,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C49094"
+          "code": "C49094"
         },
         "relation": "exactMatch"
       }
@@ -3809,7 +3876,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C64639"
+          "code": "C64639"
         },
         "relation": "exactMatch"
       }
@@ -3849,7 +3916,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C158603"
+          "code": "C158603"
         },
         "relation": "exactMatch"
       }
@@ -3884,7 +3951,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C2201"
+          "code": "C2201"
         },
         "relation": "exactMatch"
       }
@@ -3940,7 +4007,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C113655"
+          "code": "C113655"
         },
         "relation": "exactMatch"
       }
@@ -3990,7 +4057,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1212"
+          "code": "C1212"
         },
         "relation": "exactMatch"
       }
@@ -4020,7 +4087,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C78856"
+          "code": "C78856"
         },
         "relation": "exactMatch"
       }
@@ -4045,7 +4112,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C68936"
+          "code": "C68936"
         },
         "relation": "exactMatch"
       }
@@ -4057,6 +4124,32 @@
       "AC010220",
       "AC220",
       "N-(5-tert-butyl-isoxazol-3-yl)-N'-{4-[7-(2-morpholin-4-yl-ethoxy)imidazo [2,1-b] [1,3] Benzothiazol 2-yl]phenyl}urea"
+    ]
+  },
+  "civic.tid:20623": {
+    "id": "civic.tid:20623",
+    "label": "MDM2 Inhibitor AMGMDS3",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C171616"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "C171616"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "2-[(2S,3R,4S)-2,3-bis(3-chlorophenyl)-1-[(2S)-1-ethoxy-1-oxobutan-2-yl]-4-methyl-6-oxopiperidin-4-yl]acetic Acid",
+      "AMGMDS3",
+      "Q59770979"
     ]
   },
   "civic.tid:343": {
@@ -4073,7 +4166,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C74072"
+          "code": "C74072"
         },
         "relation": "exactMatch"
       }
@@ -4084,18 +4177,6 @@
       "Benzeneacetonitrile, 4-(2,3-Dihydro-3-methyl-2-oxo-8-(3-quinolinyl)-1H-imidazo(4,5-c)quinolin-1-yl)-alpha,alpha-dimethyl-",
       "NVPBEZ235"
     ]
-  },
-  "civic.tid:541": {
-    "id": "civic.tid:541",
-    "label": "JQEZ5",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "therapy_normalizer_id",
-        "value": "iuphar.ligand:9332"
-      }
-    ],
-    "type": "TherapeuticAgent"
   },
   "civic.tid:55": {
     "id": "civic.tid:55",
@@ -4148,7 +4229,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C95777"
+          "code": "C95777"
         },
         "relation": "exactMatch"
       }
@@ -4197,7 +4278,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C116722"
+          "code": "C116722"
         },
         "relation": "exactMatch"
       }
@@ -4224,7 +4305,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C48402"
+          "code": "C48402"
         },
         "relation": "exactMatch"
       }
@@ -4274,7 +4355,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C88293"
+          "code": "C88293"
         },
         "relation": "exactMatch"
       }
@@ -4323,7 +4404,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C101790"
+          "code": "C101790"
         },
         "relation": "exactMatch"
       }
@@ -4354,7 +4435,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C71896"
+          "code": "C71896"
         },
         "relation": "exactMatch"
       }
@@ -4375,7 +4456,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C91394"
+          "code": "C91394"
         },
         "relation": "exactMatch"
       }
@@ -4384,6 +4465,34 @@
     "aliases": [
       "AZD-1480",
       "AZD1480"
+    ]
+  },
+  "civic.tid:46": {
+    "id": "civic.tid:46",
+    "label": "Hormone Therapy",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "therapy_normalizer_id",
+        "value": "ncit:C147908"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
+          "code": "C15445"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "TherapeuticAgent",
+    "aliases": [
+      "Chemotherapy-Hormones/Steroids",
+      "Endocrine Therapy",
+      "Hormonal Therapy",
+      "Hormone Treatment",
+      "Hormones"
     ]
   },
   "civic.tid:68": {
@@ -4535,7 +4644,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C456"
+          "code": "C456"
         },
         "relation": "exactMatch"
       }
@@ -4565,7 +4674,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C80063"
+          "code": "C80063"
         },
         "relation": "exactMatch"
       }
@@ -4617,7 +4726,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C68923"
+          "code": "C68923"
         },
         "relation": "exactMatch"
       }
@@ -4680,7 +4789,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C82492"
+          "code": "C82492"
         },
         "relation": "exactMatch"
       }
@@ -4714,7 +4823,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C77588"
+          "code": "C77588"
         },
         "relation": "exactMatch"
       }
@@ -4739,7 +4848,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C48404"
+          "code": "C48404"
         },
         "relation": "exactMatch"
       }
@@ -4778,7 +4887,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C116858"
+          "code": "C116858"
         },
         "relation": "exactMatch"
       }
@@ -4802,7 +4911,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C84870"
+          "code": "C84870"
         },
         "relation": "exactMatch"
       }
@@ -4828,7 +4937,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C80089"
+          "code": "C80089"
         },
         "relation": "exactMatch"
       }
@@ -4852,7 +4961,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C116876"
+          "code": "C116876"
         },
         "relation": "exactMatch"
       }
@@ -4877,7 +4986,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1740"
+          "code": "C1740"
         },
         "relation": "exactMatch"
       }
@@ -4963,7 +5072,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C408"
+          "code": "C408"
         },
         "relation": "exactMatch"
       }
@@ -5043,7 +5152,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C49176"
+          "code": "C49176"
         },
         "relation": "exactMatch"
       }
@@ -5096,7 +5205,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C94214"
+          "code": "C94214"
         },
         "relation": "exactMatch"
       }
@@ -5134,7 +5243,7 @@
       {
         "coding": {
           "system": "https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&code=",
-          "code": "ncit:C1237"
+          "code": "C1237"
         },
         "relation": "exactMatch"
       }

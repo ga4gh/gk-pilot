@@ -61,13 +61,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121434569"
+          "code": "rs121434569"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121434569",
       "THR790MET",
       "RS121434569"
     ],
@@ -201,7 +202,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS113488022"
+          "code": "rs113488022"
         },
         "relation": "relatedMatch"
       }
@@ -209,9 +210,10 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS113488022",
-      "V640E",
       "VAL640GLU",
-      "VAL600GLU"
+      "VAL600GLU",
+      "rs113488022",
+      "V640E"
     ],
     "members": [
       {
@@ -350,15 +352,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121434568"
+          "code": "rs121434568"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121434568",
-      "LEU858ARG"
+      "rs121434568",
+      "LEU858ARG",
+      "RS121434568"
     ],
     "members": [
       {
@@ -483,13 +486,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913530"
+          "code": "rs121913530"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913530",
       "GLY12CYS",
       "RS121913530"
     ],
@@ -615,15 +619,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913227"
+          "code": "rs121913227"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "VAL600LYS",
-      "RS121913227"
+      "rs121913227",
+      "RS121913227",
+      "VAL600LYS"
     ],
     "members": [
       {
@@ -747,7 +752,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913237"
+          "code": "rs121913237"
         },
         "relation": "relatedMatch"
       }
@@ -755,6 +760,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLY12ASP",
+      "rs121913237",
       "RS121913237"
     ],
     "members": [
@@ -880,7 +886,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS112445441"
+          "code": "rs112445441"
         },
         "relation": "relatedMatch"
       }
@@ -888,7 +894,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS112445441",
-      "GLY13ASP"
+      "GLY13ASP",
+      "rs112445441"
     ],
     "members": [
       {
@@ -1057,7 +1064,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913377"
+          "code": "rs121913377"
         },
         "relation": "relatedMatch"
       }
@@ -1065,6 +1072,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "VAL600ASP",
+      "rs121913377",
       "RS121913377"
     ],
     "members": [
@@ -1190,15 +1198,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121908585"
+          "code": "rs121908585"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP842VAL",
-      "RS121908585"
+      "RS121908585",
+      "rs121908585",
+      "ASP842VAL"
     ],
     "members": [
       {
@@ -1328,15 +1337,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS77375493"
+          "code": "rs77375493"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "VAL617PHE",
-      "RS77375493"
+      "RS77375493",
+      "rs77375493",
+      "VAL617PHE"
     ],
     "members": [
       {
@@ -1460,7 +1470,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519826"
+          "code": "rs1057519826"
         },
         "relation": "relatedMatch"
       }
@@ -1468,7 +1478,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS1057519826",
-      "CYS481SER"
+      "CYS481SER",
+      "rs1057519826"
     ],
     "members": [
       {
@@ -1704,15 +1715,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1801274"
+          "code": "rs1801274"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "HIS167ARG",
       "RS1801274",
+      "rs1801274",
+      "HIS167ARG",
       "H131R",
       "H166R"
     ],
@@ -1839,15 +1851,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913507"
+          "code": "rs121913507"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913507",
-      "ASP816VAL"
+      "ASP816VAL",
+      "rs121913507",
+      "RS121913507"
     ],
     "members": [
       {
@@ -1971,16 +1984,17 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1801133"
+          "code": "rs1801133"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "C677T",
+      "rs1801133",
       "ALA222VAL",
-      "RS1801133",
-      "C677T"
+      "RS1801133"
     ],
     "members": [
       {
@@ -2105,13 +2119,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS34409589"
+          "code": "rs34409589"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs34409589",
       "GLU17LYS",
       "RS34409589"
     ],
@@ -2184,7 +2199,7 @@
       {
         "type": "Extension",
         "name": "CIViC Molecular Profile Score",
-        "value": 50.0
+        "value": 65.0
       },
       {
         "type": "Extension",
@@ -2333,7 +2348,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS74799832"
+          "code": "rs74799832"
         },
         "relation": "relatedMatch"
       }
@@ -2341,7 +2356,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "MET918THR",
-      "RS74799832"
+      "RS74799832",
+      "rs74799832"
     ],
     "members": [
       {
@@ -2466,7 +2482,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913273"
+          "code": "rs121913273"
         },
         "relation": "relatedMatch"
       }
@@ -2474,7 +2490,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLU542LYS",
-      "RS121913273"
+      "RS121913273",
+      "rs121913273"
     ],
     "members": [
       {
@@ -2599,13 +2616,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913523"
+          "code": "rs121913523"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913523",
       "RS121913523",
       "VAL654ALA"
     ],
@@ -2731,7 +2749,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS2032582"
+          "code": "rs2032582"
         },
         "relation": "relatedMatch"
       }
@@ -2739,8 +2757,9 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "SER893THR",
-      "A893S",
-      "RS2032582"
+      "RS2032582",
+      "rs2032582",
+      "A893S"
     ],
     "members": [
       {
@@ -2864,13 +2883,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519861"
+          "code": "rs1057519861"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs1057519861",
       "CYS797SER",
       "RS1057519861"
     ],
@@ -3457,13 +3477,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913529"
+          "code": "rs121913529"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913529",
       "RS121913529",
       "GLY12ASP"
     ],
@@ -3590,15 +3611,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913529"
+          "code": "rs121913529"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913529",
-      "GLY12VAL"
+      "rs121913529",
+      "GLY12VAL",
+      "RS121913529"
     ],
     "members": [
       {
@@ -3722,13 +3744,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913530"
+          "code": "rs121913530"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913530",
       "GLY12SER",
       "RS121913530"
     ],
@@ -3855,15 +3878,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913529"
+          "code": "rs121913529"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913529",
-      "GLY12ALA"
+      "GLY12ALA",
+      "rs121913529",
+      "RS121913529"
     ],
     "members": [
       {
@@ -4036,7 +4060,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913499"
+          "code": "rs121913499"
         },
         "relation": "relatedMatch"
       }
@@ -4044,7 +4068,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "ARG132CYS",
-      "RS121913499"
+      "RS121913499",
+      "rs121913499"
     ],
     "members": [
       {
@@ -4168,14 +4193,15 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913507"
+          "code": "rs121913507"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP816VAL"
+      "ASP816VAL",
+      "rs121913507"
     ],
     "members": [
       {
@@ -4299,15 +4325,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913530"
+          "code": "rs121913530"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "GLY12ARG",
-      "RS121913530"
+      "rs121913530",
+      "RS121913530",
+      "GLY12ARG"
     ],
     "members": [
       {
@@ -4431,7 +4458,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913428"
+          "code": "rs121913428"
         },
         "relation": "relatedMatch"
       }
@@ -4439,7 +4466,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS121913428",
-      "GLY719ALA"
+      "GLY719ALA",
+      "rs121913428"
     ],
     "members": [
       {
@@ -4558,15 +4586,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS397509171"
+          "code": "rs397509171"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "GLN1467TER",
+      "rs397509171",
       "RS397509171",
+      "GLN1467TER",
       "Q1467X"
     ],
     "members": [
@@ -4686,15 +4715,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS80358650"
+          "code": "rs80358650"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS80358650",
-      "MET1ILE"
+      "MET1ILE",
+      "rs80358650",
+      "RS80358650"
     ],
     "members": [
       {
@@ -4813,15 +4843,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS80358702"
+          "code": "rs80358702"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS80358702",
-      "VAL159MET"
+      "rs80358702",
+      "VAL159MET",
+      "RS80358702"
     ],
     "members": [
       {
@@ -5130,7 +5161,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS28897743"
+          "code": "rs28897743"
         },
         "relation": "relatedMatch"
       }
@@ -5138,6 +5169,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "ARG2336PRO",
+      "rs28897743",
       "RS28897743"
     ],
     "members": [
@@ -5262,15 +5294,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS104894226"
+          "code": "rs104894226"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS104894226",
-      "GLY13ASP"
+      "GLY13ASP",
+      "rs104894226",
+      "RS104894226"
     ],
     "members": [
       {
@@ -5394,7 +5427,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS17851045"
+          "code": "rs17851045"
         },
         "relation": "relatedMatch"
       }
@@ -5402,6 +5435,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS17851045",
+      "rs17851045",
       "GLN61HIS"
     ],
     "members": [
@@ -5526,7 +5560,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121909646"
+          "code": "rs121909646"
         },
         "relation": "relatedMatch"
       }
@@ -5534,7 +5568,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "ASP835VAL",
-      "RS121909646"
+      "RS121909646",
+      "rs121909646"
     ],
     "members": [
       {
@@ -5658,13 +5693,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913512"
+          "code": "rs121913512"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913512",
       "LYS642GLU",
       "RS121913512"
     ],
@@ -5790,15 +5826,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913465"
+          "code": "rs121913465"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913465",
-      "SER768ILE"
+      "SER768ILE",
+      "rs121913465",
+      "RS121913465"
     ],
     "members": [
       {
@@ -6256,10 +6293,10 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "VAL560DEL",
       "V556DEL",
-      "V555DEL",
       "V559DEL",
-      "VAL560DEL"
+      "V555DEL"
     ],
     "members": [
       {
@@ -6385,7 +6422,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS45517297"
+          "code": "rs45517297"
         },
         "relation": "relatedMatch"
       }
@@ -6393,8 +6430,9 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLN1178TER",
-      "RS45517297",
-      "Q1178X"
+      "Q1178X",
+      "rs45517297",
+      "RS45517297"
     ],
     "members": [
       {
@@ -6634,7 +6672,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519860"
+          "code": "rs1057519860"
         },
         "relation": "relatedMatch"
       }
@@ -6642,7 +6680,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS1057519860",
-      "SER492ARG"
+      "SER492ARG",
+      "rs1057519860"
     ],
     "members": [
       {
@@ -6766,15 +6805,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913366"
+          "code": "rs121913366"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913366",
-      "LEU597ARG"
+      "rs121913366",
+      "LEU597ARG",
+      "RS121913366"
     ],
     "members": [
       {
@@ -6966,6 +7006,130 @@
       }
     }
   },
+  "civic.mpid:439": {
+    "id": "civic.mpid:439",
+    "label": "EGFR G465R",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 20.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "G",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000275493.2",
+          "chromosome": "7",
+          "start": 55227926,
+          "stop": 55227926,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "443"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA367579504"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "GLY465ARG"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.d6rKp4dr0zwDPPwMTuKp45YnH3Gm2vsK",
+        "label": "NC_000007.13:g.55227926G>A",
+        "digest": "d6rKp4dr0zwDPPwMTuKp45YnH3Gm2vsK",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.uxgufxUCpc_ydOp35YV83FPe5mafuCCp",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.F-LrLMe1SRpfUZHkQmvkVKFEGaoDeHul"
+          },
+          "start": 55160232,
+          "end": 55160233
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "A"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.uuwXGwbRCmPd4rfABIbyzyVZArrtHaBR",
+      "label": "G465R",
+      "digest": "uuwXGwbRCmPd4rfABIbyzyVZArrtHaBR",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000275493.2:c.1393G>A"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000007.13:g.55227926G>A"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_005228.3:c.1393G>A"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_005219.2:p.Gly465Arg"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.ApG-y_RpXIGLRPbJSv5GlwzQMMc61JXJ",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
+        },
+        "start": 464,
+        "end": 465
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
   "civic.mpid:610": {
     "id": "civic.mpid:610",
     "label": "JAK1 Q503*",
@@ -7027,8 +7191,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "Q503X",
-      "GLN503TER"
+      "GLN503TER",
+      "Q503X"
     ],
     "members": [
       {
@@ -7268,16 +7432,17 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS28940298"
+          "code": "rs28940298"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ARG200TRP",
       "C.598C>T",
-      "RS28940298"
+      "ARG200TRP",
+      "RS28940298",
+      "rs28940298"
     ],
     "members": [
       {
@@ -7517,8 +7682,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP1228VAL",
       "D1246V",
+      "ASP1228VAL",
       "ASP1246VAL"
     ],
     "definingContext": {
@@ -7740,15 +7905,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913421"
+          "code": "rs121913421"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913421",
-      "E746_A750DELELREA"
+      "rs121913421",
+      "E746_A750DELELREA",
+      "RS121913421"
     ],
     "definingContext": {
       "id": "ga4gh:VA.Ey1-CesK8oo-eXa_cmB-4HfLUcltVDYL",
@@ -7832,14 +7998,15 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS397517111"
+          "code": "rs397517111"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS397517111"
+      "RS397517111",
+      "rs397517111"
     ],
     "members": [
       {
@@ -8025,7 +8192,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519804"
+          "code": "rs1057519804"
         },
         "relation": "relatedMatch"
       }
@@ -8033,8 +8200,9 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS1057519804",
+      "Q17K",
       "GLN79LYS",
-      "Q17K"
+      "rs1057519804"
     ],
     "members": [
       {
@@ -8825,15 +8993,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519869"
+          "code": "rs1057519869"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASN2875HIS",
-      "RS1057519869"
+      "rs1057519869",
+      "RS1057519869",
+      "ASN2875HIS"
     ],
     "members": [
       {
@@ -8957,13 +9126,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519872"
+          "code": "rs1057519872"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs1057519872",
       "PRO471LEU",
       "RS1057519872"
     ],
@@ -9332,15 +9502,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS863225281"
+          "code": "rs863225281"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "PHE1174LEU",
-      "RS863225281"
+      "rs863225281",
+      "RS863225281",
+      "PHE1174LEU"
     ],
     "members": [
       {
@@ -9464,15 +9635,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS863225283"
+          "code": "rs863225283"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "PHE1245CYS",
-      "RS863225283"
+      "rs863225283",
+      "RS863225283",
+      "PHE1245CYS"
     ],
     "members": [
       {
@@ -9720,15 +9892,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913369"
+          "code": "rs121913369"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "LEU597VAL",
-      "RS121913369"
+      "rs121913369",
+      "RS121913369",
+      "LEU597VAL"
     ],
     "members": [
       {
@@ -9852,15 +10025,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913488"
+          "code": "rs121913488"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS121913488",
       "ASP835HIS",
-      "RS121913488"
+      "rs121913488"
     ],
     "members": [
       {
@@ -9984,15 +10158,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS397517102"
+          "code": "rs397517102"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS397517102",
-      "LYS757ARG"
+      "LYS757ARG",
+      "rs397517102",
+      "RS397517102"
     ],
     "members": [
       {
@@ -10428,7 +10603,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913272"
+          "code": "rs121913272"
         },
         "relation": "relatedMatch"
       }
@@ -10436,6 +10611,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS121913272",
+      "rs121913272",
       "CYS420ARG"
     ],
     "members": [
@@ -10561,7 +10737,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS104886003"
+          "code": "rs104886003"
         },
         "relation": "relatedMatch"
       }
@@ -10569,7 +10745,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLU545LYS",
-      "RS104886003"
+      "RS104886003",
+      "rs104886003"
     ],
     "members": [
       {
@@ -10693,15 +10870,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519710"
+          "code": "rs1057519710"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "ASP820TYR",
       "RS1057519710",
-      "ASP820TYR"
+      "rs1057519710"
     ],
     "members": [
       {
@@ -10825,15 +11003,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913514"
+          "code": "rs121913514"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASN822LYS",
-      "RS121913514"
+      "rs121913514",
+      "RS121913514",
+      "ASN822LYS"
     ],
     "members": [
       {
@@ -10957,15 +11136,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519761"
+          "code": "rs1057519761"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS1057519761",
       "TYR823ASP",
-      "RS1057519761"
+      "rs1057519761"
     ],
     "members": [
       {
@@ -11337,15 +11517,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913682"
+          "code": "rs121913682"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913682",
-      "ASP820GLY"
+      "ASP820GLY",
+      "rs121913682",
+      "RS121913682"
     ],
     "members": [
       {
@@ -11469,15 +11650,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913506"
+          "code": "rs121913506"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913506",
-      "ASP816HIS"
+      "rs121913506",
+      "ASP816HIS",
+      "RS121913506"
     ],
     "members": [
       {
@@ -11601,15 +11783,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913516"
+          "code": "rs121913516"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "THR670ILE",
-      "RS121913516"
+      "rs121913516",
+      "RS121913516",
+      "THR670ILE"
     ],
     "members": [
       {
@@ -11733,15 +11916,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS281864720"
+          "code": "rs281864720"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS281864720",
-      "PHE1245VAL"
+      "PHE1245VAL",
+      "rs281864720",
+      "RS281864720"
     ],
     "members": [
       {
@@ -11865,15 +12049,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913517"
+          "code": "rs121913517"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913517",
-      "VAL559ASP"
+      "VAL559ASP",
+      "rs121913517",
+      "RS121913517"
     ],
     "members": [
       {
@@ -11997,13 +12182,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913444"
+          "code": "rs121913444"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913444",
       "RS121913444"
     ],
     "members": [
@@ -12128,7 +12314,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913277"
+          "code": "rs121913277"
         },
         "relation": "relatedMatch"
       }
@@ -12136,7 +12322,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLY1049ARG",
-      "RS121913277"
+      "RS121913277",
+      "rs121913277"
     ],
     "members": [
       {
@@ -12342,15 +12529,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913521"
+          "code": "rs121913521"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "VAL560ASP",
-      "RS121913521"
+      "rs121913521",
+      "RS121913521",
+      "VAL560ASP"
     ],
     "members": [
       {
@@ -12966,13 +13154,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913444"
+          "code": "rs121913444"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913444",
       "RS121913444"
     ],
     "members": [
@@ -13230,15 +13419,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913366"
+          "code": "rs121913366"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913366",
-      "LEU597GLN"
+      "LEU597GLN",
+      "rs121913366",
+      "RS121913366"
     ],
     "members": [
       {
@@ -13411,14 +13601,15 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913438"
+          "code": "rs121913438"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913438"
+      "RS121913438",
+      "rs121913438"
     ],
     "definingContext": {
       "id": "ga4gh:VA.-c6XnKqvtA5dL94gYBHlQhqCq5rHn11h",
@@ -14032,15 +14223,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS779707422"
+          "code": "rs779707422"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASN546LYS",
-      "RS779707422"
+      "RS779707422",
+      "rs779707422",
+      "ASN546LYS"
     ],
     "members": [
       {
@@ -14165,13 +14357,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519786"
+          "code": "rs1057519786"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs1057519786",
       "SER214CYS",
       "RS1057519786"
     ],
@@ -14298,7 +14491,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121434596"
+          "code": "rs121434596"
         },
         "relation": "relatedMatch"
       }
@@ -14306,7 +14499,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS121434596",
-      "GLY13ASP"
+      "GLY13ASP",
+      "rs121434596"
     ],
     "members": [
       {
@@ -14431,13 +14625,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS11554290"
+          "code": "rs11554290"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs11554290",
       "GLN61LEU",
       "RS11554290"
     ],
@@ -14564,15 +14759,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS11554290"
+          "code": "rs11554290"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS11554290",
-      "GLN61ARG"
+      "GLN61ARG",
+      "rs11554290",
+      "RS11554290"
     ],
     "members": [
       {
@@ -14696,7 +14892,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519725"
+          "code": "rs1057519725"
         },
         "relation": "relatedMatch"
       }
@@ -14704,6 +14900,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "ALA146VAL",
+      "rs1057519725",
       "RS1057519725"
     ],
     "members": [
@@ -14828,8 +15025,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "GLN22TER",
-      "Q22X"
+      "Q22X",
+      "GLN22TER"
     ],
     "members": [
       {
@@ -14954,15 +15151,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS113994087"
+          "code": "rs113994087"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS113994087",
-      "ARG1275GLN"
+      "rs113994087",
+      "ARG1275GLN",
+      "RS113994087"
     ],
     "members": [
       {
@@ -15086,7 +15284,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS3822214"
+          "code": "rs3822214"
         },
         "relation": "relatedMatch"
       }
@@ -15094,7 +15292,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "MET541LEU",
-      "RS3822214"
+      "RS3822214",
+      "rs3822214"
     ],
     "members": [
       {
@@ -15218,7 +15417,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913492"
+          "code": "rs121913492"
         },
         "relation": "relatedMatch"
       }
@@ -15226,7 +15425,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLN209PRO",
-      "RS121913492"
+      "RS121913492",
+      "rs121913492"
     ],
     "members": [
       {
@@ -15351,15 +15551,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913483"
+          "code": "rs121913483"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "SER249CYS",
       "RS121913483",
-      "SER249CYS"
+      "rs121913483"
     ],
     "members": [
       {
@@ -15488,13 +15689,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS786202134"
+          "code": "rs786202134"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs786202134",
       "ASP194GLU",
       "RS786202134"
     ],
@@ -15621,8 +15823,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "D1246N",
-      "ASP1228ASN",
-      "ASP1246ASN"
+      "ASP1246ASN",
+      "ASP1228ASN"
     ],
     "members": [
       {
@@ -15775,8 +15977,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "E384X",
-      "GLU384TER"
+      "GLU384TER",
+      "E384X"
     ],
     "members": [
       {
@@ -15935,15 +16137,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913234"
+          "code": "rs121913234"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "KPMYEVQWK550-558DEL",
-      "RS121913234"
+      "RS121913234",
+      "rs121913234",
+      "KPMYEVQWK550-558DEL"
     ],
     "definingContext": {
       "id": "ga4gh:VA.KskdFsJad0DhtpbBJR81XOo60lakEvZH",
@@ -16125,15 +16328,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913513"
+          "code": "rs121913513"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913513",
-      "LEU576PRO"
+      "rs121913513",
+      "LEU576PRO",
+      "RS121913513"
     ],
     "members": [
       {
@@ -16256,15 +16460,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1060502543"
+          "code": "rs1060502543"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS1060502543",
-      "ASP579DEL"
+      "rs1060502543",
+      "ASP579DEL",
+      "RS1060502543"
     ],
     "members": [
       {
@@ -16482,15 +16687,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS754652044"
+          "code": "rs754652044"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "LYS806GLU",
-      "RS754652044"
+      "RS754652044",
+      "rs754652044",
+      "LYS806GLU"
     ],
     "members": [
       {
@@ -16976,13 +17182,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913348"
+          "code": "rs121913348"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913348",
       "GLY464VAL",
       "RS121913348"
     ],
@@ -17108,15 +17315,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913355"
+          "code": "rs121913355"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913355",
-      "GLY469ALA"
+      "rs121913355",
+      "GLY469ALA",
+      "RS121913355"
     ],
     "members": [
       {
@@ -17279,15 +17487,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913370"
+          "code": "rs121913370"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913370",
       "N189S",
+      "rs121913370",
+      "RS121913370",
       "N9S"
     ],
     "definingContext": {
@@ -17372,7 +17581,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913351"
+          "code": "rs121913351"
         },
         "relation": "relatedMatch"
       }
@@ -17380,7 +17589,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLY466VAL",
-      "RS121913351"
+      "RS121913351",
+      "rs121913351"
     ],
     "members": [
       {
@@ -17504,17 +17714,18 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913361"
+          "code": "rs121913361"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "G24R",
-      "G204R",
       "RS121913361",
-      "GLY596ARG"
+      "GLY596ARG",
+      "G204R",
+      "rs121913361",
+      "G24R"
     ],
     "members": [
       {
@@ -17813,7 +18024,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913500"
+          "code": "rs121913500"
         },
         "relation": "relatedMatch"
       }
@@ -17821,6 +18032,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "ARG132HIS",
+      "rs121913500",
       "RS121913500"
     ],
     "members": [
@@ -17945,15 +18157,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913409"
+          "code": "rs121913409"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913409",
-      "SER45PHE"
+      "rs121913409",
+      "SER45PHE",
+      "RS121913409"
     ],
     "members": [
       {
@@ -18339,15 +18552,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913254"
+          "code": "rs121913254"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS121913254",
       "GLN61LYS",
-      "RS121913254"
+      "rs121913254"
     ],
     "members": [
       {
@@ -18469,14 +18683,15 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS397517106"
+          "code": "rs397517106"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS397517106"
+      "RS397517106",
+      "rs397517106"
     ],
     "members": [
       {
@@ -18599,9 +18814,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "TYR646HIS",
       "Y641H",
-      "TYR641HIS"
+      "TYR641HIS",
+      "TYR646HIS"
     ],
     "members": [
       {
@@ -18797,15 +19012,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS530419081"
+          "code": "rs530419081"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ARG961TRP",
-      "RS530419081"
+      "RS530419081",
+      "rs530419081",
+      "ARG961TRP"
     ],
     "members": [
       {
@@ -19053,14 +19269,15 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121908586"
+          "code": "rs121908586"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121908586"
+      "RS121908586",
+      "rs121908586"
     ],
     "members": [
       {
@@ -19308,15 +19525,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121434595"
+          "code": "rs121434595"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "GLY13ARG",
-      "RS121434595"
+      "rs121434595",
+      "RS121434595",
+      "GLY13ARG"
     ],
     "members": [
       {
@@ -19440,15 +19658,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913284"
+          "code": "rs121913284"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASN345LYS",
-      "RS121913284"
+      "RS121913284",
+      "rs121913284",
+      "ASN345LYS"
     ],
     "members": [
       {
@@ -19572,8 +19791,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "LEU298VAL",
-      "L317V"
+      "L317V",
+      "LEU298VAL"
     ],
     "members": [
       {
@@ -19674,13 +19893,6 @@
           "code": "1639"
         },
         "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://reg.clinicalgenome.org/",
-          "code": "CA913189156"
-        },
-        "relation": "relatedMatch"
       },
       {
         "coding": {
@@ -19861,15 +20073,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS28929495"
+          "code": "rs28929495"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS28929495",
       "GLY719SER",
-      "RS28929495"
+      "rs28929495"
     ],
     "members": [
       {
@@ -19988,13 +20201,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913466"
+          "code": "rs121913466"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913466",
       "RS121913466"
     ],
     "members": [
@@ -20101,8 +20315,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP770_ASN771INSSERVALASP",
-      "S768_D770DUP"
+      "S768_D770DUP",
+      "ASP770_ASN771INSSERVALASP"
     ],
     "members": [
       {
@@ -20302,8 +20516,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "R723C",
-      "R731C"
+      "R731C",
+      "R723C"
     ],
     "definingContext": {
       "id": "ga4gh:VA.agg93mBDvZSlGxAjx-Ut4lKtWALOUM6-",
@@ -20473,7 +20687,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1171287261"
+          "code": "rs1171287261"
         },
         "relation": "relatedMatch"
       }
@@ -20482,6 +20696,7 @@
     "aliases": [
       "A811T",
       "ALA864THR",
+      "rs1171287261",
       "RS1171287261",
       "A819T"
     ],
@@ -20602,8 +20817,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "N773S",
-      "N781S"
+      "N781S",
+      "N773S"
     ],
     "definingContext": {
       "id": "ga4gh:VA.-J43l0HcwpbHDhJ9u4G-AKrssAApQikW",
@@ -20778,7 +20993,7 @@
       {
         "type": "Extension",
         "name": "CIViC Molecular Profile Score",
-        "value": 21.5
+        "value": 23.5
       },
       {
         "type": "Extension",
@@ -20832,8 +21047,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "L740S",
       "L725S",
+      "L740S",
       "LEU755SER"
     ],
     "members": [
@@ -20958,7 +21173,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1131692241"
+          "code": "rs1131692241"
         },
         "relation": "relatedMatch"
       }
@@ -20966,6 +21181,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "LEU755_THR759DEL",
+      "rs1131692241",
       "RS1131692241"
     ],
     "members": [
@@ -21095,19 +21311,20 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519787"
+          "code": "rs1057519787"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "G279A",
-      "GLY279ALA",
-      "RS1057519787",
-      "G294A",
+      "GLY309ALA",
       "GLY294ALA",
-      "GLY309ALA"
+      "G294A",
+      "GLY279ALA",
+      "G279A",
+      "rs1057519787",
+      "RS1057519787"
     ],
     "members": [
       {
@@ -21232,17 +21449,18 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913470"
+          "code": "rs121913470"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913470",
       "RS121913470",
-      "LEU755TRP",
+      "L740W",
       "L725W",
-      "L740W"
+      "LEU755TRP"
     ],
     "members": [
       {
@@ -21367,17 +21585,18 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS758222990"
+          "code": "rs758222990"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ARG896CYS",
+      "rs758222990",
       "RS758222990",
       "R881C",
-      "R866C"
+      "R866C",
+      "ARG896CYS"
     ],
     "members": [
       {
@@ -21448,7 +21667,7 @@
       {
         "type": "Extension",
         "name": "CIViC Molecular Profile Score",
-        "value": 9.0
+        "value": 11.0
       },
       {
         "type": "Extension",
@@ -21502,7 +21721,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913471"
+          "code": "rs121913471"
         },
         "relation": "relatedMatch"
       }
@@ -21512,6 +21731,7 @@
       "RS121913471",
       "V747L",
       "VAL777LEU",
+      "rs121913471",
       "V762L"
     ],
     "members": [
@@ -21637,19 +21857,20 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519738"
+          "code": "rs1057519738"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "V827I",
       "VAL842ILE",
       "VAL827ILE",
-      "V812I",
+      "rs1057519738",
       "RS1057519738",
-      "VAL812ILE",
-      "V827I"
+      "V812I",
+      "VAL812ILE"
     ],
     "members": [
       {
@@ -21773,16 +21994,17 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS779478267"
+          "code": "rs779478267"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "R332W",
+      "ARG351TRP",
       "RS779478267",
-      "ARG351TRP"
+      "R332W",
+      "rs779478267"
     ],
     "members": [
       {
@@ -22032,15 +22254,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913265"
+          "code": "rs121913265"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "ASP842TYR",
       "RS121913265",
-      "ASP842TYR"
+      "rs121913265"
     ],
     "members": [
       {
@@ -22392,15 +22615,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS115169993"
+          "code": "rs115169993"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS115169993",
-      "GLY505SER"
+      "GLY505SER",
+      "rs115169993",
+      "RS115169993"
     ],
     "members": [
       {
@@ -22994,20 +23218,21 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913468"
+          "code": "rs121913468"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "D769Y",
-      "RS121913468",
+      "rs121913468",
+      "ASP739TYR",
       "ASP769TYR",
-      "D739Y",
+      "D769Y",
       "ASP754TYR",
-      "D754Y",
-      "ASP739TYR"
+      "D739Y",
+      "RS121913468",
+      "D754Y"
     ],
     "members": [
       {
@@ -23132,7 +23357,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913279"
+          "code": "rs121913279"
         },
         "relation": "relatedMatch"
       }
@@ -23140,6 +23365,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS121913279",
+      "rs121913279",
       "HIS1047ARG"
     ],
     "members": [
@@ -23270,7 +23496,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121909219"
+          "code": "rs121909219"
         },
         "relation": "relatedMatch"
       }
@@ -23278,8 +23504,9 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS121909219",
-      "R233X",
-      "ARG233TER"
+      "ARG233TER",
+      "rs121909219",
+      "R233X"
     ],
     "members": [
       {
@@ -23403,15 +23630,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1051753269"
+          "code": "rs1051753269"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS1051753269",
-      "GLY724SER"
+      "GLY724SER",
+      "rs1051753269",
+      "RS1051753269"
     ],
     "members": [
       {
@@ -23883,13 +24111,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519934"
+          "code": "rs1057519934"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs1057519934",
       "LYS111ASN",
       "RS1057519934"
     ],
@@ -23954,27 +24183,28 @@
       }
     }
   },
-  "civic.mpid:2858": {
-    "id": "civic.mpid:2858",
-    "label": "EZH2 Y646F",
-    "description": "Y646F has been reported as one of the most recurrent alterations of EZH2 in DLBCL, FL and other malignancies. This mutation is thought to alter methyltransferase activity of EZH2 and confer sensitivity to EZH2 inhibitors such as tazemetostat.",
+  "civic.mpid:117": {
+    "id": "civic.mpid:117",
+    "label": "TP53 R248Q",
+    "description": "While loss-of-function events in TP53 are very common in cancer, the R248 variants seem not only to result in loss of tumor-suppression, but also act as a gain-of-function mutation that can promote tumorigenesis in mouse models. This mutant is also more responsive to treatment with doxorubicin than its wild-type counterparts. While the prognostic impact of individual TP53 mutations is influenced by the cohort being studied, R248 mutations have been shown to confer worse overall survival. The R248Q mutation has also shown an increased invasive behavior in cell lines. This is specific to the 248Q variant.",
     "extensions": [
       {
         "type": "Extension",
         "name": "CIViC Molecular Profile Score",
-        "value": 14.0
+        "value": 46.0
       },
       {
         "type": "Extension",
         "name": "CIViC representative coordinate",
         "value": {
+          "ensembl_version": 75,
           "reference_build": "GRCh37",
-          "reference_bases": "T",
-          "variant_bases": "A",
-          "representative_transcript": "ENST00000320356.7",
-          "chromosome": "7",
-          "start": 148508727,
-          "stop": 148508727,
+          "reference_bases": "C",
+          "variant_bases": "T",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7577538,
+          "stop": 7577538,
           "type": "coordinates"
         }
       },
@@ -23994,46 +24224,187 @@
       {
         "coding": {
           "system": "https://civicdb.org/variants/",
-          "code": "2989"
+          "code": "117"
         },
         "relation": "exactMatch"
       },
       {
         "coding": {
           "system": "https://reg.clinicalgenome.org/",
-          "code": "CA16602259"
+          "code": "CA000387"
         },
         "relation": "relatedMatch"
       },
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
-          "code": "76768"
+          "code": "12356"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs11540652"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "TYR641PHE",
-      "Y641F",
-      "TYR646PHE"
+      "ARG248GLN",
+      "rs11540652",
+      "RS11540652"
     ],
     "members": [
       {
-        "id": "ga4gh:VA.Q_sL4G2qb2BhSUg_tlGZrQyOA7062sAt",
-        "label": "NC_000007.14:g.148811635T>A",
-        "digest": "Q_sL4G2qb2BhSUg_tlGZrQyOA7062sAt",
+        "id": "ga4gh:VA.hZD4AHuCaqoNbcf7FaPbcLCLCVBXvA4P",
+        "label": "NC_000017.10:g.7577538C>T",
+        "digest": "hZD4AHuCaqoNbcf7FaPbcLCLCVBXvA4P",
         "type": "Allele",
         "location": {
-          "id": "ga4gh:SL.hTPdaswDMkwuHxMm7SgRnhis9FUCHRNI",
+          "id": "ga4gh:SL.5NIK-PLJ9--W0QfRBaXYLqwD6QDrV2J3",
           "type": "SequenceLocation",
           "sequenceReference": {
             "type": "SequenceReference",
-            "refgetAccession": "SQ.F-LrLMe1SRpfUZHkQmvkVKFEGaoDeHul"
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
           },
-          "start": 148811634,
-          "end": 148811635
+          "start": 7674219,
+          "end": 7674220
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "T"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.YDbuWVoa3yP00e2ZWHqNwb16rgxp6A05",
+      "label": "R248Q",
+      "digest": "YDbuWVoa3yP00e2ZWHqNwb16rgxp6A05",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.743G>A"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Arg248Gln"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7577538C>T"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.743G>A"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.16FF8pOeO4aUsf4yaXcOZgXp08sOXn79",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 247,
+        "end": 248
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Q"
+      }
+    }
+  },
+  "civic.mpid:118": {
+    "id": "civic.mpid:118",
+    "label": "TP53 R248W",
+    "description": "While loss-of-function events in TP53 are very common in cancer, the R248 variants seem not only to result in loss of tumor-suppression, but also act as a gain-of-function mutation that can promote tumorigenesis in mouse models. This mutant is also more responsive to treatment with doxorubicin than its wild-type counterparts. While the prognostic impact of individual TP53 mutations is influenced by the cohort being studied, R248 mutations have been shown to confer worse overall survival.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 22.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "G",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7577539,
+          "stop": 7577539,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "118"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000382"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "12347"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121912651"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "ARG248TRP",
+      "rs121912651",
+      "RS121912651"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.YNfidPco1WooxxWIyKAXFbXRcNyBTO-2",
+        "label": "NC_000017.10:g.7577539G>A",
+        "digest": "YNfidPco1WooxxWIyKAXFbXRcNyBTO-2",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.0qjg7nmbFKUW0sXbpUxdP7FiN1phdIaD",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7674220,
+          "end": 7674221
         },
         "state": {
           "type": "LiteralSequenceExpression",
@@ -24042,65 +24413,1077 @@
       }
     ],
     "definingContext": {
-      "id": "ga4gh:VA.lBiBkFGa4jG5y2kIbDYYJyZpQTfmHfss",
-      "label": "Y646F",
-      "digest": "lBiBkFGa4jG5y2kIbDYYJyZpQTfmHfss",
+      "id": "ga4gh:VA.ZxI0hPqGFUDYQA-9Toe75F_nItEYfCMU",
+      "label": "R248W",
+      "digest": "ZxI0hPqGFUDYQA-9Toe75F_nItEYfCMU",
       "type": "Allele",
       "expressions": [
         {
           "syntax": "hgvs.c",
-          "value": "ENST00000320356.7:c.1937A>T"
+          "value": "NM_000546.5:c.742C>T"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Arg248Trp"
         },
         {
           "syntax": "hgvs.g",
-          "value": "NC_000007.14:g.148811635T>A"
-        },
-        {
-          "syntax": "hgvs.g",
-          "value": "NC_000007.13:g.148508727T>A"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "ENSP00000320147.2:p.Tyr646Phe"
+          "value": "NC_000017.10:g.7577539G>A"
         },
         {
           "syntax": "hgvs.c",
-          "value": "ENST00000460911.5:c.1922A>T"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "ENSP00000419711.1:p.Tyr641Phe"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "NM_004456.5:c.1937A>T"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_004447.2:p.Tyr646Phe"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "NM_001203247.2:c.1922A>T"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_001190176.1:p.Tyr641Phe"
+          "value": "ENST00000269305.4:c.742C>T"
         }
       ],
       "location": {
-        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "id": "ga4gh:SL.16FF8pOeO4aUsf4yaXcOZgXp08sOXn79",
         "type": "SequenceLocation",
         "sequenceReference": {
           "type": "SequenceReference",
-          "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
         },
-        "start": 645,
-        "end": 646
+        "start": 247,
+        "end": 248
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "W"
+      }
+    }
+  },
+  "civic.mpid:116": {
+    "id": "civic.mpid:116",
+    "label": "TP53 R175H",
+    "description": "While loss-of-function events in TP53 are very common in cancer, the R175H variant seems not only to result in loss of tumor-suppression, but also acts as a gain-of-function mutation that promotes tumorigenesis in mouse models. Cell lines harboring this mutant is also more responsive to treatment with doxorubicin than its wild-type counterparts. While the prognostic impact of individual TP53 mutations is influenced by the cohort being studied, it has been shown that the R175H mutation is correlated with worse overall survival than wild-type TP53, but is not as detrimental as the R248W variant. This variant is rare in population databases (ACMG code: PM2; 0.000003980 total exome AF gnomAD v2.1.1).",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 25.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "T",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7578406,
+          "stop": 7578406,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "116"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000251"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "12374"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs28934578"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "rs28934578",
+      "R43H",
+      "RS28934578",
+      "ARG175HIS",
+      "R136H"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.tKbKBAAo6GbAm7D1Mj2R3F8I1VB1GGlM",
+        "label": "NC_000017.10:g.7578406C>T",
+        "digest": "tKbKBAAo6GbAm7D1Mj2R3F8I1VB1GGlM",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.O7SQ86ULNh8AzYhfV1RBO-pLEcsHfyjs",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7675087,
+          "end": 7675088
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "T"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.gEgxg9Gliq2KY7z_YaGqP3MSHsuOOEMI",
+      "label": "R175H",
+      "digest": "gEgxg9Gliq2KY7z_YaGqP3MSHsuOOEMI",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.524G>A"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Arg175His"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7578406C>T"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.524G>A"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.I8qo71Hywhe4fsS5du2jYELlR8IE6a88",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 174,
+        "end": 175
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "civic.mpid:121": {
+    "id": "civic.mpid:121",
+    "label": "TP53 R273C",
+    "description": "While loss-of-function events in TP53 are very common in cancer, the R273 variants seem not only to result in loss of tumor-suppression, but also act as a gain-of-function mutation that can promote tumorigenesis in mouse models. This mutant is also more responsive to treatment with doxorubicin than its wild-type counterparts. While the prognostic impact of individual TP53 mutations is influenced by the cohort being studied, it has been suggested that the R273 mutants have been correlated with worse overall survival in breast cancer patients when compared to wild-type.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 44.5
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "G",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7577121,
+          "stop": 7577121,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "121"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000432"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "43594"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913343"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "ARG273CYS",
+      "RS121913343",
+      "rs121913343"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.6NCju0nBksrsJsX6A6JjdM8iVa3krMeD",
+        "label": "NC_000017.10:g.7577121G>A",
+        "digest": "6NCju0nBksrsJsX6A6JjdM8iVa3krMeD",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.DVOz-nl_Gj-VzSx_4t4vSb4vcyJeNk8U",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7673802,
+          "end": 7673803
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "A"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.pjRZso56yn8ODHxWoiKJN55FYHWte1Oy",
+      "label": "R273C",
+      "digest": "pjRZso56yn8ODHxWoiKJN55FYHWte1Oy",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.817C>T"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Arg273Cys"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7577121G>A"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.817C>T"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.fBSEtdw7zkjIuMBd6Vdx2qQjM1CBCqnc",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 272,
+        "end": 273
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "civic.mpid:122": {
+    "id": "civic.mpid:122",
+    "label": "TP53 R273H",
+    "description": "While loss-of-function events in TP53 are very common in cancer, the R273 variants seem not only to result in loss of tumor-suppression, but also act as a gain-of-function mutation that can promote tumorigenesis in mouse models. This mutant is also more responsive to treatment with doxorubicin than its wild-type counterparts. While the prognostic impact of individual TP53 mutations is influenced by the cohort being studied, it has been suggested that the R273 mutants have been correlated with worse overall survival in breast cancer patients when compared to wild-type.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 41.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "T",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7577120,
+          "stop": 7577120,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "122"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000434"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "12366"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs28934576"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "ARG273HIS",
+      "rs28934576",
+      "RS28934576"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.vCOV0bY9s6tDpYIN2VWtUe10Njr-Ai7S",
+        "label": "NC_000017.10:g.7577120C>T",
+        "digest": "vCOV0bY9s6tDpYIN2VWtUe10Njr-Ai7S",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.cVAMoRM1H02jHNORmPoNuo53hbq666YN",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7673801,
+          "end": 7673802
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "T"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.PlWVM_m6ZWI1Vh49z_f1jjIZY9ctaBfQ",
+      "label": "R273H",
+      "digest": "PlWVM_m6ZWI1Vh49z_f1jjIZY9ctaBfQ",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.818G>A"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Arg273His"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7577120C>T"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.818G>A"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.fBSEtdw7zkjIuMBd6Vdx2qQjM1CBCqnc",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 272,
+        "end": 273
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "civic.mpid:853": {
+    "id": "civic.mpid:853",
+    "label": "TP53 G245S",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 10.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "T",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7577548,
+          "stop": 7577548,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "879"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000367"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "12365"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs28934575"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "rs28934575",
+      "RS28934575"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.yr-4Fnb8Q_RBQD-JtGGQemDK3Mby1BXe",
+        "label": "NC_000017.10:g.7577548C>T",
+        "digest": "yr-4Fnb8Q_RBQD-JtGGQemDK3Mby1BXe",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.hoGm9AGaBUYa6XMBwl_Ot3P_SgQ5lrqI",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7674229,
+          "end": 7674230
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "T"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.BEFt_7r2yQNDtekzOKSJLvO8nlX8KHCt",
+      "label": "G245S",
+      "digest": "BEFt_7r2yQNDtekzOKSJLvO8nlX8KHCt",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7577548C>T"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.733G>A"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Gly245Ser"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.733G>A"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.GGbSHcB7i0K8T1691lj1JH2azFjbsDJ7",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 244,
+        "end": 245
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "civic.mpid:896": {
+    "id": "civic.mpid:896",
+    "label": "TP53 Y220C",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 15.5
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "T",
+          "variant_bases": "C",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7578190,
+          "stop": 7578190,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "922"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000315"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "127819"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121912666"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "RS121912666",
+      "TYR220CYS",
+      "rs121912666"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.O7TpCfowJTi-tHr3uIA3ZU_Cg9XUDITD",
+        "label": "NC_000017.10:g.7578190T>C",
+        "digest": "O7TpCfowJTi-tHr3uIA3ZU_Cg9XUDITD",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.a5DfSpoJqIa6TmxlGq5yDR2zYf-3wNOt",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7674871,
+          "end": 7674872
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "C"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.pML2Z4aTxjg9gr9L7GzTuYwxkmD4U5In",
+      "label": "Y220C",
+      "digest": "pML2Z4aTxjg9gr9L7GzTuYwxkmD4U5In",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.659A>G"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Tyr220Cys"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7578190T>C"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.659A>G"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.cjOFLN1AuibH__ZlHvGK1mYoXvvIGUgZ",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 219,
+        "end": 220
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "civic.mpid:1066": {
+    "id": "civic.mpid:1066",
+    "label": "TP53 V157F",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 4.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7578461,
+          "stop": 7578461,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1092"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000222"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "12353"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121912654"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "rs121912654",
+      "VAL157PHE",
+      "RS121912654"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.7KNkyB7j55eW-EluV7-1gi-BUtAa2Cmo",
+        "label": "NC_000017.10:g.7578461C>A",
+        "digest": "7KNkyB7j55eW-EluV7-1gi-BUtAa2Cmo",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.hhi0tHnykcd7cIwbkCVDvR-hxNS4714w",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 7675142,
+          "end": 7675143
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "A"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.rE5hnltWbJM0-vZDfmCsT5Ce8hr0GsVT",
+      "label": "V157F",
+      "digest": "rE5hnltWbJM0-vZDfmCsT5Ce8hr0GsVT",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000546.5:c.469G>T"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000537.3:p.Val157Phe"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.7578461C>A"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.469G>T"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.wF8slnCBBVCI71Nm3aaqEX9nEoWPGTV3",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 156,
+        "end": 157
       },
       "state": {
         "type": "LiteralSequenceExpression",
         "sequence": "F"
+      }
+    }
+  },
+  "civic.mpid:1604": {
+    "id": "civic.mpid:1604",
+    "label": "TP53 R249S",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 7.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "type": "coordinates"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1696"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.Vh6zKhO8vSTbxZ0FaP2BFJgS2YSdvaAz",
+      "label": "R249S",
+      "digest": "Vh6zKhO8vSTbxZ0FaP2BFJgS2YSdvaAz",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.YS7IpUePTii7dJ9vGKeoSlidGzf498Fk",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 248,
+        "end": 249
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "civic.mpid:1605": {
+    "id": "civic.mpid:1605",
+    "label": "TP53 R280K",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 4.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "type": "coordinates"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1697"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.nAg_RyhqcwokNEkGS4-xeybSYfnzFCHp",
+      "label": "R280K",
+      "digest": "nAg_RyhqcwokNEkGS4-xeybSYfnzFCHp",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.d6fv6ZOuLqXciz28IQcvS0KZXWnSNZeL",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 279,
+        "end": 280
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "K"
+      }
+    }
+  },
+  "civic.mpid:1606": {
+    "id": "civic.mpid:1606",
+    "label": "TP53 R280T",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 4.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "type": "coordinates"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1698"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.8gaBRWX7Rahtt8cTRLBGhcDTY72-6fl8",
+      "label": "R280T",
+      "digest": "8gaBRWX7Rahtt8cTRLBGhcDTY72-6fl8",
+      "type": "Allele",
+      "location": {
+        "id": "ga4gh:SL.d6fv6ZOuLqXciz28IQcvS0KZXWnSNZeL",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 279,
+        "end": 280
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "T"
+      }
+    }
+  },
+  "civic.mpid:1607": {
+    "id": "civic.mpid:1607",
+    "label": "TP53 R158L",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 4.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7578457,
+          "stop": 7578457,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1699"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA397842028"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "528248"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "ARG158LEU"
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.KHRt57svbXdUaMA1k4trVR1p-RGI53-Z",
+      "label": "R158L",
+      "digest": "KHRt57svbXdUaMA1k4trVR1p-RGI53-Z",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.473G>T"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.hlpv-ERx6YWsFxL-sRCqwDNncpQ90ExM",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 157,
+        "end": 158
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
       }
     }
   },
@@ -24288,15 +25671,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519713"
+          "code": "rs1057519713"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS1057519713",
-      "ALA829PRO"
+      "ALA829PRO",
+      "rs1057519713",
+      "RS1057519713"
     ],
     "members": [
       {
@@ -24368,8 +25752,27 @@
         "type": "Extension",
         "name": "CIViC representative coordinate",
         "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000241453.12",
+          "chromosome": "13",
+          "start": 28592642,
+          "stop": 28592642,
           "type": "coordinates"
         }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
       }
     ],
     "mappings": [
@@ -24379,14 +25782,89 @@
           "code": "3011"
         },
         "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA126347"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913488"
+        },
+        "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "RS121913488",
+      "rs121913488",
+      "ASP835TYR"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.VONFxj37_dBwgXZmROO6YcagGvqCZAad",
+        "label": "NC_000013.10:g.28592642C>A",
+        "digest": "VONFxj37_dBwgXZmROO6YcagGvqCZAad",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.h349NKXyd2oh8TNpC8OtaAz9DTlScEHk",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ._0wi-qoDrvram155UmcSC-zA5ZK4fpLT"
+          },
+          "start": 28018504,
+          "end": 28018505
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "A"
+        }
+      }
+    ],
     "definingContext": {
       "id": "ga4gh:VA.1hPW7A1Ucjjqoj-8nHIaO7J9py4rPU-B",
       "label": "D835Y",
       "digest": "1hPW7A1Ucjjqoj-8nHIaO7J9py4rPU-B",
       "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_004119.2:c.2503G>T"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_004110.2:p.Asp835Tyr"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000013.10:g.28592642C>A"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000013.11:g.28018505C>A"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000241453.12:c.2503G>T"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_004119.3:c.2503G>T"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "ENSP00000241453.7:p.Asp835Tyr"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "LRG_457t1:c.2503G>T"
+        }
+      ],
       "location": {
         "id": "ga4gh:SL.JUgz5GWLTcSTPLIVCaYEGo7KsH5QpwgJ",
         "type": "SequenceLocation",
@@ -24944,15 +26422,15 @@
       }
     }
   },
-  "civic.mpid:116": {
-    "id": "civic.mpid:116",
-    "label": "TP53 R175H",
-    "description": "While loss-of-function events in TP53 are very common in cancer, the R175H variant seems not only to result in loss of tumor-suppression, but also acts as a gain-of-function mutation that promotes tumorigenesis in mouse models. Cell lines harboring this mutant is also more responsive to treatment with doxorubicin than its wild-type counterparts. While the prognostic impact of individual TP53 mutations is influenced by the cohort being studied, it has been shown that the R175H mutation is correlated with worse overall survival than wild-type TP53, but is not as detrimental as the R248W variant. This variant is rare in population databases (ACMG code: PM2; 0.000003980 total exome AF gnomAD v2.1.1).",
+  "civic.mpid:46": {
+    "id": "civic.mpid:46",
+    "label": "ESR1 L536Q",
+    "description": "ESR1 biology has become a central focus in breast cancer therapy. In ER+ tumors, mutations in the ESR1 ligand binding domain have been shown to confer resistance to hormone therapy. This evidence has led to an increased use of targeted sequencing of the estrogen receptor in breast and ovarian cancer. Y536Q is one of these ligand binding domain mutations, and is commonly implicated in this hormone resistance. Preliminary data suggests ER-degrading agents, such as fulvestrant, may be beneficial in treating ESR1 mutant, hormone resistant breast cancers.",
     "extensions": [
       {
         "type": "Extension",
         "name": "CIViC Molecular Profile Score",
-        "value": 25.0
+        "value": 8.0
       },
       {
         "type": "Extension",
@@ -24960,12 +26438,12 @@
         "value": {
           "ensembl_version": 75,
           "reference_build": "GRCh37",
-          "reference_bases": "C",
-          "variant_bases": "T",
-          "representative_transcript": "ENST00000269305.4",
-          "chromosome": "17",
-          "start": 7578406,
-          "stop": 7578406,
+          "reference_bases": "TC",
+          "variant_bases": "AG",
+          "representative_transcript": "ENST00000440973.1",
+          "chromosome": "6",
+          "start": 152419920,
+          "stop": 152419921,
           "type": "coordinates"
         }
       },
@@ -24985,97 +26463,579 @@
       {
         "coding": {
           "system": "https://civicdb.org/variants/",
-          "code": "116"
+          "code": "46"
         },
         "relation": "exactMatch"
       },
       {
         "coding": {
           "system": "https://reg.clinicalgenome.org/",
-          "code": "CA000251"
+          "code": "CA645542628"
         },
         "relation": "relatedMatch"
       },
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
-          "code": "12374"
-        },
-        "relation": "relatedMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS28934578"
+          "code": "NONE FOUND"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ARG175HIS",
-      "R43H",
-      "RS28934578",
-      "R136H"
+      "LEU536GLN"
     ],
     "members": [
       {
-        "id": "ga4gh:VA.tKbKBAAo6GbAm7D1Mj2R3F8I1VB1GGlM",
-        "label": "NC_000017.10:g.7578406C>T",
-        "digest": "tKbKBAAo6GbAm7D1Mj2R3F8I1VB1GGlM",
+        "id": "ga4gh:VA.zbjFtas3cyxI78Ph-xrWHNGlJdUE-Hm8",
+        "label": "NC_000006.11:g.152419920_152419921delinsAG",
+        "digest": "zbjFtas3cyxI78Ph-xrWHNGlJdUE-Hm8",
         "type": "Allele",
         "location": {
-          "id": "ga4gh:SL.O7SQ86ULNh8AzYhfV1RBO-pLEcsHfyjs",
+          "id": "ga4gh:SL.nguNoNr5qiMGRSCVv-ywYwbWg8TVDC9T",
           "type": "SequenceLocation",
           "sequenceReference": {
             "type": "SequenceReference",
-            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+            "refgetAccession": "SQ.0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV"
           },
-          "start": 7675087,
-          "end": 7675088
+          "start": 152098784,
+          "end": 152098786
         },
         "state": {
           "type": "LiteralSequenceExpression",
-          "sequence": "T"
+          "sequence": "AG"
         }
       }
     ],
     "definingContext": {
-      "id": "ga4gh:VA.gEgxg9Gliq2KY7z_YaGqP3MSHsuOOEMI",
-      "label": "R175H",
-      "digest": "gEgxg9Gliq2KY7z_YaGqP3MSHsuOOEMI",
+      "id": "ga4gh:VA.CUV-B8ZFX827s9gBoLc274fzi74RcGS-",
+      "label": "L536Q",
+      "digest": "CUV-B8ZFX827s9gBoLc274fzi74RcGS-",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000006.11:g.152419920_152419921delinsAG"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000440973.1:c.1607_1608delinsAG"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.1EyyMfNnYJnkFAkx0_Z9i_ry-8UbibEo",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.Dcv_jfZMRcmxme6pot93DNwG0ypAfGol"
+        },
+        "start": 535,
+        "end": 536
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Q"
+      }
+    }
+  },
+  "civic.mpid:47": {
+    "id": "civic.mpid:47",
+    "label": "ESR1 D538G",
+    "description": "ESR1 biology has become a central focus in breast cancer therapy. In ER+ tumors, mutations in the ESR1 ligand binding domain have been shown to confer resistance to hormone therapy. This evidence has led to an increased use of targeted sequencing of the estrogen receptor in breast and ovarian cancer. D538G is one of these ligand binding domain mutations, and is commonly implicated in this hormone resistance. Preliminary data suggests ER-degrading agents, such as fulvestrant, may be beneficial in treating ESR1 mutant, hormone resistant breast cancers.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 18.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "A",
+          "variant_bases": "G",
+          "representative_transcript": "ENST00000206249.3",
+          "chromosome": "6",
+          "start": 152419926,
+          "stop": 152419926,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "47"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA366085705"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "ASP538GLY"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.TB7_In1iatls-En880Vc0f1KclwYvwRc",
+        "label": "NC_000006.11:g.152419926A>G",
+        "digest": "TB7_In1iatls-En880Vc0f1KclwYvwRc",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.B79VskAlFMvnb7wBdir8unWljg_d1KOZ",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV"
+          },
+          "start": 152098790,
+          "end": 152098791
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "G"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.WrXk1nHAKkbCe4c9tNHN5uUwD77jwBG3",
+      "label": "D538G",
+      "digest": "WrXk1nHAKkbCe4c9tNHN5uUwD77jwBG3",
       "type": "Allele",
       "expressions": [
         {
           "syntax": "hgvs.c",
-          "value": "NM_000546.5:c.524G>A"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_000537.3:p.Arg175His"
+          "value": "ENST00000206249.3:c.1613A>G"
         },
         {
           "syntax": "hgvs.g",
-          "value": "NC_000017.10:g.7578406C>T"
+          "value": "NC_000006.11:g.152419926A>G"
         },
         {
           "syntax": "hgvs.c",
-          "value": "ENST00000269305.4:c.524G>A"
+          "value": "NM_000125.3:c.1613A>G"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000116.2:p.Asp538Gly"
         }
       ],
       "location": {
-        "id": "ga4gh:SL.I8qo71Hywhe4fsS5du2jYELlR8IE6a88",
+        "id": "ga4gh:SL.y7eSGY3r8GAmjALAzM_vuKK6SnumX6el",
         "type": "SequenceLocation",
         "sequenceReference": {
           "type": "SequenceReference",
-          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+          "refgetAccession": "SQ.Dcv_jfZMRcmxme6pot93DNwG0ypAfGol"
         },
-        "start": 174,
-        "end": 175
+        "start": 537,
+        "end": 538
       },
       "state": {
         "type": "LiteralSequenceExpression",
-        "sequence": "H"
+        "sequence": "G"
+      }
+    }
+  },
+  "civic.mpid:48": {
+    "id": "civic.mpid:48",
+    "label": "ESR1 Y537C",
+    "description": "ESR1 biology has become a central focus in breast cancer therapy. In ER+ tumors, mutations in the ESR1 ligand binding domain have been shown to confer resistance to hormone therapy. This evidence has led to an increased use of targeted sequencing of the estrogen receptor in breast and ovarian cancer. Y537C is one of these ligand binding domain mutations, and is commonly implicated in this hormone resistance. Preliminary data suggests ER-degrading agents, such as fulvestrant, may be beneficial in treating ESR1 mutant, hormone resistant breast cancers.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 8.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "A",
+          "variant_bases": "G",
+          "representative_transcript": "ENST00000206249.3",
+          "chromosome": "6",
+          "start": 152419923,
+          "stop": 152419923,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "48"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA366085697"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "GLY537CYS"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.-ZSiga5ignVzhLv-ZXMaAEw-yUuMKGuD",
+        "label": "NC_000006.11:g.152419923A>G",
+        "digest": "-ZSiga5ignVzhLv-ZXMaAEw-yUuMKGuD",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.63kcFt6VmGalCQ8_JYy3I0MQGcXB4GPj",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV"
+          },
+          "start": 152098787,
+          "end": 152098788
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "G"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.79vnb9pRIbbKA0iazsWvXXRxCsBpKTyF",
+      "label": "Y537C",
+      "digest": "79vnb9pRIbbKA0iazsWvXXRxCsBpKTyF",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000206249.3:c.1610A>G"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000006.11:g.152419923A>G"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000125.3:c.1610A>G"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000116.2:p.Tyr537Cys"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.t8Jly6uLTtPJMw3P8CqxT9phdbcRhbDP",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.Dcv_jfZMRcmxme6pot93DNwG0ypAfGol"
+        },
+        "start": 536,
+        "end": 537
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "civic.mpid:49": {
+    "id": "civic.mpid:49",
+    "label": "ESR1 Y537N",
+    "description": "ESR1 biology has become a central focus in breast cancer therapy. In ER+ tumors, mutations in the ESR1 ligand binding domain have been shown to confer resistance to hormone therapy. This evidence has led to an increased use of targeted sequencing of the estrogen receptor in breast and ovarian cancer. Y537N is one of these ligand binding domain mutations, and is commonly implicated in this hormone resistance. Preliminary data suggests ER-degrading agents, such as fulvestrant, may be beneficial in treating ESR1 mutant, hormone resistant breast cancers.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 8.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "T",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000206249.3",
+          "chromosome": "6",
+          "start": 152419922,
+          "stop": 152419922,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "49"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA366085693"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "GLY537ASN"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.sD5jnSppiGf7A7Pc_4oiuBTPRFO9yDRd",
+        "label": "NC_000006.11:g.152419922T>A",
+        "digest": "sD5jnSppiGf7A7Pc_4oiuBTPRFO9yDRd",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.n9cPIMN-Ff8XV2arD77tPkOaWoEtwZPJ",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV"
+          },
+          "start": 152098786,
+          "end": 152098787
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "A"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.GG0w1Z01UvUr9PS4yopXxtZok5fC3UDD",
+      "label": "Y537N",
+      "digest": "GG0w1Z01UvUr9PS4yopXxtZok5fC3UDD",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000206249.3:c.1609T>A"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000006.11:g.152419922T>A"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000125.3:c.1609T>A"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000116.2:p.Tyr537Asn"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.t8Jly6uLTtPJMw3P8CqxT9phdbcRhbDP",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.Dcv_jfZMRcmxme6pot93DNwG0ypAfGol"
+        },
+        "start": 536,
+        "end": 537
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "N"
+      }
+    }
+  },
+  "civic.mpid:50": {
+    "id": "civic.mpid:50",
+    "label": "ESR1 Y537S",
+    "description": "ESR1 biology has become a central focus in breast cancer therapy. In ER+ tumors, mutations in the ESR1 ligand binding domain have been shown to confer resistance to hormone therapy. This evidence has led to an increased use of targeted sequencing of the estrogen receptor in breast and ovarian cancer. Y537S is one of these ligand binding domain mutations, and is commonly implicated in this hormone resistance. Preliminary data suggests ER-degrading agents, such as fulvestrant, may be beneficial in treating ESR1 mutant, hormone resistant breast cancers.",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 8.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "A",
+          "variant_bases": "C",
+          "representative_transcript": "ENST00000206249.3",
+          "chromosome": "6",
+          "start": 152419923,
+          "stop": 152419923,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "50"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA366085696"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "GLY537SER"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.Xxm_t8b-CRlG_4xUuYjrytX3frI7iEm9",
+        "label": "NC_000006.11:g.152419923A>C",
+        "digest": "Xxm_t8b-CRlG_4xUuYjrytX3frI7iEm9",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.63kcFt6VmGalCQ8_JYy3I0MQGcXB4GPj",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.0iKlIQk2oZLoeOG9P1riRU6hvL5Ux8TV"
+          },
+          "start": 152098787,
+          "end": 152098788
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "C"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.T2PRLZpjv8yQ2snMFSKAzYYSH-mwtsog",
+      "label": "Y537S",
+      "digest": "T2PRLZpjv8yQ2snMFSKAzYYSH-mwtsog",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000206249.3:c.1610A>C"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000006.11:g.152419923A>C"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_000125.3:c.1610A>C"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_000116.2:p.Tyr537Ser"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.t8Jly6uLTtPJMw3P8CqxT9phdbcRhbDP",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.Dcv_jfZMRcmxme6pot93DNwG0ypAfGol"
+        },
+        "start": 536,
+        "end": 537
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
       }
     }
   },
@@ -25140,15 +27100,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121908586"
+          "code": "rs121908586"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "VAL561ALA",
-      "RS121908586"
+      "RS121908586",
+      "rs121908586",
+      "VAL561ALA"
     ],
     "members": [
       {
@@ -25401,16 +27362,17 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913476"
+          "code": "rs121913476"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "ASN550LYS",
+      "rs121913476",
       "RS121913476",
-      "N549K",
-      "ASN550LYS"
+      "N549K"
     ],
     "members": [
       {
@@ -25470,130 +27432,6 @@
       "state": {
         "type": "LiteralSequenceExpression",
         "sequence": "K"
-      }
-    }
-  },
-  "civic.mpid:845": {
-    "id": "civic.mpid:845",
-    "label": "ERBB2 T862A",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "CIViC Molecular Profile Score",
-        "value": 3.0
-      },
-      {
-        "type": "Extension",
-        "name": "CIViC representative coordinate",
-        "value": {
-          "ensembl_version": 75,
-          "reference_build": "GRCh37",
-          "reference_bases": "A",
-          "variant_bases": "G",
-          "representative_transcript": "ENST00000269571.5",
-          "chromosome": "17",
-          "start": 37881392,
-          "stop": 37881392,
-          "type": "coordinates"
-        }
-      },
-      {
-        "type": "Extension",
-        "name": "Variant types",
-        "value": [
-          {
-            "label": "missense_variant",
-            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
-            "code": "SO:0001583"
-          }
-        ]
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://civicdb.org/variants/",
-          "code": "871"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://reg.clinicalgenome.org/",
-          "code": "CA399304738"
-        },
-        "relation": "relatedMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
-          "code": "NONE FOUND"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "aliases": [
-      "THR862ALA"
-    ],
-    "members": [
-      {
-        "id": "ga4gh:VA.vhq5ifNdKqsndDf53CX0kWxgWggPBRXn",
-        "label": "NC_000017.10:g.37881392A>G",
-        "digest": "vhq5ifNdKqsndDf53CX0kWxgWggPBRXn",
-        "type": "Allele",
-        "location": {
-          "id": "ga4gh:SL.Ui4Qr54C5-ivhU9pV2inc4PuqYdRJS8W",
-          "type": "SequenceLocation",
-          "sequenceReference": {
-            "type": "SequenceReference",
-            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
-          },
-          "start": 39725138,
-          "end": 39725139
-        },
-        "state": {
-          "type": "LiteralSequenceExpression",
-          "sequence": "G"
-        }
-      }
-    ],
-    "definingContext": {
-      "id": "ga4gh:VA.jZ-VSq92McC75CR2OXHbr0KZTPST1sHY",
-      "label": "T862A",
-      "digest": "jZ-VSq92McC75CR2OXHbr0KZTPST1sHY",
-      "type": "Allele",
-      "expressions": [
-        {
-          "syntax": "hgvs.c",
-          "value": "ENST00000269571.5:c.2584A>G"
-        },
-        {
-          "syntax": "hgvs.g",
-          "value": "NC_000017.10:g.37881392A>G"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "NM_001289937.1:c.2584A>G"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_001276866.1:p.Thr862Ala"
-        }
-      ],
-      "location": {
-        "id": "ga4gh:SL.l3mHAT53w9p4JInZT7ezZk671YIaPJNX",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
-        },
-        "start": 861,
-        "end": 862
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "A"
       }
     }
   },
@@ -25658,15 +27496,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913279"
+          "code": "rs121913279"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS121913279",
       "HIS1047LEU",
-      "RS121913279"
+      "rs121913279"
     ],
     "members": [
       {
@@ -26001,7 +27840,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057516442"
+          "code": "rs1057516442"
         },
         "relation": "relatedMatch"
       }
@@ -26010,7 +27849,8 @@
     "aliases": [
       "LYS293TER",
       "RS1057516442",
-      "K293X"
+      "K293X",
+      "rs1057516442"
     ],
     "members": [
       {
@@ -26507,15 +28347,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS876659619"
+          "code": "rs876659619"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS876659619",
-      "PHE2732VAL"
+      "rs876659619",
+      "PHE2732VAL",
+      "RS876659619"
     ],
     "members": [
       {
@@ -26639,7 +28480,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121434217"
+          "code": "rs121434217"
         },
         "relation": "relatedMatch"
       }
@@ -26647,6 +28488,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS121434217",
+      "rs121434217",
       "ASP1682HIS"
     ],
     "members": [
@@ -26895,15 +28737,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS774281788"
+          "code": "rs774281788"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "CYS2488TYR",
-      "RS774281788"
+      "RS774281788",
+      "rs774281788",
+      "CYS2488TYR"
     ],
     "members": [
       {
@@ -27027,15 +28870,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS2230461"
+          "code": "rs2230461"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS2230461",
-      "ILE391MET"
+      "ILE391MET",
+      "rs2230461",
+      "RS2230461"
     ],
     "members": [
       {
@@ -27159,7 +29003,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913527"
+          "code": "rs121913527"
         },
         "relation": "relatedMatch"
       }
@@ -27167,6 +29011,7 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "ALA146THR",
+      "rs121913527",
       "RS121913527"
     ],
     "members": [
@@ -27604,15 +29449,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS149840192"
+          "code": "rs149840192"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "ALA289VAL",
       "RS149840192",
-      "ALA289VAL"
+      "rs149840192"
     ],
     "members": [
       {
@@ -27736,15 +29582,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS150036236"
+          "code": "rs150036236"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS150036236",
       "ARG831HIS",
-      "RS150036236"
+      "rs150036236"
     ],
     "members": [
       {
@@ -28008,7 +29855,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS397514606"
+          "code": "rs397514606"
         },
         "relation": "relatedMatch"
       }
@@ -28016,7 +29863,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "GLU17LYS",
-      "RS397514606"
+      "RS397514606",
+      "rs397514606"
     ],
     "members": [
       {
@@ -28140,7 +29988,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS397517089"
+          "code": "rs397517089"
         },
         "relation": "relatedMatch"
       }
@@ -28148,8 +29996,9 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS397517089",
-      "W678L",
-      "W686L"
+      "W686L",
+      "rs397517089",
+      "W678L"
     ],
     "definingContext": {
       "id": "ga4gh:VA.8z472QFu8ITjr_wNVheZNQ9OuaiJTXB6",
@@ -28239,7 +30088,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913420"
+          "code": "rs121913420"
         },
         "relation": "relatedMatch"
       }
@@ -28247,8 +30096,9 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "E681Q",
-      "RS121913420",
-      "E689Q"
+      "rs121913420",
+      "E689Q",
+      "RS121913420"
     ],
     "definingContext": {
       "id": "ga4gh:VA.1CABFr0l6cgOqlxB2L0YiygFQcqdikiC",
@@ -28430,8 +30280,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "C744Y",
-      "C752Y",
-      "CYS797TYR"
+      "CYS797TYR",
+      "C752Y"
     ],
     "members": [
       {
@@ -28555,8 +30405,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "Y748H",
-      "Y756H"
+      "Y756H",
+      "Y748H"
     ],
     "definingContext": {
       "id": "ga4gh:VA.EQ8G49DwE48oaWUUBxdgexjaBeEkXaB2",
@@ -28634,6 +30484,186 @@
       }
     }
   },
+  "civic.mpid:1040": {
+    "id": "civic.mpid:1040",
+    "label": "TP53 M237I",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 7.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "A",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7577570,
+          "stop": 7577570,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1066"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA287488024"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "MET237ILE"
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.ajaXabfZspseH1JZFEFNwQE0VFm3b7H_",
+      "label": "M237I",
+      "digest": "ajaXabfZspseH1JZFEFNwQE0VFm3b7H_",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.711G>T"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.Tzro4sJP-Px7RpRxl7N2wfGvpQXJQDGE",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 236,
+        "end": 237
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "I"
+      }
+    }
+  },
+  "civic.mpid:1603": {
+    "id": "civic.mpid:1603",
+    "label": "TP53 R158H",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 9.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "T",
+          "representative_transcript": "ENST00000269305.4",
+          "chromosome": "17",
+          "start": 7578457,
+          "stop": 7578457,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1695"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA000227"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "141963"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "ARG158HIS"
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.MF51jTXFzZIRWnQXIp1WLisYwy9C_e4W",
+      "label": "R158H",
+      "digest": "MF51jTXFzZIRWnQXIp1WLisYwy9C_e4W",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269305.4:c.473G>A"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.hlpv-ERx6YWsFxL-sRCqwDNncpQ90ExM",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.KAxM06sYzBF6zFftFaYq9E_18wsnn7al"
+        },
+        "start": 157,
+        "end": 158
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
   "civic.mpid:607": {
     "id": "civic.mpid:607",
     "label": "BRAF D594G",
@@ -28696,15 +30726,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913338"
+          "code": "rs121913338"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS121913338",
-      "ASP594GLY"
+      "ASP594GLY",
+      "rs121913338",
+      "RS121913338"
     ],
     "members": [
       {
@@ -28820,13 +30851,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913355"
+          "code": "rs121913355"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs121913355",
       "RS121913355"
     ],
     "definingContext": {
@@ -29227,13 +31259,14 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS139236063"
+          "code": "rs139236063"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "rs139236063",
       "RS139236063"
     ],
     "members": [
@@ -29722,15 +31755,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS863225264"
+          "code": "rs863225264"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS863225264",
-      "GLU1799LYS"
+      "GLU1799LYS",
+      "rs863225264",
+      "RS863225264"
     ],
     "members": [
       {
@@ -29854,15 +31888,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1057519714"
+          "code": "rs1057519714"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "SER463PRO",
       "RS1057519714",
-      "SER463PRO"
+      "rs1057519714"
     ],
     "members": [
       {
@@ -29922,6 +31957,513 @@
       "state": {
         "type": "LiteralSequenceExpression",
         "sequence": "P"
+      }
+    }
+  },
+  "civic.mpid:845": {
+    "id": "civic.mpid:845",
+    "label": "ERBB2 T862A",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 3.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "A",
+          "variant_bases": "G",
+          "representative_transcript": "ENST00000269571.5",
+          "chromosome": "17",
+          "start": 37881392,
+          "stop": 37881392,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "871"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA399304738"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "THR862ALA"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.vhq5ifNdKqsndDf53CX0kWxgWggPBRXn",
+        "label": "NC_000017.10:g.37881392A>G",
+        "digest": "vhq5ifNdKqsndDf53CX0kWxgWggPBRXn",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.Ui4Qr54C5-ivhU9pV2inc4PuqYdRJS8W",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 39725138,
+          "end": 39725139
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "G"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.jZ-VSq92McC75CR2OXHbr0KZTPST1sHY",
+      "label": "T862A",
+      "digest": "jZ-VSq92McC75CR2OXHbr0KZTPST1sHY",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269571.5:c.2584A>G"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.37881392A>G"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_001289937.1:c.2584A>G"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_001276866.1:p.Thr862Ala"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.l3mHAT53w9p4JInZT7ezZk671YIaPJNX",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
+        },
+        "start": 861,
+        "end": 862
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "civic.mpid:846": {
+    "id": "civic.mpid:846",
+    "label": "ERBB2 V773A",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 1.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "T",
+          "variant_bases": "C",
+          "representative_transcript": "ENST00000269571.5",
+          "chromosome": "17",
+          "start": 37880989,
+          "stop": 37880989,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "872"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA399302815"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "VAL773ALA"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.kGWSnsI3sJ4TODkXDMV8iTYPTZN2zCVI",
+        "label": "NC_000017.10:g.37880989T>C",
+        "digest": "kGWSnsI3sJ4TODkXDMV8iTYPTZN2zCVI",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.8f_nfbeQGXykuewMa6YYEEc9CPw3DTVd",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 39724735,
+          "end": 39724736
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "C"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.Y3-Q5RNC1RFsUDRxgMj6awwvxViQciB5",
+      "label": "V773A",
+      "digest": "Y3-Q5RNC1RFsUDRxgMj6awwvxViQciB5",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269571.5:c.2318T>C"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.37880989T>C"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_004448.3:c.2318T>C"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_004439.2:p.Val773Ala"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.H6Fx_nantIhnIjtB4RteuNk-d9CN4rd0",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
+        },
+        "start": 772,
+        "end": 773
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "civic.mpid:847": {
+    "id": "civic.mpid:847",
+    "label": "ERBB2 N857S",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 1.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "A",
+          "variant_bases": "G",
+          "representative_transcript": "ENST00000269571.5",
+          "chromosome": "17",
+          "start": 37881378,
+          "stop": 37881378,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "873"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA123601"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "13880"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs28933370"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "rs28933370",
+      "N827S",
+      "ASN857SER",
+      "RS28933370",
+      "N842S"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.u7fmXZc2P1xlkCEZ4CeMR8Ag0UJjXX4-",
+        "label": "NC_000017.10:g.37881378A>G",
+        "digest": "u7fmXZc2P1xlkCEZ4CeMR8Ag0UJjXX4-",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.jPpMLqUpT_16gkOE-VI5jxZFAGlc9Oc6",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 39725124,
+          "end": 39725125
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "G"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.D18mZ9X-y49Th_hlQ1IyRNRFgCDQ7PFn",
+      "label": "N857S",
+      "digest": "D18mZ9X-y49Th_hlQ1IyRNRFgCDQ7PFn",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.37881378A>G"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_004439.2:p.Asn857Ser"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_004448.3:c.2570A>G"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269571.5:c.2570A>G"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.1hBBHupLqq6ndiDzArJrlxVuKRFu89_N",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
+        },
+        "start": 856,
+        "end": 857
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "civic.mpid:848": {
+    "id": "civic.mpid:848",
+    "label": "ERBB2 H878Y",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 1.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "C",
+          "variant_bases": "T",
+          "representative_transcript": "ENST00000269571.5",
+          "chromosome": "17",
+          "start": 37881440,
+          "stop": 37881440,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "874"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA399305170"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "HIS878TYR"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.LsogFlNbXp8aL8OmRPiklbXDm6HNJ6Bs",
+        "label": "NC_000017.10:g.37881440C>T",
+        "digest": "LsogFlNbXp8aL8OmRPiklbXDm6HNJ6Bs",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.iZ0ZE0BFequOJPmasnkhS-DLUKB1gowq",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 39725186,
+          "end": 39725187
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "T"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.VfkOQDT8yWgi9bePVnLQfKBlNBJYrRdb",
+      "label": "H878Y",
+      "digest": "VfkOQDT8yWgi9bePVnLQfKBlNBJYrRdb",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269571.5:c.2632C>T"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.37881440C>T"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_001289937.1:c.2632C>T"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_001276866.1:p.His878Tyr"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.Vx81q4x-L6NRZfzmJyFdzZ2kKEyapvSk",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
+        },
+        "start": 877,
+        "end": 878
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "Y"
       }
     }
   },
@@ -30065,15 +32607,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913521"
+          "code": "rs121913521"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "VAL560GLY",
-      "RS121913521"
+      "rs121913521",
+      "RS121913521",
+      "VAL560GLY"
     ],
     "members": [
       {
@@ -30302,9 +32845,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP1930VAL",
+      "MET72LEU",
       "M72L",
-      "MET72LEU"
+      "ASP1930VAL"
     ],
     "members": [
       {
@@ -30428,7 +32971,7 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS869025608"
+          "code": "rs869025608"
         },
         "relation": "relatedMatch"
       }
@@ -30436,7 +32979,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "RS869025608",
-      "LYS57ASN"
+      "LYS57ASN",
+      "rs869025608"
     ],
     "members": [
       {
@@ -30503,6 +33047,232 @@
       }
     }
   },
+  "civic.mpid:1278": {
+    "id": "civic.mpid:1278",
+    "label": "ERBB2 L755P",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 2.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "TT",
+          "variant_bases": "CC",
+          "representative_transcript": "ENST00000269571.5",
+          "chromosome": "17",
+          "start": 37880219,
+          "stop": 37880220,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1304"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA123587"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "13877"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "LEU755PRO"
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.PlZ_6zP3GHAQXr9etXp1fNbY7MwraEmZ",
+      "label": "L755P",
+      "digest": "PlZ_6zP3GHAQXr9etXp1fNbY7MwraEmZ",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_004439.2:p.Leu755Pro"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_004448.3:c.2263_2264delinsCC"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.13:g.37880219_37880220delinsCC"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269571.5:c.2263_2264delinsCC"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.PgQkgAUmQEctpQViVRSAfB_wJOvorTRs",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
+        },
+        "start": 754,
+        "end": 755
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "civic.mpid:1279": {
+    "id": "civic.mpid:1279",
+    "label": "ERBB2 T798M",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "CIViC Molecular Profile Score",
+        "value": 2.0
+      },
+      {
+        "type": "Extension",
+        "name": "CIViC representative coordinate",
+        "value": {
+          "ensembl_version": 75,
+          "reference_build": "GRCh37",
+          "reference_bases": "CA",
+          "variant_bases": "TG",
+          "representative_transcript": "ENST00000269571.5",
+          "chromosome": "17",
+          "start": 37881064,
+          "stop": 37881065,
+          "type": "coordinates"
+        }
+      },
+      {
+        "type": "Extension",
+        "name": "Variant types",
+        "value": [
+          {
+            "label": "missense_variant",
+            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
+            "code": "SO:0001583"
+          }
+        ]
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://civicdb.org/variants/",
+          "code": "1305"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://reg.clinicalgenome.org/",
+          "code": "CA913012048"
+        },
+        "relation": "relatedMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
+          "code": "NONE FOUND"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "aliases": [
+      "THR798MET"
+    ],
+    "members": [
+      {
+        "id": "ga4gh:VA.K8-ln_YfWwwQV3PP0cTj-uLDY7vJrwNP",
+        "label": "NC_000017.10:g.37881064_37881065delinsTG",
+        "digest": "K8-ln_YfWwwQV3PP0cTj-uLDY7vJrwNP",
+        "type": "Allele",
+        "location": {
+          "id": "ga4gh:SL.WpWYglusd7vOmLmxyHqvfuULXIcoGDjJ",
+          "type": "SequenceLocation",
+          "sequenceReference": {
+            "type": "SequenceReference",
+            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
+          },
+          "start": 39724810,
+          "end": 39724812
+        },
+        "state": {
+          "type": "LiteralSequenceExpression",
+          "sequence": "TG"
+        }
+      }
+    ],
+    "definingContext": {
+      "id": "ga4gh:VA.iCgDk4c-I9MZHV5PQ-VbEu5TGtaJVOjD",
+      "label": "T798M",
+      "digest": "iCgDk4c-I9MZHV5PQ-VbEu5TGtaJVOjD",
+      "type": "Allele",
+      "expressions": [
+        {
+          "syntax": "hgvs.c",
+          "value": "ENST00000269571.5:c.2393_2394delCAinsTG"
+        },
+        {
+          "syntax": "hgvs.g",
+          "value": "NC_000017.10:g.37881064_37881065delinsTG"
+        },
+        {
+          "syntax": "hgvs.c",
+          "value": "NM_004448.3:c.2393_2394delinsTG"
+        },
+        {
+          "syntax": "hgvs.p",
+          "value": "NP_004439.2:p.Thr798Met"
+        }
+      ],
+      "location": {
+        "id": "ga4gh:SL.0nGMBEAND8n0bvUAldtc2uhVAFz49pFi",
+        "type": "SequenceLocation",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
+        },
+        "start": 797,
+        "end": 798
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "M"
+      }
+    }
+  },
   "civic.mpid:857": {
     "id": "civic.mpid:857",
     "label": "PIK3CA E545G",
@@ -30564,15 +33334,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS121913274"
+          "code": "rs121913274"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS121913274",
       "GLU545GLY",
-      "RS121913274"
+      "rs121913274"
     ],
     "members": [
       {
@@ -30758,18 +33529,18 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "W1768X",
+      "W711X",
       "W1576X",
       "W48X",
-      "W1519X",
-      "W306X",
-      "W664X",
       "W632X",
-      "W711X",
-      "W125X",
       "W673X",
+      "W1836X",
+      "W664X",
       "W1550X",
-      "W1836X"
+      "W306X",
+      "W1519X",
+      "W125X",
+      "W1768X"
     ],
     "definingContext": {
       "id": "ga4gh:VA.Yh630T52rfubi9P-9ZeGfWgX8A37cQu-",
@@ -31121,15 +33892,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS11547328"
+          "code": "rs11547328"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "RS11547328",
       "ARG24CYS",
-      "RS11547328"
+      "rs11547328"
     ],
     "members": [
       {
@@ -31189,388 +33961,6 @@
       "state": {
         "type": "LiteralSequenceExpression",
         "sequence": "C"
-      }
-    }
-  },
-  "civic.mpid:846": {
-    "id": "civic.mpid:846",
-    "label": "ERBB2 V773A",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "CIViC Molecular Profile Score",
-        "value": 1.0
-      },
-      {
-        "type": "Extension",
-        "name": "CIViC representative coordinate",
-        "value": {
-          "ensembl_version": 75,
-          "reference_build": "GRCh37",
-          "reference_bases": "T",
-          "variant_bases": "C",
-          "representative_transcript": "ENST00000269571.5",
-          "chromosome": "17",
-          "start": 37880989,
-          "stop": 37880989,
-          "type": "coordinates"
-        }
-      },
-      {
-        "type": "Extension",
-        "name": "Variant types",
-        "value": [
-          {
-            "label": "missense_variant",
-            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
-            "code": "SO:0001583"
-          }
-        ]
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://civicdb.org/variants/",
-          "code": "872"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://reg.clinicalgenome.org/",
-          "code": "CA399302815"
-        },
-        "relation": "relatedMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
-          "code": "NONE FOUND"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "aliases": [
-      "VAL773ALA"
-    ],
-    "members": [
-      {
-        "id": "ga4gh:VA.kGWSnsI3sJ4TODkXDMV8iTYPTZN2zCVI",
-        "label": "NC_000017.10:g.37880989T>C",
-        "digest": "kGWSnsI3sJ4TODkXDMV8iTYPTZN2zCVI",
-        "type": "Allele",
-        "location": {
-          "id": "ga4gh:SL.8f_nfbeQGXykuewMa6YYEEc9CPw3DTVd",
-          "type": "SequenceLocation",
-          "sequenceReference": {
-            "type": "SequenceReference",
-            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
-          },
-          "start": 39724735,
-          "end": 39724736
-        },
-        "state": {
-          "type": "LiteralSequenceExpression",
-          "sequence": "C"
-        }
-      }
-    ],
-    "definingContext": {
-      "id": "ga4gh:VA.Y3-Q5RNC1RFsUDRxgMj6awwvxViQciB5",
-      "label": "V773A",
-      "digest": "Y3-Q5RNC1RFsUDRxgMj6awwvxViQciB5",
-      "type": "Allele",
-      "expressions": [
-        {
-          "syntax": "hgvs.c",
-          "value": "ENST00000269571.5:c.2318T>C"
-        },
-        {
-          "syntax": "hgvs.g",
-          "value": "NC_000017.10:g.37880989T>C"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "NM_004448.3:c.2318T>C"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_004439.2:p.Val773Ala"
-        }
-      ],
-      "location": {
-        "id": "ga4gh:SL.H6Fx_nantIhnIjtB4RteuNk-d9CN4rd0",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
-        },
-        "start": 772,
-        "end": 773
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "A"
-      }
-    }
-  },
-  "civic.mpid:847": {
-    "id": "civic.mpid:847",
-    "label": "ERBB2 N857S",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "CIViC Molecular Profile Score",
-        "value": 1.0
-      },
-      {
-        "type": "Extension",
-        "name": "CIViC representative coordinate",
-        "value": {
-          "ensembl_version": 75,
-          "reference_build": "GRCh37",
-          "reference_bases": "A",
-          "variant_bases": "G",
-          "representative_transcript": "ENST00000269571.5",
-          "chromosome": "17",
-          "start": 37881378,
-          "stop": 37881378,
-          "type": "coordinates"
-        }
-      },
-      {
-        "type": "Extension",
-        "name": "Variant types",
-        "value": [
-          {
-            "label": "missense_variant",
-            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
-            "code": "SO:0001583"
-          }
-        ]
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://civicdb.org/variants/",
-          "code": "873"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://reg.clinicalgenome.org/",
-          "code": "CA123601"
-        },
-        "relation": "relatedMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
-          "code": "13880"
-        },
-        "relation": "relatedMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS28933370"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "aliases": [
-      "N842S",
-      "N827S",
-      "RS28933370",
-      "ASN857SER"
-    ],
-    "members": [
-      {
-        "id": "ga4gh:VA.u7fmXZc2P1xlkCEZ4CeMR8Ag0UJjXX4-",
-        "label": "NC_000017.10:g.37881378A>G",
-        "digest": "u7fmXZc2P1xlkCEZ4CeMR8Ag0UJjXX4-",
-        "type": "Allele",
-        "location": {
-          "id": "ga4gh:SL.jPpMLqUpT_16gkOE-VI5jxZFAGlc9Oc6",
-          "type": "SequenceLocation",
-          "sequenceReference": {
-            "type": "SequenceReference",
-            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
-          },
-          "start": 39725124,
-          "end": 39725125
-        },
-        "state": {
-          "type": "LiteralSequenceExpression",
-          "sequence": "G"
-        }
-      }
-    ],
-    "definingContext": {
-      "id": "ga4gh:VA.D18mZ9X-y49Th_hlQ1IyRNRFgCDQ7PFn",
-      "label": "N857S",
-      "digest": "D18mZ9X-y49Th_hlQ1IyRNRFgCDQ7PFn",
-      "type": "Allele",
-      "expressions": [
-        {
-          "syntax": "hgvs.g",
-          "value": "NC_000017.10:g.37881378A>G"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_004439.2:p.Asn857Ser"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "NM_004448.3:c.2570A>G"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "ENST00000269571.5:c.2570A>G"
-        }
-      ],
-      "location": {
-        "id": "ga4gh:SL.1hBBHupLqq6ndiDzArJrlxVuKRFu89_N",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
-        },
-        "start": 856,
-        "end": 857
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "S"
-      }
-    }
-  },
-  "civic.mpid:848": {
-    "id": "civic.mpid:848",
-    "label": "ERBB2 H878Y",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "CIViC Molecular Profile Score",
-        "value": 1.0
-      },
-      {
-        "type": "Extension",
-        "name": "CIViC representative coordinate",
-        "value": {
-          "ensembl_version": 75,
-          "reference_build": "GRCh37",
-          "reference_bases": "C",
-          "variant_bases": "T",
-          "representative_transcript": "ENST00000269571.5",
-          "chromosome": "17",
-          "start": 37881440,
-          "stop": 37881440,
-          "type": "coordinates"
-        }
-      },
-      {
-        "type": "Extension",
-        "name": "Variant types",
-        "value": [
-          {
-            "label": "missense_variant",
-            "system": "http://www.sequenceontology.org/browser/current_svn/term/",
-            "code": "SO:0001583"
-          }
-        ]
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://civicdb.org/variants/",
-          "code": "874"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://reg.clinicalgenome.org/",
-          "code": "CA399305170"
-        },
-        "relation": "relatedMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/clinvar/variation/",
-          "code": "NONE FOUND"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "aliases": [
-      "HIS878TYR"
-    ],
-    "members": [
-      {
-        "id": "ga4gh:VA.LsogFlNbXp8aL8OmRPiklbXDm6HNJ6Bs",
-        "label": "NC_000017.10:g.37881440C>T",
-        "digest": "LsogFlNbXp8aL8OmRPiklbXDm6HNJ6Bs",
-        "type": "Allele",
-        "location": {
-          "id": "ga4gh:SL.iZ0ZE0BFequOJPmasnkhS-DLUKB1gowq",
-          "type": "SequenceLocation",
-          "sequenceReference": {
-            "type": "SequenceReference",
-            "refgetAccession": "SQ.dLZ15tNO1Ur0IcGjwc3Sdi_0A6Yf4zm7"
-          },
-          "start": 39725186,
-          "end": 39725187
-        },
-        "state": {
-          "type": "LiteralSequenceExpression",
-          "sequence": "T"
-        }
-      }
-    ],
-    "definingContext": {
-      "id": "ga4gh:VA.VfkOQDT8yWgi9bePVnLQfKBlNBJYrRdb",
-      "label": "H878Y",
-      "digest": "VfkOQDT8yWgi9bePVnLQfKBlNBJYrRdb",
-      "type": "Allele",
-      "expressions": [
-        {
-          "syntax": "hgvs.c",
-          "value": "ENST00000269571.5:c.2632C>T"
-        },
-        {
-          "syntax": "hgvs.g",
-          "value": "NC_000017.10:g.37881440C>T"
-        },
-        {
-          "syntax": "hgvs.c",
-          "value": "NM_001289937.1:c.2632C>T"
-        },
-        {
-          "syntax": "hgvs.p",
-          "value": "NP_001276866.1:p.His878Tyr"
-        }
-      ],
-      "location": {
-        "id": "ga4gh:SL.Vx81q4x-L6NRZfzmJyFdzZ2kKEyapvSk",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.AF1UFydIo02-bMplonKSfxlWY2q6ze3m"
-        },
-        "start": 877,
-        "end": 878
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "Y"
       }
     }
   },
@@ -31635,15 +34025,16 @@
       {
         "coding": {
           "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "RS1800371"
+          "code": "rs1800371"
         },
         "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "RS1800371",
-      "PRO47SER"
+      "PRO47SER",
+      "rs1800371",
+      "RS1800371"
     ],
     "members": [
       {

@@ -42,8 +42,8 @@
     "title": "National Comprehensive Cancer Network. Chronic Myeloid Leukemia NCCN Evidence Blocks (Version 1.2019). https://www.nccn.org/professionals/physician_gls/pdf/cml_blocks.pdf. Accessed August 9th, 2019.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/cml_blocks.pdf"
   },
-  "moa.source:48": {
-    "id": "moa.source:48",
+  "moa.source:49": {
+    "id": "moa.source:49",
     "extensions": [
       {
         "type": "Extension",
@@ -57,8 +57,8 @@
     "doi": "10.1158/2159-8290.CD-13-0846",
     "pmid": 24675041
   },
-  "moa.source:49": {
-    "id": "moa.source:49",
+  "moa.source:50": {
+    "id": "moa.source:50",
     "extensions": [
       {
         "type": "Extension",
@@ -72,8 +72,8 @@
     "doi": "10.1158/1078-0432.CCR-14-1220",
     "pmid": 25320358
   },
-  "moa.source:50": {
-    "id": "moa.source:50",
+  "moa.source:51": {
+    "id": "moa.source:51",
     "extensions": [
       {
         "type": "Extension",
@@ -87,8 +87,8 @@
     "doi": "10.1172/JCI72763",
     "pmid": 24569458
   },
-  "moa.source:55": {
-    "id": "moa.source:55",
+  "moa.source:56": {
+    "id": "moa.source:56",
     "extensions": [
       {
         "type": "Extension",
@@ -98,22 +98,9 @@
     ],
     "type": "Document",
     "title": "Wang C, Jette N, Moussienko D, Bebb DG, Lees-Miller SP. ATM-Deficient Colorectal Cancer Cells Are Sensitive to the PARP Inhibitor Olaparib Translational Oncology. 2017; 10(2):190-196.",
-    "url": "https://doi.org/10.1016/j.tranon.2017107",
-    "doi": "10.1016/j.tranon.2017107",
+    "url": "https://doi.org/10.1016/j.tranon.2017.01.007",
+    "doi": "10.1016/j.tranon.2017.01.007",
     "pmid": 28182994
-  },
-  "moa.source:60": {
-    "id": "moa.source:60",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "source_type",
-        "value": "FDA"
-      }
-    ],
-    "type": "Document",
-    "title": "Novartis Pharmaceuticals Corporation. Tafinlar (dabrafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
-    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf"
   },
   "moa.source:61": {
     "id": "moa.source:61",
@@ -125,8 +112,8 @@
       }
     ],
     "type": "Document",
-    "title": "Novartis Pharmaceuticals Corporation. Mekinist (trametinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
-    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf"
+    "title": "Novartis Pharmaceuticals Corporation. Tafinlar (dabrafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf"
   },
   "moa.source:62": {
     "id": "moa.source:62",
@@ -138,8 +125,8 @@
       }
     ],
     "type": "Document",
-    "title": "Array BioPharma Inc. Braftovi (encorafenib) [package insert]. U.S. Food and Drug Administration website. www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf. Revised April 2020. Accessed October 15, 2020.",
-    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf"
+    "title": "Novartis Pharmaceuticals Corporation. Mekinist (trametinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf"
   },
   "moa.source:63": {
     "id": "moa.source:63",
@@ -151,11 +138,24 @@
       }
     ],
     "type": "Document",
-    "title": "Genentech, Inc. Zelboraf (vemurafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
-    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf"
+    "title": "Array BioPharma Inc. Braftovi (encorafenib) [package insert]. U.S. Food and Drug Administration website. www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf. Revised April 2020. Accessed October 15, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf"
   },
   "moa.source:64": {
     "id": "moa.source:64",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Genentech, Inc. Zelboraf (vemurafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf"
+  },
+  "moa.source:65": {
+    "id": "moa.source:65",
     "extensions": [
       {
         "type": "Extension",
@@ -167,8 +167,8 @@
     "title": "National Comprehensive Cancer Network. Colon Cancer NCCN Evidence Blocks (Version 4.2018). https://www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf. Accessed March 20th, 2019.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf"
   },
-  "moa.source:66": {
-    "id": "moa.source:66",
+  "moa.source:67": {
+    "id": "moa.source:67",
     "extensions": [
       {
         "type": "Extension",
@@ -180,8 +180,8 @@
     "title": "National Comprehensive Cancer Network. Melanoma NCCN Evidence Blocks (Version 3.2016). https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf"
   },
-  "moa.source:69": {
-    "id": "moa.source:69",
+  "moa.source:70": {
+    "id": "moa.source:70",
     "extensions": [
       {
         "type": "Extension",
@@ -195,8 +195,8 @@
     "doi": "10.3892/ijo.2016.3594",
     "pmid": 27572939
   },
-  "moa.source:71": {
-    "id": "moa.source:71",
+  "moa.source:72": {
+    "id": "moa.source:72",
     "extensions": [
       {
         "type": "Extension",
@@ -210,8 +210,8 @@
     "doi": "10.1016/j.biopha.2016638",
     "pmid": 27399807
   },
-  "moa.source:73": {
-    "id": "moa.source:73",
+  "moa.source:74": {
+    "id": "moa.source:74",
     "extensions": [
       {
         "type": "Extension",
@@ -234,8 +234,8 @@
     "doi": "10.1056/NEJMoa1502309",
     "pmid": 26287849
   },
-  "moa.source:74": {
-    "id": "moa.source:74",
+  "moa.source:75": {
+    "id": "moa.source:75",
     "extensions": [
       {
         "type": "Extension",
@@ -249,8 +249,8 @@
     "doi": "10.18632/oncotarget.12328",
     "pmid": 27690220
   },
-  "moa.source:52": {
-    "id": "moa.source:52",
+  "moa.source:53": {
+    "id": "moa.source:53",
     "extensions": [
       {
         "type": "Extension",
@@ -264,8 +264,8 @@
     "doi": "10.1038/ncomms7744",
     "pmid": 25855536
   },
-  "moa.source:90": {
-    "id": "moa.source:90",
+  "moa.source:91": {
+    "id": "moa.source:91",
     "extensions": [
       {
         "type": "Extension",
@@ -277,8 +277,8 @@
     "title": "AstraZeneca Pharmaceuticals, LP. Tagrisso (osimertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s016lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s016lbl.pdf"
   },
-  "moa.source:91": {
-    "id": "moa.source:91",
+  "moa.source:92": {
+    "id": "moa.source:92",
     "extensions": [
       {
         "type": "Extension",
@@ -290,8 +290,8 @@
     "title": "National Comprehensive Cancer Network. Non-Small Cell Lung Cancer NCCN Evidence Blocks (Version 1.2017). Accessed November 5, 2016.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/nscl_blocks.pdf"
   },
-  "moa.source:94": {
-    "id": "moa.source:94",
+  "moa.source:95": {
+    "id": "moa.source:95",
     "extensions": [
       {
         "type": "Extension",
@@ -313,8 +313,8 @@
     "url": "https://doi.org/10.1016/S1556-0864(16)30243-X",
     "doi": "10.1016/S1556-0864(16)30243-X"
   },
-  "moa.source:98": {
-    "id": "moa.source:98",
+  "moa.source:99": {
+    "id": "moa.source:99",
     "extensions": [
       {
         "type": "Extension",
@@ -327,30 +327,6 @@
         "coding": {
           "system": "https://clinicaltrials.gov/search?term=",
           "code": "NCT01774721"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Document",
-    "title": "Ke EE, Wu YL. EGFR as a Pharmacological Target in EGFR-Mutant Non-Small-Cell Lung Cancer: Where Do We Stand Now?. Trends Pharmacol Sci. 2016;37(11):887-903.",
-    "url": "https://doi.org/10.1016/j.tips.2016903",
-    "doi": "10.1016/j.tips.2016903",
-    "pmid": 27717507
-  },
-  "moa.source:100": {
-    "id": "moa.source:100",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "source_type",
-        "value": "Journal"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://clinicaltrials.gov/search?term=",
-          "code": "NCT02094261"
         },
         "relation": "exactMatch"
       }
@@ -374,6 +350,30 @@
       {
         "coding": {
           "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT02094261"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Ke EE, Wu YL. EGFR as a Pharmacological Target in EGFR-Mutant Non-Small-Cell Lung Cancer: Where Do We Stand Now?. Trends Pharmacol Sci. 2016;37(11):887-903.",
+    "url": "https://doi.org/10.1016/j.tips.2016903",
+    "doi": "10.1016/j.tips.2016903",
+    "pmid": 27717507
+  },
+  "moa.source:102": {
+    "id": "moa.source:102",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
           "code": "NCT01526928"
         },
         "relation": "exactMatch"
@@ -385,8 +385,8 @@
     "doi": "10.1056/NEJMoa1413654",
     "pmid": 25923550
   },
-  "moa.source:103": {
-    "id": "moa.source:103",
+  "moa.source:104": {
+    "id": "moa.source:104",
     "extensions": [
       {
         "type": "Extension",
@@ -400,8 +400,8 @@
     "doi": "10.1186/s13045-016-0268-z",
     "pmid": 27071706
   },
-  "moa.source:104": {
-    "id": "moa.source:104",
+  "moa.source:105": {
+    "id": "moa.source:105",
     "extensions": [
       {
         "type": "Extension",
@@ -415,8 +415,8 @@
     "doi": "10.1093/annonc/mdt573",
     "pmid": 24478319
   },
-  "moa.source:105": {
-    "id": "moa.source:105",
+  "moa.source:106": {
+    "id": "moa.source:106",
     "extensions": [
       {
         "type": "Extension",
@@ -428,8 +428,8 @@
     "title": "Boehringer Ingelheim Pharmaceuticals, Inc. Gilotrif (afatinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/201292s015lbl.pdf. Revised October 2019. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/201292s015lbl.pdf"
   },
-  "moa.source:107": {
-    "id": "moa.source:107",
+  "moa.source:108": {
+    "id": "moa.source:108",
     "extensions": [
       {
         "type": "Extension",
@@ -443,8 +443,8 @@
     "doi": "10.1056/NEJMoa1713137",
     "pmid": 29151359
   },
-  "moa.source:108": {
-    "id": "moa.source:108",
+  "moa.source:109": {
+    "id": "moa.source:109",
     "extensions": [
       {
         "type": "Extension",
@@ -471,8 +471,8 @@
     "doi": "10.1371/journal.pgen.1004135",
     "pmid": 24550739
   },
-  "moa.source:115": {
-    "id": "moa.source:115",
+  "moa.source:116": {
+    "id": "moa.source:116",
     "extensions": [
       {
         "type": "Extension",
@@ -497,8 +497,8 @@
     "title": "Janssen Products, LP. Balversa (erdafitinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125427s108lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125427s108lbl.pdf"
   },
-  "moa.source:119": {
-    "id": "moa.source:119",
+  "moa.source:120": {
+    "id": "moa.source:120",
     "extensions": [
       {
         "type": "Extension",
@@ -512,8 +512,8 @@
     "doi": "10.1038/leu.2013.14",
     "pmid": 23392356
   },
-  "moa.source:120": {
-    "id": "moa.source:120",
+  "moa.source:121": {
+    "id": "moa.source:121",
     "extensions": [
       {
         "type": "Extension",
@@ -527,8 +527,8 @@
     "doi": "10.1038/sj.leu.2404374",
     "pmid": 16990784
   },
-  "moa.source:121": {
-    "id": "moa.source:121",
+  "moa.source:122": {
+    "id": "moa.source:122",
     "extensions": [
       {
         "type": "Extension",
@@ -542,8 +542,8 @@
     "doi": "10.1038/nature11143",
     "pmid": 22722193
   },
-  "moa.source:125": {
-    "id": "moa.source:125",
+  "moa.source:126": {
+    "id": "moa.source:126",
     "extensions": [
       {
         "type": "Extension",
@@ -555,8 +555,8 @@
     "title": "Servier Pharmaceuticals LLC. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211192_s008lbl.pdf. Revised August 2021. Accessed September 2nd, 2021.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211192_s008lbl.pdf"
   },
-  "moa.source:126": {
-    "id": "moa.source:126",
+  "moa.source:127": {
+    "id": "moa.source:127",
     "extensions": [
       {
         "type": "Extension",
@@ -577,8 +577,8 @@
     "title": "Celgene Corporation. Idhifa (enasidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209606s002lbl.pdf. Revised September 2019. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209606s002lbl.pdf"
   },
-  "moa.source:128": {
-    "id": "moa.source:128",
+  "moa.source:129": {
+    "id": "moa.source:129",
     "extensions": [
       {
         "type": "Extension",
@@ -592,8 +592,8 @@
     "doi": "10.1182/blood-2015-03-635821",
     "pmid": 26443624
   },
-  "moa.source:131": {
-    "id": "moa.source:131",
+  "moa.source:132": {
+    "id": "moa.source:132",
     "extensions": [
       {
         "type": "Extension",
@@ -605,8 +605,8 @@
     "title": "Bayer HealthCare Pharmaceuticals, Inc. Stivarga (regorafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203085s013lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203085s013lbl.pdf"
   },
-  "moa.source:132": {
-    "id": "moa.source:132",
+  "moa.source:133": {
+    "id": "moa.source:133",
     "extensions": [
       {
         "type": "Extension",
@@ -618,8 +618,8 @@
     "title": "Pfizer, Inc. Sutent (sunitinib malate) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021938s037lbl.pdf. Revised August 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021938s037lbl.pdf"
   },
-  "moa.source:134": {
-    "id": "moa.source:134",
+  "moa.source:135": {
+    "id": "moa.source:135",
     "extensions": [
       {
         "type": "Extension",
@@ -631,8 +631,8 @@
     "title": "National Comprehensive Cancer Network. Cutaneous Melanoma NCCN Evidence Blocks (Version 2.2019). https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma_blocks.pdf. Accessed August 12, 2019.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma_blocks.pdf"
   },
-  "moa.source:137": {
-    "id": "moa.source:137",
+  "moa.source:138": {
+    "id": "moa.source:138",
     "extensions": [
       {
         "type": "Extension",
@@ -644,8 +644,8 @@
     "title": "Blueprint Medicines Corporation. Ayvakit (avapritinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf. Accessed September 2nd, 2021.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf"
   },
-  "moa.source:141": {
-    "id": "moa.source:141",
+  "moa.source:142": {
+    "id": "moa.source:142",
     "extensions": [
       {
         "type": "Extension",
@@ -657,8 +657,8 @@
     "title": "Amgen Inc. Lumakras (sotorasib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214665s000lbl.pdf. Revised May 2021. Accessed June 1st, 2021.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214665s000lbl.pdf"
   },
-  "moa.source:142": {
-    "id": "moa.source:142",
+  "moa.source:143": {
+    "id": "moa.source:143",
     "extensions": [
       {
         "type": "Extension",
@@ -679,8 +679,8 @@
     "title": "J Clin Oncol 37, 2019 (suppl; abstr 3003)",
     "url": "https://abstracts.asco.org/239/AbstView_239_268371.html"
   },
-  "moa.source:70": {
-    "id": "moa.source:70",
+  "moa.source:71": {
+    "id": "moa.source:71",
     "extensions": [
       {
         "type": "Extension",
@@ -694,8 +694,8 @@
     "doi": "10.1073/pnas905833106",
     "pmid": 19915144
   },
-  "moa.source:150": {
-    "id": "moa.source:150",
+  "moa.source:151": {
+    "id": "moa.source:151",
     "extensions": [
       {
         "type": "Extension",
@@ -709,8 +709,8 @@
     "doi": "10.1158/0008-5472.CAN-08-0099",
     "pmid": 18632602
   },
-  "moa.source:151": {
-    "id": "moa.source:151",
+  "moa.source:152": {
+    "id": "moa.source:152",
     "extensions": [
       {
         "type": "Extension",
@@ -724,8 +724,8 @@
     "doi": "10.1200/JCO.2012.44.7888",
     "pmid": 23569304
   },
-  "moa.source:152": {
-    "id": "moa.source:152",
+  "moa.source:153": {
+    "id": "moa.source:153",
     "extensions": [
       {
         "type": "Extension",
@@ -739,8 +739,8 @@
     "doi": "10.1200/JCO.2010.33.2312",
     "pmid": 21383288
   },
-  "moa.source:78": {
-    "id": "moa.source:78",
+  "moa.source:79": {
+    "id": "moa.source:79",
     "extensions": [
       {
         "type": "Extension",
@@ -754,8 +754,8 @@
     "doi": "10.1158/2159-8290.CD-13-0631",
     "pmid": 24265154
   },
-  "moa.source:153": {
-    "id": "moa.source:153",
+  "moa.source:154": {
+    "id": "moa.source:154",
     "extensions": [
       {
         "type": "Extension",
@@ -769,8 +769,8 @@
     "doi": "10.1001/jamaoncol.2015.34",
     "pmid": 26181029
   },
-  "moa.source:155": {
-    "id": "moa.source:155",
+  "moa.source:156": {
+    "id": "moa.source:156",
     "extensions": [
       {
         "type": "Extension",
@@ -784,8 +784,8 @@
     "doi": "10.1158/0008-5472.CAN-08-2881",
     "pmid": 19318576
   },
-  "moa.source:161": {
-    "id": "moa.source:161",
+  "moa.source:162": {
+    "id": "moa.source:162",
     "extensions": [
       {
         "type": "Extension",
@@ -799,21 +799,8 @@
     "doi": "10.1200/JCO.2007.14.4956",
     "pmid": 18390968
   },
-  "moa.source:135": {
-    "id": "moa.source:135",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "source_type",
-        "value": "Guideline"
-      }
-    ],
-    "type": "Document",
-    "title": "National Comprehensive Cancer Network. Gastrointestinal Stromal Tumors (GIST) NCCN Evidence Blocks (Version 2.2019). https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf. Accessed August 10th, 2019.",
-    "url": "https://www.nccn.org/professionals/physician_gls/pdf/sarcoma_blocks.pdf"
-  },
-  "moa.source:58": {
-    "id": "moa.source:58",
+  "moa.source:59": {
+    "id": "moa.source:59",
     "extensions": [
       {
         "type": "Extension",
@@ -827,8 +814,8 @@
     "doi": "10.1158/1078-0432.CCR-09-2828",
     "pmid": 20453058
   },
-  "moa.source:173": {
-    "id": "moa.source:173",
+  "moa.source:174": {
+    "id": "moa.source:174",
     "extensions": [
       {
         "type": "Extension",
@@ -842,8 +829,8 @@
     "doi": "10.1093/annonc/mdy137",
     "pmid": 29912274
   },
-  "moa.source:251": {
-    "id": "moa.source:251",
+  "moa.source:252": {
+    "id": "moa.source:252",
     "extensions": [
       {
         "type": "Extension",
@@ -855,8 +842,8 @@
     "title": "Servier Pharmaceuticals LLC. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211192s009lbl.pdf. Revised May 2022. Accessed July 7th, 2022.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211192s009lbl.pdf"
   },
-  "moa.source:271": {
-    "id": "moa.source:271",
+  "moa.source:272": {
+    "id": "moa.source:272",
     "extensions": [
       {
         "type": "Extension",
@@ -868,8 +855,8 @@
     "title": "Metrics Contract Services. Rezlidhia (olutasidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf. Revised December 2022. Accessed January 5, 2023.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf"
   },
-  "moa.source:272": {
-    "id": "moa.source:272",
+  "moa.source:273": {
+    "id": "moa.source:273",
     "extensions": [
       {
         "type": "Extension",

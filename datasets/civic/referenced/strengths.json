@@ -1,27 +1,27 @@
 {
-  "vicc.e00001": {
+  "vicc.e000001": {
     "label": "authoritative evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00001"
+    "code": "e000001"
   },
-  "vicc.e00005": {
+  "vicc.e000005": {
     "label": "clinical cohort evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00005"
+    "code": "e000005"
   },
-  "vicc.e00008": {
+  "vicc.e000008": {
     "label": "case study evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00008"
+    "code": "e000008"
   },
-  "vicc.e00009": {
+  "vicc.e000009": {
     "label": "preclinical evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00009"
+    "code": "e000009"
   },
-  "vicc.e00010": {
+  "vicc.e000010": {
     "label": "inferential evidence",
     "system": "https://go.osu.edu/evidence-codes",
-    "code": "e00010"
+    "code": "e000010"
   }
 }

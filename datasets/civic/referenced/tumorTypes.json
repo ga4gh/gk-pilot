@@ -188,21 +188,21 @@
     ],
     "type": "Disease"
   },
-  "civic.did:22": {
-    "id": "civic.did:22",
-    "label": "Breast Cancer",
+  "civic.did:368": {
+    "id": "civic.did:368",
+    "label": "Her2-receptor Positive Breast Cancer",
     "extensions": [
       {
         "type": "Extension",
         "name": "disease_normalizer_id",
-        "value": "ncit:C9335"
+        "value": "ncit:C53556"
       }
     ],
     "mappings": [
       {
         "coding": {
           "system": "https://www.disease-ontology.org/",
-          "code": "DOID:1612"
+          "code": "DOID:0060079"
         },
         "relation": "exactMatch"
       }
@@ -740,6 +740,27 @@
         "coding": {
           "system": "https://www.disease-ontology.org/",
           "code": "DOID:10283"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:22": {
+    "id": "civic.did:22",
+    "label": "Breast Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C9335"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:1612"
         },
         "relation": "exactMatch"
       }
@@ -1292,27 +1313,6 @@
     ],
     "type": "Disease"
   },
-  "civic.did:368": {
-    "id": "civic.did:368",
-    "label": "Her2-receptor Positive Breast Cancer",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C53556"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:0060079"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:12": {
     "id": "civic.did:12",
     "label": "Inflammatory Myofibroblastic Tumor",
@@ -1355,27 +1355,6 @@
     ],
     "type": "Disease"
   },
-  "civic.did:1322": {
-    "id": "civic.did:1322",
-    "label": "Stomach Carcinoma",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4911"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:5517"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:159": {
     "id": "civic.did:159",
     "label": "Cervical Cancer",
@@ -1412,6 +1391,48 @@
         "coding": {
           "system": "https://www.disease-ontology.org/",
           "code": "DOID:3070"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:19": {
+    "id": "civic.did:19",
+    "label": "Glioblastoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C3058"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:3068"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:117": {
+    "id": "civic.did:117",
+    "label": "Vulva Squamous Cell Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_id",
+        "value": "ncit:C4052"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:2101"
         },
         "relation": "exactMatch"
       }
