@@ -1,6 +1,6 @@
 {
-  "moa.variant:71": {
-    "id": "moa.variant:71",
+  "moa.variant:66": {
+    "id": "moa.variant:66",
     "label": "ABL1 p.T315I (Missense)",
     "extensions": [
       {
@@ -8,8 +8,8 @@
         "name": "MOA representative coordinate",
         "value": {
           "chromosome": "9",
-          "start_position": "133747580",
-          "end_position": "133747580",
+          "start_position": "133748283",
+          "end_position": "133748283",
           "reference_allele": "C",
           "alternate_allele": "T",
           "cdna_change": "c.944C>T",
@@ -22,19 +22,27 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "71"
+          "code": "66"
         },
         "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913459"
+        },
+        "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
-      "digest": "EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
+      "id": "ga4gh:VA.D6NzpWXKqBnbcZZrXNSXj4tMUwROKbsQ",
       "type": "Allele",
+      "digest": "D6NzpWXKqBnbcZZrXNSXj4tMUwROKbsQ",
       "location": {
-        "id": "ga4gh:SL.2UGEX11rbVdN0Nbzc5RU0G0A5elENRTH",
+        "id": "ga4gh:SL.jGElwyBPYNWI-BkFFHKfgLJynt9zuNPs",
         "type": "SequenceLocation",
+        "digest": "jGElwyBPYNWI-BkFFHKfgLJynt9zuNPs",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -48,8 +56,8 @@
       }
     }
   },
-  "moa.variant:73": {
-    "id": "moa.variant:73",
+  "moa.variant:68": {
+    "id": "moa.variant:68",
     "label": "ABL1 p.T315A (Missense)",
     "extensions": [
       {
@@ -71,7 +79,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "73"
+          "code": "68"
         },
         "relation": "exactMatch"
       },
@@ -85,12 +93,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.qbnw4YYTBl2YDdhr0z0XA4fU3iJhAZcL",
-      "digest": "qbnw4YYTBl2YDdhr0z0XA4fU3iJhAZcL",
+      "id": "ga4gh:VA.37YVc2HpRgXOq3HtsjcL1eiyLhDXLmYy",
       "type": "Allele",
+      "digest": "37YVc2HpRgXOq3HtsjcL1eiyLhDXLmYy",
       "location": {
-        "id": "ga4gh:SL.2UGEX11rbVdN0Nbzc5RU0G0A5elENRTH",
+        "id": "ga4gh:SL.jGElwyBPYNWI-BkFFHKfgLJynt9zuNPs",
         "type": "SequenceLocation",
+        "digest": "jGElwyBPYNWI-BkFFHKfgLJynt9zuNPs",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -104,8 +113,8 @@
       }
     }
   },
-  "moa.variant:75": {
-    "id": "moa.variant:75",
+  "moa.variant:70": {
+    "id": "moa.variant:70",
     "label": "ABL1 p.F317L (Missense)",
     "extensions": [
       {
@@ -127,19 +136,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "75"
+          "code": "70"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.QTxmPlYF_CKz0TztSjLuSbemD6VEsBGs",
-      "digest": "QTxmPlYF_CKz0TztSjLuSbemD6VEsBGs",
+      "id": "ga4gh:VA.ZJZc_8PkTSu-twmaJvj6yQXvPJHElPZc",
       "type": "Allele",
+      "digest": "ZJZc_8PkTSu-twmaJvj6yQXvPJHElPZc",
       "location": {
-        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "id": "ga4gh:SL.-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "type": "SequenceLocation",
+        "digest": "-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -153,8 +163,8 @@
       }
     }
   },
-  "moa.variant:76": {
-    "id": "moa.variant:76",
+  "moa.variant:71": {
+    "id": "moa.variant:71",
     "label": "ABL1 p.F317V (Missense)",
     "extensions": [
       {
@@ -176,7 +186,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "76"
+          "code": "71"
         },
         "relation": "exactMatch"
       },
@@ -190,12 +200,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.jZimtJIxEgZJpm2M0rLRASgAQ2MaIsO7",
-      "digest": "jZimtJIxEgZJpm2M0rLRASgAQ2MaIsO7",
+      "id": "ga4gh:VA.SnGz3wUT2JaIid12PoI6OHc4t7LgHVj1",
       "type": "Allele",
+      "digest": "SnGz3wUT2JaIid12PoI6OHc4t7LgHVj1",
       "location": {
-        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "id": "ga4gh:SL.-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "type": "SequenceLocation",
+        "digest": "-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -209,8 +220,8 @@
       }
     }
   },
-  "moa.variant:77": {
-    "id": "moa.variant:77",
+  "moa.variant:72": {
+    "id": "moa.variant:72",
     "label": "ABL1 p.F317I (Missense)",
     "extensions": [
       {
@@ -232,7 +243,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "77"
+          "code": "72"
         },
         "relation": "exactMatch"
       },
@@ -246,12 +257,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.cXPrtYOCpmLn9IABpIEmlqMmKHwVmpEt",
-      "digest": "cXPrtYOCpmLn9IABpIEmlqMmKHwVmpEt",
+      "id": "ga4gh:VA.wDDVWfpuxnuYkLj5_0OrnaBvrJAXYcJA",
       "type": "Allele",
+      "digest": "wDDVWfpuxnuYkLj5_0OrnaBvrJAXYcJA",
       "location": {
-        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "id": "ga4gh:SL.-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "type": "SequenceLocation",
+        "digest": "-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -265,8 +277,8 @@
       }
     }
   },
-  "moa.variant:78": {
-    "id": "moa.variant:78",
+  "moa.variant:73": {
+    "id": "moa.variant:73",
     "label": "ABL1 p.F317C (Missense)",
     "extensions": [
       {
@@ -288,19 +300,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "78"
+          "code": "73"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.BB5Y-5S65SdncMnYr25Y-B9NK5f9dUgL",
-      "digest": "BB5Y-5S65SdncMnYr25Y-B9NK5f9dUgL",
+      "id": "ga4gh:VA.qm_zti_uhENk10RV6-usf5CEKRGSHbm8",
       "type": "Allele",
+      "digest": "qm_zti_uhENk10RV6-usf5CEKRGSHbm8",
       "location": {
-        "id": "ga4gh:SL.G5-0RTGPaUeJGMtHT91Sxl5ysTokU4xo",
+        "id": "ga4gh:SL.-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "type": "SequenceLocation",
+        "digest": "-kNhxBY5Ce4osZrhr6PcndF9dVfZuhXl",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -314,8 +327,8 @@
       }
     }
   },
-  "moa.variant:80": {
-    "id": "moa.variant:80",
+  "moa.variant:75": {
+    "id": "moa.variant:75",
     "label": "ABL1 p.E255K (Missense)",
     "extensions": [
       {
@@ -337,7 +350,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "80"
+          "code": "75"
         },
         "relation": "exactMatch"
       },
@@ -351,12 +364,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.jbAa2KnWMuqRw-w5OJYnmS1rqFocmQUg",
-      "digest": "jbAa2KnWMuqRw-w5OJYnmS1rqFocmQUg",
+      "id": "ga4gh:VA.y7kX_U01bDeLnxvbo1BcNTnELH7f_x7V",
       "type": "Allele",
+      "digest": "y7kX_U01bDeLnxvbo1BcNTnELH7f_x7V",
       "location": {
-        "id": "ga4gh:SL.Q6Dq5AJNXhMZ4XHkFcywsJQNz7t5Axt5",
+        "id": "ga4gh:SL.aVr5FRqrofr2Nu4YoLFf87JgSQIkssIm",
         "type": "SequenceLocation",
+        "digest": "aVr5FRqrofr2Nu4YoLFf87JgSQIkssIm",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -370,8 +384,8 @@
       }
     }
   },
-  "moa.variant:81": {
-    "id": "moa.variant:81",
+  "moa.variant:76": {
+    "id": "moa.variant:76",
     "label": "ABL1 p.E255V (Missense)",
     "extensions": [
       {
@@ -393,7 +407,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "81"
+          "code": "76"
         },
         "relation": "exactMatch"
       },
@@ -407,12 +421,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.m9WGrTqkAjBideCtBZh0lBXlzXBsTHCb",
-      "digest": "m9WGrTqkAjBideCtBZh0lBXlzXBsTHCb",
+      "id": "ga4gh:VA.v-kV7I4CYEDwUUB60OXG1kJDs5jXzAzj",
       "type": "Allele",
+      "digest": "v-kV7I4CYEDwUUB60OXG1kJDs5jXzAzj",
       "location": {
-        "id": "ga4gh:SL.Q6Dq5AJNXhMZ4XHkFcywsJQNz7t5Axt5",
+        "id": "ga4gh:SL.aVr5FRqrofr2Nu4YoLFf87JgSQIkssIm",
         "type": "SequenceLocation",
+        "digest": "aVr5FRqrofr2Nu4YoLFf87JgSQIkssIm",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -426,8 +441,8 @@
       }
     }
   },
-  "moa.variant:82": {
-    "id": "moa.variant:82",
+  "moa.variant:77": {
+    "id": "moa.variant:77",
     "label": "ABL1 p.Y253H (Missense)",
     "extensions": [
       {
@@ -449,7 +464,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "82"
+          "code": "77"
         },
         "relation": "exactMatch"
       },
@@ -463,12 +478,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.eJWzr6OvJK0kMUQQZXESoKrs8-rl-HGP",
-      "digest": "eJWzr6OvJK0kMUQQZXESoKrs8-rl-HGP",
+      "id": "ga4gh:VA.74tNeU5kbvRxbJbZ4y4HkTh0zV8u18IW",
       "type": "Allele",
+      "digest": "74tNeU5kbvRxbJbZ4y4HkTh0zV8u18IW",
       "location": {
-        "id": "ga4gh:SL.BtVoqhr3fIOAXogEo_ChbOGKPaedJYdY",
+        "id": "ga4gh:SL.qgRBISQgsJA7fp25Ffb7YD7rdLjyqSO5",
         "type": "SequenceLocation",
+        "digest": "qgRBISQgsJA7fp25Ffb7YD7rdLjyqSO5",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -482,8 +498,8 @@
       }
     }
   },
-  "moa.variant:83": {
-    "id": "moa.variant:83",
+  "moa.variant:78": {
+    "id": "moa.variant:78",
     "label": "ABL1 p.F359V (Missense)",
     "extensions": [
       {
@@ -505,7 +521,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "83"
+          "code": "78"
         },
         "relation": "exactMatch"
       },
@@ -519,12 +535,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.JDw4aS7wj0mYRD59aJrL_56kHjqedsRL",
-      "digest": "JDw4aS7wj0mYRD59aJrL_56kHjqedsRL",
+      "id": "ga4gh:VA.whkYT34c9xLuVqgpE0_pETIIQGkrgb8c",
       "type": "Allele",
+      "digest": "whkYT34c9xLuVqgpE0_pETIIQGkrgb8c",
       "location": {
-        "id": "ga4gh:SL.rtz4_ubX1zOti7pVco9FHIBrtA1W715X",
+        "id": "ga4gh:SL.eHYdaAxNKYvTniglPlpffQGSwo5Z86Qe",
         "type": "SequenceLocation",
+        "digest": "eHYdaAxNKYvTniglPlpffQGSwo5Z86Qe",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -538,8 +555,8 @@
       }
     }
   },
-  "moa.variant:84": {
-    "id": "moa.variant:84",
+  "moa.variant:79": {
+    "id": "moa.variant:79",
     "label": "ABL1 p.F359C (Missense)",
     "extensions": [
       {
@@ -561,19 +578,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "84"
+          "code": "79"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.2a1Fh2wKruS5dYj6t36zmN-l2NctVl1M",
-      "digest": "2a1Fh2wKruS5dYj6t36zmN-l2NctVl1M",
+      "id": "ga4gh:VA.m9irj_tUdc3UiH7iFOINzZzHZTCEAyCi",
       "type": "Allele",
+      "digest": "m9irj_tUdc3UiH7iFOINzZzHZTCEAyCi",
       "location": {
-        "id": "ga4gh:SL.rtz4_ubX1zOti7pVco9FHIBrtA1W715X",
+        "id": "ga4gh:SL.eHYdaAxNKYvTniglPlpffQGSwo5Z86Qe",
         "type": "SequenceLocation",
+        "digest": "eHYdaAxNKYvTniglPlpffQGSwo5Z86Qe",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -587,8 +605,8 @@
       }
     }
   },
-  "moa.variant:85": {
-    "id": "moa.variant:85",
+  "moa.variant:80": {
+    "id": "moa.variant:80",
     "label": "ABL1 p.F359I (Missense)",
     "extensions": [
       {
@@ -610,7 +628,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "85"
+          "code": "80"
         },
         "relation": "exactMatch"
       },
@@ -624,12 +642,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.fGNl59JYudIJ7PPnavXRQJTdYh2FQf48",
-      "digest": "fGNl59JYudIJ7PPnavXRQJTdYh2FQf48",
+      "id": "ga4gh:VA.B6uOm51_KWfoJlGO61ui7ltRfb4sG092",
       "type": "Allele",
+      "digest": "B6uOm51_KWfoJlGO61ui7ltRfb4sG092",
       "location": {
-        "id": "ga4gh:SL.rtz4_ubX1zOti7pVco9FHIBrtA1W715X",
+        "id": "ga4gh:SL.eHYdaAxNKYvTniglPlpffQGSwo5Z86Qe",
         "type": "SequenceLocation",
+        "digest": "eHYdaAxNKYvTniglPlpffQGSwo5Z86Qe",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -643,8 +662,8 @@
       }
     }
   },
-  "moa.variant:97": {
-    "id": "moa.variant:97",
+  "moa.variant:92": {
+    "id": "moa.variant:92",
     "label": "ABL1 p.V299L (Missense)",
     "extensions": [
       {
@@ -666,19 +685,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "97"
+          "code": "92"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.5aPKjFwHUb8shGd_Hsau5cRLeB-MwDeQ",
-      "digest": "5aPKjFwHUb8shGd_Hsau5cRLeB-MwDeQ",
+      "id": "ga4gh:VA.EhSHoRNbPVLi2cIM8uy9iiZQFnVc2QPp",
       "type": "Allele",
+      "digest": "EhSHoRNbPVLi2cIM8uy9iiZQFnVc2QPp",
       "location": {
-        "id": "ga4gh:SL.wKDS6N_E0eKqLRkIJTYQ7PCVp3pl61Ug",
+        "id": "ga4gh:SL.8Q5r34MRwwe75j2Yqz3UdE4YYoomdr84",
         "type": "SequenceLocation",
+        "digest": "8Q5r34MRwwe75j2Yqz3UdE4YYoomdr84",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
@@ -692,22 +712,22 @@
       }
     }
   },
-  "moa.variant:108": {
-    "id": "moa.variant:108",
-    "label": "ABL1 p.T315I (Missense)",
+  "moa.variant:107": {
+    "id": "moa.variant:107",
+    "label": "AKT1 p.E17K (Missense)",
     "extensions": [
       {
         "type": "Extension",
         "name": "MOA representative coordinate",
         "value": {
-          "chromosome": "9",
-          "start_position": "133748283",
-          "end_position": "133748283",
+          "chromosome": "14",
+          "start_position": "105246551",
+          "end_position": "105246551",
           "reference_allele": "C",
           "alternate_allele": "T",
-          "cdna_change": "c.944C>T",
-          "protein_change": "p.T315I",
-          "exon": "6"
+          "cdna_change": "c.49G>A",
+          "protein_change": "p.E17K",
+          "exon": "2"
         }
       }
     ],
@@ -715,34 +735,42 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "108"
+          "code": "107"
         },
         "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs34409589"
+        },
+        "relation": "relatedMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
-      "digest": "EbGZQl1LnjzDCTbjF2VtPbvgMsPWfBOq",
+      "id": "ga4gh:VA.GfY89Zy-DJcnWtthBcoVV6PyuE4qkP8F",
       "type": "Allele",
+      "digest": "GfY89Zy-DJcnWtthBcoVV6PyuE4qkP8F",
       "location": {
-        "id": "ga4gh:SL.2UGEX11rbVdN0Nbzc5RU0G0A5elENRTH",
+        "id": "ga4gh:SL.k8zRBGlFy4f7WSIlEKjXL6gH0LNrJpUr",
         "type": "SequenceLocation",
+        "digest": "k8zRBGlFy4f7WSIlEKjXL6gH0LNrJpUr",
         "sequenceReference": {
           "type": "SequenceReference",
-          "refgetAccession": "SQ.dmFigTG-0fY6I54swb7PoDuxCeT6O3Wg"
+          "refgetAccession": "SQ.GTSPIWYvuDZU59cW1RECFEU1FMiKdEyc"
         },
-        "start": 314,
-        "end": 315
+        "start": 16,
+        "end": 17
       },
       "state": {
         "type": "LiteralSequenceExpression",
-        "sequence": "I"
+        "sequence": "K"
       }
     }
   },
-  "moa.variant:115": {
-    "id": "moa.variant:115",
+  "moa.variant:110": {
+    "id": "moa.variant:110",
     "label": "ALK p.G1202R (Missense)",
     "extensions": [
       {
@@ -764,7 +792,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "115"
+          "code": "110"
         },
         "relation": "exactMatch"
       },
@@ -778,12 +806,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.4s_0jqh0QXhGnP0ShCReCVIXHz8TPMlM",
-      "digest": "4s_0jqh0QXhGnP0ShCReCVIXHz8TPMlM",
+      "id": "ga4gh:VA.dW4kfzuGNeteFlDekXpEbr8I7sNkpdRn",
       "type": "Allele",
+      "digest": "dW4kfzuGNeteFlDekXpEbr8I7sNkpdRn",
       "location": {
-        "id": "ga4gh:SL.q4vVoU9jvQ0la6lOkBSlZLXZSXM_mzox",
+        "id": "ga4gh:SL.F3gyMEV6PxdjuC8YdS4xCe93ZgCfisMv",
         "type": "SequenceLocation",
+        "digest": "F3gyMEV6PxdjuC8YdS4xCe93ZgCfisMv",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
@@ -797,8 +826,8 @@
       }
     }
   },
-  "moa.variant:116": {
-    "id": "moa.variant:116",
+  "moa.variant:111": {
+    "id": "moa.variant:111",
     "label": "ALK p.F1174C (Missense)",
     "extensions": [
       {
@@ -820,7 +849,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "116"
+          "code": "111"
         },
         "relation": "exactMatch"
       },
@@ -834,12 +863,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.1Mzdazk16WVOInPm-WfW0OgdDkVtC8Q2",
-      "digest": "1Mzdazk16WVOInPm-WfW0OgdDkVtC8Q2",
+      "id": "ga4gh:VA.qqPMMbmP3yREVCmNl-t9uErZKUttYH79",
       "type": "Allele",
+      "digest": "qqPMMbmP3yREVCmNl-t9uErZKUttYH79",
       "location": {
-        "id": "ga4gh:SL.n1vbI2DGWZjLWoNdaUdc1ISSHenlCMar",
+        "id": "ga4gh:SL.XlFNNwHg2t7jH2X9fjfT1-6GCwTpCwj9",
         "type": "SequenceLocation",
+        "digest": "XlFNNwHg2t7jH2X9fjfT1-6GCwTpCwj9",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
@@ -853,8 +883,8 @@
       }
     }
   },
-  "moa.variant:117": {
-    "id": "moa.variant:117",
+  "moa.variant:112": {
+    "id": "moa.variant:112",
     "label": "ALK p.L1196M (Missense)",
     "extensions": [
       {
@@ -876,7 +906,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "117"
+          "code": "112"
         },
         "relation": "exactMatch"
       },
@@ -890,12 +920,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.8DN3YvdDmEnsg924DmoX21Qn8WBogeoq",
-      "digest": "8DN3YvdDmEnsg924DmoX21Qn8WBogeoq",
+      "id": "ga4gh:VA.E8YabWqHYiNl5g4GUBxOIR3qT2Ni2hDX",
       "type": "Allele",
+      "digest": "E8YabWqHYiNl5g4GUBxOIR3qT2Ni2hDX",
       "location": {
-        "id": "ga4gh:SL.gN5Akfr_DYARbaRirrsewGu7QO3iPvXT",
+        "id": "ga4gh:SL.jNEhFKh0lI8CfRD8PWuWwNQuCQZ22ZS2",
         "type": "SequenceLocation",
+        "digest": "jNEhFKh0lI8CfRD8PWuWwNQuCQZ22ZS2",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
@@ -909,8 +940,8 @@
       }
     }
   },
-  "moa.variant:118": {
-    "id": "moa.variant:118",
+  "moa.variant:113": {
+    "id": "moa.variant:113",
     "label": "ALK p.G1269A (Missense)",
     "extensions": [
       {
@@ -932,7 +963,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "118"
+          "code": "113"
         },
         "relation": "exactMatch"
       },
@@ -946,12 +977,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.wkm7bGW_q8Cwsc85IlinRzbTLEpsv385",
-      "digest": "wkm7bGW_q8Cwsc85IlinRzbTLEpsv385",
+      "id": "ga4gh:VA.sfyM358Q8Jtl1wrMJOanYiOsDM3BVQPn",
       "type": "Allele",
+      "digest": "sfyM358Q8Jtl1wrMJOanYiOsDM3BVQPn",
       "location": {
-        "id": "ga4gh:SL.ZEdbfw_lmvo3aTYPxis9C_DJAYp4OxzQ",
+        "id": "ga4gh:SL.6XzUHqAGtgcgGHPemY47BEMozBrLNoKQ",
         "type": "SequenceLocation",
+        "digest": "6XzUHqAGtgcgGHPemY47BEMozBrLNoKQ",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
@@ -965,8 +997,8 @@
       }
     }
   },
-  "moa.variant:119": {
-    "id": "moa.variant:119",
+  "moa.variant:114": {
+    "id": "moa.variant:114",
     "label": "ALK p.S1206Y (Missense)",
     "extensions": [
       {
@@ -988,7 +1020,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "119"
+          "code": "114"
         },
         "relation": "exactMatch"
       },
@@ -1002,12 +1034,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.RdHPumCoCaaMr0a1wFskVsfd9HQav3bm",
-      "digest": "RdHPumCoCaaMr0a1wFskVsfd9HQav3bm",
+      "id": "ga4gh:VA.nq_fGAlsZnu7zjlISka1b1upudZGFuea",
       "type": "Allele",
+      "digest": "nq_fGAlsZnu7zjlISka1b1upudZGFuea",
       "location": {
-        "id": "ga4gh:SL.uSgo9bV6sWuBevTms1hu-m5qCsaCiS3J",
+        "id": "ga4gh:SL.fee3DCrSu77T4amPR1lRjCQxU0hfh2bS",
         "type": "SequenceLocation",
+        "digest": "fee3DCrSu77T4amPR1lRjCQxU0hfh2bS",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.q9CnK-HKWh9eqhOi8FlzR7M0pCmUrWPs"
@@ -1021,8 +1054,8 @@
       }
     }
   },
-  "moa.variant:120": {
-    "id": "moa.variant:120",
+  "moa.variant:115": {
+    "id": "moa.variant:115",
     "label": "AR p.T878A (Missense)",
     "extensions": [
       {
@@ -1044,7 +1077,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "120"
+          "code": "115"
         },
         "relation": "exactMatch"
       },
@@ -1058,12 +1091,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.P5bnb_Bm2ICqpheNyp1jJkxt9RHX_Z9R",
-      "digest": "P5bnb_Bm2ICqpheNyp1jJkxt9RHX_Z9R",
+      "id": "ga4gh:VA.7f_c_kjvXs4sK9YEZXytxMRNhtOhfyrx",
       "type": "Allele",
+      "digest": "7f_c_kjvXs4sK9YEZXytxMRNhtOhfyrx",
       "location": {
-        "id": "ga4gh:SL.0LJSfyrejt3d5lWKgoMF1zLl2Z_iGU6J",
+        "id": "ga4gh:SL.7C3gmOjCVP-VjOd0YFxg-1EktrlTEC3N",
         "type": "SequenceLocation",
+        "digest": "7C3gmOjCVP-VjOd0YFxg-1EktrlTEC3N",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.3i2gUccySg7YHyjquhJ5ICgAPeHzvFFW"
@@ -1077,8 +1111,8 @@
       }
     }
   },
-  "moa.variant:121": {
-    "id": "moa.variant:121",
+  "moa.variant:116": {
+    "id": "moa.variant:116",
     "label": "AR p.L702H (Missense)",
     "extensions": [
       {
@@ -1100,19 +1134,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "121"
+          "code": "116"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.1BZZyobZrrW-ZSyXZhrP2vm849plYkRa",
-      "digest": "1BZZyobZrrW-ZSyXZhrP2vm849plYkRa",
+      "id": "ga4gh:VA.mXrc5IR5TO9WipB3sLeWDtzAYVHCFYki",
       "type": "Allele",
+      "digest": "mXrc5IR5TO9WipB3sLeWDtzAYVHCFYki",
       "location": {
-        "id": "ga4gh:SL.mjndn6DEBNziec77Ea-5eYFxwFsw7ZMy",
+        "id": "ga4gh:SL.fJmEsPZu4CmU2rems1WTFE_ApDWY34Xx",
         "type": "SequenceLocation",
+        "digest": "fJmEsPZu4CmU2rems1WTFE_ApDWY34Xx",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.3i2gUccySg7YHyjquhJ5ICgAPeHzvFFW"
@@ -1126,8 +1161,8 @@
       }
     }
   },
-  "moa.variant:122": {
-    "id": "moa.variant:122",
+  "moa.variant:117": {
+    "id": "moa.variant:117",
     "label": "ARAF p.S214C (Missense)",
     "extensions": [
       {
@@ -1149,19 +1184,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "122"
+          "code": "117"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.0XRP9ec08nseaod7LSuyfLDce-hpvEfm",
-      "digest": "0XRP9ec08nseaod7LSuyfLDce-hpvEfm",
+      "id": "ga4gh:VA.mipQFzApQNp2KyVXcZig8b4uu7kFofIZ",
       "type": "Allele",
+      "digest": "mipQFzApQNp2KyVXcZig8b4uu7kFofIZ",
       "location": {
-        "id": "ga4gh:SL.aLNS5vmoCkYAlgAlZOUGVDsai7ucgVL1",
+        "id": "ga4gh:SL.hH2CTbUukSXfWWuwbPAowFTYG3pxXWeL",
         "type": "SequenceLocation",
+        "digest": "hH2CTbUukSXfWWuwbPAowFTYG3pxXWeL",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.zWUEijoFMvm7vDgj6af1ZwwBERSNnm4a"
@@ -1175,8 +1211,8 @@
       }
     }
   },
-  "moa.variant:134": {
-    "id": "moa.variant:134",
+  "moa.variant:129": {
+    "id": "moa.variant:129",
     "label": "ATM p.A1127D (Missense)",
     "extensions": [
       {
@@ -1198,7 +1234,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "134"
+          "code": "129"
         },
         "relation": "exactMatch"
       },
@@ -1212,12 +1248,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.p3QRG8lzug4HZPdrtP11LWWw8rCARm2c",
-      "digest": "p3QRG8lzug4HZPdrtP11LWWw8rCARm2c",
+      "id": "ga4gh:VA.F81AHXva7dDDRrTA5kxObhJ4dQ8GQ6B8",
       "type": "Allele",
+      "digest": "F81AHXva7dDDRrTA5kxObhJ4dQ8GQ6B8",
       "location": {
-        "id": "ga4gh:SL.oO7KDpFT1LfDSa3stQ4qbHY0xnv2uvJc",
+        "id": "ga4gh:SL.gc0pEFQHpDLuseicL8P7ODHGRGhSwvJO",
         "type": "SequenceLocation",
+        "digest": "gc0pEFQHpDLuseicL8P7ODHGRGhSwvJO",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.6k1y4bTo7pEJ-a1GaniRBaCJXXGkBGFO"
@@ -1231,8 +1268,8 @@
       }
     }
   },
-  "moa.variant:149": {
-    "id": "moa.variant:149",
+  "moa.variant:144": {
+    "id": "moa.variant:144",
     "label": "BRAF p.V600E (Missense)",
     "extensions": [
       {
@@ -1254,7 +1291,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "149"
+          "code": "144"
         },
         "relation": "exactMatch"
       },
@@ -1268,12 +1305,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.4XBXAxSAk-WyAu5H0S1-plrk_SCTW1PO",
-      "digest": "4XBXAxSAk-WyAu5H0S1-plrk_SCTW1PO",
+      "id": "ga4gh:VA.j4XnsLZcdzDIYa5pvvXM7t1wn9OITr0L",
       "type": "Allele",
+      "digest": "j4XnsLZcdzDIYa5pvvXM7t1wn9OITr0L",
       "location": {
-        "id": "ga4gh:SL.ZA1XNKhCT_7m2UtmnYb8ZYOVS4eplMEK",
+        "id": "ga4gh:SL.t-3DrWALhgLdXHsupI-e-M00aL3HgK3y",
         "type": "SequenceLocation",
+        "digest": "t-3DrWALhgLdXHsupI-e-M00aL3HgK3y",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.cQvw4UsHHRRlogxbWCB8W-mKD4AraM9y"
@@ -1287,8 +1325,8 @@
       }
     }
   },
-  "moa.variant:151": {
-    "id": "moa.variant:151",
+  "moa.variant:146": {
+    "id": "moa.variant:146",
     "label": "BRAF p.V600K (Missense)",
     "extensions": [
       {
@@ -1310,7 +1348,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "151"
+          "code": "146"
         },
         "relation": "exactMatch"
       },
@@ -1324,12 +1362,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.2E2_MppFwuFLm3OF88kEywJUYc6cVTHC",
-      "digest": "2E2_MppFwuFLm3OF88kEywJUYc6cVTHC",
+      "id": "ga4gh:VA.pfWn9x9oFBRzGda1xXcOrE-BrX0R__N8",
       "type": "Allele",
+      "digest": "pfWn9x9oFBRzGda1xXcOrE-BrX0R__N8",
       "location": {
-        "id": "ga4gh:SL.ZA1XNKhCT_7m2UtmnYb8ZYOVS4eplMEK",
+        "id": "ga4gh:SL.t-3DrWALhgLdXHsupI-e-M00aL3HgK3y",
         "type": "SequenceLocation",
+        "digest": "t-3DrWALhgLdXHsupI-e-M00aL3HgK3y",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.cQvw4UsHHRRlogxbWCB8W-mKD4AraM9y"
@@ -1343,8 +1382,8 @@
       }
     }
   },
-  "moa.variant:254": {
-    "id": "moa.variant:254",
+  "moa.variant:242": {
+    "id": "moa.variant:242",
     "label": "EGFR p.T790M (Missense)",
     "extensions": [
       {
@@ -1366,7 +1405,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "254"
+          "code": "242"
         },
         "relation": "exactMatch"
       },
@@ -1380,12 +1419,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.faKID4aj8rP8NKZpWL4mWDToEztTUmbr",
-      "digest": "faKID4aj8rP8NKZpWL4mWDToEztTUmbr",
+      "id": "ga4gh:VA.sMA9h8fzDi0RvweMlxtD0_Oi8B-JZ1V-",
       "type": "Allele",
+      "digest": "sMA9h8fzDi0RvweMlxtD0_Oi8B-JZ1V-",
       "location": {
-        "id": "ga4gh:SL.C1y_lDZe8e9pKy3jcj3oJKw_7252Hrxa",
+        "id": "ga4gh:SL.UOSDv-_5QNbKqgbCf--isFjvNZ5ZST09",
         "type": "SequenceLocation",
+        "digest": "UOSDv-_5QNbKqgbCf--isFjvNZ5ZST09",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
@@ -1399,8 +1439,8 @@
       }
     }
   },
-  "moa.variant:267": {
-    "id": "moa.variant:267",
+  "moa.variant:254": {
+    "id": "moa.variant:254",
     "label": "EGFR p.L858R (Missense)",
     "extensions": [
       {
@@ -1422,7 +1462,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "267"
+          "code": "254"
         },
         "relation": "exactMatch"
       },
@@ -1436,12 +1476,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
-      "digest": "z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
+      "id": "ga4gh:VA.S41CcMJT2bcd8R4-qXZWH1PoHWNtG2PZ",
       "type": "Allele",
+      "digest": "S41CcMJT2bcd8R4-qXZWH1PoHWNtG2PZ",
       "location": {
-        "id": "ga4gh:SL.yVGJnwqxV6oCGqC_8nNb58D_wPXJeNJo",
+        "id": "ga4gh:SL.v0_edynH98OIu-0QPVT5anCSOriAFSDQ",
         "type": "SequenceLocation",
+        "digest": "v0_edynH98OIu-0QPVT5anCSOriAFSDQ",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
@@ -1455,106 +1496,8 @@
       }
     }
   },
-  "moa.variant:284": {
-    "id": "moa.variant:284",
-    "label": "EGFR p.L858R (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "7",
-          "start_position": "55259515",
-          "end_position": "55259515",
-          "reference_allele": "T",
-          "alternate_allele": "G",
-          "cdna_change": "c.2573T>G",
-          "protein_change": "p.L858R",
-          "exon": null
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "284"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
-      "digest": "z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.yVGJnwqxV6oCGqC_8nNb58D_wPXJeNJo",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
-        },
-        "start": 857,
-        "end": 858
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "R"
-      }
-    }
-  },
-  "moa.variant:286": {
-    "id": "moa.variant:286",
-    "label": "EGFR p.L858R (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "7",
-          "start_position": "55259515",
-          "end_position": "55259515",
-          "reference_allele": "T",
-          "alternate_allele": "G",
-          "cdna_change": "c.2573T>G",
-          "protein_change": "p.L858R",
-          "exon": "21"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "286"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
-      "digest": "z7c2S8QzZ3yL2UjV_xP7zP913BrYYFGn",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.yVGJnwqxV6oCGqC_8nNb58D_wPXJeNJo",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.vyo55F6mA6n2LgN4cagcdRzOuh38V4mE"
-        },
-        "start": 857,
-        "end": 858
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "R"
-      }
-    }
-  },
-  "moa.variant:294": {
-    "id": "moa.variant:294",
+  "moa.variant:281": {
+    "id": "moa.variant:281",
     "label": "ERRFI1 p.E384* (Nonsense)",
     "extensions": [
       {
@@ -1576,19 +1519,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "294"
+          "code": "281"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.kWW7c-ipidvW6wjftZ21AGcUIcXkn_2F",
-      "digest": "kWW7c-ipidvW6wjftZ21AGcUIcXkn_2F",
+      "id": "ga4gh:VA.v5Jc64GQjTPVlsjiINmmlWmNRFfDDnoO",
       "type": "Allele",
+      "digest": "v5Jc64GQjTPVlsjiINmmlWmNRFfDDnoO",
       "location": {
-        "id": "ga4gh:SL.ywU3EnaEVGev-HAzMQceWPLbR2EEEMEW",
+        "id": "ga4gh:SL.2_PBnFkjQSTGidfIkNH9Y95XH8t_8TZD",
         "type": "SequenceLocation",
+        "digest": "2_PBnFkjQSTGidfIkNH9Y95XH8t_8TZD",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.C49OdjhPGBXjeiBVRZb2HYBbiYuYPtK_"
@@ -1602,8 +1546,8 @@
       }
     }
   },
-  "moa.variant:300": {
-    "id": "moa.variant:300",
+  "moa.variant:287": {
+    "id": "moa.variant:287",
     "label": "EZH2 p.Y646* (Nonsense)",
     "extensions": [
       {
@@ -1625,19 +1569,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "300"
+          "code": "287"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.h_rW93M4Pq9U-vxlgliU5WTLVP9iHm_u",
-      "digest": "h_rW93M4Pq9U-vxlgliU5WTLVP9iHm_u",
+      "id": "ga4gh:VA.XKHskuwaF4N1kY26E5A1RWt12H4dl_c9",
       "type": "Allele",
+      "digest": "XKHskuwaF4N1kY26E5A1RWt12H4dl_c9",
       "location": {
-        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "id": "ga4gh:SL.7PJtwRMwSyrWxfU3VBIOb5LbGlGxJs2n",
         "type": "SequenceLocation",
+        "digest": "7PJtwRMwSyrWxfU3VBIOb5LbGlGxJs2n",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
@@ -1651,8 +1596,8 @@
       }
     }
   },
-  "moa.variant:301": {
-    "id": "moa.variant:301",
+  "moa.variant:288": {
+    "id": "moa.variant:288",
     "label": "EZH2 p.Y646F (Missense)",
     "extensions": [
       {
@@ -1674,19 +1619,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "301"
+          "code": "288"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.lBiBkFGa4jG5y2kIbDYYJyZpQTfmHfss",
-      "digest": "lBiBkFGa4jG5y2kIbDYYJyZpQTfmHfss",
+      "id": "ga4gh:VA.oYK6HfZD2veVeRV_OCMXdMY8mM2k8riu",
       "type": "Allele",
+      "digest": "oYK6HfZD2veVeRV_OCMXdMY8mM2k8riu",
       "location": {
-        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "id": "ga4gh:SL.7PJtwRMwSyrWxfU3VBIOb5LbGlGxJs2n",
         "type": "SequenceLocation",
+        "digest": "7PJtwRMwSyrWxfU3VBIOb5LbGlGxJs2n",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
@@ -1700,8 +1646,8 @@
       }
     }
   },
-  "moa.variant:302": {
-    "id": "moa.variant:302",
+  "moa.variant:289": {
+    "id": "moa.variant:289",
     "label": "EZH2 p.Y646N (Missense)",
     "extensions": [
       {
@@ -1723,19 +1669,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "302"
+          "code": "289"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.ZIFtvZO383LfXmK_EjDwBg00nk6IpWCx",
-      "digest": "ZIFtvZO383LfXmK_EjDwBg00nk6IpWCx",
+      "id": "ga4gh:VA.F3wf8X4pXaRvx55F_jvVkK258q-JoDni",
       "type": "Allele",
+      "digest": "F3wf8X4pXaRvx55F_jvVkK258q-JoDni",
       "location": {
-        "id": "ga4gh:SL.5DlaGJrlH6seUdneVWj-QDGIqUJjtRB1",
+        "id": "ga4gh:SL.7PJtwRMwSyrWxfU3VBIOb5LbGlGxJs2n",
         "type": "SequenceLocation",
+        "digest": "7PJtwRMwSyrWxfU3VBIOb5LbGlGxJs2n",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
@@ -1749,8 +1696,8 @@
       }
     }
   },
-  "moa.variant:303": {
-    "id": "moa.variant:303",
+  "moa.variant:290": {
+    "id": "moa.variant:290",
     "label": "EZH2 p.A682G (Missense)",
     "extensions": [
       {
@@ -1772,19 +1719,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "303"
+          "code": "290"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.uiR-nXfLnWDW5vylgZUJYspvhrejn6Rg",
-      "digest": "uiR-nXfLnWDW5vylgZUJYspvhrejn6Rg",
+      "id": "ga4gh:VA.0XRkkEA2HWTplj8pneW7IzKzkJh_VTdi",
       "type": "Allele",
+      "digest": "0XRkkEA2HWTplj8pneW7IzKzkJh_VTdi",
       "location": {
-        "id": "ga4gh:SL.V4x5K2TR8P-qK5uTUWfQI_qnjydqcgev",
+        "id": "ga4gh:SL.K46cEnNhN_EnyHbnGqPUSZJsrdHH-Ema",
         "type": "SequenceLocation",
+        "digest": "K46cEnNhN_EnyHbnGqPUSZJsrdHH-Ema",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
@@ -1798,8 +1746,8 @@
       }
     }
   },
-  "moa.variant:304": {
-    "id": "moa.variant:304",
+  "moa.variant:291": {
+    "id": "moa.variant:291",
     "label": "EZH2 p.A692V (Missense)",
     "extensions": [
       {
@@ -1821,19 +1769,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "304"
+          "code": "291"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.R21kM-FsKdGp1C8yMbv_n5nRCPzFobky",
-      "digest": "R21kM-FsKdGp1C8yMbv_n5nRCPzFobky",
+      "id": "ga4gh:VA.Asy9WpmrMOSunO4H7D3OU7t4MvIbBWK9",
       "type": "Allele",
+      "digest": "Asy9WpmrMOSunO4H7D3OU7t4MvIbBWK9",
       "location": {
-        "id": "ga4gh:SL.r1Vwwc4OnEUnOzjGohfckx2oPHa0HDnx",
+        "id": "ga4gh:SL.zgMYyYar7JOGCMcyd4F4CKRQMoBqM7qY",
         "type": "SequenceLocation",
+        "digest": "zgMYyYar7JOGCMcyd4F4CKRQMoBqM7qY",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fZuyp1_QKM5vGWsn-O-CrPHPm5jR403J"
@@ -1847,8 +1796,8 @@
       }
     }
   },
-  "moa.variant:307": {
-    "id": "moa.variant:307",
+  "moa.variant:294": {
+    "id": "moa.variant:294",
     "label": "FGFR3 p.R248C (Missense)",
     "extensions": [
       {
@@ -1870,7 +1819,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "307"
+          "code": "294"
         },
         "relation": "exactMatch"
       },
@@ -1884,12 +1833,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.H_aL3z44T3GS4AmKNmagobkf9baVNadl",
-      "digest": "H_aL3z44T3GS4AmKNmagobkf9baVNadl",
+      "id": "ga4gh:VA.6fDQOuVnlKrDjTq3rkMY-1UHbT41h332",
       "type": "Allele",
+      "digest": "6fDQOuVnlKrDjTq3rkMY-1UHbT41h332",
       "location": {
-        "id": "ga4gh:SL.6iQ0A8Tf32yWNT6Ao-MN53cjpB21rngn",
+        "id": "ga4gh:SL.60nnfAgrzhZopUQU1HdoEDIqpIzQBOiE",
         "type": "SequenceLocation",
+        "digest": "60nnfAgrzhZopUQU1HdoEDIqpIzQBOiE",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
@@ -1903,8 +1853,8 @@
       }
     }
   },
-  "moa.variant:308": {
-    "id": "moa.variant:308",
+  "moa.variant:295": {
+    "id": "moa.variant:295",
     "label": "FGFR3 p.S249C (Missense)",
     "extensions": [
       {
@@ -1926,7 +1876,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "308"
+          "code": "295"
         },
         "relation": "exactMatch"
       },
@@ -1940,12 +1890,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.ScwqpwMfwX2Vt2TkAnlqTatmdC2UwnMi",
-      "digest": "ScwqpwMfwX2Vt2TkAnlqTatmdC2UwnMi",
+      "id": "ga4gh:VA.lCQZ8ie3k9M8N7wpd4BxHSpFYLKd0fVI",
       "type": "Allele",
+      "digest": "lCQZ8ie3k9M8N7wpd4BxHSpFYLKd0fVI",
       "location": {
-        "id": "ga4gh:SL.Q9zQuJzbEtQG2B7hyCuLmZovGiNuWxiY",
+        "id": "ga4gh:SL.grxGJfSaMBBsfK5DECZSAECGGUC1gixU",
         "type": "SequenceLocation",
+        "digest": "grxGJfSaMBBsfK5DECZSAECGGUC1gixU",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
@@ -1959,8 +1910,8 @@
       }
     }
   },
-  "moa.variant:309": {
-    "id": "moa.variant:309",
+  "moa.variant:296": {
+    "id": "moa.variant:296",
     "label": "FGFR3 p.G370C (Missense)",
     "extensions": [
       {
@@ -1982,7 +1933,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "309"
+          "code": "296"
         },
         "relation": "exactMatch"
       },
@@ -1996,12 +1947,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.CeRXhVWp6LYRHDAv5705EBpMhjhHeTaK",
-      "digest": "CeRXhVWp6LYRHDAv5705EBpMhjhHeTaK",
+      "id": "ga4gh:VA.jN7GBCtzW-TeO8Oj6sXOTBkb5RpqsnhE",
       "type": "Allele",
+      "digest": "jN7GBCtzW-TeO8Oj6sXOTBkb5RpqsnhE",
       "location": {
-        "id": "ga4gh:SL.rXgyyQerEZh7w9q7VwvJReQRohv_RYJj",
+        "id": "ga4gh:SL.BWL7lNkUDNtm3WnoyGpB-q0-58XpHTxt",
         "type": "SequenceLocation",
+        "digest": "BWL7lNkUDNtm3WnoyGpB-q0-58XpHTxt",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
@@ -2015,8 +1967,8 @@
       }
     }
   },
-  "moa.variant:310": {
-    "id": "moa.variant:310",
+  "moa.variant:297": {
+    "id": "moa.variant:297",
     "label": "FGFR3 p.Y373C (Missense)",
     "extensions": [
       {
@@ -2038,7 +1990,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "310"
+          "code": "297"
         },
         "relation": "exactMatch"
       },
@@ -2052,12 +2004,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.Ip0lvUIZ99pzeVua47nHkzYGY1uVo2JW",
-      "digest": "Ip0lvUIZ99pzeVua47nHkzYGY1uVo2JW",
+      "id": "ga4gh:VA.UHA6S3oE8Ts_WI51w5noSpXhSlvNEjHu",
       "type": "Allele",
+      "digest": "UHA6S3oE8Ts_WI51w5noSpXhSlvNEjHu",
       "location": {
-        "id": "ga4gh:SL.9hFB6DxmWen2a8EpXXhCbLzMG3igb_3c",
+        "id": "ga4gh:SL.g33H1Cf5jJONJO2upu64mfFipyfSK6MZ",
         "type": "SequenceLocation",
+        "digest": "g33H1Cf5jJONJO2upu64mfFipyfSK6MZ",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xO86teDIIalLkqprCQaXyuvdPqvBxBG3"
@@ -2071,8 +2024,8 @@
       }
     }
   },
-  "moa.variant:317": {
-    "id": "moa.variant:317",
+  "moa.variant:304": {
+    "id": "moa.variant:304",
     "label": "FLT3 p.F691L (Missense)",
     "extensions": [
       {
@@ -2094,7 +2047,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "317"
+          "code": "304"
         },
         "relation": "exactMatch"
       },
@@ -2108,12 +2061,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.NVkWgPaa9dCPDndshGoWOCuQMYewzQko",
-      "digest": "NVkWgPaa9dCPDndshGoWOCuQMYewzQko",
+      "id": "ga4gh:VA.fV8iAY2E_DdmWWtXswj2lJ4EP-DOasSU",
       "type": "Allele",
+      "digest": "fV8iAY2E_DdmWWtXswj2lJ4EP-DOasSU",
       "location": {
-        "id": "ga4gh:SL.AnCd0VcHeire_BKaf72ZWX-qAENUVmEg",
+        "id": "ga4gh:SL.yIDWm48UV7GUROvgzDYlMG6_5zH3C0E9",
         "type": "SequenceLocation",
+        "digest": "yIDWm48UV7GUROvgzDYlMG6_5zH3C0E9",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.0dtDG7QKyvW7BntvQVpLS83mYRA58LKH"
@@ -2127,8 +2081,8 @@
       }
     }
   },
-  "moa.variant:318": {
-    "id": "moa.variant:318",
+  "moa.variant:305": {
+    "id": "moa.variant:305",
     "label": "FLT3 p.K663Q (Missense)",
     "extensions": [
       {
@@ -2150,7 +2104,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "318"
+          "code": "305"
         },
         "relation": "exactMatch"
       },
@@ -2164,12 +2118,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.bWHQwkGvCjYkfUcMiNJ3r704TO8P9K_J",
-      "digest": "bWHQwkGvCjYkfUcMiNJ3r704TO8P9K_J",
+      "id": "ga4gh:VA.WGJhl7dROPj4jGUTJ3OS3-N5WX9F7rRR",
       "type": "Allele",
+      "digest": "WGJhl7dROPj4jGUTJ3OS3-N5WX9F7rRR",
       "location": {
-        "id": "ga4gh:SL.RJHh5xx4s7hia9Br7ALHs1LUobOjUoX5",
+        "id": "ga4gh:SL.h_eLkMAzSINURuZpdCYvijoi9D-Eq4SG",
         "type": "SequenceLocation",
+        "digest": "h_eLkMAzSINURuZpdCYvijoi9D-Eq4SG",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.0dtDG7QKyvW7BntvQVpLS83mYRA58LKH"
@@ -2183,8 +2138,8 @@
       }
     }
   },
-  "moa.variant:319": {
-    "id": "moa.variant:319",
+  "moa.variant:306": {
+    "id": "moa.variant:306",
     "label": "GATA3 p.M294K (Missense)",
     "extensions": [
       {
@@ -2206,19 +2161,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "319"
+          "code": "306"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.oqWAawz1WfBGSDViRTNAvIy0ly4DBQn0",
-      "digest": "oqWAawz1WfBGSDViRTNAvIy0ly4DBQn0",
+      "id": "ga4gh:VA.GmoEzlSokba5nA-T6hqd5PEHPrW1SGRI",
       "type": "Allele",
+      "digest": "GmoEzlSokba5nA-T6hqd5PEHPrW1SGRI",
       "location": {
-        "id": "ga4gh:SL.NCUBJYr_dsZWTJWYc7PdUPHSn2VLhUOK",
+        "id": "ga4gh:SL.Ri61yshugFdINBQRYyWX74FvAPrs5k6o",
         "type": "SequenceLocation",
+        "digest": "Ri61yshugFdINBQRYyWX74FvAPrs5k6o",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.bdosHg0m0-PjJbEXRptxUwqJcIlmb-z0"
@@ -2232,8 +2188,8 @@
       }
     }
   },
-  "moa.variant:323": {
-    "id": "moa.variant:323",
+  "moa.variant:310": {
+    "id": "moa.variant:310",
     "label": "IDH1 p.R132H (Missense)",
     "extensions": [
       {
@@ -2255,7 +2211,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "323"
+          "code": "310"
         },
         "relation": "exactMatch"
       },
@@ -2269,12 +2225,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.Wks7qWMMqFTj1uw9ZUHDeHXj-coBFGll",
-      "digest": "Wks7qWMMqFTj1uw9ZUHDeHXj-coBFGll",
+      "id": "ga4gh:VA.2VAvTmPON2L7JffxjE68jAmmmwxyzDpB",
       "type": "Allele",
+      "digest": "2VAvTmPON2L7JffxjE68jAmmmwxyzDpB",
       "location": {
-        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "id": "ga4gh:SL.c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "type": "SequenceLocation",
+        "digest": "c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
@@ -2288,8 +2245,8 @@
       }
     }
   },
-  "moa.variant:324": {
-    "id": "moa.variant:324",
+  "moa.variant:311": {
+    "id": "moa.variant:311",
     "label": "IDH1 p.R132C (Missense)",
     "extensions": [
       {
@@ -2311,7 +2268,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "324"
+          "code": "311"
         },
         "relation": "exactMatch"
       },
@@ -2325,12 +2282,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.348znVA1UKrjwKuq8LLOVrb77xWo5XUO",
-      "digest": "348znVA1UKrjwKuq8LLOVrb77xWo5XUO",
+      "id": "ga4gh:VA.lAST62ntkEaXy6RDDOF1V4C3jd-jaAJ5",
       "type": "Allele",
+      "digest": "lAST62ntkEaXy6RDDOF1V4C3jd-jaAJ5",
       "location": {
-        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "id": "ga4gh:SL.c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "type": "SequenceLocation",
+        "digest": "c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
@@ -2344,8 +2302,8 @@
       }
     }
   },
-  "moa.variant:329": {
-    "id": "moa.variant:329",
+  "moa.variant:316": {
+    "id": "moa.variant:316",
     "label": "IDH2 p.R140Q (Missense)",
     "extensions": [
       {
@@ -2367,7 +2325,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "329"
+          "code": "316"
         },
         "relation": "exactMatch"
       },
@@ -2381,12 +2339,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.rFy4vZCsPpqYMl89i645V5kqKDTiKyEx",
-      "digest": "rFy4vZCsPpqYMl89i645V5kqKDTiKyEx",
+      "id": "ga4gh:VA.HK1caYli9110rSKDTqSXAgzjzajRFBBv",
       "type": "Allele",
+      "digest": "HK1caYli9110rSKDTqSXAgzjzajRFBBv",
       "location": {
-        "id": "ga4gh:SL.tTL03ySKboV3akKwIyNN1fbDZIdHQm0c",
+        "id": "ga4gh:SL.Oh1pTL0eECaO9-0FUtmM8h_iJqWu_zVO",
         "type": "SequenceLocation",
+        "digest": "Oh1pTL0eECaO9-0FUtmM8h_iJqWu_zVO",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xop1Mrzn5Llu7Dj-BULoAd8Xmlbs-l-y"
@@ -2400,8 +2359,8 @@
       }
     }
   },
-  "moa.variant:330": {
-    "id": "moa.variant:330",
+  "moa.variant:317": {
+    "id": "moa.variant:317",
     "label": "IDH2 p.R172S (Missense)",
     "extensions": [
       {
@@ -2423,19 +2382,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "330"
+          "code": "317"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA._FltBdzGX2ZEGXoUJuNp_GkMRvkJ-I9F",
-      "digest": "_FltBdzGX2ZEGXoUJuNp_GkMRvkJ-I9F",
+      "id": "ga4gh:VA.GcEWQeOqTVsh88PUGeuMNT2jNcjCzshC",
       "type": "Allele",
+      "digest": "GcEWQeOqTVsh88PUGeuMNT2jNcjCzshC",
       "location": {
-        "id": "ga4gh:SL.S96XVtEmUDbmmReLp9wm1xLExLJnDAlh",
+        "id": "ga4gh:SL.UuG3IrLVJV7S2Qjtt99SWVQuiYDLlHxa",
         "type": "SequenceLocation",
+        "digest": "UuG3IrLVJV7S2Qjtt99SWVQuiYDLlHxa",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xop1Mrzn5Llu7Dj-BULoAd8Xmlbs-l-y"
@@ -2449,8 +2409,8 @@
       }
     }
   },
-  "moa.variant:331": {
-    "id": "moa.variant:331",
+  "moa.variant:318": {
+    "id": "moa.variant:318",
     "label": "IDH2 p.R172K (Missense)",
     "extensions": [
       {
@@ -2472,19 +2432,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "331"
+          "code": "318"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.TZcEHDB0pmd-0S1UtouZpSLmvEs6ufFD",
-      "digest": "TZcEHDB0pmd-0S1UtouZpSLmvEs6ufFD",
+      "id": "ga4gh:VA.YqiDFzE2K6fcXhXkCGYHIQ75RgutPq_7",
       "type": "Allele",
+      "digest": "YqiDFzE2K6fcXhXkCGYHIQ75RgutPq_7",
       "location": {
-        "id": "ga4gh:SL.S96XVtEmUDbmmReLp9wm1xLExLJnDAlh",
+        "id": "ga4gh:SL.UuG3IrLVJV7S2Qjtt99SWVQuiYDLlHxa",
         "type": "SequenceLocation",
+        "digest": "UuG3IrLVJV7S2Qjtt99SWVQuiYDLlHxa",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.xop1Mrzn5Llu7Dj-BULoAd8Xmlbs-l-y"
@@ -2498,8 +2459,8 @@
       }
     }
   },
-  "moa.variant:338": {
-    "id": "moa.variant:338",
+  "moa.variant:325": {
+    "id": "moa.variant:325",
     "label": "JAK1 p.V656F (Missense)",
     "extensions": [
       {
@@ -2521,19 +2482,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "338"
+          "code": "325"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.XnJnqxS9_Nuv7A5RtU9SBF8uUNFv0IIt",
-      "digest": "XnJnqxS9_Nuv7A5RtU9SBF8uUNFv0IIt",
+      "id": "ga4gh:VA.SR-Evc_MyfZ8NclBLvfIGIUzMokxIeml",
       "type": "Allele",
+      "digest": "SR-Evc_MyfZ8NclBLvfIGIUzMokxIeml",
       "location": {
-        "id": "ga4gh:SL.3_l7dcXSZiZPiuIeCHcWlG1XGlIVN0SN",
+        "id": "ga4gh:SL.G3iyDI4-o7KiE_CkQGj-0jKIPQTZ0kxL",
         "type": "SequenceLocation",
+        "digest": "G3iyDI4-o7KiE_CkQGj-0jKIPQTZ0kxL",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.cu-mo9BHF4qdXH41R2iO9Zjkgjg9NZ94"
@@ -2547,8 +2509,8 @@
       }
     }
   },
-  "moa.variant:339": {
-    "id": "moa.variant:339",
+  "moa.variant:326": {
+    "id": "moa.variant:326",
     "label": "JAK1 p.A634D (Missense)",
     "extensions": [
       {
@@ -2570,7 +2532,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "339"
+          "code": "326"
         },
         "relation": "exactMatch"
       },
@@ -2584,12 +2546,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.meZZOt_nYNyyI0JGccyAMABsTzxITVVc",
-      "digest": "meZZOt_nYNyyI0JGccyAMABsTzxITVVc",
+      "id": "ga4gh:VA.wh8gAcHF3JV7Gpq_p0v01r_dzRanXE7Z",
       "type": "Allele",
+      "digest": "wh8gAcHF3JV7Gpq_p0v01r_dzRanXE7Z",
       "location": {
-        "id": "ga4gh:SL.NJO8gPAHM466nwWiqYW8qXeFtCPoC_TW",
+        "id": "ga4gh:SL.ESlAstIdoTQ3hoTqWtHY9I-PJz_OrjDg",
         "type": "SequenceLocation",
+        "digest": "ESlAstIdoTQ3hoTqWtHY9I-PJz_OrjDg",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.cu-mo9BHF4qdXH41R2iO9Zjkgjg9NZ94"
@@ -2603,8 +2566,8 @@
       }
     }
   },
-  "moa.variant:352": {
-    "id": "moa.variant:352",
+  "moa.variant:339": {
+    "id": "moa.variant:339",
     "label": "KIT p.T670I (Missense)",
     "extensions": [
       {
@@ -2626,7 +2589,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "352"
+          "code": "339"
         },
         "relation": "exactMatch"
       },
@@ -2640,12 +2603,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.f55Nm2_RKZg7Hnpo-JVhQVAliadbUqMJ",
-      "digest": "f55Nm2_RKZg7Hnpo-JVhQVAliadbUqMJ",
+      "id": "ga4gh:VA.w6K7bKlqZC_cCZOk9W0IBVh4EZrcSv3o",
       "type": "Allele",
+      "digest": "w6K7bKlqZC_cCZOk9W0IBVh4EZrcSv3o",
       "location": {
-        "id": "ga4gh:SL.jq2-jclk1pqHSIl0gTtHsMPBMD7VcMmN",
+        "id": "ga4gh:SL.IRTozCrHKQSKLYZ7gE862dBD7yFvLoFf",
         "type": "SequenceLocation",
+        "digest": "IRTozCrHKQSKLYZ7gE862dBD7yFvLoFf",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2659,8 +2623,8 @@
       }
     }
   },
-  "moa.variant:353": {
-    "id": "moa.variant:353",
+  "moa.variant:340": {
+    "id": "moa.variant:340",
     "label": "KIT p.V654A (Missense)",
     "extensions": [
       {
@@ -2682,7 +2646,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "353"
+          "code": "340"
         },
         "relation": "exactMatch"
       },
@@ -2696,12 +2660,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.9mxRMKbFtCe8j6s8x9imRCuq0xIpXRt6",
-      "digest": "9mxRMKbFtCe8j6s8x9imRCuq0xIpXRt6",
+      "id": "ga4gh:VA.6mOBrBWsfWLavxBwhR3tMyJEW9UNc6fk",
       "type": "Allele",
+      "digest": "6mOBrBWsfWLavxBwhR3tMyJEW9UNc6fk",
       "location": {
-        "id": "ga4gh:SL.um97SDid7E4raxzVp8ci7g1w8NKAoJs8",
+        "id": "ga4gh:SL.7uxXLSmztIxLhjUA87mxO2uukUSI-daq",
         "type": "SequenceLocation",
+        "digest": "7uxXLSmztIxLhjUA87mxO2uukUSI-daq",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2715,8 +2680,8 @@
       }
     }
   },
-  "moa.variant:361": {
-    "id": "moa.variant:361",
+  "moa.variant:347": {
+    "id": "moa.variant:347",
     "label": "KIT p.W557C (Missense)",
     "extensions": [
       {
@@ -2738,19 +2703,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "361"
+          "code": "347"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.RnbzvibOLVWiNZB91Ot6Q7vDQIB6t0Et",
-      "digest": "RnbzvibOLVWiNZB91Ot6Q7vDQIB6t0Et",
+      "id": "ga4gh:VA.vCHkLX559PRJOxY5nYLNi-0hqOXsMeYp",
       "type": "Allele",
+      "digest": "vCHkLX559PRJOxY5nYLNi-0hqOXsMeYp",
       "location": {
-        "id": "ga4gh:SL.h_G08gkRQqoTWYU8G-uQqRIqgFi1bL6l",
+        "id": "ga4gh:SL.UOky1zHhOtD4EN-Yk7t3jLSzfECIZtGr",
         "type": "SequenceLocation",
+        "digest": "UOky1zHhOtD4EN-Yk7t3jLSzfECIZtGr",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2764,8 +2730,8 @@
       }
     }
   },
-  "moa.variant:362": {
-    "id": "moa.variant:362",
+  "moa.variant:348": {
+    "id": "moa.variant:348",
     "label": "KIT p.W557G (Missense)",
     "extensions": [
       {
@@ -2787,19 +2753,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "362"
+          "code": "348"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.CzSnz2xNOsZOxSjHK_BVDW8_ym-wU72I",
-      "digest": "CzSnz2xNOsZOxSjHK_BVDW8_ym-wU72I",
+      "id": "ga4gh:VA.aPCOkvmQ8zzAvdoKCE-6mjuY_BBCp-U8",
       "type": "Allele",
+      "digest": "aPCOkvmQ8zzAvdoKCE-6mjuY_BBCp-U8",
       "location": {
-        "id": "ga4gh:SL.h_G08gkRQqoTWYU8G-uQqRIqgFi1bL6l",
+        "id": "ga4gh:SL.UOky1zHhOtD4EN-Yk7t3jLSzfECIZtGr",
         "type": "SequenceLocation",
+        "digest": "UOky1zHhOtD4EN-Yk7t3jLSzfECIZtGr",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2813,8 +2780,8 @@
       }
     }
   },
-  "moa.variant:363": {
-    "id": "moa.variant:363",
+  "moa.variant:349": {
+    "id": "moa.variant:349",
     "label": "KIT p.W557R (Missense)",
     "extensions": [
       {
@@ -2836,19 +2803,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "363"
+          "code": "349"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.1vaKGACcNlKLw8INR0oGnVr5DSj86zxE",
-      "digest": "1vaKGACcNlKLw8INR0oGnVr5DSj86zxE",
+      "id": "ga4gh:VA.OjmqirAj5nGJsnlhajIto0yqlHtTzzG5",
       "type": "Allele",
+      "digest": "OjmqirAj5nGJsnlhajIto0yqlHtTzzG5",
       "location": {
-        "id": "ga4gh:SL.h_G08gkRQqoTWYU8G-uQqRIqgFi1bL6l",
+        "id": "ga4gh:SL.UOky1zHhOtD4EN-Yk7t3jLSzfECIZtGr",
         "type": "SequenceLocation",
+        "digest": "UOky1zHhOtD4EN-Yk7t3jLSzfECIZtGr",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2862,8 +2830,8 @@
       }
     }
   },
-  "moa.variant:364": {
-    "id": "moa.variant:364",
+  "moa.variant:350": {
+    "id": "moa.variant:350",
     "label": "KIT p.V559A (Missense)",
     "extensions": [
       {
@@ -2885,7 +2853,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "364"
+          "code": "350"
         },
         "relation": "exactMatch"
       },
@@ -2899,12 +2867,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.SE3E5-nwwAJ9l-bKSDfurARrDu6VH2cG",
-      "digest": "SE3E5-nwwAJ9l-bKSDfurARrDu6VH2cG",
+      "id": "ga4gh:VA.KaXTQ-4MiJHF5w1ug1Vaku64sh9Y6Bdh",
       "type": "Allele",
+      "digest": "KaXTQ-4MiJHF5w1ug1Vaku64sh9Y6Bdh",
       "location": {
-        "id": "ga4gh:SL.x7Hcqa-bjYl3poWQxSaNrgoq0t-TIzug",
+        "id": "ga4gh:SL.XrP1UdH6iyt96D8ML4WbBtat0fZVEfzY",
         "type": "SequenceLocation",
+        "digest": "XrP1UdH6iyt96D8ML4WbBtat0fZVEfzY",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2918,8 +2887,8 @@
       }
     }
   },
-  "moa.variant:365": {
-    "id": "moa.variant:365",
+  "moa.variant:351": {
+    "id": "moa.variant:351",
     "label": "KIT p.V559G (Missense)",
     "extensions": [
       {
@@ -2941,7 +2910,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "365"
+          "code": "351"
         },
         "relation": "exactMatch"
       },
@@ -2955,12 +2924,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.-vOEUGExUxTNEnGaCAM5V9b3B791wYYp",
-      "digest": "-vOEUGExUxTNEnGaCAM5V9b3B791wYYp",
+      "id": "ga4gh:VA.dl4OeK6gWyW0u4C-FxAxCT8O08WWM9WV",
       "type": "Allele",
+      "digest": "dl4OeK6gWyW0u4C-FxAxCT8O08WWM9WV",
       "location": {
-        "id": "ga4gh:SL.x7Hcqa-bjYl3poWQxSaNrgoq0t-TIzug",
+        "id": "ga4gh:SL.XrP1UdH6iyt96D8ML4WbBtat0fZVEfzY",
         "type": "SequenceLocation",
+        "digest": "XrP1UdH6iyt96D8ML4WbBtat0fZVEfzY",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -2974,8 +2944,8 @@
       }
     }
   },
-  "moa.variant:366": {
-    "id": "moa.variant:366",
+  "moa.variant:352": {
+    "id": "moa.variant:352",
     "label": "KIT p.L576P (Missense)",
     "extensions": [
       {
@@ -2997,7 +2967,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "366"
+          "code": "352"
         },
         "relation": "exactMatch"
       },
@@ -3011,12 +2981,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.HWknWoV4xcSvDuWAAwCjl8LfzvkYKaur",
-      "digest": "HWknWoV4xcSvDuWAAwCjl8LfzvkYKaur",
+      "id": "ga4gh:VA.e3X8c8KxGdRvkl8YWKRk1o-84nRdiE3u",
       "type": "Allele",
+      "digest": "e3X8c8KxGdRvkl8YWKRk1o-84nRdiE3u",
       "location": {
-        "id": "ga4gh:SL.CsgoOC4XNjQhj2UDGEcredbnxi0kTV5V",
+        "id": "ga4gh:SL.DuUZLfkfmGAgzUlRBT4SwtwdqDI5Zyf5",
         "type": "SequenceLocation",
+        "digest": "DuUZLfkfmGAgzUlRBT4SwtwdqDI5Zyf5",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -3030,8 +3001,8 @@
       }
     }
   },
-  "moa.variant:367": {
-    "id": "moa.variant:367",
+  "moa.variant:353": {
+    "id": "moa.variant:353",
     "label": "KIT p.K642E (Missense)",
     "extensions": [
       {
@@ -3053,19 +3024,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "367"
+          "code": "353"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.c3eVCAN6jp3r4vtwc3oFyMhn2omrwVB4",
-      "digest": "c3eVCAN6jp3r4vtwc3oFyMhn2omrwVB4",
+      "id": "ga4gh:VA.Dsrq3AJXo4UQCiCnQCcrb2t551o9Dhv8",
       "type": "Allele",
+      "digest": "Dsrq3AJXo4UQCiCnQCcrb2t551o9Dhv8",
       "location": {
-        "id": "ga4gh:SL.WREnGgCj6j4vnGFA-gtJI9XkOJ5R6-ix",
+        "id": "ga4gh:SL.OEWLQ_FjiJVB_F0lLzeEph15324HUuf-",
         "type": "SequenceLocation",
+        "digest": "OEWLQ_FjiJVB_F0lLzeEph15324HUuf-",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -3079,8 +3051,8 @@
       }
     }
   },
-  "moa.variant:374": {
-    "id": "moa.variant:374",
+  "moa.variant:360": {
+    "id": "moa.variant:360",
     "label": "KIT p.D816V (Missense)",
     "extensions": [
       {
@@ -3102,19 +3074,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "374"
+          "code": "360"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.rZDlEZBywJpTMBnXhLjN12Y9HQYHiOiP",
-      "digest": "rZDlEZBywJpTMBnXhLjN12Y9HQYHiOiP",
+      "id": "ga4gh:VA.nhiDwIq1klrGm3wtWO4a4BiS0jdW79Wd",
       "type": "Allele",
+      "digest": "nhiDwIq1klrGm3wtWO4a4BiS0jdW79Wd",
       "location": {
-        "id": "ga4gh:SL.EFk3ET7Ws47inqLJnNWEsA-GhUEwihbN",
+        "id": "ga4gh:SL.FDPpCHrDqH_pR10oxpHZ17tyGhZXVnsj",
         "type": "SequenceLocation",
+        "digest": "FDPpCHrDqH_pR10oxpHZ17tyGhZXVnsj",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.TcMVFj5kDODDWpiy1d_1-3_gOf4BYaAB"
@@ -3128,8 +3101,8 @@
       }
     }
   },
-  "moa.variant:387": {
-    "id": "moa.variant:387",
+  "moa.variant:372": {
+    "id": "moa.variant:372",
     "label": "KRAS p.G12C (Missense)",
     "extensions": [
       {
@@ -3141,7 +3114,7 @@
           "end_position": "25398285",
           "reference_allele": "C",
           "alternate_allele": "A",
-          "cdna_change": "c.35G>T",
+          "cdna_change": "c.34G>T",
           "protein_change": "p.G12C",
           "exon": "2"
         }
@@ -3151,7 +3124,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "387"
+          "code": "372"
         },
         "relation": "exactMatch"
       },
@@ -3165,12 +3138,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.94GquHCCcRi74uwlI5PGJsf6FsR2M7Ef",
-      "digest": "94GquHCCcRi74uwlI5PGJsf6FsR2M7Ef",
+      "id": "ga4gh:VA.udBCHwlrf8xNiRy_19bLi-h5LhnZLgCt",
       "type": "Allele",
+      "digest": "udBCHwlrf8xNiRy_19bLi-h5LhnZLgCt",
       "location": {
-        "id": "ga4gh:SL.OndkjmujtyUEZSjjCv0C-gpwnVbRgfj8",
+        "id": "ga4gh:SL.ovJR3lKrIflg4zDUU3Q-XH715XkwgTJl",
         "type": "SequenceLocation",
+        "digest": "ovJR3lKrIflg4zDUU3Q-XH715XkwgTJl",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fytWhQSNGnA-86vDiQCxTSzgkk_WfQRS"
@@ -3184,8 +3158,8 @@
       }
     }
   },
-  "moa.variant:402": {
-    "id": "moa.variant:402",
+  "moa.variant:386": {
+    "id": "moa.variant:386",
     "label": "MAP2K1 p.P124L (Missense)",
     "extensions": [
       {
@@ -3207,19 +3181,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "402"
+          "code": "386"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.VndKn4pZ4WOt9w1qWIoiO7NWeeFpSXCq",
-      "digest": "VndKn4pZ4WOt9w1qWIoiO7NWeeFpSXCq",
+      "id": "ga4gh:VA.8wkCi_XxSPbnuf_zYV1_SCcZ_pXVziQd",
       "type": "Allele",
+      "digest": "8wkCi_XxSPbnuf_zYV1_SCcZ_pXVziQd",
       "location": {
-        "id": "ga4gh:SL.bJ_6m5x0EDWRN2YnyhcXXOcSmmaS2g1D",
+        "id": "ga4gh:SL.Nll8Z8RN1jUIH9IAInO_9WEZSHMpnFNU",
         "type": "SequenceLocation",
+        "digest": "Nll8Z8RN1jUIH9IAInO_9WEZSHMpnFNU",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.StlJo3M4b8cS253ufe9nPpWqQHBDOSPs"
@@ -3233,8 +3208,8 @@
       }
     }
   },
-  "moa.variant:403": {
-    "id": "moa.variant:403",
+  "moa.variant:387": {
+    "id": "moa.variant:387",
     "label": "MAP2K1 p.Q56P (Missense)",
     "extensions": [
       {
@@ -3256,19 +3231,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "403"
+          "code": "387"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.1UWRQGqaZI7G0ECXWsKXmqj6agf8ntK5",
-      "digest": "1UWRQGqaZI7G0ECXWsKXmqj6agf8ntK5",
+      "id": "ga4gh:VA.yHQVVwZjma693Ev6lQtew1axCWVwIi8K",
       "type": "Allele",
+      "digest": "yHQVVwZjma693Ev6lQtew1axCWVwIi8K",
       "location": {
-        "id": "ga4gh:SL.gD9dUrbXEr7Mtg5oc46vshtPFN0N33aW",
+        "id": "ga4gh:SL.7Cb5uFiRT1XrF_e_d7_LIY1k3HodsnHA",
         "type": "SequenceLocation",
+        "digest": "7Cb5uFiRT1XrF_e_d7_LIY1k3HodsnHA",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.StlJo3M4b8cS253ufe9nPpWqQHBDOSPs"
@@ -3282,8 +3258,8 @@
       }
     }
   },
-  "moa.variant:408": {
-    "id": "moa.variant:408",
+  "moa.variant:392": {
+    "id": "moa.variant:392",
     "label": "MAP2K1 p.C121S (Missense)",
     "extensions": [
       {
@@ -3305,19 +3281,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "408"
+          "code": "392"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.I89UeE6dzevspPAXLR2Hf3hLN-jftmLH",
-      "digest": "I89UeE6dzevspPAXLR2Hf3hLN-jftmLH",
+      "id": "ga4gh:VA.FkanRNmwHE0Hf6xRjR2MElkUvP5kPMDC",
       "type": "Allele",
+      "digest": "FkanRNmwHE0Hf6xRjR2MElkUvP5kPMDC",
       "location": {
-        "id": "ga4gh:SL.a4mB6iLipcfATUVODfEznCDlTYAgUqrt",
+        "id": "ga4gh:SL.i6W0RsEHM4RaSw3mTWR7uhZrhukaMdak",
         "type": "SequenceLocation",
+        "digest": "i6W0RsEHM4RaSw3mTWR7uhZrhukaMdak",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.StlJo3M4b8cS253ufe9nPpWqQHBDOSPs"
@@ -3331,8 +3308,8 @@
       }
     }
   },
-  "moa.variant:410": {
-    "id": "moa.variant:410",
+  "moa.variant:394": {
+    "id": "moa.variant:394",
     "label": "MAP2K2 p.Q60P (Missense)",
     "extensions": [
       {
@@ -3354,7 +3331,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "410"
+          "code": "394"
         },
         "relation": "exactMatch"
       },
@@ -3368,12 +3345,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.QfWearPOWrTvMBuY1hXQE1QQzFvcD4ja",
-      "digest": "QfWearPOWrTvMBuY1hXQE1QQzFvcD4ja",
+      "id": "ga4gh:VA.vQTatXhzC7rdpHhUo-55WJmxKtpruDPT",
       "type": "Allele",
+      "digest": "vQTatXhzC7rdpHhUo-55WJmxKtpruDPT",
       "location": {
-        "id": "ga4gh:SL.5Zoh4LkWQaLNMlt85XqFd7wisAXmHm4J",
+        "id": "ga4gh:SL.2cJCGywm2trjsr5d5BTWZrFWC6UvqmtG",
         "type": "SequenceLocation",
+        "digest": "2cJCGywm2trjsr5d5BTWZrFWC6UvqmtG",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.fGPHz_BuC2mUP2mDkoh1KRbyO7QgvCFi"
@@ -3387,8 +3365,8 @@
       }
     }
   },
-  "moa.variant:411": {
-    "id": "moa.variant:411",
+  "moa.variant:395": {
+    "id": "moa.variant:395",
     "label": "MAPK1 p.E322K (Missense)",
     "extensions": [
       {
@@ -3410,19 +3388,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "411"
+          "code": "395"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.QN2vnsy7Y2a_gr0ZAv4uo-RTxHQdJzz3",
-      "digest": "QN2vnsy7Y2a_gr0ZAv4uo-RTxHQdJzz3",
+      "id": "ga4gh:VA.4yqg18xtnJP7cTJI-Z2xS5HjnhxJJg84",
       "type": "Allele",
+      "digest": "4yqg18xtnJP7cTJI-Z2xS5HjnhxJJg84",
       "location": {
-        "id": "ga4gh:SL.NbB9n-91BtQParIjKMMtzoemNLkllght",
+        "id": "ga4gh:SL.OkB7yCa0BFb9po8pwz7oojkE31xNbhRg",
         "type": "SequenceLocation",
+        "digest": "OkB7yCa0BFb9po8pwz7oojkE31xNbhRg",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.N-m1tI22kffhKfdRZK8wCOR3QfI-1lfr"
@@ -3436,8 +3415,8 @@
       }
     }
   },
-  "moa.variant:413": {
-    "id": "moa.variant:413",
+  "moa.variant:397": {
+    "id": "moa.variant:397",
     "label": "MET p.T1010I (Missense)",
     "extensions": [
       {
@@ -3459,7 +3438,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "413"
+          "code": "397"
         },
         "relation": "exactMatch"
       },
@@ -3473,12 +3452,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.BbPYwoIWBDR3omZr2LFccNILNY39oNJ1",
-      "digest": "BbPYwoIWBDR3omZr2LFccNILNY39oNJ1",
+      "id": "ga4gh:VA.hrgriXDdl95CwTxbXpun9v_Ekh_ERDNK",
       "type": "Allele",
+      "digest": "hrgriXDdl95CwTxbXpun9v_Ekh_ERDNK",
       "location": {
-        "id": "ga4gh:SL.rvUiFjOkfoQsQaCth_L8qFmXklqmOyyu",
+        "id": "ga4gh:SL.-WoC2UeBw3g0dgpfWMsursnTS0_PQ_72",
         "type": "SequenceLocation",
+        "digest": "-WoC2UeBw3g0dgpfWMsursnTS0_PQ_72",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.QITcgkaDXSK1bJllcGyJVlXeD_SiQdfo"
@@ -3492,729 +3472,8 @@
       }
     }
   },
-  "moa.variant:432": {
-    "id": "moa.variant:432",
-    "label": "NRAS p.G12A (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258747",
-          "end_position": "115258747",
-          "reference_allele": "C",
-          "alternate_allele": "G",
-          "cdna_change": "c.35G>C",
-          "protein_change": "p.G12A",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "432"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.JyugLCeTO54-9Enp9F00wbCpajtH7PE7",
-      "digest": "JyugLCeTO54-9Enp9F00wbCpajtH7PE7",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 11,
-        "end": 12
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "A"
-      }
-    }
-  },
-  "moa.variant:433": {
-    "id": "moa.variant:433",
-    "label": "NRAS p.G12C (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258748",
-          "end_position": "115258748",
-          "reference_allele": "C",
-          "alternate_allele": "A",
-          "cdna_change": "c.34G>T",
-          "protein_change": "p.G12C",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "433"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.-CHgoDu2Ljyn5yQvSvfCF5MFjbOFBsAi",
-      "digest": "-CHgoDu2Ljyn5yQvSvfCF5MFjbOFBsAi",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 11,
-        "end": 12
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "C"
-      }
-    }
-  },
-  "moa.variant:434": {
-    "id": "moa.variant:434",
-    "label": "NRAS p.G12D (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258747",
-          "end_position": "115258747",
-          "reference_allele": "C",
-          "alternate_allele": "T",
-          "cdna_change": "c.35G>A",
-          "protein_change": "p.G12D",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "434"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA._cg7s8ZnDlutDHJ_sTnL3ECyJZID8bNH",
-      "digest": "_cg7s8ZnDlutDHJ_sTnL3ECyJZID8bNH",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 11,
-        "end": 12
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "D"
-      }
-    }
-  },
-  "moa.variant:435": {
-    "id": "moa.variant:435",
-    "label": "NRAS p.G12R (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258748",
-          "end_position": "115258748",
-          "reference_allele": "C",
-          "alternate_allele": "G",
-          "cdna_change": "p.34G>C",
-          "protein_change": "p.G12R",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "435"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.bGjhTixux0Mgn0wh3-1jC-34oAHXpr3Z",
-      "digest": "bGjhTixux0Mgn0wh3-1jC-34oAHXpr3Z",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 11,
-        "end": 12
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "R"
-      }
-    }
-  },
-  "moa.variant:436": {
-    "id": "moa.variant:436",
-    "label": "NRAS p.G12S (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258748",
-          "end_position": "115258748",
-          "reference_allele": "C",
-          "alternate_allele": "T",
-          "cdna_change": "p.34G>A",
-          "protein_change": "p.G12S",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "436"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.HSK0Mc-7T-mfa4ADET_ezqLjRrM5hQKu",
-      "digest": "HSK0Mc-7T-mfa4ADET_ezqLjRrM5hQKu",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 11,
-        "end": 12
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "S"
-      }
-    }
-  },
-  "moa.variant:437": {
-    "id": "moa.variant:437",
-    "label": "NRAS p.G12V (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258747",
-          "end_position": "115258747",
-          "reference_allele": "C",
-          "alternate_allele": "A",
-          "cdna_change": "p.35G>T",
-          "protein_change": "p.G12V",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "437"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.EP8-3-6vja0Dgze0XprxfS-DvzA1jZ5q",
-      "digest": "EP8-3-6vja0Dgze0XprxfS-DvzA1jZ5q",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.sRu8boSyUbO2MoDfeEWT81oxEYZaEJkC",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 11,
-        "end": 12
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "V"
-      }
-    }
-  },
-  "moa.variant:438": {
-    "id": "moa.variant:438",
-    "label": "NRAS p.G13A (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258744",
-          "end_position": "115258744",
-          "reference_allele": "C",
-          "alternate_allele": "G",
-          "cdna_change": "c.38G>C",
-          "protein_change": "p.G13A",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "438"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "rs121434596"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.qGrcbfw8kWs87JZzppTPj3HjSdA3bdt_",
-      "digest": "qGrcbfw8kWs87JZzppTPj3HjSdA3bdt_",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 12,
-        "end": 13
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "A"
-      }
-    }
-  },
-  "moa.variant:439": {
-    "id": "moa.variant:439",
-    "label": "NRAS p.G13D (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258744",
-          "end_position": "115258744",
-          "reference_allele": "C",
-          "alternate_allele": "T",
-          "cdna_change": "c.38G>A",
-          "protein_change": "p.G13D",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "439"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.eAAtCyXPBt2Xx3lWF9HbFuaOSpV8rsbL",
-      "digest": "eAAtCyXPBt2Xx3lWF9HbFuaOSpV8rsbL",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 12,
-        "end": 13
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "D"
-      }
-    }
-  },
-  "moa.variant:440": {
-    "id": "moa.variant:440",
-    "label": "NRAS p.G13R (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258745",
-          "end_position": "115258745",
-          "reference_allele": "C",
-          "alternate_allele": "G",
-          "cdna_change": "c.37G>C",
-          "protein_change": "p.G13R",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "440"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.oRl-S1OOU_B-iA5pyGRW43sUHiR1VSBM",
-      "digest": "oRl-S1OOU_B-iA5pyGRW43sUHiR1VSBM",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 12,
-        "end": 13
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "R"
-      }
-    }
-  },
-  "moa.variant:441": {
-    "id": "moa.variant:441",
-    "label": "NRAS p.G13V (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115258744",
-          "end_position": "115258744",
-          "reference_allele": "C",
-          "alternate_allele": "A",
-          "cdna_change": "c.38G>T",
-          "protein_change": "p.G13V",
-          "exon": "2"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "441"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "rs121434596"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.uAR2fOd1IEeZVhp59b6TJbKhNkBEBokH",
-      "digest": "uAR2fOd1IEeZVhp59b6TJbKhNkBEBokH",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.t-hocVsezBIy119fFcy8ti1HtURU7Brr",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 12,
-        "end": 13
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "V"
-      }
-    }
-  },
-  "moa.variant:442": {
-    "id": "moa.variant:442",
-    "label": "NRAS p.Q61E (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115256530",
-          "end_position": "115256530",
-          "reference_allele": "G",
-          "alternate_allele": "C",
-          "cdna_change": "c.181C>G",
-          "protein_change": "p.Q61E",
-          "exon": "3"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "442"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "rs121913254"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.mpIKNx7EtaaxQBzjO7bJID7uwz2KiBTF",
-      "digest": "mpIKNx7EtaaxQBzjO7bJID7uwz2KiBTF",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 60,
-        "end": 61
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "E"
-      }
-    }
-  },
-  "moa.variant:443": {
-    "id": "moa.variant:443",
-    "label": "NRAS p.Q61H (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115256528",
-          "end_position": "115256528",
-          "reference_allele": "T",
-          "alternate_allele": "A",
-          "cdna_change": "c.183A>T",
-          "protein_change": "p.Q61H",
-          "exon": "3"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "443"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "rs121913255"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.6xE3ZgGMlFrM0_1NBcs7yceuW--IIk4A",
-      "digest": "6xE3ZgGMlFrM0_1NBcs7yceuW--IIk4A",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 60,
-        "end": 61
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "H"
-      }
-    }
-  },
-  "moa.variant:444": {
-    "id": "moa.variant:444",
-    "label": "NRAS p.Q61L (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115256529",
-          "end_position": "115256529",
-          "reference_allele": "T",
-          "alternate_allele": "A",
-          "cdna_change": "c.182A>T",
-          "protein_change": "p.Q61L",
-          "exon": "3"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "444"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.xe-_mdqshkZ6KPFrn549cCE8Xh1_lT8R",
-      "digest": "xe-_mdqshkZ6KPFrn549cCE8Xh1_lT8R",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 60,
-        "end": 61
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "L"
-      }
-    }
-  },
-  "moa.variant:446": {
-    "id": "moa.variant:446",
-    "label": "NRAS p.Q61P (Missense)",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "MOA representative coordinate",
-        "value": {
-          "chromosome": "1",
-          "start_position": "115256529",
-          "end_position": "115256529",
-          "reference_allele": "T",
-          "alternate_allele": "G",
-          "cdna_change": "c.182A>C",
-          "protein_change": "p.Q61P",
-          "exon": "3"
-        }
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://moalmanac.org/api/features/",
-          "code": "446"
-        },
-        "relation": "exactMatch"
-      },
-      {
-        "coding": {
-          "system": "https://www.ncbi.nlm.nih.gov/snp/",
-          "code": "rs11554290"
-        },
-        "relation": "relatedMatch"
-      }
-    ],
-    "type": "ProteinSequenceConsequence",
-    "definingContext": {
-      "id": "ga4gh:VA.sLFiStYp7VkdaxqmhNHxnytRHgX2rjNr",
-      "digest": "sLFiStYp7VkdaxqmhNHxnytRHgX2rjNr",
-      "type": "Allele",
-      "location": {
-        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
-        "type": "SequenceLocation",
-        "sequenceReference": {
-          "type": "SequenceReference",
-          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
-        },
-        "start": 60,
-        "end": 61
-      },
-      "state": {
-        "type": "LiteralSequenceExpression",
-        "sequence": "P"
-      }
-    }
-  },
-  "moa.variant:447": {
-    "id": "moa.variant:447",
+  "moa.variant:427": {
+    "id": "moa.variant:427",
     "label": "NRAS p.Q61R (Missense)",
     "extensions": [
       {
@@ -4236,19 +3495,20 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "447"
+          "code": "427"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.USG7HMsbsCL-HLp7z50IVOkVLuPLyFl-",
-      "digest": "USG7HMsbsCL-HLp7z50IVOkVLuPLyFl-",
+      "id": "ga4gh:VA.CpnlaV2B8565obATF-UlE706sBYp0D6M",
       "type": "Allele",
+      "digest": "CpnlaV2B8565obATF-UlE706sBYp0D6M",
       "location": {
-        "id": "ga4gh:SL.M2SLz3Ru3LNVsb6q5XgLmSlH8XXS68v2",
+        "id": "ga4gh:SL.h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
         "type": "SequenceLocation",
+        "digest": "h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
@@ -4262,8 +3522,700 @@
       }
     }
   },
-  "moa.variant:459": {
-    "id": "moa.variant:459",
+  "moa.variant:414": {
+    "id": "moa.variant:414",
+    "label": "NRAS p.G12C (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258748",
+          "end_position": "115258748",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.34G>T",
+          "protein_change": "p.G12C",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "414"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913250"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.7nsZiek_H62HpWGKFv1GLciGWv3tKRN5",
+      "type": "Allele",
+      "digest": "7nsZiek_H62HpWGKFv1GLciGWv3tKRN5",
+      "location": {
+        "id": "ga4gh:SL.bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "type": "SequenceLocation",
+        "digest": "bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "C"
+      }
+    }
+  },
+  "moa.variant:415": {
+    "id": "moa.variant:415",
+    "label": "NRAS p.G12D (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258747",
+          "end_position": "115258747",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.35G>A",
+          "protein_change": "p.G12D",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "415"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.Rq3N-YIvM8zB_XQ0jSfgPNbpZpaXRjtd",
+      "type": "Allele",
+      "digest": "Rq3N-YIvM8zB_XQ0jSfgPNbpZpaXRjtd",
+      "location": {
+        "id": "ga4gh:SL.bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "type": "SequenceLocation",
+        "digest": "bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:416": {
+    "id": "moa.variant:416",
+    "label": "NRAS p.G12R (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258748",
+          "end_position": "115258748",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "p.34G>C",
+          "protein_change": "p.G12R",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "416"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.8YIGJgiyUBzEbUeLEsiZkMcpSbUDb4-e",
+      "type": "Allele",
+      "digest": "8YIGJgiyUBzEbUeLEsiZkMcpSbUDb4-e",
+      "location": {
+        "id": "ga4gh:SL.bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "type": "SequenceLocation",
+        "digest": "bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:417": {
+    "id": "moa.variant:417",
+    "label": "NRAS p.G12S (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258748",
+          "end_position": "115258748",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "p.34G>A",
+          "protein_change": "p.G12S",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "417"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.Pj1D4jmWU_aANZDjvMjoG4tEalP7Dyv6",
+      "type": "Allele",
+      "digest": "Pj1D4jmWU_aANZDjvMjoG4tEalP7Dyv6",
+      "location": {
+        "id": "ga4gh:SL.bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "type": "SequenceLocation",
+        "digest": "bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "S"
+      }
+    }
+  },
+  "moa.variant:418": {
+    "id": "moa.variant:418",
+    "label": "NRAS p.G12V (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258747",
+          "end_position": "115258747",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "p.35G>T",
+          "protein_change": "p.G12V",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "418"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.WwV6JPwcMOAJu-ehDWQWmubmUWlV1ddk",
+      "type": "Allele",
+      "digest": "WwV6JPwcMOAJu-ehDWQWmubmUWlV1ddk",
+      "location": {
+        "id": "ga4gh:SL.bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "type": "SequenceLocation",
+        "digest": "bjLwzqDNlAKLn0nHJdmYQoQpsq8Maob5",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 11,
+        "end": 12
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:419": {
+    "id": "moa.variant:419",
+    "label": "NRAS p.G13A (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258744",
+          "end_position": "115258744",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.38G>C",
+          "protein_change": "p.G13A",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "419"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121434596"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.aJRpUjcUzC-6TDCQpnDuV2umq1la3T1y",
+      "type": "Allele",
+      "digest": "aJRpUjcUzC-6TDCQpnDuV2umq1la3T1y",
+      "location": {
+        "id": "ga4gh:SL.NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "type": "SequenceLocation",
+        "digest": "NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "A"
+      }
+    }
+  },
+  "moa.variant:420": {
+    "id": "moa.variant:420",
+    "label": "NRAS p.G13D (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258744",
+          "end_position": "115258744",
+          "reference_allele": "C",
+          "alternate_allele": "T",
+          "cdna_change": "c.38G>A",
+          "protein_change": "p.G13D",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "420"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.QP0kq1DT5HXfhNPZg7qQUY8zLHQacZ3Y",
+      "type": "Allele",
+      "digest": "QP0kq1DT5HXfhNPZg7qQUY8zLHQacZ3Y",
+      "location": {
+        "id": "ga4gh:SL.NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "type": "SequenceLocation",
+        "digest": "NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "D"
+      }
+    }
+  },
+  "moa.variant:421": {
+    "id": "moa.variant:421",
+    "label": "NRAS p.G13R (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258745",
+          "end_position": "115258745",
+          "reference_allele": "C",
+          "alternate_allele": "G",
+          "cdna_change": "c.37G>C",
+          "protein_change": "p.G13R",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "421"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.B7zZTxypiwSWZpc4LASs-CZL50acW3wA",
+      "type": "Allele",
+      "digest": "B7zZTxypiwSWZpc4LASs-CZL50acW3wA",
+      "location": {
+        "id": "ga4gh:SL.NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "type": "SequenceLocation",
+        "digest": "NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "R"
+      }
+    }
+  },
+  "moa.variant:422": {
+    "id": "moa.variant:422",
+    "label": "NRAS p.G13V (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115258744",
+          "end_position": "115258744",
+          "reference_allele": "C",
+          "alternate_allele": "A",
+          "cdna_change": "c.38G>T",
+          "protein_change": "p.G13V",
+          "exon": "2"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "422"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121434596"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.xbKrlb4SMoteLcWJKz3pmPtxpiC4fHy-",
+      "type": "Allele",
+      "digest": "xbKrlb4SMoteLcWJKz3pmPtxpiC4fHy-",
+      "location": {
+        "id": "ga4gh:SL.NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "type": "SequenceLocation",
+        "digest": "NHnKuGjGj3fgNXIz8vZqirV-Xpt31HaK",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 12,
+        "end": 13
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "V"
+      }
+    }
+  },
+  "moa.variant:423": {
+    "id": "moa.variant:423",
+    "label": "NRAS p.Q61E (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256530",
+          "end_position": "115256530",
+          "reference_allele": "G",
+          "alternate_allele": "C",
+          "cdna_change": "c.181C>G",
+          "protein_change": "p.Q61E",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "423"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913254"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.rsuK7OFWP7oiUdFoZerZmFu0nA6QBtSK",
+      "type": "Allele",
+      "digest": "rsuK7OFWP7oiUdFoZerZmFu0nA6QBtSK",
+      "location": {
+        "id": "ga4gh:SL.h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "type": "SequenceLocation",
+        "digest": "h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "E"
+      }
+    }
+  },
+  "moa.variant:424": {
+    "id": "moa.variant:424",
+    "label": "NRAS p.Q61H (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256528",
+          "end_position": "115256528",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.183A>T",
+          "protein_change": "p.Q61H",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "424"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs121913255"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.sUQrnY4jvb7whQHgnS6rkx08Lb44wowM",
+      "type": "Allele",
+      "digest": "sUQrnY4jvb7whQHgnS6rkx08Lb44wowM",
+      "location": {
+        "id": "ga4gh:SL.h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "type": "SequenceLocation",
+        "digest": "h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "H"
+      }
+    }
+  },
+  "moa.variant:425": {
+    "id": "moa.variant:425",
+    "label": "NRAS p.Q61L (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256529",
+          "end_position": "115256529",
+          "reference_allele": "T",
+          "alternate_allele": "A",
+          "cdna_change": "c.182A>T",
+          "protein_change": "p.Q61L",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "425"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.qbbbxC4fGSEGvaT2Q9U8fLShG2YiTZL_",
+      "type": "Allele",
+      "digest": "qbbbxC4fGSEGvaT2Q9U8fLShG2YiTZL_",
+      "location": {
+        "id": "ga4gh:SL.h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "type": "SequenceLocation",
+        "digest": "h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "L"
+      }
+    }
+  },
+  "moa.variant:426": {
+    "id": "moa.variant:426",
+    "label": "NRAS p.Q61P (Missense)",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "MOA representative coordinate",
+        "value": {
+          "chromosome": "1",
+          "start_position": "115256529",
+          "end_position": "115256529",
+          "reference_allele": "T",
+          "alternate_allele": "G",
+          "cdna_change": "c.182A>C",
+          "protein_change": "p.Q61P",
+          "exon": "3"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://moalmanac.org/api/features/",
+          "code": "426"
+        },
+        "relation": "exactMatch"
+      },
+      {
+        "coding": {
+          "system": "https://www.ncbi.nlm.nih.gov/snp/",
+          "code": "rs11554290"
+        },
+        "relation": "relatedMatch"
+      }
+    ],
+    "type": "ProteinSequenceConsequence",
+    "definingContext": {
+      "id": "ga4gh:VA.uUEOGctP2SXEXsexyo0cRbMNs9-g1kOf",
+      "type": "Allele",
+      "digest": "uUEOGctP2SXEXsexyo0cRbMNs9-g1kOf",
+      "location": {
+        "id": "ga4gh:SL.h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "type": "SequenceLocation",
+        "digest": "h9GUOAwTHOwzdimw1F8DSnIcZDhaLlLS",
+        "sequenceReference": {
+          "type": "SequenceReference",
+          "refgetAccession": "SQ.974-EgvIQKi6ptqsI6XUZthCv-Py3S18"
+        },
+        "start": 60,
+        "end": 61
+      },
+      "state": {
+        "type": "LiteralSequenceExpression",
+        "sequence": "P"
+      }
+    }
+  },
+  "moa.variant:453": {
+    "id": "moa.variant:453",
     "label": "PDGFRA p.D842V (Missense)",
     "extensions": [
       {
@@ -4285,7 +4237,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "459"
+          "code": "453"
         },
         "relation": "exactMatch"
       },
@@ -4299,12 +4251,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.vIjnL-aLYl0BSB6JutpdD7yW_qIXtdk8",
-      "digest": "vIjnL-aLYl0BSB6JutpdD7yW_qIXtdk8",
+      "id": "ga4gh:VA.Dy7soaZQU1vH9Eb93xG_pJyhu7xTDDC9",
       "type": "Allele",
+      "digest": "Dy7soaZQU1vH9Eb93xG_pJyhu7xTDDC9",
       "location": {
-        "id": "ga4gh:SL.GHXCPrbd_qdPUoHjPwzv5iVFapJ0cn-o",
+        "id": "ga4gh:SL.xuh2OFm73UN7_0uLySrRY2Xe3FW7KJ5h",
         "type": "SequenceLocation",
+        "digest": "xuh2OFm73UN7_0uLySrRY2Xe3FW7KJ5h",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.XpQn9sZLGv_GU3uiWO7YHq9-_alGjrVX"
@@ -4318,8 +4271,8 @@
       }
     }
   },
-  "moa.variant:467": {
-    "id": "moa.variant:467",
+  "moa.variant:461": {
+    "id": "moa.variant:461",
     "label": "PIK3CA p.E545Q (Missense)",
     "extensions": [
       {
@@ -4341,7 +4294,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "467"
+          "code": "461"
         },
         "relation": "exactMatch"
       },
@@ -4355,12 +4308,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.tYIEWYlTAg0zDqI79me3cQ9geWvZ7rc_",
-      "digest": "tYIEWYlTAg0zDqI79me3cQ9geWvZ7rc_",
+      "id": "ga4gh:VA.zDDKySmgMwFwLtAqrBXvNpQA_CQ5hToT",
       "type": "Allele",
+      "digest": "zDDKySmgMwFwLtAqrBXvNpQA_CQ5hToT",
       "location": {
-        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "id": "ga4gh:SL.30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "type": "SequenceLocation",
+        "digest": "30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4374,8 +4328,8 @@
       }
     }
   },
-  "moa.variant:468": {
-    "id": "moa.variant:468",
+  "moa.variant:462": {
+    "id": "moa.variant:462",
     "label": "PIK3CA p.C420R (Missense)",
     "extensions": [
       {
@@ -4397,7 +4351,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "468"
+          "code": "462"
         },
         "relation": "exactMatch"
       },
@@ -4411,12 +4365,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.sW9clODd77-lRPaz7mtJ9uDSRsUl9X95",
-      "digest": "sW9clODd77-lRPaz7mtJ9uDSRsUl9X95",
+      "id": "ga4gh:VA.FaMueqbbjnxuzxylH-4jpkaWfp6pLH98",
       "type": "Allele",
+      "digest": "FaMueqbbjnxuzxylH-4jpkaWfp6pLH98",
       "location": {
-        "id": "ga4gh:SL.8wBa2QJy6PBZLWfYP-48VOsHavtiOe3x",
+        "id": "ga4gh:SL.xT667weGHtm7WR-yhHNnG5Jnp9cGQDW3",
         "type": "SequenceLocation",
+        "digest": "xT667weGHtm7WR-yhHNnG5Jnp9cGQDW3",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4430,8 +4385,8 @@
       }
     }
   },
-  "moa.variant:469": {
-    "id": "moa.variant:469",
+  "moa.variant:463": {
+    "id": "moa.variant:463",
     "label": "PIK3CA p.E542K (Missense)",
     "extensions": [
       {
@@ -4453,7 +4408,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "469"
+          "code": "463"
         },
         "relation": "exactMatch"
       },
@@ -4467,12 +4422,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.D6daDiDNn1u-e4YtntaYQnxlZ_0T6gtD",
-      "digest": "D6daDiDNn1u-e4YtntaYQnxlZ_0T6gtD",
+      "id": "ga4gh:VA.ju5WwTji4SvLPzJqUB7EzSEF2DKtIusY",
       "type": "Allele",
+      "digest": "ju5WwTji4SvLPzJqUB7EzSEF2DKtIusY",
       "location": {
-        "id": "ga4gh:SL.DdVC73cqPrOnzCRvVc8N9tA3ecV5Qunt",
+        "id": "ga4gh:SL.8EJbFecCU_jsNjxLRhecipnh4mERYV3T",
         "type": "SequenceLocation",
+        "digest": "8EJbFecCU_jsNjxLRhecipnh4mERYV3T",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4486,8 +4442,8 @@
       }
     }
   },
-  "moa.variant:470": {
-    "id": "moa.variant:470",
+  "moa.variant:464": {
+    "id": "moa.variant:464",
     "label": "PIK3CA p.E542Q (Missense)",
     "extensions": [
       {
@@ -4509,7 +4465,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "470"
+          "code": "464"
         },
         "relation": "exactMatch"
       },
@@ -4523,12 +4479,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.62pufg_3cYS1gksw7YA9H2HJjRYT5DxS",
-      "digest": "62pufg_3cYS1gksw7YA9H2HJjRYT5DxS",
+      "id": "ga4gh:VA.WEA3Ixj_PrlgYlLocLDoaY2xgDeTqhF0",
       "type": "Allele",
+      "digest": "WEA3Ixj_PrlgYlLocLDoaY2xgDeTqhF0",
       "location": {
-        "id": "ga4gh:SL.DdVC73cqPrOnzCRvVc8N9tA3ecV5Qunt",
+        "id": "ga4gh:SL.8EJbFecCU_jsNjxLRhecipnh4mERYV3T",
         "type": "SequenceLocation",
+        "digest": "8EJbFecCU_jsNjxLRhecipnh4mERYV3T",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4542,8 +4499,8 @@
       }
     }
   },
-  "moa.variant:471": {
-    "id": "moa.variant:471",
+  "moa.variant:465": {
+    "id": "moa.variant:465",
     "label": "PIK3CA p.E545A (Missense)",
     "extensions": [
       {
@@ -4565,7 +4522,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "471"
+          "code": "465"
         },
         "relation": "exactMatch"
       },
@@ -4579,12 +4536,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.ZZkO7qVa8qmERi6mVm719Y6GccIWFkdy",
-      "digest": "ZZkO7qVa8qmERi6mVm719Y6GccIWFkdy",
+      "id": "ga4gh:VA.dbKVUlhIwe3YS-B4Rhs5QsEI08yv0Xhk",
       "type": "Allele",
+      "digest": "dbKVUlhIwe3YS-B4Rhs5QsEI08yv0Xhk",
       "location": {
-        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "id": "ga4gh:SL.30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "type": "SequenceLocation",
+        "digest": "30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4598,8 +4556,8 @@
       }
     }
   },
-  "moa.variant:472": {
-    "id": "moa.variant:472",
+  "moa.variant:466": {
+    "id": "moa.variant:466",
     "label": "PIK3CA p.E545D (Missense)",
     "extensions": [
       {
@@ -4621,7 +4579,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "472"
+          "code": "466"
         },
         "relation": "exactMatch"
       },
@@ -4635,12 +4593,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.nV5mSw7fIcJNccAxRt4swf8r7Y4Qmo6B",
-      "digest": "nV5mSw7fIcJNccAxRt4swf8r7Y4Qmo6B",
+      "id": "ga4gh:VA.E09IUKElemW2uoVRT5qacU7RMqT8Um5m",
       "type": "Allele",
+      "digest": "E09IUKElemW2uoVRT5qacU7RMqT8Um5m",
       "location": {
-        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "id": "ga4gh:SL.30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "type": "SequenceLocation",
+        "digest": "30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4654,8 +4613,8 @@
       }
     }
   },
-  "moa.variant:474": {
-    "id": "moa.variant:474",
+  "moa.variant:468": {
+    "id": "moa.variant:468",
     "label": "PIK3CA p.E545G (Missense)",
     "extensions": [
       {
@@ -4677,7 +4636,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "474"
+          "code": "468"
         },
         "relation": "exactMatch"
       },
@@ -4691,12 +4650,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.4-P9VYcskRjr1rJxwQxgXEpV3qkWldhv",
-      "digest": "4-P9VYcskRjr1rJxwQxgXEpV3qkWldhv",
+      "id": "ga4gh:VA.w50kYfxdOa7XBtTO7E3GrpFf0o-maldE",
       "type": "Allele",
+      "digest": "w50kYfxdOa7XBtTO7E3GrpFf0o-maldE",
       "location": {
-        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "id": "ga4gh:SL.30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "type": "SequenceLocation",
+        "digest": "30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4710,8 +4670,8 @@
       }
     }
   },
-  "moa.variant:475": {
-    "id": "moa.variant:475",
+  "moa.variant:469": {
+    "id": "moa.variant:469",
     "label": "PIK3CA p.E545K (Missense)",
     "extensions": [
       {
@@ -4733,7 +4693,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "475"
+          "code": "469"
         },
         "relation": "exactMatch"
       },
@@ -4747,12 +4707,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.uw7DyLM7r98pn66LOXU3tAknmkV7jiJ0",
-      "digest": "uw7DyLM7r98pn66LOXU3tAknmkV7jiJ0",
+      "id": "ga4gh:VA.-dMnJf9oUBfl9De0llc3LqJaGdFzfATK",
       "type": "Allele",
+      "digest": "-dMnJf9oUBfl9De0llc3LqJaGdFzfATK",
       "location": {
-        "id": "ga4gh:SL.SrEa0lPyesLrOX0M_aW51d-JdJhU-D3p",
+        "id": "ga4gh:SL.30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "type": "SequenceLocation",
+        "digest": "30Xk0lNcdOj15_Ymh9xUIrxa2wfFeLG7",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4766,8 +4727,8 @@
       }
     }
   },
-  "moa.variant:476": {
-    "id": "moa.variant:476",
+  "moa.variant:470": {
+    "id": "moa.variant:470",
     "label": "PIK3CA p.G1049R (Missense)",
     "extensions": [
       {
@@ -4789,7 +4750,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "476"
+          "code": "470"
         },
         "relation": "exactMatch"
       },
@@ -4803,12 +4764,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.eWCosAQLvB-bdf-vEDT0nIOkDUn_ZJ0s",
-      "digest": "eWCosAQLvB-bdf-vEDT0nIOkDUn_ZJ0s",
+      "id": "ga4gh:VA.Llpd98XgE-ewhN4n29ycYLN8bW3fHAI_",
       "type": "Allele",
+      "digest": "Llpd98XgE-ewhN4n29ycYLN8bW3fHAI_",
       "location": {
-        "id": "ga4gh:SL.QTbJMRl4fm9kBTuo8M6Zza7CMxC6fOFT",
+        "id": "ga4gh:SL.-NoH0THgMURtBj2JWZEqWf0MRuyMxOjz",
         "type": "SequenceLocation",
+        "digest": "-NoH0THgMURtBj2JWZEqWf0MRuyMxOjz",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4822,8 +4784,8 @@
       }
     }
   },
-  "moa.variant:477": {
-    "id": "moa.variant:477",
+  "moa.variant:471": {
+    "id": "moa.variant:471",
     "label": "PIK3CA p.G1049S (Missense)",
     "extensions": [
       {
@@ -4845,7 +4807,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "477"
+          "code": "471"
         },
         "relation": "exactMatch"
       },
@@ -4859,12 +4821,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.1XrWv3KHdvgwCozckVs_YAPHasBAkzt9",
-      "digest": "1XrWv3KHdvgwCozckVs_YAPHasBAkzt9",
+      "id": "ga4gh:VA.GZ-HgAcZqv_Af6wmQPpEx9-cHdVHViC6",
       "type": "Allele",
+      "digest": "GZ-HgAcZqv_Af6wmQPpEx9-cHdVHViC6",
       "location": {
-        "id": "ga4gh:SL.QTbJMRl4fm9kBTuo8M6Zza7CMxC6fOFT",
+        "id": "ga4gh:SL.-NoH0THgMURtBj2JWZEqWf0MRuyMxOjz",
         "type": "SequenceLocation",
+        "digest": "-NoH0THgMURtBj2JWZEqWf0MRuyMxOjz",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4878,8 +4841,8 @@
       }
     }
   },
-  "moa.variant:478": {
-    "id": "moa.variant:478",
+  "moa.variant:472": {
+    "id": "moa.variant:472",
     "label": "PIK3CA p.H1047L (Missense)",
     "extensions": [
       {
@@ -4901,7 +4864,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "478"
+          "code": "472"
         },
         "relation": "exactMatch"
       },
@@ -4915,12 +4878,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.UF5ba9AU6uHA2aqXR1FLbadsmNFgWhUY",
-      "digest": "UF5ba9AU6uHA2aqXR1FLbadsmNFgWhUY",
+      "id": "ga4gh:VA.3ybIkH_QhR6C7QmnTeD2-P6U1Pu7M__0",
       "type": "Allele",
+      "digest": "3ybIkH_QhR6C7QmnTeD2-P6U1Pu7M__0",
       "location": {
-        "id": "ga4gh:SL.DBBb47ourtRut09MJ_TAvlocEwpTjF9z",
+        "id": "ga4gh:SL.g2PRcnni5_aM05W5Sh43vMyAu_JQqKwN",
         "type": "SequenceLocation",
+        "digest": "g2PRcnni5_aM05W5Sh43vMyAu_JQqKwN",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4934,8 +4898,8 @@
       }
     }
   },
-  "moa.variant:479": {
-    "id": "moa.variant:479",
+  "moa.variant:473": {
+    "id": "moa.variant:473",
     "label": "PIK3CA p.H1047R (Missense)",
     "extensions": [
       {
@@ -4957,7 +4921,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "479"
+          "code": "473"
         },
         "relation": "exactMatch"
       },
@@ -4971,12 +4935,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.hcSlm-m3AKXOL7kHM3LghXQfvAjZOmYx",
-      "digest": "hcSlm-m3AKXOL7kHM3LghXQfvAjZOmYx",
+      "id": "ga4gh:VA.5GEqm-zIzvvPheyGb9rlu5DyIueIubXm",
       "type": "Allele",
+      "digest": "5GEqm-zIzvvPheyGb9rlu5DyIueIubXm",
       "location": {
-        "id": "ga4gh:SL.DBBb47ourtRut09MJ_TAvlocEwpTjF9z",
+        "id": "ga4gh:SL.g2PRcnni5_aM05W5Sh43vMyAu_JQqKwN",
         "type": "SequenceLocation",
+        "digest": "g2PRcnni5_aM05W5Sh43vMyAu_JQqKwN",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -4990,8 +4955,8 @@
       }
     }
   },
-  "moa.variant:480": {
-    "id": "moa.variant:480",
+  "moa.variant:474": {
+    "id": "moa.variant:474",
     "label": "PIK3CA p.H1047Y (Missense)",
     "extensions": [
       {
@@ -5013,7 +4978,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "480"
+          "code": "474"
         },
         "relation": "exactMatch"
       },
@@ -5027,12 +4992,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.YsooKZSlrvK0_vTQ0PU4etSJSvHTSabu",
-      "digest": "YsooKZSlrvK0_vTQ0PU4etSJSvHTSabu",
+      "id": "ga4gh:VA.H9BsFCFdYyh8KDICE_3wSsjLy66SWFYS",
       "type": "Allele",
+      "digest": "H9BsFCFdYyh8KDICE_3wSsjLy66SWFYS",
       "location": {
-        "id": "ga4gh:SL.DBBb47ourtRut09MJ_TAvlocEwpTjF9z",
+        "id": "ga4gh:SL.g2PRcnni5_aM05W5Sh43vMyAu_JQqKwN",
         "type": "SequenceLocation",
+        "digest": "g2PRcnni5_aM05W5Sh43vMyAu_JQqKwN",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -5046,8 +5012,8 @@
       }
     }
   },
-  "moa.variant:481": {
-    "id": "moa.variant:481",
+  "moa.variant:475": {
+    "id": "moa.variant:475",
     "label": "PIK3CA p.H701P (Missense)",
     "extensions": [
       {
@@ -5069,7 +5035,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "481"
+          "code": "475"
         },
         "relation": "exactMatch"
       },
@@ -5083,12 +5049,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.28J2lLbSGfHkJrJOgDiilr4MI4ozhc5B",
-      "digest": "28J2lLbSGfHkJrJOgDiilr4MI4ozhc5B",
+      "id": "ga4gh:VA.e9nTDXWkejhFpPUKdRxAn89wET-ZUv9N",
       "type": "Allele",
+      "digest": "e9nTDXWkejhFpPUKdRxAn89wET-ZUv9N",
       "location": {
-        "id": "ga4gh:SL.sHPEYhV4JRlfm-YN6htPPHYBtmWNShP_",
+        "id": "ga4gh:SL.MWrmsRMn6TvIhvI7SpI7S2e-Zf0KhgnT",
         "type": "SequenceLocation",
+        "digest": "MWrmsRMn6TvIhvI7SpI7S2e-Zf0KhgnT",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -5102,8 +5069,8 @@
       }
     }
   },
-  "moa.variant:482": {
-    "id": "moa.variant:482",
+  "moa.variant:476": {
+    "id": "moa.variant:476",
     "label": "PIK3CA p.M1043I (Missense)",
     "extensions": [
       {
@@ -5125,7 +5092,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "482"
+          "code": "476"
         },
         "relation": "exactMatch"
       },
@@ -5139,12 +5106,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.XEAFv4p7D-6OHhNaZZlsmtXssL3fu01w",
-      "digest": "XEAFv4p7D-6OHhNaZZlsmtXssL3fu01w",
+      "id": "ga4gh:VA.A8crPBRvgFrkcWWnszjqT26E08kr0wV0",
       "type": "Allele",
+      "digest": "A8crPBRvgFrkcWWnszjqT26E08kr0wV0",
       "location": {
-        "id": "ga4gh:SL.ofe7dMinktIlQ5s4xDP3Ey-rqVYE7UA7",
+        "id": "ga4gh:SL.dBQ0L7KEO0plRNml9X1ArMWe2LfTPZEa",
         "type": "SequenceLocation",
+        "digest": "dBQ0L7KEO0plRNml9X1ArMWe2LfTPZEa",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -5158,8 +5126,8 @@
       }
     }
   },
-  "moa.variant:484": {
-    "id": "moa.variant:484",
+  "moa.variant:478": {
+    "id": "moa.variant:478",
     "label": "PIK3CA p.P539R (Missense)",
     "extensions": [
       {
@@ -5181,7 +5149,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "484"
+          "code": "478"
         },
         "relation": "exactMatch"
       },
@@ -5195,12 +5163,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.vPiEJB1COzk5FAwEaZwe_o5RzbJVtf55",
-      "digest": "vPiEJB1COzk5FAwEaZwe_o5RzbJVtf55",
+      "id": "ga4gh:VA.zS_-FFo-cPjizcBEraRCMJ-wfCLNXM9F",
       "type": "Allele",
+      "digest": "zS_-FFo-cPjizcBEraRCMJ-wfCLNXM9F",
       "location": {
-        "id": "ga4gh:SL.PuNRAVwrWbAOh-zkHlo5JeKeSqGMTSWc",
+        "id": "ga4gh:SL.kB-menfpSkfiqgHhlrz5qpp-EMn9QMOB",
         "type": "SequenceLocation",
+        "digest": "kB-menfpSkfiqgHhlrz5qpp-EMn9QMOB",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -5214,8 +5183,8 @@
       }
     }
   },
-  "moa.variant:485": {
-    "id": "moa.variant:485",
+  "moa.variant:479": {
+    "id": "moa.variant:479",
     "label": "PIK3CA p.Q546K (Missense)",
     "extensions": [
       {
@@ -5237,7 +5206,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "485"
+          "code": "479"
         },
         "relation": "exactMatch"
       },
@@ -5251,12 +5220,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA._sTlbdfSMIg8xVrU_g8QSO1XW1ko4iun",
-      "digest": "_sTlbdfSMIg8xVrU_g8QSO1XW1ko4iun",
+      "id": "ga4gh:VA.jW54ta30v7-SnUy7YFCuq4niqSws7FSt",
       "type": "Allele",
+      "digest": "jW54ta30v7-SnUy7YFCuq4niqSws7FSt",
       "location": {
-        "id": "ga4gh:SL.82hmyKHlzzMAQPuuLnjRPAVdMpucW7fJ",
+        "id": "ga4gh:SL.kA49q6hKdCYHX4Ucwy1WP5ui46p4HO9-",
         "type": "SequenceLocation",
+        "digest": "kA49q6hKdCYHX4Ucwy1WP5ui46p4HO9-",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -5270,8 +5240,8 @@
       }
     }
   },
-  "moa.variant:486": {
-    "id": "moa.variant:486",
+  "moa.variant:480": {
+    "id": "moa.variant:480",
     "label": "PIK3CA p.Y1021C (Missense)",
     "extensions": [
       {
@@ -5293,7 +5263,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "486"
+          "code": "480"
         },
         "relation": "exactMatch"
       },
@@ -5307,12 +5277,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.Txa9TBscrUYwTNEDMTgpiQ8yJ1jdNSBj",
-      "digest": "Txa9TBscrUYwTNEDMTgpiQ8yJ1jdNSBj",
+      "id": "ga4gh:VA.8aRynLgwo0OYPIuCyiw6BGNd8oLxoGXx",
       "type": "Allele",
+      "digest": "8aRynLgwo0OYPIuCyiw6BGNd8oLxoGXx",
       "location": {
-        "id": "ga4gh:SL.va36pnBpzXkQnOdy81_1jZc-DB7bK7-A",
+        "id": "ga4gh:SL.RqqpcDDSnYjohL2f5iG7fvIP05N2h3D-",
         "type": "SequenceLocation",
+        "digest": "RqqpcDDSnYjohL2f5iG7fvIP05N2h3D-",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.km8C9FORJbErpAh7Ub63pZLUzEm-au9D"
@@ -5326,8 +5297,8 @@
       }
     }
   },
-  "moa.variant:528": {
-    "id": "moa.variant:528",
+  "moa.variant:521": {
+    "id": "moa.variant:521",
     "label": "RET p.V804M (Missense)",
     "extensions": [
       {
@@ -5349,7 +5320,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "528"
+          "code": "521"
         },
         "relation": "exactMatch"
       },
@@ -5363,12 +5334,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.KtD83NGg8pHKnWVE704OtmzcImuG91vL",
-      "digest": "KtD83NGg8pHKnWVE704OtmzcImuG91vL",
+      "id": "ga4gh:VA.1oFFaTlmKzBPBb4fiyAGEilaWJ4sce8_",
       "type": "Allele",
+      "digest": "1oFFaTlmKzBPBb4fiyAGEilaWJ4sce8_",
       "location": {
-        "id": "ga4gh:SL.9z_Iysbjbr6OLphzHBq3j4HLywGtrJnl",
+        "id": "ga4gh:SL.JTFULP7527QHOIvMFCmBW5vura0q1KjT",
         "type": "SequenceLocation",
+        "digest": "JTFULP7527QHOIvMFCmBW5vura0q1KjT",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.jMu9-ItXSycQsm4hyABeW_UfSNRXRVnl"
@@ -5382,8 +5354,8 @@
       }
     }
   },
-  "moa.variant:529": {
-    "id": "moa.variant:529",
+  "moa.variant:522": {
+    "id": "moa.variant:522",
     "label": "RET p.M918T (Missense)",
     "extensions": [
       {
@@ -5405,7 +5377,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "529"
+          "code": "522"
         },
         "relation": "exactMatch"
       },
@@ -5419,12 +5391,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.w2q9R8i1OYhtNg-QS5vngW71qwbI40pu",
-      "digest": "w2q9R8i1OYhtNg-QS5vngW71qwbI40pu",
+      "id": "ga4gh:VA.hEybNB_CeKflfFhT5AKOU5i1lgZPP-aS",
       "type": "Allele",
+      "digest": "hEybNB_CeKflfFhT5AKOU5i1lgZPP-aS",
       "location": {
-        "id": "ga4gh:SL.TyVSPbGxZ3uxiWHhkhT0hAi1rEoyMc0-",
+        "id": "ga4gh:SL.oIeqSfOEuqO7KNOPt8YUIa9vo1f6yMao",
         "type": "SequenceLocation",
+        "digest": "oIeqSfOEuqO7KNOPt8YUIa9vo1f6yMao",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.jMu9-ItXSycQsm4hyABeW_UfSNRXRVnl"
@@ -5438,8 +5411,8 @@
       }
     }
   },
-  "moa.variant:866": {
-    "id": "moa.variant:866",
+  "moa.variant:861": {
+    "id": "moa.variant:861",
     "label": "IDH1 p.R132G (Missense)",
     "extensions": [
       {
@@ -5461,7 +5434,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "866"
+          "code": "861"
         },
         "relation": "exactMatch"
       },
@@ -5475,12 +5448,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.FGvWfXKON_Zu0Ing_YvOn4IrDQooy1Po",
-      "digest": "FGvWfXKON_Zu0Ing_YvOn4IrDQooy1Po",
+      "id": "ga4gh:VA.aAXNeFGBgeJUGbun-bKvgoW204tC1xdp",
       "type": "Allele",
+      "digest": "aAXNeFGBgeJUGbun-bKvgoW204tC1xdp",
       "location": {
-        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "id": "ga4gh:SL.c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "type": "SequenceLocation",
+        "digest": "c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
@@ -5494,8 +5468,8 @@
       }
     }
   },
-  "moa.variant:867": {
-    "id": "moa.variant:867",
+  "moa.variant:862": {
+    "id": "moa.variant:862",
     "label": "IDH1 p.R132S (Missense)",
     "extensions": [
       {
@@ -5517,7 +5491,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "867"
+          "code": "862"
         },
         "relation": "exactMatch"
       },
@@ -5531,12 +5505,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.1O8bcJton090DL3Pih8A3w9SX0m2pF6S",
-      "digest": "1O8bcJton090DL3Pih8A3w9SX0m2pF6S",
+      "id": "ga4gh:VA.y-ioX4e_ySwP_LlplLNp0cz04a8BBr9H",
       "type": "Allele",
+      "digest": "y-ioX4e_ySwP_LlplLNp0cz04a8BBr9H",
       "location": {
-        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "id": "ga4gh:SL.c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "type": "SequenceLocation",
+        "digest": "c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"
@@ -5550,8 +5525,8 @@
       }
     }
   },
-  "moa.variant:868": {
-    "id": "moa.variant:868",
+  "moa.variant:863": {
+    "id": "moa.variant:863",
     "label": "IDH1 p.R132L (Missense)",
     "extensions": [
       {
@@ -5573,7 +5548,7 @@
       {
         "coding": {
           "system": "https://moalmanac.org/api/features/",
-          "code": "868"
+          "code": "863"
         },
         "relation": "exactMatch"
       },
@@ -5587,12 +5562,13 @@
     ],
     "type": "ProteinSequenceConsequence",
     "definingContext": {
-      "id": "ga4gh:VA.AqxwdRrrpFZus43mz7kpHyBJ0bLb8HFF",
-      "digest": "AqxwdRrrpFZus43mz7kpHyBJ0bLb8HFF",
+      "id": "ga4gh:VA.2zh_S3hn7AWJd00rhirLhhDW8VcVBo9N",
       "type": "Allele",
+      "digest": "2zh_S3hn7AWJd00rhirLhhDW8VcVBo9N",
       "location": {
-        "id": "ga4gh:SL.6S6Nay-qWJnCSbbpF3hcBRTeoYOc4CJD",
+        "id": "ga4gh:SL.c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "type": "SequenceLocation",
+        "digest": "c1wumiCWSPL2vagoeYClRf5Z1SuyrIdx",
         "sequenceReference": {
           "type": "SequenceReference",
           "refgetAccession": "SQ.VZMxTY2iB2G_EuwlpVZ0AnX6R-am08GZ"

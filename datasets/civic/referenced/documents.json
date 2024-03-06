@@ -1,266 +1,385 @@
 {
   "civic.source:167": {
     "id": "civic.source:167",
-    "label": "Denis et al., 2015, Clin. Chim. Acta",
+    "label": "Denis et al., 2015",
     "type": "Document",
     "title": "EGFR T790M resistance mutation in non small-cell lung carcinoma.",
     "pmid": 25668228
   },
   "civic.source:954": {
     "id": "civic.source:954",
-    "label": "Chapman et al., 2011, N. Engl. J. Med.",
+    "label": "Chapman et al., 2011",
     "type": "Document",
     "title": "Improved survival with vemurafenib in melanoma with BRAF V600E mutation.",
     "pmid": 21639808
   },
   "civic.source:1053": {
     "id": "civic.source:1053",
-    "label": "Greig, 2016, Drugs",
+    "label": "Greig, 2016",
     "type": "Document",
     "title": "Osimertinib: First Global Approval.",
     "pmid": 26729184
   },
   "civic.source:1286": {
     "id": "civic.source:1286",
-    "label": "Mok et al., 2016, N. Engl. J. Med.",
+    "label": "Mok et al., 2017",
     "type": "Document",
     "title": "Osimertinib or Platinum-Pemetrexed in EGFR T790M-Positive Lung Cancer.",
     "pmid": 27959700
   },
   "civic.source:1724": {
     "id": "civic.source:1724",
-    "label": "Khozin et al., 2014, Oncologist",
+    "label": "Khozin et al., 2014",
     "type": "Document",
     "title": "U.S. Food and Drug Administration approval summary: Erlotinib for the first-line treatment of metastatic non-small cell lung cancer with epidermal growth factor receptor exon 19 deletions or exon 21 (L858R) substitution mutations.",
     "pmid": 24868098
   },
   "civic.source:1725": {
     "id": "civic.source:1725",
-    "label": "Dungo et al., 2013, Drugs",
+    "label": "Dungo et al., 2013",
     "type": "Document",
     "title": "Afatinib: first global approval.",
     "pmid": 23982599
   },
+  "civic.source:2888": {
+    "id": "civic.source:2888",
+    "label": "Andr\u00e9 et al., 2019",
+    "type": "Document",
+    "title": "Alpelisib for PIK3CA-Mutated, Hormone Receptor-Positive Advanced Breast Cancer.",
+    "pmid": 31091374
+  },
   "civic.source:4080": {
     "id": "civic.source:4080",
-    "label": "Skoulidis et al., 2021, N Engl J Med",
+    "label": "Skoulidis et al., 2021",
     "type": "Document",
     "title": "Sotorasib for Lung Cancers with KRAS p.G12C Mutation.",
     "pmid": 34096690
   },
+  "civic.source:3025": {
+    "id": "civic.source:3025",
+    "label": "Kopetz et al., 2019",
+    "type": "Document",
+    "title": "Encorafenib, Binimetinib, and Cetuximab in BRAF V600E-Mutated Colorectal Cancer.",
+    "pmid": 31566309
+  },
+  "civic.source:1296": {
+    "id": "civic.source:1296",
+    "label": "Planchard et al., 2016",
+    "type": "Document",
+    "title": "Dabrafenib plus trametinib in patients with previously treated BRAF(V600E)-mutant metastatic non-small cell lung cancer: an open-label, multicentre phase 2 trial.",
+    "pmid": 27283860
+  },
   "civic.source:1488": {
     "id": "civic.source:1488",
-    "label": "Long et al., 2011, J. Clin. Oncol.",
+    "label": "Long et al., 2011",
     "type": "Document",
     "title": "Prognostic and clinicopathologic associations of oncogenic BRAF in metastatic melanoma.",
     "pmid": 21343559
   },
   "civic.source:1920": {
     "id": "civic.source:1920",
-    "label": "Kaczirek et al., 2015, Clin Colorectal Cancer",
+    "label": "Kaczirek et al., 2015",
     "type": "Document",
     "title": "FOLFOX4 Plus Cetuximab for Patients With Previously Untreated Metastatic Colorectal Cancer According to Tumor RAS and BRAF Mutation Status: Updated Analysis of the CECOG/CORE 1.2.002 Study.",
     "pmid": 25666295
   },
   "civic.source:104": {
     "id": "civic.source:104",
-    "label": "Ponti et al., 2013, J. Clin. Pathol.",
+    "label": "Ponti et al., 2013",
     "type": "Document",
     "title": "The somatic affairs of BRAF: tailored therapies for advanced malignant melanoma and orphan non-V600E (V600R-M) mutations.",
     "pmid": 23463675
   },
+  "civic.source:105": {
+    "id": "civic.source:105",
+    "label": "Menzies et al., 2014",
+    "type": "Document",
+    "title": "Dabrafenib and trametinib, alone and in combination for BRAF-mutant metastatic melanoma.",
+    "pmid": 24583796
+  },
   "civic.source:947": {
     "id": "civic.source:947",
-    "label": "McArthur et al., 2014, Lancet Oncol.",
+    "label": "McArthur et al., 2014",
     "type": "Document",
     "title": "Safety and efficacy of vemurafenib in BRAF(V600E) and BRAF(V600K) mutation-positive melanoma (BRIM-3): extended follow-up of a phase 3, randomised, open-label study.",
     "pmid": 24508103
   },
   "civic.source:2158": {
     "id": "civic.source:2158",
-    "label": "Ramalingam et al., 2016, Ann. Oncol.",
+    "label": "Ramalingam et al., 2016",
     "type": "Document",
     "title": "Dacomitinib versus erlotinib in patients with EGFR-mutated advanced nonsmall-cell lung cancer (NSCLC): pooled subset analyses from two randomized trials.",
     "pmid": 26768165
   },
+  "civic.source:2475": {
+    "id": "civic.source:2475",
+    "label": "Long et al., 2017",
+    "type": "Document",
+    "title": "Adjuvant Dabrafenib plus Trametinib in Stage III BRAF-Mutated Melanoma.",
+    "pmid": 28891408
+  },
+  "civic.source:2671": {
+    "id": "civic.source:2671",
+    "label": "Long et al., 2014",
+    "type": "Document",
+    "title": "Combined BRAF and MEK inhibition versus BRAF inhibition alone in melanoma.",
+    "pmid": 25265492
+  },
   "civic.source:61": {
     "id": "civic.source:61",
-    "label": "Corless et al., 2005, J. Clin. Oncol.",
+    "label": "Corless et al., 2005",
     "type": "Document",
     "title": "PDGFRA mutations in gastrointestinal stromal tumors: frequency, spectrum and in vitro sensitivity to imatinib.",
     "pmid": 15928335
   },
   "civic.source:62": {
     "id": "civic.source:62",
-    "label": "Heinrich et al., 2006, J. Clin. Oncol.",
+    "label": "Heinrich et al., 2006",
     "type": "Document",
     "title": "Molecular correlates of imatinib resistance in gastrointestinal stromal tumors.",
     "pmid": 16954519
   },
   "civic.source:64": {
     "id": "civic.source:64",
-    "label": "Kiladjian et al., 2006, Blood",
+    "label": "Kiladjian et al., 2006",
     "type": "Document",
     "title": "High molecular response rate of polycythemia vera patients treated with pegylated interferon alpha-2a.",
     "pmid": 16709929
   },
   "civic.source:169": {
     "id": "civic.source:169",
-    "label": "Sequist et al., 2011, Sci Transl Med",
+    "label": "Sequist et al., 2011",
     "type": "Document",
     "title": "Genotypic and histological evolution of lung cancers acquiring resistance to EGFR inhibitors.",
     "pmid": 21430269
   },
+  "civic.source:182": {
+    "id": "civic.source:182",
+    "label": "Fukihara et al., 2014",
+    "type": "Document",
+    "title": "Clinical predictors of response to EGFR tyrosine kinase inhibitors in patients with EGFR-mutant non-small cell lung cancer.",
+    "pmid": 24457318
+  },
   "civic.source:123": {
     "id": "civic.source:123",
-    "label": "De Roock et al., 2010, JAMA",
+    "label": "De Roock et al., 2010",
     "type": "Document",
     "title": "Association of KRAS p.G13D mutation with outcome in patients with chemotherapy-refractory metastatic colorectal cancer treated with cetuximab.",
     "pmid": 20978259
   },
   "civic.source:259": {
     "id": "civic.source:259",
-    "label": "Woyach et al., 2014, N. Engl. J. Med.",
+    "label": "Woyach et al., 2014",
     "type": "Document",
     "title": "Resistance mechanisms for the Bruton's tyrosine kinase inhibitor ibrutinib.",
     "pmid": 24869598
   },
   "civic.source:408": {
     "id": "civic.source:408",
-    "label": "Sequist et al., 2015, N. Engl. J. Med.",
+    "label": "Sequist et al., 2015",
     "type": "Document",
     "title": "Rociletinib in EGFR-mutated non-small-cell lung cancer.",
     "pmid": 25923550
   },
+  "civic.source:416": {
+    "id": "civic.source:416",
+    "label": "Sun et al., 2009",
+    "type": "Document",
+    "title": "Polymorphisms in XRCC1 and XPG and response to platinum-based chemotherapy in advanced non-small cell lung cancer patients.",
+    "pmid": 19157633
+  },
+  "civic.source:907": {
+    "id": "civic.source:907",
+    "label": "Chung et al., 2006",
+    "type": "Document",
+    "title": "XRCC1 R399Q polymorphism is associated with response to platinum-based neoadjuvant chemotherapy in bulky cervical cancer.",
+    "pmid": 16875718
+  },
   "civic.source:430": {
     "id": "civic.source:430",
-    "label": "Caronia et al., 2009, Pharmacogenomics J.",
+    "label": "Caronia et al., 2009",
     "type": "Document",
     "title": "Common variations in ERCC2 are associated with response to cisplatin chemotherapy and clinical outcome in osteosarcoma patients.",
     "pmid": 19434073
   },
   "civic.source:486": {
     "id": "civic.source:486",
-    "label": "Yoo et al., 2016, Cancer Res Treat",
+    "label": "Yoo et al., 2016",
     "type": "Document",
     "title": "Efficacy of Imatinib in Patients with Platelet-Derived Growth Factor Receptor Alpha-Mutated Gastrointestinal Stromal Tumors.",
     "pmid": 26130666
   },
+  "civic.source:548": {
+    "id": "civic.source:548",
+    "label": "Rowland et al., 2015",
+    "type": "Document",
+    "title": "Meta-analysis of BRAF mutation as a predictive biomarker of benefit from anti-EGFR monoclonal antibody therapy for RAS wild-type metastatic colorectal cancer.",
+    "pmid": 25989278
+  },
   "civic.source:592": {
     "id": "civic.source:592",
-    "label": "Sequist et al., 2013, J. Clin. Oncol.",
+    "label": "Sequist et al., 2013",
     "type": "Document",
     "title": "Phase III study of afatinib or cisplatin plus pemetrexed in patients with metastatic lung adenocarcinoma with EGFR mutations.",
     "pmid": 23816960
   },
   "civic.source:667": {
     "id": "civic.source:667",
-    "label": "J\u00e4nne et al., 2015, N. Engl. J. Med.",
+    "label": "J\u00e4nne et al., 2015",
     "type": "Document",
     "title": "AZD9291 in EGFR inhibitor-resistant non-small-cell lung cancer.",
     "pmid": 25923549
   },
   "civic.source:679": {
     "id": "civic.source:679",
-    "label": "Wu et al., 2014, Lancet Oncol.",
+    "label": "Wu et al., 2014",
     "type": "Document",
     "title": "Afatinib versus cisplatin plus gemcitabine for first-line treatment of Asian patients with advanced non-small-cell lung cancer harbouring EGFR mutations (LUX-Lung 6): an open-label, randomised phase 3 trial.",
     "pmid": 24439929
   },
   "civic.source:747": {
     "id": "civic.source:747",
-    "label": "Norton et al., 2014, Cancer Immunol Res",
+    "label": "Norton et al., 2014",
     "type": "Document",
     "title": "Association studies of Fc\u03b3 receptor polymorphisms with outcome in HER2+ breast cancer patients treated with trastuzumab in NCCTG (Alliance) Trial N9831.",
     "pmid": 24989892
   },
   "civic.source:814": {
     "id": "civic.source:814",
-    "label": "Rowland et al., 2016, Eur. J. Cancer",
+    "label": "Rowland et al., 2016",
     "type": "Document",
     "title": "Meta-analysis comparing the efficacy of anti-EGFR monoclonal antibody therapy between KRAS G13D and other KRAS mutant metastatic colorectal cancer tumours.",
     "pmid": 26812186
   },
   "civic.source:953": {
     "id": "civic.source:953",
-    "label": "Kopetz et al., 2015, J. Clin. Oncol.",
+    "label": "Kopetz et al., 2015",
     "type": "Document",
     "title": "Phase II Pilot Study of Vemurafenib in Patients With Metastatic BRAF-Mutated Colorectal Cancer.",
     "pmid": 26460303
   },
+  "civic.source:963": {
+    "id": "civic.source:963",
+    "label": "Larkin et al., 2014",
+    "type": "Document",
+    "title": "Combined vemurafenib and cobimetinib in BRAF-mutated melanoma.",
+    "pmid": 25265494
+  },
   "civic.source:1170": {
     "id": "civic.source:1170",
-    "label": "Gotlib et al., 2016, N. Engl. J. Med.",
+    "label": "Gotlib et al., 2016",
     "type": "Document",
     "title": "Efficacy and Safety of Midostaurin in Advanced Systemic Mastocytosis.",
     "pmid": 27355533
   },
   "civic.source:352": {
     "id": "civic.source:352",
-    "label": "Flaherty et al., 2010, N. Engl. J. Med.",
+    "label": "Flaherty et al., 2010",
     "type": "Document",
     "title": "Inhibition of mutated, activated BRAF in metastatic melanoma.",
     "pmid": 20818844
   },
   "civic.source:1221": {
     "id": "civic.source:1221",
-    "label": "Nikas et al., 2015, Am J Cancer Res",
+    "label": "Nikas et al., 2015",
     "type": "Document",
     "title": "A common variant in MTHFR influences response to chemoradiotherapy and recurrence of rectal cancer.",
     "pmid": 26693073
   },
   "civic.source:1237": {
     "id": "civic.source:1237",
-    "label": "Maddocks et al., 2015, JAMA Oncol",
+    "label": "Maddocks et al., 2015",
     "type": "Document",
     "title": "Etiology of Ibrutinib Therapy Discontinuation and Outcomes in Patients With Chronic Lymphocytic Leukemia.",
     "pmid": 26182309
   },
   "civic.source:1282": {
     "id": "civic.source:1282",
-    "label": "Sun et al., 2013, Lung Cancer",
+    "label": "Sun et al., 2013",
     "type": "Document",
     "title": "Clinical implications of T790M mutation in patients with acquired resistance to EGFR tyrosine kinase inhibitors.",
     "pmid": 24035188
   },
+  "civic.source:1336": {
+    "id": "civic.source:1336",
+    "label": "Hong et al., 2016",
+    "type": "Document",
+    "title": "Phase IB Study of Vemurafenib in Combination with Irinotecan and Cetuximab in Patients with Metastatic Colorectal Cancer with BRAFV600E Mutation.",
+    "pmid": 27729313
+  },
   "civic.source:1210": {
     "id": "civic.source:1210",
-    "label": "Flaherty et al., 2012, N. Engl. J. Med.",
+    "label": "Flaherty et al., 2012",
     "type": "Document",
     "title": "Improved survival with MEK inhibition in BRAF-mutated melanoma.",
     "pmid": 22663011
   },
   "civic.source:1501": {
     "id": "civic.source:1501",
-    "label": "Douillard et al., 2010, J. Clin. Oncol.",
+    "label": "Douillard et al., 2010",
     "type": "Document",
     "title": "Molecular predictors of outcome with gefitinib and docetaxel in previously treated non-small-cell lung cancer: data from the randomized phase III INTEREST trial.",
     "pmid": 20038723
   },
+  "civic.source:1658": {
+    "id": "civic.source:1658",
+    "label": "Alakus et al., 2009",
+    "type": "Document",
+    "title": "GNAS1 T393C polymorphism is associated with histopathological response to neoadjuvant radiochemotherapy in esophageal cancer.",
+    "pmid": 19274060
+  },
   "civic.source:1745": {
     "id": "civic.source:1745",
-    "label": "Hyman et al., 2017, J. Clin. Oncol.",
+    "label": "Hyman et al., 2017",
     "type": "Document",
     "title": "AKT Inhibition in Solid Tumors With AKT1 Mutations.",
     "pmid": 28489509
   },
   "civic.source:60": {
     "id": "civic.source:60",
-    "label": "Trunzer et al., 2013, J. Clin. Oncol.",
+    "label": "Trunzer et al., 2013",
     "type": "Document",
     "title": "Pharmacodynamic effects and mechanisms of resistance to vemurafenib in patients with metastatic melanoma.",
     "pmid": 23569304
   },
+  "civic.source:353": {
+    "id": "civic.source:353",
+    "label": "Robert et al., 2015",
+    "type": "Document",
+    "title": "Improved overall survival in melanoma with combined dabrafenib and trametinib.",
+    "pmid": 25399551
+  },
   "civic.source:2414": {
     "id": "civic.source:2414",
-    "label": "Hainsworth et al., 2018, J. Clin. Oncol.",
+    "label": "Hainsworth et al., 2018",
     "type": "Document",
     "title": "Targeted Therapy for Advanced Solid Tumors on the Basis of Molecular Profiles: Results From MyPathway, an Open-Label, Phase IIa Multiple Basket Study.",
     "pmid": 29320312
   },
+  "civic.source:2468": {
+    "id": "civic.source:2468",
+    "label": "Corcoran et al., 2018",
+    "type": "Document",
+    "title": "Combined BRAF, EGFR, and MEK Inhibition in Patients with BRAFV600E-Mutant Colorectal Cancer.",
+    "pmid": 29431699
+  },
+  "civic.source:103": {
+    "id": "civic.source:103",
+    "label": "Flaherty et al., 2012",
+    "type": "Document",
+    "title": "Combined BRAF and MEK inhibition in melanoma with BRAF V600 mutations.",
+    "pmid": 23020132
+  },
+  "civic.source:2686": {
+    "id": "civic.source:2686",
+    "label": "Subbiah et al., 2018",
+    "type": "Document",
+    "title": "Dabrafenib and Trametinib Treatment in Patients With Locally Advanced or Metastatic BRAF V600-Mutant Anaplastic Thyroid Cancer.",
+    "pmid": 29072975
+  },
   "civic.source:3012": {
     "id": "civic.source:3012",
-    "label": "Donadieu et al., 2019, J. Clin. Oncol.",
+    "label": "Donadieu et al., 2019",
     "type": "Document",
     "title": "Vemurafenib for Refractory Multisystem Langerhans Cell Histiocytosis in Children: An International Observational Study.",
     "pmid": 31513482
@@ -273,630 +392,879 @@
   },
   "civic.source:3061": {
     "id": "civic.source:3061",
-    "label": "Sherman et al., 2016, Cancer",
+    "label": "Sherman et al., 2016",
     "type": "Document",
     "title": "Correlative analyses of RET and RAS mutations in a phase 3 trial of cabozantinib in patients with progressive, metastatic medullary thyroid cancer.",
     "pmid": 27525386
   },
   "civic.source:1052": {
     "id": "civic.source:1052",
-    "label": "Brose et al., 2016, Lancet Oncol.",
+    "label": "Brose et al., 2016",
     "type": "Document",
     "title": "Vemurafenib in patients with BRAF(V600E)-positive metastatic or unresectable papillary thyroid cancer refractory to radioactive iodine: a non-randomised, multicentre, open-label, phase 2 trial.",
     "pmid": 27460442
   },
+  "civic.source:4818": {
+    "id": "civic.source:4818",
+    "label": "Sacher et al., 2023",
+    "type": "Document",
+    "title": "Single-Agent Divarasib (GDC-6036) in Solid Tumors with a KRAS G12C Mutation.",
+    "pmid": 37611121
+  },
   "civic.source:4081": {
     "id": "civic.source:4081",
-    "label": "Tabernero et al., 2015, Lancet Oncol",
+    "label": "Tabernero et al., 2015",
     "type": "Document",
     "title": "Analysis of circulating DNA and protein biomarkers to predict the clinical activity of regorafenib and assess prognosis in patients with metastatic colorectal cancer: a retrospective, exploratory analysis of the CORRECT trial.",
     "pmid": 26184520
   },
   "civic.source:76": {
     "id": "civic.source:76",
-    "label": "De Roock et al., 2010, Lancet Oncol.",
+    "label": "De Roock et al., 2010",
     "type": "Document",
     "title": "Effects of KRAS, BRAF, NRAS, and PIK3CA mutations on the efficacy of cetuximab plus chemotherapy in chemotherapy-refractory metastatic colorectal cancer: a retrospective consortium analysis.",
     "pmid": 20619739
   },
+  "civic.source:162": {
+    "id": "civic.source:162",
+    "label": "Lim et al., 2014",
+    "type": "Document",
+    "title": "Comparison of clinical outcomes following gefitinib and erlotinib treatment in non-small-cell lung cancer patients harboring an epidermal growth factor receptor mutation in either exon 19 or 21.",
+    "pmid": 24736073
+  },
   "civic.source:168": {
     "id": "civic.source:168",
-    "label": "Kobayashi et al., 2005, N. Engl. J. Med.",
+    "label": "Kobayashi et al., 2005",
     "type": "Document",
     "title": "EGFR mutation and resistance of non-small-cell lung cancer to gefitinib.",
     "pmid": 15728811
   },
+  "civic.source:175": {
+    "id": "civic.source:175",
+    "label": "Marchetti et al., 2009",
+    "type": "Document",
+    "title": "Clinical implications of KRAS mutations in lung cancer patients treated with tyrosine kinase inhibitors: an important role for mutations in minor clones.",
+    "pmid": 19794967
+  },
   "civic.source:192": {
     "id": "civic.source:192",
-    "label": "Prenen et al., 2006, Clin. Cancer Res.",
+    "label": "Prenen et al., 2006",
     "type": "Document",
     "title": "Efficacy of the kinase inhibitor SU11248 against gastrointestinal stromal tumor mutants refractory to imatinib mesylate.",
     "pmid": 16638875
   },
   "civic.source:424": {
     "id": "civic.source:424",
-    "label": "Huang et al., 2009, Cancer Chemother. Pharmacol.",
+    "label": "Huang et al., 2009",
     "type": "Document",
     "title": "The polymorphisms of TS and MTHFR predict survival of gastric cancer patients treated with fluorouracil-based adjuvant chemotherapy in Chinese population.",
     "pmid": 18704422
   },
   "civic.source:428": {
     "id": "civic.source:428",
-    "label": "Gr\u00e9en et al., 2006, Clin. Cancer Res.",
+    "label": "Gr\u00e9en et al., 2006",
     "type": "Document",
     "title": "mdr-1 single nucleotide polymorphisms in ovarian cancer tissue: G2677T/A correlates with response to paclitaxel chemotherapy.",
     "pmid": 16467099
   },
+  "civic.source:431": {
+    "id": "civic.source:431",
+    "label": "Gandara et al., 2009",
+    "type": "Document",
+    "title": "Japanese-US common-arm analysis of paclitaxel plus carboplatin in advanced non-small-cell lung cancer: a model for assessing population-related pharmacogenomics.",
+    "pmid": 19470925
+  },
   "civic.source:594": {
     "id": "civic.source:594",
-    "label": "Yang et al., 2012, Lancet Oncol.",
+    "label": "Yang et al., 2012",
     "type": "Document",
     "title": "Afatinib for patients with lung adenocarcinoma and epidermal growth factor receptor mutations (LUX-Lung 2): a phase 2 trial.",
     "pmid": 22452895
   },
   "civic.source:595": {
     "id": "civic.source:595",
-    "label": "Rosell et al., 2012, Lancet Oncol.",
+    "label": "Rosell et al., 2012",
     "type": "Document",
     "title": "Erlotinib versus standard chemotherapy as first-line treatment for European patients with advanced EGFR mutation-positive non-small-cell lung cancer (EURTAC): a multicentre, open-label, randomised phase 3 trial.",
     "pmid": 22285168
   },
   "civic.source:666": {
     "id": "civic.source:666",
-    "label": "Thress et al., 2015, Nat. Med.",
+    "label": "Thress et al., 2015",
     "type": "Document",
     "title": "Acquired EGFR C797S mutation mediates resistance to AZD9291 in non-small cell lung cancer harboring EGFR T790M.",
     "pmid": 25939061
   },
   "civic.source:668": {
     "id": "civic.source:668",
-    "label": "Sequist et al., 2016, JAMA Oncol",
+    "label": "Sequist et al., 2016",
     "type": "Document",
     "title": "Osimertinib Responses After Disease Progression in Patients Who Had Been Receiving Rociletinib.",
     "pmid": 26720284
   },
   "civic.source:813": {
     "id": "civic.source:813",
-    "label": "Schirripa et al., 2015, Ann. Oncol.",
+    "label": "Schirripa et al., 2015",
     "type": "Document",
     "title": "Phase II study of single-agent cetuximab in KRAS G13D mutant metastatic colorectal cancer.",
     "pmid": 26371285
   },
+  "civic.source:839": {
+    "id": "civic.source:839",
+    "label": "Fiala et al., 2013",
+    "type": "Document",
+    "title": "The dominant role of G12C over other KRAS mutation types in the negative prediction of efficacy of epidermal growth factor receptor tyrosine kinase inhibitors in non-small cell lung cancer.",
+    "pmid": 23313110
+  },
   "civic.source:928": {
     "id": "civic.source:928",
-    "label": "Lam et al., 2010, J. Clin. Oncol.",
+    "label": "Lam et al., 2010",
     "type": "Document",
     "title": "Phase II clinical trial of sorafenib in metastatic medullary thyroid cancer.",
     "pmid": 20368568
   },
+  "civic.source:943": {
+    "id": "civic.source:943",
+    "label": "Yu et al., 2013",
+    "type": "Document",
+    "title": "Analysis of tumor specimens at the time of acquired resistance to EGFR-TKI therapy in 155 patients with EGFR-mutant lung cancers.",
+    "pmid": 23470965
+  },
   "civic.source:345": {
     "id": "civic.source:345",
-    "label": "Falchook et al., 2012, Lancet",
+    "label": "Falchook et al., 2012",
     "type": "Document",
     "title": "Dabrafenib in patients with melanoma, untreated brain metastases, and other solid tumours: a phase 1 dose-escalation trial.",
     "pmid": 22608338
   },
   "civic.source:354": {
     "id": "civic.source:354",
-    "label": "Sosman et al., 2012, N. Engl. J. Med.",
+    "label": "Sosman et al., 2012",
     "type": "Document",
     "title": "Survival in BRAF V600-mutant advanced melanoma treated with vemurafenib.",
     "pmid": 22356324
   },
+  "civic.source:957": {
+    "id": "civic.source:957",
+    "label": "Yaeger et al., 2015",
+    "type": "Document",
+    "title": "Pilot trial of combined BRAF and EGFR inhibition in BRAF-mutant metastatic colorectal cancer patients.",
+    "pmid": 25589621
+  },
   "civic.source:1127": {
     "id": "civic.source:1127",
-    "label": "Yang et al., 2008, J. Clin. Oncol.",
+    "label": "Yang et al., 2008",
     "type": "Document",
     "title": "Specific EGFR mutations predict treatment outcome of stage IIIB/IV patients with chemotherapy-naive non-small-cell lung cancer receiving first-line gefitinib monotherapy.",
     "pmid": 18509184
   },
+  "civic.source:1128": {
+    "id": "civic.source:1128",
+    "label": "Belchis et al., 2016",
+    "type": "Document",
+    "title": "Heterogeneity of resistance mutations detectable by nextgeneration sequencing in TKI-treated lung adenocarcinoma.",
+    "pmid": 27304188
+  },
   "civic.source:1130": {
     "id": "civic.source:1130",
-    "label": "Hoogstraat et al., 2015, Pigment Cell Melanoma Res",
+    "label": "Hoogstraat et al., 2015",
     "type": "Document",
     "title": "Detailed imaging and genetic analysis reveal a secondary BRAF(L505H) resistance mutation and extensive intrapatient heterogeneity in metastatic BRAF mutant melanoma patients treated with vemurafenib.",
     "pmid": 25515853
   },
+  "civic.source:1180": {
+    "id": "civic.source:1180",
+    "label": "Otsuka et al., 2015",
+    "type": "Document",
+    "title": "Effectiveness of Tyrosine Kinase Inhibitors in Japanese Patients with Non-small Cell Lung Cancer Harboring Minor Epidermal Growth Factor Receptor Mutations: Results from a Multicenter Retrospective Study (HANSHIN Oncology Group 0212).",
+    "pmid": 26124334
+  },
   "civic.source:1208": {
     "id": "civic.source:1208",
-    "label": "Choudhury et al., 2016, J. Clin. Oncol.",
+    "label": "Choudhury et al., 2016",
     "type": "Document",
     "title": "Afatinib Activity in Platinum-Refractory Metastatic Urothelial Carcinoma in Patients With ERBB Alterations.",
     "pmid": 27044931
   },
+  "civic.source:100": {
+    "id": "civic.source:100",
+    "label": "Di Nicolantonio et al., 2008",
+    "type": "Document",
+    "title": "Wild-type BRAF is required for response to panitumumab or cetuximab in metastatic colorectal cancer.",
+    "pmid": 19001320
+  },
   "civic.source:1479": {
     "id": "civic.source:1479",
-    "label": "Souglakos et al., 2009, Br. J. Cancer",
+    "label": "Souglakos et al., 2009",
     "type": "Document",
     "title": "Prognostic and predictive value of common mutations for treatment response and survival in patients with metastatic colorectal cancer.",
     "pmid": 19603024
   },
+  "civic.source:1481": {
+    "id": "civic.source:1481",
+    "label": "Tol et al., 2009",
+    "type": "Document",
+    "title": "BRAF mutation in metastatic colorectal cancer.",
+    "pmid": 19571295
+  },
   "civic.source:1524": {
     "id": "civic.source:1524",
-    "label": "Kosaka et al., 2006, Clin. Cancer Res.",
+    "label": "Kosaka et al., 2006",
     "type": "Document",
     "title": "Analysis of epidermal growth factor receptor gene mutation in patients with non-small cell lung cancer and acquired resistance to gefitinib.",
     "pmid": 17020982
   },
   "civic.source:1513": {
     "id": "civic.source:1513",
-    "label": "Han et al., 2012, J. Clin. Oncol.",
+    "label": "Han et al., 2012",
     "type": "Document",
     "title": "First-SIGNAL: first-line single-agent iressa versus gemcitabine and cisplatin trial in never-smokers with adenocarcinoma of the lung.",
     "pmid": 22370314
   },
   "civic.source:1955": {
     "id": "civic.source:1955",
-    "label": "Rutkowski et al., 2015, Contemp Oncol (Pozn)",
+    "label": "Rutkowski et al., 2015",
     "type": "Document",
     "title": "The outcomes of Polish patients with advanced BRAF-positive melanoma treated with vemurafenib in a safety clinical trial.",
     "pmid": 26557775
   },
   "civic.source:1957": {
     "id": "civic.source:1957",
-    "label": "Ugurel et al., 2015, Ann. Oncol.",
+    "label": "Ugurel et al., 2015",
     "type": "Document",
     "title": "A multicenter DeCOG study on predictors of vemurafenib therapy outcome in melanoma: pretreatment impacts survival.",
     "pmid": 25524477
   },
   "civic.source:1040": {
     "id": "civic.source:1040",
-    "label": "Hyman et al., 2015, N. Engl. J. Med.",
+    "label": "Hyman et al., 2015",
     "type": "Document",
     "title": "Vemurafenib in Multiple Nonmelanoma Cancers with BRAF V600 Mutations.",
     "pmid": 26287849
   },
+  "civic.source:2858": {
+    "id": "civic.source:2858",
+    "label": "Scott Kopetz, 2019, Gastrointestinal Cancers Symposium, Abstract 688",
+    "type": "Document",
+    "title": "Updated results of the BEACON CRC safety lead-in: Encorafenib (ENCO) + binimetinib (BINI) + cetuximab (CETUX) for BRAFV600E-mutant metastatic colorectal cancer (mCRC)."
+  },
+  "civic.source:2860": {
+    "id": "civic.source:2860",
+    "label": "Zev A. Wainberg, 2019, Gastrointestinal Cancers Symposium, Abstract 187",
+    "type": "Document",
+    "title": "Efficacy and safety of dabrafenib (D) and trametinib (T) in patients (pts) with <i>BRAF</i> V600E&#x2013;mutated biliary tract cancer (BTC): A cohort of the ROAR basket trial."
+  },
+  "civic.source:4834": {
+    "id": "civic.source:4834",
+    "label": "Salama et al., 2020",
+    "type": "Document",
+    "title": "Dabrafenib and Trametinib in Patients With Tumors With BRAFV600E Mutations: Results of the NCI-MATCH Trial Subprotocol H.",
+    "pmid": 32758030
+  },
+  "civic.source:176": {
+    "id": "civic.source:176",
+    "label": "Sartore-Bianchi et al., 2009",
+    "type": "Document",
+    "title": "PIK3CA mutations in colorectal cancer are associated with clinical resistance to EGFR-targeted monoclonal antibodies.",
+    "pmid": 19223544
+  },
+  "civic.source:429": {
+    "id": "civic.source:429",
+    "label": "Yan et al., 2011",
+    "type": "Document",
+    "title": "Influence of MDR1 gene codon 3435 polymorphisms on outcome of platinum-based chemotherapy for advanced non small cell lung cancer.",
+    "pmid": 22296372
+  },
   "civic.source:540": {
     "id": "civic.source:540",
-    "label": "Osumi et al., 2015, Mol Clin Oncol",
+    "label": "Osumi et al., 2015",
     "type": "Document",
     "title": "Cetuximab treatment for metastatic colorectal cancer with KRAS p.G13D mutations improves progression-free survival.",
     "pmid": 26623049
   },
   "civic.source:688": {
     "id": "civic.source:688",
-    "label": "Zimmer et al., 2014, Clin. Cancer Res.",
+    "label": "Zimmer et al., 2014",
     "type": "Document",
     "title": "Phase I expansion and pharmacodynamic study of the oral MEK inhibitor RO4987655 (CH4987655) in selected patients with advanced cancer with RAS-RAF mutations.",
     "pmid": 24947927
   },
+  "civic.source:791": {
+    "id": "civic.source:791",
+    "label": "J\u00e4nne et al., 2015",
+    "type": "Document",
+    "title": "Impact of KRAS codon subtypes from a randomised phase II trial of selumetinib plus docetaxel in KRAS mutant advanced non-small-cell lung cancer.",
+    "pmid": 26125448
+  },
   "civic.source:1043": {
     "id": "civic.source:1043",
-    "label": "Tiacci et al., 2015, N. Engl. J. Med.",
+    "label": "Tiacci et al., 2015",
     "type": "Document",
     "title": "Targeting Mutant BRAF in Relapsed or Refractory Hairy-Cell Leukemia.",
     "pmid": 26352686
   },
+  "civic.source:1401": {
+    "id": "civic.source:1401",
+    "label": "Hong et al., 2014",
+    "type": "Document",
+    "title": "[Association between GNAS1 T393C polymorphism and therapeutic efficacy of tyrosine kinase inhibitor in pretreated advanced non-small cell lung cancer with unknown EGFR mutation status].",
+    "pmid": 24758907
+  },
   "civic.source:1416": {
     "id": "civic.source:1416",
-    "label": "Endoh et al., 2006, J Thorac Oncol",
+    "label": "Endoh et al., 2006",
     "type": "Document",
     "title": "PTEN and PIK3CA expression is associated with prolonged survival after gefitinib treatment in EGFR-mutated lung cancer patients.",
     "pmid": 17409929
   },
   "civic.source:1417": {
     "id": "civic.source:1417",
-    "label": "Greco et al., 2009, J. Exp. Clin. Cancer Res.",
+    "label": "Greco et al., 2009",
     "type": "Document",
     "title": "Reduction of serum IGF-I levels in patients affected with Monoclonal Gammopathies of undetermined significance or Multiple Myeloma. Comparison with bFGF, VEGF and K-ras gene mutation.",
     "pmid": 19284554
   },
   "civic.source:1425": {
     "id": "civic.source:1425",
-    "label": "Houillier et al., 2010, Neurology",
+    "label": "Houillier et al., 2010",
     "type": "Document",
     "title": "IDH1 or IDH2 mutations predict longer survival and response to temozolomide in low-grade gliomas.",
     "pmid": 20975057
   },
   "civic.source:1434": {
     "id": "civic.source:1434",
-    "label": "2015, Cancer Discov",
+    "label": "2015",
     "type": "Document",
     "title": "IDH1 inhibitor shows promising early results.",
     "pmid": 25583779
   },
   "civic.source:2067": {
     "id": "civic.source:2067",
-    "label": "De Gr\u00e8ve et al., 2016, PLoS ONE",
+    "label": "De Gr\u00e8ve et al., 2016",
     "type": "Document",
     "title": "Prospective Evaluation of First-Line Erlotinib in Advanced Non-Small Cell Lung Cancer (NSCLC) Carrying an Activating EGFR Mutation: A Multicenter Academic Phase II Study in Caucasian Patients (FIELT).",
     "pmid": 27032107
   },
+  "civic.source:2136": {
+    "id": "civic.source:2136",
+    "label": "",
+    "type": "Document",
+    "pmid": 27556863
+  },
   "civic.source:2478": {
     "id": "civic.source:2478",
-    "label": "Urata et al., 2016, J. Clin. Oncol.",
+    "label": "Urata et al., 2016",
     "type": "Document",
     "title": "Randomized Phase III Study Comparing Gefitinib With Erlotinib in Patients With Previously Treated Advanced Lung Adenocarcinoma: WJOG 5108L.",
     "pmid": 27022112
   },
   "civic.source:4567": {
     "id": "civic.source:4567",
-    "label": "Vega-Ruiz et al., 2009, Leuk Res",
+    "label": "Vega-Ruiz et al., 2009",
     "type": "Document",
     "title": "Phase II study of imatinib mesylate as therapy for patients with systemic mastocytosis.",
     "pmid": 19193436
   },
   "civic.source:1412": {
     "id": "civic.source:1412",
-    "label": "Amado et al., 2008, J. Clin. Oncol.",
+    "label": "Amado et al., 2008",
     "type": "Document",
     "title": "Wild-type KRAS is required for panitumumab efficacy in patients with metastatic colorectal cancer.",
     "pmid": 18316791
   },
+  "civic.source:1423": {
+    "id": "civic.source:1423",
+    "label": "Reles et al., 2001",
+    "type": "Document",
+    "title": "Correlation of p53 mutations with resistance to platinum-based chemotherapy and shortened survival in ovarian cancer.",
+    "pmid": 11595686
+  },
   "civic.source:1328": {
     "id": "civic.source:1328",
-    "label": "Swisher et al., 2017, Lancet Oncol.",
+    "label": "Swisher et al., 2017",
     "type": "Document",
     "title": "Rucaparib in relapsed, platinum-sensitive high-grade ovarian carcinoma (ARIEL2 Part 1): an international, multicentre, open-label, phase 2 trial.",
     "pmid": 27908594
   },
   "civic.source:1924": {
     "id": "civic.source:1924",
-    "label": "Su et al., 2012, N. Engl. J. Med.",
+    "label": "Su et al., 2012",
     "type": "Document",
     "title": "RAS mutations in cutaneous squamous-cell carcinomas in patients treated with BRAF inhibitors.",
     "pmid": 22256804
   },
   "civic.source:2008": {
     "id": "civic.source:2008",
-    "label": "Misale et al., 2012, Nature",
+    "label": "Misale et al., 2012",
     "type": "Document",
     "title": "Emergence of KRAS mutations and acquired resistance to anti-EGFR therapy in colorectal cancer.",
     "pmid": 22722830
   },
   "civic.source:2030": {
     "id": "civic.source:2030",
-    "label": "Fiedler et al., 2005, Blood",
+    "label": "Fiedler et al., 2005",
     "type": "Document",
     "title": "A phase 1 study of SU11248 in the treatment of patients with refractory or resistant acute myeloid leukemia (AML) or not amenable to conventional therapy for the disease.",
     "pmid": 15459012
   },
   "civic.source:2056": {
     "id": "civic.source:2056",
-    "label": "Kluger et al., 2011, Cancer",
+    "label": "Kluger et al., 2011",
     "type": "Document",
     "title": "A phase 2 trial of dasatinib in advanced melanoma.",
     "pmid": 21523734
   },
   "civic.source:2079": {
     "id": "civic.source:2079",
-    "label": "Lund-Iversen et al., 2012, J Thorac Oncol",
+    "label": "Lund-Iversen et al., 2012",
     "type": "Document",
     "title": "Clinicopathological characteristics of 11 NSCLC patients with EGFR-exon 20 mutations.",
     "pmid": 22895145
   },
   "civic.source:2116": {
     "id": "civic.source:2116",
-    "label": "Arcila et al., 2013, Mol. Cancer Ther.",
+    "label": "Arcila et al., 2013",
     "type": "Document",
     "title": "EGFR exon 20 insertion mutations in lung adenocarcinomas: prevalence, molecular heterogeneity, and clinicopathologic characteristics.",
     "pmid": 23371856
   },
   "civic.source:2117": {
     "id": "civic.source:2117",
-    "label": "Khamaysi et al., 2016, Br. J. Dermatol.",
+    "label": "Khamaysi et al., 2016",
     "type": "Document",
     "title": "Segmental basal cell naevus syndrome caused by an activating mutation in smoothened.",
     "pmid": 26822128
   },
   "civic.source:2123": {
     "id": "civic.source:2123",
-    "label": "Rizvi et al., 2015, Science",
+    "label": "Rizvi et al., 2015",
     "type": "Document",
     "title": "Cancer immunology. Mutational landscape determines sensitivity to PD-1 blockade in non-small cell lung cancer.",
     "pmid": 25765070
   },
   "civic.source:296": {
     "id": "civic.source:296",
-    "label": "Str\u00f6bel et al., 2004, N. Engl. J. Med.",
+    "label": "Str\u00f6bel et al., 2004",
     "type": "Document",
     "title": "Thymic carcinoma with overexpression of mutated KIT and the response to imatinib.",
     "pmid": 15201427
   },
   "civic.source:372": {
     "id": "civic.source:372",
-    "label": "Wagle et al., 2014, N. Engl. J. Med.",
+    "label": "Wagle et al., 2014",
     "type": "Document",
     "title": "Response and acquired resistance to everolimus in anaplastic thyroid cancer.",
     "pmid": 25295501
   },
   "civic.source:472": {
     "id": "civic.source:472",
-    "label": "Montagut et al., 2012, Nat. Med.",
+    "label": "Montagut et al., 2012",
     "type": "Document",
     "title": "Identification of a mutation in the extracellular domain of the Epidermal Growth Factor Receptor conferring cetuximab resistance in colorectal cancer.",
     "pmid": 22270724
   },
   "civic.source:477": {
     "id": "civic.source:477",
-    "label": "Bahadoran et al., 2013, J. Clin. Oncol.",
+    "label": "Bahadoran et al., 2013",
     "type": "Document",
     "title": "Major clinical response to a BRAF inhibitor in a patient with a BRAF L597R-mutated melanoma.",
     "pmid": 23715574
   },
   "civic.source:525": {
     "id": "civic.source:525",
-    "label": "Van Allen et al., 2015, JAMA Oncol",
+    "label": "Van Allen et al., 2015",
     "type": "Document",
     "title": "Genomic Correlate of Exceptional Erlotinib Response in Head and Neck Squamous Cell Carcinoma.",
     "pmid": 26181029
   },
   "civic.source:746": {
     "id": "civic.source:746",
-    "label": "S\u00e1nchez-Mart\u00edn et al., 2016, Clin. Cancer Res.",
+    "label": "S\u00e1nchez-Mart\u00edn et al., 2016",
     "type": "Document",
     "title": "The First-in-class Anti-EGFR Antibody Mixture Sym004 Overcomes Cetuximab Resistance Mediated by EGFR Extracellular Domain Mutations in Colorectal Cancer.",
     "pmid": 26888827
   },
   "civic.source:958": {
     "id": "civic.source:958",
-    "label": "Ali et al., 2014, Case Rep Oncol",
+    "label": "Ali et al., 2014",
     "type": "Document",
     "title": "Extended Antitumor Response of a BRAF V600E Papillary Thyroid Carcinoma to Vemurafenib.",
     "pmid": 24987354
   },
   "civic.source:1036": {
     "id": "civic.source:1036",
-    "label": "Zaretsky et al., 2016, N. Engl. J. Med.",
+    "label": "Zaretsky et al., 2016",
     "type": "Document",
     "title": "Mutations Associated with Acquired Resistance to PD-1 Blockade in Melanoma.",
     "pmid": 27433843
   },
   "civic.source:1062": {
     "id": "civic.source:1062",
-    "label": "Wagle et al., 2011, J. Clin. Oncol.",
+    "label": "Wagle et al., 2011",
     "type": "Document",
     "title": "Dissecting therapeutic resistance to RAF inhibition in melanoma by tumor genomic profiling.",
     "pmid": 21383288
   },
   "civic.source:1065": {
     "id": "civic.source:1065",
-    "label": "Zhou et al., 2016, N. Engl. J. Med.",
+    "label": "Zhou et al., 2016",
     "type": "Document",
     "title": "Clinical Improvement with JAK2 Inhibition in Chuvash Polycythemia.",
     "pmid": 27518686
   },
   "civic.source:1124": {
     "id": "civic.source:1124",
-    "label": "Grisham et al., 2015, J. Clin. Oncol.",
+    "label": "Grisham et al., 2015",
     "type": "Document",
     "title": "Extreme Outlier Analysis Identifies Occult Mitogen-Activated Protein Kinase Pathway Mutations in Patients With Low-Grade Serous Ovarian Cancer.",
     "pmid": 26324360
   },
+  "civic.source:1276": {
+    "id": "civic.source:1276",
+    "label": "Jiang et al., 2013",
+    "type": "Document",
+    "title": "Germline PTPRD mutations in Ewing sarcoma: biologic and clinical implications.",
+    "pmid": 23800680
+  },
   "civic.source:1283": {
     "id": "civic.source:1283",
-    "label": "Bahcall et al., 2016, Cancer Discov",
+    "label": "Bahcall et al., 2016",
     "type": "Document",
     "title": "Acquired METD1228V Mutation and Resistance to MET Inhibition in Lung Cancer.",
     "pmid": 27694386
   },
   "civic.source:1395": {
     "id": "civic.source:1395",
-    "label": "Sharma et al., 2016, Oncotarget",
+    "label": "Sharma et al., 2016",
     "type": "Document",
     "title": "Identification of a structurally novel BTK mutation that drives ibrutinib resistance in CLL.",
     "pmid": 27626698
   },
+  "civic.source:1520": {
+    "id": "civic.source:1520",
+    "label": "Pao et al., 2005",
+    "type": "Document",
+    "title": "Acquired resistance of lung adenocarcinomas to gefitinib or erlotinib is associated with a second mutation in the EGFR kinase domain.",
+    "pmid": 15737014
+  },
   "civic.source:1509": {
     "id": "civic.source:1509",
-    "label": "Pao et al., 2004, Proc. Natl. Acad. Sci. U.S.A.",
+    "label": "Pao et al., 2004",
     "type": "Document",
     "title": "EGF receptor gene mutations are common in lung cancers from \"never smokers\" and are associated with sensitivity of tumors to gefitinib and erlotinib.",
     "pmid": 15329413
   },
   "civic.source:1230": {
     "id": "civic.source:1230",
-    "label": "Yasuda et al., 2013, Sci Transl Med",
+    "label": "Yasuda et al., 2013",
     "type": "Document",
     "title": "Structural, biochemical, and clinical characterization of epidermal growth factor receptor (EGFR) exon 20 insertion mutations in lung cancer.",
     "pmid": 24353160
   },
+  "civic.source:2356": {
+    "id": "civic.source:2356",
+    "label": "Al-Ahmadie et al., 2014",
+    "type": "Document",
+    "title": "Synthetic lethality in ATM-deficient RAD50-mutant tumors underlies outlier response to cancer therapy.",
+    "pmid": 24934408
+  },
   "civic.source:1941": {
     "id": "civic.source:1941",
-    "label": "Shi et al., 2014, Cancer Discov",
+    "label": "Shi et al., 2014",
     "type": "Document",
     "title": "Acquired resistance and clonal evolution in melanoma during BRAF inhibitor therapy.",
     "pmid": 24265155
   },
   "civic.source:2522": {
     "id": "civic.source:2522",
-    "label": "Dao et al., 2014, Leuk Res Rep",
+    "label": "Dao et al., 2014",
     "type": "Document",
     "title": "Significant clinical response to JAK1/2 inhibition in a patient with CSF3R-T618I-positive atypical chronic myeloid leukemia.",
     "pmid": 25180155
   },
   "civic.source:2196": {
     "id": "civic.source:2196",
-    "label": "Xu et al., 2017, Clin. Cancer Res.",
+    "label": "Xu et al., 2017",
     "type": "Document",
     "title": "PIK3CA Mutations Contribute to Acquired Cetuximab Resistance in Patients with Metastatic Colorectal Cancer.",
     "pmid": 28424201
   },
   "civic.source:4032": {
     "id": "civic.source:4032",
-    "label": "Guan et al., 2018, Cold Spring Harb Mol Case Stud",
+    "label": "Guan et al., 2018",
     "type": "Document",
     "title": "Clinical response of the novel activating ALK-I1171T mutation in neuroblastoma to the ALK inhibitor ceritinib.",
     "pmid": 29907598
   },
+  "civic.source:179": {
+    "id": "civic.source:179",
+    "label": "Hammerman et al., 2011",
+    "type": "Document",
+    "title": "Mutations in the DDR2 kinase gene identify a novel therapeutic target in squamous cell lung cancer.",
+    "pmid": 22328973
+  },
+  "civic.source:183": {
+    "id": "civic.source:183",
+    "label": "Li et al., 2014",
+    "type": "Document",
+    "title": "Response to pemetrexed rechallenge after acquired resistance of EGFR-TKI in a patient with advanced NSCLC.",
+    "pmid": 24636847
+  },
   "civic.source:409": {
     "id": "civic.source:409",
-    "label": "Mateo et al., 2015, N. Engl. J. Med.",
+    "label": "Mateo et al., 2015",
     "type": "Document",
     "title": "DNA-Repair Defects and Olaparib in Metastatic Prostate Cancer.",
     "pmid": 26510020
   },
   "civic.source:457": {
     "id": "civic.source:457",
-    "label": "Boidot et al., 2016, Int J Colorectal Dis",
+    "label": "Boidot et al., 2016",
     "type": "Document",
     "title": "HRAS G13D, a new mutation implicated in the resistance to anti-EGFR therapies in colorectal cancer, a case report.",
     "pmid": 26561417
   },
   "civic.source:466": {
     "id": "civic.source:466",
-    "label": "Davies et al., 2015, Mol. Cancer Ther.",
+    "label": "Davies et al., 2015",
     "type": "Document",
     "title": "Tumors with AKT1E17K Mutations Are Rational Targets for Single Agent or Combination Therapy with AKT Inhibitors.",
     "pmid": 26351323
   },
   "civic.source:487": {
     "id": "civic.source:487",
-    "label": "Shiver et al., 2015, N. Engl. J. Med.",
+    "label": "Shiver et al., 2015",
     "type": "Document",
     "title": "Response to Idelalisib in a Patient with Stage IV Merkel-Cell Carcinoma.",
     "pmid": 26466009
   },
   "civic.source:492": {
     "id": "civic.source:492",
-    "label": "Yauch et al., 2009, Science",
+    "label": "Yauch et al., 2009",
     "type": "Document",
     "title": "Smoothened mutation confers resistance to a Hedgehog pathway inhibitor in medulloblastoma.",
     "pmid": 19726788
   },
   "civic.source:729": {
     "id": "civic.source:729",
-    "label": "Kris et al., 2015, Ann. Oncol.",
+    "label": "Kris et al., 2015",
     "type": "Document",
     "title": "Targeting HER2 aberrations as actionable drivers in lung cancers: phase II trial of the pan-HER tyrosine kinase inhibitor dacomitinib in patients with HER2-mutant or amplified tumors.",
     "pmid": 25899785
   },
+  "civic.source:748": {
+    "id": "civic.source:748",
+    "label": "Ganesan et al., 2016",
+    "type": "Document",
+    "title": "Epidermal Growth Factor Receptor P753S Mutation in Cutaneous Squamous Cell Carcinoma Responsive to Cetuximab-Based Therapy.",
+    "pmid": 24934779
+  },
   "civic.source:859": {
     "id": "civic.source:859",
-    "label": "Moss\u00e9 et al., 2013, Lancet Oncol.",
+    "label": "Moss\u00e9 et al., 2013",
     "type": "Document",
     "title": "Safety and activity of crizotinib for paediatric patients with refractory solid tumours or anaplastic large-cell lymphoma: a Children's Oncology Group phase 1 consortium study.",
     "pmid": 23598171
   },
   "civic.source:944": {
     "id": "civic.source:944",
-    "label": "Hellmann et al., 2014, J Thorac Oncol",
+    "label": "Hellmann et al., 2014",
     "type": "Document",
     "title": "Clinical and in vivo evidence that EGFR S768I mutant lung adenocarcinomas are sensitive to erlotinib.",
     "pmid": 25521405
   },
   "civic.source:948": {
     "id": "civic.source:948",
-    "label": "Sahadudheen et al., 2016, Case Rep Oncol Med",
+    "label": "Sahadudheen et al., 2016",
     "type": "Document",
     "title": "Long Term Survival and Continued Complete Response of Vemurafenib in a Metastatic Melanoma Patient with BRAF V600K Mutation.",
     "pmid": 26989536
   },
+  "civic.source:969": {
+    "id": "civic.source:969",
+    "label": "Klempner et al., 2016",
+    "type": "Document",
+    "title": "BRAFV600E Mutations in High-Grade Colorectal Neuroendocrine Tumors May Predict Responsiveness to BRAF-MEK Combination Therapy.",
+    "pmid": 27048246
+  },
   "civic.source:338": {
     "id": "civic.source:338",
-    "label": "Dahlman et al., 2012, Cancer Discov",
+    "label": "Dahlman et al., 2012",
     "type": "Document",
     "title": "BRAF(L597) mutations in melanoma are associated with sensitivity to MEK inhibitors.",
     "pmid": 22798288
   },
   "civic.source:850": {
     "id": "civic.source:850",
-    "label": "Falchook et al., 2012, Lancet Oncol.",
+    "label": "Falchook et al., 2012",
     "type": "Document",
     "title": "Activity of the oral MEK inhibitor trametinib in patients with advanced melanoma: a phase 1 dose-escalation trial.",
     "pmid": 22805292
   },
   "civic.source:1028": {
     "id": "civic.source:1028",
-    "label": "Baker et al., 2013, Clin. Cancer Res.",
+    "label": "Baker et al., 2013",
     "type": "Document",
     "title": "Emergence of polyclonal FLT3 tyrosine kinase domain mutations during sequential therapy with sorafenib and sunitinib in FLT3-ITD-positive acute myeloid leukemia.",
     "pmid": 23969938
   },
   "civic.source:1147": {
     "id": "civic.source:1147",
-    "label": "Sharman et al., 2014, Clin Lymphoma Myeloma Leuk",
+    "label": "Sharman et al., 2014",
     "type": "Document",
     "title": "Vemurafenib response in 2 patients with posttransplant refractory BRAF V600E-mutated multiple myeloma.",
     "pmid": 24997557
   },
+  "civic.source:1331": {
+    "id": "civic.source:1331",
+    "label": "Balak et al., 2006",
+    "type": "Document",
+    "title": "Novel D761Y and common secondary T790M mutations in epidermal growth factor receptor-mutant lung adenocarcinomas with acquired resistance to kinase inhibitors.",
+    "pmid": 17085664
+  },
   "civic.source:1244": {
     "id": "civic.source:1244",
-    "label": "Klughammer et al., 2016, J Thorac Oncol",
+    "label": "Klughammer et al., 2016",
     "type": "Document",
     "title": "Examining Treatment Outcomes with Erlotinib in Patients with Advanced Non-Small Cell Lung Cancer Whose Tumors Harbor Uncommon EGFR Mutations.",
     "pmid": 26773740
   },
   "civic.source:661": {
     "id": "civic.source:661",
-    "label": "De Gr\u00e8ve et al., 2012, Lung Cancer",
+    "label": "De Gr\u00e8ve et al., 2012",
     "type": "Document",
     "title": "Clinical activity of afatinib (BIBW 2992) in patients with lung adenocarcinoma with mutations in the kinase domain of HER2/neu.",
     "pmid": 22325357
   },
   "civic.source:1330": {
     "id": "civic.source:1330",
-    "label": "Tran et al., 2016, N. Engl. J. Med.",
+    "label": "Tran et al., 2016",
     "type": "Document",
     "title": "T-Cell Transfer Therapy Targeting Mutant KRAS in Cancer.",
     "pmid": 27959684
   },
+  "civic.source:1480": {
+    "id": "civic.source:1480",
+    "label": "Loupakis et al., 2009",
+    "type": "Document",
+    "title": "KRAS codon 61, 146 and BRAF mutations predict resistance to cetuximab plus irinotecan in KRAS codon 12 and 13 wild-type metastatic colorectal cancer.",
+    "pmid": 19603018
+  },
+  "civic.source:1557": {
+    "id": "civic.source:1557",
+    "label": "Bataille et al., 2003",
+    "type": "Document",
+    "title": "Alterations in p53 predict response to preoperative high dose chemotherapy in patients with gastric cancer.",
+    "pmid": 14514923
+  },
   "civic.source:1593": {
     "id": "civic.source:1593",
-    "label": "Carvajal et al., 2011, JAMA",
+    "label": "Carvajal et al., 2011",
     "type": "Document",
     "title": "KIT as a therapeutic target in metastatic melanoma.",
     "pmid": 21642685
   },
   "civic.source:1689": {
     "id": "civic.source:1689",
-    "label": "Drilon et al., 2017, Cancer Discov",
+    "label": "Drilon et al., 2017",
     "type": "Document",
     "title": "Safety and Antitumor Activity of the Multitargeted Pan-TRK, ROS1, and ALK Inhibitor Entrectinib: Combined Results from Two Phase I Trials (ALKA-372-001 and STARTRK-1).",
     "pmid": 28183697
   },
   "civic.source:1734": {
     "id": "civic.source:1734",
-    "label": "Cameron et al., 2011, Case Rep Oncol",
+    "label": "Cameron et al., 2011",
     "type": "Document",
     "title": "Ten Years of Treatment with 400 mg Imatinib per Day in a Case of Advanced Gastrointestinal Stromal Tumor.",
     "pmid": 22114577
   },
   "civic.source:1974": {
     "id": "civic.source:1974",
-    "label": "del Bufalo et al., 2014, J Transl Med",
+    "label": "del Bufalo et al., 2014",
     "type": "Document",
     "title": "Response of recurrent BRAFV600E mutated ganglioglioma to Vemurafenib as single agent.",
     "pmid": 25524464
   },
   "civic.source:1984": {
     "id": "civic.source:1984",
-    "label": "Combe et al., 2015, Invest New Drugs",
+    "label": "Combe et al., 2015",
     "type": "Document",
     "title": "Sustained response to vemurafenib in a low grade serous ovarian cancer with a BRAF V600E mutation.",
     "pmid": 26490654
   },
   "civic.source:1503": {
     "id": "civic.source:1503",
-    "label": "Wu et al., 2011, Clin. Cancer Res.",
+    "label": "Wu et al., 2011",
     "type": "Document",
     "title": "Effectiveness of tyrosine kinase inhibitors on \"uncommon\" epidermal growth factor receptor mutations of unknown clinical significance in non-small cell lung cancer.",
     "pmid": 21531810
   },
   "civic.source:965": {
     "id": "civic.source:965",
-    "label": "Heinrich et al., 2008, J. Clin. Oncol.",
+    "label": "Heinrich et al., 2008",
     "type": "Document",
     "title": "Primary and secondary kinase genotypes correlate with the biological and clinical activity of sunitinib in imatinib-resistant gastrointestinal stromal tumor.",
     "pmid": 18955458
   },
   "civic.source:507": {
     "id": "civic.source:507",
-    "label": "Doebele et al., 2012, Clin. Cancer Res.",
+    "label": "Doebele et al., 2012",
     "type": "Document",
     "title": "Mechanisms of resistance to crizotinib in patients with ALK gene rearranged non-small cell lung cancer.",
     "pmid": 22235099
   },
+  "civic.source:1946": {
+    "id": "civic.source:1946",
+    "label": "Hsu et al., 2016",
+    "type": "Document",
+    "title": "Mutations of KRAS/NRAS/BRAF predict cetuximab resistance in metastatic colorectal cancer patients.",
+    "pmid": 26989027
+  },
   "civic.source:2178": {
     "id": "civic.source:2178",
-    "label": "Bowyer et al., 2014, Melanoma Res.",
+    "label": "Bowyer et al., 2014",
     "type": "Document",
     "title": "Activity of trametinib in K601E and L597Q BRAF mutation-positive metastatic melanoma.",
     "pmid": 24933606
   },
+  "civic.source:1164": {
+    "id": "civic.source:1164",
+    "label": "Aung et al., 2016",
+    "type": "Document",
+    "title": "Testing ERBB2 p.L755S kinase domain mutation as a druggable target in a patient with advanced colorectal cancer.",
+    "pmid": 27626067
+  },
+  "civic.source:2381": {
+    "id": "civic.source:2381",
+    "label": "Kocsis et al., 2017",
+    "type": "Document",
+    "title": "Combined dabrafenib and trametinib treatment in a case of chemotherapy-refractory extrahepatic BRAF V600E mutant cholangiocarcinoma: dramatic clinical and radiological response with a confusing synchronic new liver lesion.",
+    "pmid": 28480077
+  },
+  "civic.source:2380": {
+    "id": "civic.source:2380",
+    "label": "Lavingia et al., 2016",
+    "type": "Document",
+    "title": "Impressive response to dual BRAF and MEK inhibition in patients with BRAF mutant intrahepatic cholangiocarcinoma-2 case reports and a brief review.",
+    "pmid": 28078132
+  },
+  "civic.source:2379": {
+    "id": "civic.source:2379",
+    "label": "Loaiza-Bonilla et al., 2014",
+    "type": "Document",
+    "title": "Dramatic response to dabrafenib and trametinib combination in a BRAF V600E-mutated cholangiocarcinoma: implementation of a molecular tumour board and next-generation sequencing for personalized medicine.",
+    "pmid": 25435907
+  },
+  "civic.source:2382": {
+    "id": "civic.source:2382",
+    "label": "Silkin et al., 2016",
+    "type": "Document",
+    "title": "Complete Clinical Response of BRAF-Mutated Cholangiocarcinoma to Vemurafenib, Panitumumab, and Irinotecan.",
+    "pmid": 26687137
+  },
   "civic.source:2359": {
     "id": "civic.source:2359",
-    "label": "Cecchini et al., 2017, J Natl Compr Canc Netw",
+    "label": "Cecchini et al., 2017",
     "type": "Document",
     "title": "EGFR Exon 19 Deletion in Pancreatic Adenocarcinoma Responds to Erlotinib, Followed by T790M-Mediated Resistance.",
     "pmid": 28874593
@@ -909,1015 +1277,1246 @@
   },
   "civic.source:2054": {
     "id": "civic.source:2054",
-    "label": "Vita et al., 2014, JAMA Dermatol",
+    "label": "Vita et al., 2014",
     "type": "Document",
     "title": "Characterization of S628N: a novel KIT mutation found in a metastatic melanoma.",
     "pmid": 25317746
   },
   "civic.source:2980": {
     "id": "civic.source:2980",
-    "label": "Chu et al., 2019, Oncologist",
+    "label": "Chu et al., 2019",
     "type": "Document",
     "title": "MET Genomic Alterations in Head and Neck Squamous Cell Carcinoma (HNSCC): Rapid Response to Crizotinib in a Patient with HNSCC with a Novel MET R1004G Mutation.",
     "pmid": 31391294
   },
   "civic.source:3026": {
     "id": "civic.source:3026",
-    "label": "Menzer et al., 2019, J. Clin. Oncol.",
+    "label": "Menzer et al., 2019",
     "type": "Document",
     "title": "Targeted Therapy in Advanced Melanoma With Rare BRAF Mutations.",
     "pmid": 31580757
   },
+  "civic.source:3071": {
+    "id": "civic.source:3071",
+    "label": "Valiakhmetova et al., 2020",
+    "type": "Document",
+    "title": "Treatment of Pediatric Glioblastoma with Combination Olaparib and Temozolomide Demonstrates 2-Year Durable Response.",
+    "pmid": 32043779
+  },
   "civic.source:3083": {
     "id": "civic.source:3083",
-    "label": "Aguirre et al., 2018, Cancer Discov",
+    "label": "Aguirre et al., 2018",
     "type": "Document",
     "title": "Real-time Genomic Characterization of Advanced Pancreatic Cancer to Enable Precision Medicine.",
     "pmid": 29903880
   },
   "civic.source:3136": {
     "id": "civic.source:3136",
-    "label": "Liao et al., 2013, Cancer Res.",
+    "label": "Liao et al., 2013",
     "type": "Document",
     "title": "Inhibitor-sensitive FGFR2 and FGFR3 mutations in lung squamous cell carcinoma.",
     "pmid": 23786770
   },
   "civic.source:3023": {
     "id": "civic.source:3023",
-    "label": "Fang et al., 2019, BMC Cancer",
+    "label": "Fang et al., 2019",
     "type": "Document",
     "title": "EGFR exon 20 insertion mutations and response to osimertinib in non-small-cell lung cancer.",
     "pmid": 31208370
   },
   "civic.source:4291": {
     "id": "civic.source:4291",
-    "label": "Capone et al., 2022, JCO Precis Oncol",
+    "label": "Capone et al., 2022",
     "type": "Document",
     "title": "Activity of Pemigatinib in Pilocytic Astrocytoma and FGFR1N546K Mutation.",
     "pmid": 35507888
   },
+  "civic.source:4837": {
+    "id": "civic.source:4837",
+    "label": "Bedard et al., 2022",
+    "type": "Document",
+    "title": "Phase II Study of Afatinib in Patients With Tumors With Human Epidermal Growth Factor Receptor 2-Activating Mutations: Results From the National Cancer Institute-Molecular Analysis for Therapy Choice ECOG-ACRIN Trial (EAY131) Subprotocol EAY131-B.",
+    "pmid": 35939768
+  },
   "civic.source:6": {
     "id": "civic.source:6",
-    "label": "Imielinski et al., 2014, J. Clin. Invest.",
+    "label": "Imielinski et al., 2014",
     "type": "Document",
     "title": "Oncogenic and sorafenib-sensitive ARAF mutations in lung adenocarcinoma.",
     "pmid": 24569458
   },
   "civic.source:66": {
     "id": "civic.source:66",
-    "label": "Banerji et al., 2008, Mol. Cancer Ther.",
+    "label": "Banerji et al., 2008",
     "type": "Document",
     "title": "BRAF and NRAS mutations in melanoma: potential relationships to clinical response to HSP90 inhibitors.",
     "pmid": 18375819
   },
   "civic.source:67": {
     "id": "civic.source:67",
-    "label": "Soon et al., 2011, Arch Dermatol",
+    "label": "Soon et al., 2011",
     "type": "Document",
     "title": "NRAS-mutant melanoma: response to chemotherapy.",
     "pmid": 21576590
   },
   "civic.source:101": {
     "id": "civic.source:101",
-    "label": "Rudin et al., 2013, J Thorac Oncol",
+    "label": "Rudin et al., 2013",
     "type": "Document",
     "title": "Molecular characterization of acquired resistance to the BRAF inhibitor dabrafenib in a patient with BRAF-mutant non-small-cell lung cancer.",
     "pmid": 23524406
   },
   "civic.source:500": {
     "id": "civic.source:500",
-    "label": "Sarker et al., 2015, Clin. Cancer Res.",
+    "label": "Sarker et al., 2015",
     "type": "Document",
     "title": "First-in-human phase I study of pictilisib (GDC-0941), a potent pan-class I phosphatidylinositol-3-kinase (PI3K) inhibitor, in patients with advanced solid tumors.",
     "pmid": 25370471
   },
   "civic.source:528": {
     "id": "civic.source:528",
-    "label": "Van Allen et al., 2014, Nat. Med.",
+    "label": "Van Allen et al., 2014",
     "type": "Document",
     "title": "Whole-exome sequencing and clinical interpretation of formalin-fixed, paraffin-embedded tumor samples to guide precision cancer medicine.",
     "pmid": 24836576
   },
   "civic.source:641": {
     "id": "civic.source:641",
-    "label": "Yap et al., 2011, J. Clin. Oncol.",
+    "label": "Yap et al., 2011",
     "type": "Document",
     "title": "First-in-man clinical trial of the oral pan-AKT inhibitor MK-2206 in patients with advanced solid tumors.",
     "pmid": 22025163
   },
   "civic.source:782": {
     "id": "civic.source:782",
-    "label": "Palmirotta et al., 2009, Anticancer Res.",
+    "label": "Palmirotta et al., 2009",
     "type": "Document",
     "title": "A novel K-ras mutation in colorectal cancer. A case report and literature review.",
     "pmid": 19661358
   },
   "civic.source:945": {
     "id": "civic.source:945",
-    "label": "Masago et al., 2010, Jpn. J. Clin. Oncol.",
+    "label": "Masago et al., 2010",
     "type": "Document",
     "title": "Good clinical response to gefitinib in a non-small cell lung cancer patient harboring a rare somatic epidermal growth factor gene point mutation; codon 768 AGC > ATC in exon 20 (S768I).",
     "pmid": 20522446
   },
   "civic.source:964": {
     "id": "civic.source:964",
-    "label": "Iurlo et al., 2014, Oncotarget",
+    "label": "Iurlo et al., 2014",
     "type": "Document",
     "title": "Identification of kit(M541L) somatic mutation in chronic eosinophilic leukemia, not otherwise specified and its implication in low-dose imatinib response.",
     "pmid": 25015329
   },
   "civic.source:1021": {
     "id": "civic.source:1021",
-    "label": "Turajlic et al., 2014, Ann. Oncol.",
+    "label": "Turajlic et al., 2014",
     "type": "Document",
     "title": "Whole-genome sequencing reveals complex mechanisms of intrinsic resistance to BRAF inhibition.",
     "pmid": 24504448
   },
   "civic.source:1026": {
     "id": "civic.source:1026",
-    "label": "Dolly et al., 2016, Clin. Cancer Res.",
+    "label": "Dolly et al., 2016",
     "type": "Document",
     "title": "Phase I Study of Apitolisib (GDC-0980), Dual Phosphatidylinositol-3-Kinase and Mammalian Target of Rapamycin Kinase Inhibitor, in Patients with Advanced Solid Tumors.",
     "pmid": 26787751
   },
+  "civic.source:1050": {
+    "id": "civic.source:1050",
+    "label": "Pietrantonio et al., 2016",
+    "type": "Document",
+    "title": "MET-Driven Resistance to Dual EGFR and BRAF Blockade May Be Overcome by Switching from EGFR to MET Inhibition in BRAF-Mutated Colorectal Cancer.",
+    "pmid": 27325282
+  },
   "civic.source:1063": {
     "id": "civic.source:1063",
-    "label": "Palma et al., 2015, Eur. Urol.",
+    "label": "Palma et al., 2015",
     "type": "Document",
     "title": "Exceptional Response to Pazopanib in a Patient with Urothelial Carcinoma Harboring FGFR3 Activating Mutation and Amplification.",
     "pmid": 25766722
   },
   "civic.source:1069": {
     "id": "civic.source:1069",
-    "label": "Kl\u00fcmpen et al., 2011, J. Clin. Oncol.",
+    "label": "Kl\u00fcmpen et al., 2011",
     "type": "Document",
     "title": "mTOR inhibitor treatment of pancreatic cancer in a patient With Peutz-Jeghers syndrome.",
     "pmid": 21189378
   },
+  "civic.source:1075": {
+    "id": "civic.source:1075",
+    "label": "Sun et al., 2016",
+    "type": "Document",
+    "title": "Combined treatment with everolimus and fulvestrant reversed anti-HER2 resistance in a patient with refractory advanced breast cancer: a case report.",
+    "pmid": 27445490
+  },
   "civic.source:1116": {
     "id": "civic.source:1116",
-    "label": "Heist et al., 2016, J Thorac Oncol",
+    "label": "Heist et al., 2016",
     "type": "Document",
     "title": "Acquired Resistance to Crizotinib in NSCLC with MET\u00a0Exon 14 Skipping.",
     "pmid": 27343442
   },
   "civic.source:1158": {
     "id": "civic.source:1158",
-    "label": "Palma et al., 2014, Case Rep Oncol",
+    "label": "Palma et al., 2014",
     "type": "Document",
     "title": "Durable Response to Crizotinib in a MET-Amplified, KRAS-Mutated Carcinoma of Unknown Primary.",
     "pmid": 25232318
   },
   "civic.source:186": {
     "id": "civic.source:186",
-    "label": "Borad et al., 2014, PLoS Genet.",
+    "label": "Borad et al., 2014",
     "type": "Document",
     "title": "Integrated genomic characterization reveals novel, therapeutically relevant drug targets in FGFR and EGFR pathways in sporadic intrahepatic cholangiocarcinoma.",
     "pmid": 24550739
   },
   "civic.source:1516": {
     "id": "civic.source:1516",
-    "label": "Planchard et al., 2015, Ann. Oncol.",
+    "label": "Planchard et al., 2015",
     "type": "Document",
     "title": "EGFR-independent mechanisms of acquired resistance to AZD9291 in EGFR T790M-positive NSCLC patients.",
     "pmid": 26269204
   },
   "civic.source:1586": {
     "id": "civic.source:1586",
-    "label": "Heinrich et al., 2008, J. Clin. Oncol.",
+    "label": "Heinrich et al., 2008",
     "type": "Document",
     "title": "Correlation of kinase genotype and clinical outcome in the North American Intergroup Phase III Trial of imatinib mesylate for treatment of advanced gastrointestinal stromal tumor: CALGB 150105 Study by Cancer and Leukemia Group B and Southwest Oncology Group.",
     "pmid": 18955451
   },
   "civic.source:412": {
     "id": "civic.source:412",
-    "label": "Heinrich et al., 2003, J. Clin. Oncol.",
+    "label": "Heinrich et al., 2003",
     "type": "Document",
     "title": "Kinase mutations and imatinib response in patients with metastatic gastrointestinal stromal tumor.",
     "pmid": 14645423
   },
   "civic.source:1649": {
     "id": "civic.source:1649",
-    "label": "Lutzky et al., 2008, Pigment Cell Melanoma Res",
+    "label": "Lutzky et al., 2008",
     "type": "Document",
     "title": "Dose-dependent, complete response to imatinib of a metastatic mucosal melanoma with a K642E KIT mutation.",
     "pmid": 18510589
   },
   "civic.source:1669": {
     "id": "civic.source:1669",
-    "label": "Leventakos et al., 2016, J Thorac Oncol",
+    "label": "Leventakos et al., 2016",
     "type": "Document",
     "title": "S768I Mutation in EGFR in Patients with Lung Cancer.",
     "pmid": 27211795
   },
   "civic.source:2045": {
     "id": "civic.source:2045",
-    "label": "George et al., 2012, J. Clin. Oncol.",
+    "label": "George et al., 2012",
     "type": "Document",
     "title": "Efficacy and safety of regorafenib in patients with metastatic and/or unresectable GI stromal tumor after failure of imatinib and sunitinib: a multicenter phase II trial.",
     "pmid": 22614970
   },
   "civic.source:1360": {
     "id": "civic.source:1360",
-    "label": "Brody et al., 2016, Cancer Biol. Ther.",
+    "label": "Brody et al., 2018",
     "type": "Document",
     "title": "Identification of a novel metabolic-related mutation (IDH1) in metastatic pancreatic cancer.",
     "pmid": 27466707
   },
   "civic.source:2444": {
     "id": "civic.source:2444",
-    "label": "Hamada et al., 2014, PLoS ONE",
+    "label": "Hamada et al., 2014",
     "type": "Document",
     "title": "CTNNB1 S45F mutation predicts poor efficacy of meloxicam treatment for desmoid tumors: a pilot study.",
     "pmid": 24788118
   },
+  "civic.source:2473": {
+    "id": "civic.source:2473",
+    "label": "Locatelli-Sanchez et al., 2013",
+    "type": "Document",
+    "title": "Routine EGFR molecular analysis in non-small-cell lung cancer patients is feasible: exons 18-21 sequencing results of 753 patients and subsequent clinical outcomes.",
+    "pmid": 23749122
+  },
   "civic.source:2719": {
     "id": "civic.source:2719",
-    "label": "Mayfield et al., 2017, Pediatr Blood Cancer",
+    "label": "Mayfield et al., 2017",
     "type": "Document",
     "title": "Integration of ruxolitinib into dose-intensified therapy targeted against a novel JAK2 F694L mutation in B-precursor acute lymphoblastic leukemia.",
     "pmid": 27860260
   },
+  "civic.source:3131": {
+    "id": "civic.source:3131",
+    "label": "Meyer et al., 2013",
+    "type": "Document",
+    "title": "Relapse-specific mutations in NT5C2 in childhood acute lymphoblastic leukemia.",
+    "pmid": 23377183
+  },
   "civic.source:3376": {
     "id": "civic.source:3376",
-    "label": "Lucas et al., 2020, Blood",
+    "label": "Lucas et al., 2020",
     "type": "Document",
     "title": "Novel BCL2 mutations in venetoclax-resistant, ibrutinib-resistant CLL patients with BTK/PLCG2 mutations.",
     "pmid": 32232486
   },
   "civic.source:3502": {
     "id": "civic.source:3502",
-    "label": "Blombery et al., 2019, Br. J. Haematol.",
+    "label": "Blombery et al., 2019",
     "type": "Document",
     "title": "Characterization of a novel venetoclax resistance mutation (BCL2 Phe104Ile) observed in follicular lymphoma.",
     "pmid": 31234236
   },
   "civic.source:3765": {
     "id": "civic.source:3765",
-    "label": "Champer et al., 2019, Gynecol Oncol Rep",
+    "label": "Champer et al., 2019",
     "type": "Document",
     "title": "Response to trametinib in recurrent low-grade serous ovarian cancer with NRAS mutation: A case report.",
     "pmid": 30809568
   },
   "civic.source:2517": {
     "id": "civic.source:2517",
-    "label": "Italiano et al., 2018, Lancet Oncol.",
+    "label": "Italiano et al., 2018",
     "type": "Document",
     "title": "Tazemetostat, an EZH2 inhibitor, in relapsed or refractory B-cell non-Hodgkin lymphoma and advanced solid tumours: a first-in-human, open-label, phase 1 study.",
     "pmid": 29650362
   },
   "civic.source:2978": {
     "id": "civic.source:2978",
-    "label": "Hong et al., 2019, Ann. Oncol.",
+    "label": "Hong et al., 2019",
     "type": "Document",
     "title": "Larotrectinib in adult patients with solid tumours: a multi-centre, open-label, phase I dose-escalation study.",
     "pmid": 30624546
   },
   "civic.source:822": {
     "id": "civic.source:822",
-    "label": "Loaiza-Bonilla et al., 2016, Cureus",
+    "label": "Loaiza-Bonilla et al., 2016",
     "type": "Document",
     "title": "KDR Mutation as a Novel Predictive Biomarker of Exceptional Response to Regorafenib in Metastatic Colorectal Cancer.",
     "pmid": 27004155
   },
   "civic.source:946": {
     "id": "civic.source:946",
-    "label": "Yu et al., 2015, JAMA Oncol",
+    "label": "Yu et al., 2015",
     "type": "Document",
     "title": "Acquired Resistance of EGFR-Mutant Lung Cancer to a T790M-Specific EGFR Inhibitor: Emergence of a Third Mutation (C797S) in the EGFR Tyrosine Kinase Domain.",
     "pmid": 26181354
   },
+  "civic.source:1027": {
+    "id": "civic.source:1027",
+    "label": "Amaki-Takao et al., 2016",
+    "type": "Document",
+    "title": "Colorectal Cancer with BRAF D594G Mutation Is Not Associated with Microsatellite Instability or Poor Prognosis.",
+    "pmid": 27404270
+  },
   "civic.source:381": {
     "id": "civic.source:381",
-    "label": "Awad et al., 2013, N. Engl. J. Med.",
+    "label": "Awad et al., 2013",
     "type": "Document",
     "title": "Acquired resistance to crizotinib from a mutation in CD74-ROS1.",
     "pmid": 23724914
   },
   "civic.source:1996": {
     "id": "civic.source:1996",
-    "label": "Cortes et al., 2011, Blood",
+    "label": "Cortes et al., 2011",
     "type": "Document",
     "title": "Safety and efficacy of bosutinib (SKI-606) in chronic phase Philadelphia chromosome-positive chronic myeloid leukemia patients with resistance or intolerance to imatinib.",
     "pmid": 21865346
   },
   "civic.source:1997": {
     "id": "civic.source:1997",
-    "label": "Khoury et al., 2012, Blood",
+    "label": "Khoury et al., 2012",
     "type": "Document",
     "title": "Bosutinib is active in chronic phase chronic myeloid leukemia after imatinib and dasatinib and/or nilotinib therapy failure.",
     "pmid": 22371878
   },
   "civic.source:1421": {
     "id": "civic.source:1421",
-    "label": "Rowley et al., 2002, Oncogene",
+    "label": "Rowley et al., 2002",
     "type": "Document",
     "title": "Activation of N-ras and K-ras induced by interleukin-6 in a myeloma cell line: implications for disease progression and therapeutic response.",
     "pmid": 12483530
   },
   "civic.source:1528": {
     "id": "civic.source:1528",
-    "label": "Kancha et al., 2009, Clin. Cancer Res.",
+    "label": "Kancha et al., 2009",
     "type": "Document",
     "title": "Functional analysis of epidermal growth factor receptor (EGFR) mutations and potential implications for EGFR targeted therapy.",
     "pmid": 19147750
   },
-  "civic.source:1706": {
-    "id": "civic.source:1706",
-    "label": "Miller et al., 2016, Mol. Cancer Ther.",
-    "type": "Document",
-    "title": "Synthetic Lethal Targeting of ARID1A-Mutant Ovarian Clear Cell Tumors with Dasatinib.",
-    "pmid": 27364904
-  },
   "civic.source:493": {
     "id": "civic.source:493",
-    "label": "Atwood et al., 2015, Cancer Cell",
+    "label": "Atwood et al., 2015",
     "type": "Document",
     "title": "Smoothened variants explain the majority of drug resistance in basal cell carcinoma.",
     "pmid": 25759020
   },
   "civic.source:170": {
     "id": "civic.source:170",
-    "label": "Bose et al., 2013, Cancer Discov",
+    "label": "Bose et al., 2013",
     "type": "Document",
     "title": "Activating HER2 mutations in HER2 gene amplification negative breast cancer.",
     "pmid": 23220880
   },
+  "civic.source:30": {
+    "id": "civic.source:30",
+    "label": "Robinson et al., 2013",
+    "type": "Document",
+    "title": "Activating ESR1 mutations in hormone-resistant metastatic breast cancer.",
+    "pmid": 24185510
+  },
   "civic.source:2128": {
     "id": "civic.source:2128",
-    "label": "Testoni et al., 2016, EMBO Mol Med",
+    "label": "Testoni et al., 2016",
     "type": "Document",
     "title": "Somatically mutated ABL1 is an actionable and essential NSCLC survival gene.",
     "pmid": 26758680
   },
   "civic.source:2042": {
     "id": "civic.source:2042",
-    "label": "Garner et al., 2014, Clin. Cancer Res.",
+    "label": "Garner et al., 2014",
     "type": "Document",
     "title": "Ponatinib inhibits polyclonal drug-resistant KIT oncoproteins and shows therapeutic potential in heavily pretreated gastrointestinal stromal tumor (GIST) patients.",
     "pmid": 25239608
   },
+  "civic.source:3161": {
+    "id": "civic.source:3161",
+    "label": "Li et al., 2015",
+    "type": "Document",
+    "title": "Negative feedback-defective PRPS1 mutants drive thiopurine resistance in relapsed childhood ALL.",
+    "pmid": 25962120
+  },
   "civic.source:80": {
     "id": "civic.source:80",
-    "label": "Heinrich et al., 2012, Clin. Cancer Res.",
+    "label": "Heinrich et al., 2012",
     "type": "Document",
     "title": "Crenolanib inhibits the drug-resistant PDGFRA D842V mutation associated with imatinib-resistant gastrointestinal stromal tumors.",
     "pmid": 22745105
   },
   "civic.source:79": {
     "id": "civic.source:79",
-    "label": "George et al., 2008, Nature",
+    "label": "George et al., 2008",
     "type": "Document",
     "title": "Activating mutations in ALK provide a therapeutic target in neuroblastoma.",
     "pmid": 18923525
   },
-  "civic.source:179": {
-    "id": "civic.source:179",
-    "label": "Hammerman et al., 2011, Cancer Discov",
-    "type": "Document",
-    "title": "Mutations in the DDR2 kinase gene identify a novel therapeutic target in squamous cell lung cancer.",
-    "pmid": 22328973
-  },
   "civic.source:181": {
     "id": "civic.source:181",
-    "label": "Paez et al., 2004, Science",
+    "label": "Paez et al., 2004",
     "type": "Document",
     "title": "EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy.",
     "pmid": 15118125
   },
+  "civic.source:193": {
+    "id": "civic.source:193",
+    "label": "Engelman et al., 2008",
+    "type": "Document",
+    "title": "Effective use of PI3K and MEK inhibitors to treat mutant Kras G12D and PIK3CA H1047R murine lung cancers.",
+    "pmid": 19029981
+  },
   "civic.source:195": {
     "id": "civic.source:195",
-    "label": "Tanaka et al., 2011, Clin. Cancer Res.",
+    "label": "Tanaka et al., 2011",
     "type": "Document",
     "title": "The selective class I PI3K inhibitor CH5132799 targets human cancers harboring oncogenic PIK3CA mutations.",
     "pmid": 21558396
   },
   "civic.source:198": {
     "id": "civic.source:198",
-    "label": "Courtney et al., 2010, J. Clin. Oncol.",
+    "label": "Courtney et al., 2010",
     "type": "Document",
     "title": "The PI3K pathway as drug target in human cancer.",
     "pmid": 20085938
   },
   "civic.source:261": {
     "id": "civic.source:261",
-    "label": "Shi et al., 2014, Cancer Discov",
+    "label": "Shi et al., 2014",
     "type": "Document",
     "title": "A novel AKT1 mutant amplifies an adaptive melanoma response to BRAF inhibition.",
     "pmid": 24265152
   },
+  "civic.source:265": {
+    "id": "civic.source:265",
+    "label": "Joseph et al., 2013",
+    "type": "Document",
+    "title": "A clinically relevant androgen receptor mutation confers resistance to second-generation antiandrogens enzalutamide and ARN-509.",
+    "pmid": 23779130
+  },
+  "civic.source:399": {
+    "id": "civic.source:399",
+    "label": "Tzoneva et al., 2013",
+    "type": "Document",
+    "title": "Activating mutations in the NT5C2 nucleotidase gene drive chemotherapy resistance in relapsed ALL.",
+    "pmid": 23377281
+  },
   "civic.source:523": {
     "id": "civic.source:523",
-    "label": "Cho et al., 2014, Mol. Cancer",
+    "label": "Cho et al., 2014",
     "type": "Document",
     "title": "Colon cancer-derived oncogenic EGFR G724S mutant identified by whole genome sequence analysis is dependent on asymmetric dimerization and sensitive to cetuximab.",
     "pmid": 24894453
   },
+  "civic.source:587": {
+    "id": "civic.source:587",
+    "label": "Watson et al., 2014",
+    "type": "Document",
+    "title": "The RAC1 P29S hotspot mutation in melanoma confers resistance to pharmacological inhibition of RAF.",
+    "pmid": 25056119
+  },
   "civic.source:678": {
     "id": "civic.source:678",
-    "label": "Rohle et al., 2013, Science",
+    "label": "Rohle et al., 2013",
     "type": "Document",
     "title": "An inhibitor of mutant IDH1 delays growth and promotes differentiation of glioma cells.",
     "pmid": 23558169
   },
+  "civic.source:811": {
+    "id": "civic.source:811",
+    "label": "Kavuri et al., 2015",
+    "type": "Document",
+    "title": "HER2 activating mutations are targets for colorectal cancer treatment.",
+    "pmid": 26243863
+  },
   "civic.source:919": {
     "id": "civic.source:919",
-    "label": "Infarinato et al., 2016, Cancer Discov",
+    "label": "Infarinato et al., 2016",
     "type": "Document",
     "title": "The ALK/ROS1 Inhibitor PF-06463922 Overcomes Primary Resistance to Crizotinib in ALK-Driven Neuroblastoma.",
     "pmid": 26554404
   },
   "civic.source:1025": {
     "id": "civic.source:1025",
-    "label": "Rodrik-Outmezguine et al., 2016, Nature",
+    "label": "Rodrik-Outmezguine et al., 2016",
     "type": "Document",
     "title": "Overcoming mTOR resistance mutations with a new-generation mTOR inhibitor.",
     "pmid": 27279227
   },
   "civic.source:1129": {
     "id": "civic.source:1129",
-    "label": "Wagenaar et al., 2014, Pigment Cell Melanoma Res",
+    "label": "Wagenaar et al., 2014",
     "type": "Document",
     "title": "Resistance to vemurafenib resulting from a novel mutation in the BRAFV600E kinase domain.",
     "pmid": 24112705
   },
   "civic.source:1332": {
     "id": "civic.source:1332",
-    "label": "Yang et al., 2016, Oncotarget",
+    "label": "Yang et al., 2016",
     "type": "Document",
     "title": "Activating JAK1 mutation may predict the sensitivity of JAK-STAT inhibition in hepatocellular carcinoma.",
     "pmid": 26701727
   },
   "civic.source:1435": {
     "id": "civic.source:1435",
-    "label": "O'Brien et al., 2010, Clin. Cancer Res.",
+    "label": "O'Brien et al., 2010",
     "type": "Document",
     "title": "Predictive biomarkers of sensitivity to the phosphatidylinositol 3' kinase inhibitor GDC-0941 in breast cancer preclinical models.",
     "pmid": 20453058
   },
   "civic.source:1525": {
     "id": "civic.source:1525",
-    "label": "Li et al., 2008, Oncogene",
+    "label": "Li et al., 2008",
     "type": "Document",
     "title": "BIBW2992, an irreversible EGFR/HER2 inhibitor highly effective in preclinical lung cancer models.",
     "pmid": 18408761
   },
   "civic.source:1732": {
     "id": "civic.source:1732",
-    "label": "Kampa-Schittenhelm et al., 2013, Mol. Cancer",
+    "label": "Kampa-Schittenhelm et al., 2013",
     "type": "Document",
     "title": "Quizartinib (AC220) is a potent second generation class III tyrosine kinase inhibitor that displays a distinct inhibition profile against mutant-FLT3, -PDGFRA and -KIT isoforms.",
     "pmid": 23497317
   },
   "civic.source:1696": {
     "id": "civic.source:1696",
-    "label": "Saiki et al., 2015, Oncotarget",
+    "label": "Saiki et al., 2015",
     "type": "Document",
     "title": "Identifying the determinants of response to MDM2 inhibition.",
     "pmid": 25730903
   },
   "civic.source:351": {
     "id": "civic.source:351",
-    "label": "Yang et al., 2010, Cancer Res.",
+    "label": "Yang et al., 2010",
     "type": "Document",
     "title": "RG7204 (PLX4032), a selective BRAFV600E inhibitor, displays potent antitumor activity in preclinical melanoma models.",
     "pmid": 20551065
   },
   "civic.source:2486": {
     "id": "civic.source:2486",
-    "label": "Eichhorn et al., 2008, Cancer Res.",
+    "label": "Eichhorn et al., 2008",
     "type": "Document",
     "title": "Phosphatidylinositol 3-kinase hyperactivation results in lapatinib resistance that is reversed by the mTOR/phosphatidylinositol 3-kinase inhibitor NVP-BEZ235.",
     "pmid": 19010894
   },
   "civic.source:2521": {
     "id": "civic.source:2521",
-    "label": "Fleischman et al., 2013, Blood",
+    "label": "Fleischman et al., 2013",
     "type": "Document",
     "title": "The CSF3R T618I mutation causes a lethal neutrophilic neoplasia in mice that is responsive to therapeutic JAK inhibition.",
     "pmid": 24081659
   },
   "civic.source:3332": {
     "id": "civic.source:3332",
-    "label": "Mori et al., 2017, Invest New Drugs",
+    "label": "Mori et al., 2017",
     "type": "Document",
     "title": "Gilteritinib, a FLT3/AXL inhibitor, shows antileukemic activity in mouse models of FLT3 mutated acute myeloid leukemia.",
     "pmid": 28516360
   },
   "civic.source:3472": {
     "id": "civic.source:3472",
-    "label": "Williams et al., 2013, Leukemia",
+    "label": "Williams et al., 2013",
     "type": "Document",
     "title": "Mutations of FLT3/ITD confer resistance to multiple tyrosine kinase inhibitors.",
     "pmid": 22858906
   },
   "civic.source:58": {
     "id": "civic.source:58",
-    "label": "Emery et al., 2009, Proc. Natl. Acad. Sci. U.S.A.",
+    "label": "Emery et al., 2009",
     "type": "Document",
     "title": "MEK1 mutations confer resistance to MEK and B-RAF inhibition.",
     "pmid": 19915144
   },
   "civic.source:65": {
     "id": "civic.source:65",
-    "label": "Wernig et al., 2008, Cancer Cell",
+    "label": "Wernig et al., 2008",
     "type": "Document",
     "title": "Efficacy of TG101348, a selective JAK2 inhibitor, in treatment of a murine model of JAK2V617F-induced polycythemia vera.",
     "pmid": 18394554
   },
   "civic.source:73": {
     "id": "civic.source:73",
-    "label": "Sasaki et al., 2010, Cancer Res.",
+    "label": "Sasaki et al., 2010",
     "type": "Document",
     "title": "The neuroblastoma-associated F1174L ALK mutation causes resistance to an ALK kinase inhibitor in ALK-translocated cancers.",
     "pmid": 21030459
   },
+  "civic.source:74": {
+    "id": "civic.source:74",
+    "label": "Woodman et al., 2009",
+    "type": "Document",
+    "title": "Activity of dasatinib against L576P KIT mutant melanoma: molecular, cellular, and clinical correlates.",
+    "pmid": 19671763
+  },
   "civic.source:77": {
     "id": "civic.source:77",
-    "label": "Sakamoto et al., 2011, Cancer Cell",
+    "label": "Sakamoto et al., 2011",
     "type": "Document",
     "title": "CH5424802, a selective ALK inhibitor capable of blocking the resistant gatekeeper mutant.",
     "pmid": 21575866
   },
   "civic.source:78": {
     "id": "civic.source:78",
-    "label": "Heuckmann et al., 2011, Clin. Cancer Res.",
+    "label": "Heuckmann et al., 2011",
     "type": "Document",
     "title": "ALK mutations conferring differential resistance to structurally diverse ALK inhibitors.",
     "pmid": 21948233
   },
-  "civic.source:74": {
-    "id": "civic.source:74",
-    "label": "Woodman et al., 2009, Mol. Cancer Ther.",
-    "type": "Document",
-    "title": "Activity of dasatinib against L576P KIT mutant melanoma: molecular, cellular, and clinical correlates.",
-    "pmid": 19671763
-  },
   "civic.source:90": {
     "id": "civic.source:90",
-    "label": "Coxon et al., 2012, J. Endocrinol. Invest.",
+    "label": "Coxon et al., 2012",
     "type": "Document",
     "title": "Anti-tumor activity of motesanib in a medullary thyroid cancer model.",
     "pmid": 21422803
   },
   "civic.source:91": {
     "id": "civic.source:91",
-    "label": "Couto et al., 2012, PLoS ONE",
+    "label": "Couto et al., 2012",
     "type": "Document",
     "title": "AZD1480 blocks growth and tumorigenesis of RET- activated thyroid cancer cell lines.",
     "pmid": 23056499
   },
   "civic.source:98": {
     "id": "civic.source:98",
-    "label": "Nissan et al., 2014, Cancer Res.",
+    "label": "Nissan et al., 2014",
     "type": "Document",
     "title": "Loss of NF1 in cutaneous melanoma is associated with RAS activation and MEK dependence.",
     "pmid": 24576830
   },
+  "civic.source:106": {
+    "id": "civic.source:106",
+    "label": "Rad et al., 2013",
+    "type": "Document",
+    "title": "A genetic progression model of Braf(V600E)-induced intestinal tumorigenesis reveals targets for therapeutic intervention.",
+    "pmid": 23845441
+  },
+  "civic.source:108": {
+    "id": "civic.source:108",
+    "label": "Yang et al., 2012",
+    "type": "Document",
+    "title": "Antitumor activity of BRAF inhibitor vemurafenib in preclinical models of BRAF-mutant colorectal cancer.",
+    "pmid": 22180495
+  },
   "civic.source:119": {
     "id": "civic.source:119",
-    "label": "Bresler et al., 2011, Sci Transl Med",
+    "label": "Bresler et al., 2011",
     "type": "Document",
     "title": "Differential inhibitor sensitivity of anaplastic lymphoma kinase variants found in neuroblastoma.",
     "pmid": 22072639
   },
   "civic.source:163": {
     "id": "civic.source:163",
-    "label": "Beaver et al., 2013, Clin. Cancer Res.",
+    "label": "Beaver et al., 2013",
     "type": "Document",
     "title": "PIK3CA and AKT1 mutations have distinct effects on sensitivity to targeted pathway inhibitors in an isogenic luminal breast cancer model system.",
     "pmid": 23888070
   },
   "civic.source:171": {
     "id": "civic.source:171",
-    "label": "Toy et al., 2013, Nat. Genet.",
+    "label": "Toy et al., 2013",
     "type": "Document",
     "title": "ESR1 ligand-binding domain mutations in hormone-resistant breast cancer.",
     "pmid": 24185512
   },
+  "civic.source:191": {
+    "id": "civic.source:191",
+    "label": "Antonescu et al., 2007",
+    "type": "Document",
+    "title": "L576P KIT mutation in anal melanomas correlates with KIT protein expression and is sensitive to specific kinase inhibition.",
+    "pmid": 17372901
+  },
   "civic.source:196": {
     "id": "civic.source:196",
-    "label": "Kang et al., 2005, Proc. Natl. Acad. Sci. U.S.A.",
+    "label": "Kang et al., 2005",
     "type": "Document",
     "title": "Phosphatidylinositol 3-kinase mutations identified in human cancer are oncogenic.",
     "pmid": 15647370
   },
   "civic.source:199": {
     "id": "civic.source:199",
-    "label": "Jackson et al., 2012, Cancer Cell",
+    "label": "Jackson et al., 2012",
     "type": "Document",
     "title": "p53-mediated senescence impairs the apoptotic response to chemotherapy and clinical outcome in breast cancer.",
     "pmid": 22698404
   },
   "civic.source:411": {
     "id": "civic.source:411",
-    "label": "Hirota et al., 2003, Gastroenterology",
+    "label": "Hirota et al., 2003",
     "type": "Document",
     "title": "Gain-of-function mutations of platelet-derived growth factor receptor alpha gene in gastrointestinal stromal tumors.",
     "pmid": 12949711
   },
+  "civic.source:468": {
+    "id": "civic.source:468",
+    "label": "Kong et al., 2016",
+    "type": "Document",
+    "title": "Analysis of mTOR Gene Aberrations in Melanoma Patients and Evaluation of Their Sensitivity to PI3K-AKT-mTOR Pathway Inhibitors.",
+    "pmid": 26490311
+  },
   "civic.source:505": {
     "id": "civic.source:505",
-    "label": "Walter et al., 2013, Cancer Discov",
+    "label": "Walter et al., 2013",
     "type": "Document",
     "title": "Discovery of a mutant-selective covalent inhibitor of EGFR that overcomes T790M-mediated resistance in NSCLC.",
     "pmid": 24065731
   },
   "civic.source:665": {
     "id": "civic.source:665",
-    "label": "Cross et al., 2014, Cancer Discov",
+    "label": "Cross et al., 2014",
     "type": "Document",
     "title": "AZD9291, an irreversible EGFR TKI, overcomes T790M-mediated resistance to EGFR inhibitors in lung cancer.",
     "pmid": 24893891
   },
+  "civic.source:691": {
+    "id": "civic.source:691",
+    "label": "Kiessling et al., 2016",
+    "type": "Document",
+    "title": "Targeting the mTOR Complex by Everolimus in NRAS Mutant Neuroblastoma.",
+    "pmid": 26821351
+  },
   "civic.source:758": {
     "id": "civic.source:758",
-    "label": "Lee et al., 2012, Proc. Natl. Acad. Sci. U.S.A.",
+    "label": "Lee et al., 2012",
     "type": "Document",
     "title": "Hedgehog pathway inhibitor saridegib (IPI-926) increases lifespan in a mouse medulloblastoma model.",
     "pmid": 22550175
   },
+  "civic.source:764": {
+    "id": "civic.source:764",
+    "label": "Antonescu et al., 2009",
+    "type": "Document",
+    "title": "KDR activating mutations in human angiosarcomas are sensitive to specific kinase inhibitors.",
+    "pmid": 19723655
+  },
   "civic.source:790": {
     "id": "civic.source:790",
-    "label": "Hatzivassiliou et al., 2013, Nature",
+    "label": "Hatzivassiliou et al., 2013",
     "type": "Document",
     "title": "Mechanism of MEK inhibition determines efficacy in mutant KRAS- versus BRAF-driven cancers.",
     "pmid": 23934108
   },
   "civic.source:952": {
     "id": "civic.source:952",
-    "label": "Byron et al., 2008, Cancer Res.",
+    "label": "Byron et al., 2008",
     "type": "Document",
     "title": "Inhibition of activated fibroblast growth factor receptor 2 in endometrial cancer cells induces cell death despite PTEN abrogation.",
     "pmid": 18757403
   },
   "civic.source:917": {
     "id": "civic.source:917",
-    "label": "Wang et al., 2016, Sci Rep",
+    "label": "Wang et al., 2016",
     "type": "Document",
     "title": "Novel ALK inhibitor AZD3463 inhibits neuroblastoma growth by overcoming crizotinib resistance and inducing apoptosis.",
     "pmid": 26786851
   },
-  "civic.source:193": {
-    "id": "civic.source:193",
-    "label": "Engelman et al., 2008, Nat. Med.",
+  "civic.source:344": {
+    "id": "civic.source:344",
+    "label": "Prahallad et al., 2012",
     "type": "Document",
-    "title": "Effective use of PI3K and MEK inhibitors to treat mutant Kras G12D and PIK3CA H1047R murine lung cancers.",
-    "pmid": 19029981
+    "title": "Unresponsiveness of colon cancer to BRAF(V600E) inhibition through feedback activation of EGFR.",
+    "pmid": 22281684
+  },
+  "civic.source:967": {
+    "id": "civic.source:967",
+    "label": "Coffee et al., 2013",
+    "type": "Document",
+    "title": "Concomitant BRAF and PI3K/mTOR blockade is required for effective treatment of BRAF(V600E) colorectal cancer.",
+    "pmid": 23549875
+  },
+  "civic.source:1005": {
+    "id": "civic.source:1005",
+    "label": "Davies et al., 2012",
+    "type": "Document",
+    "title": "Preclinical pharmacology of AZD5363, an inhibitor of AKT: pharmacodynamics, antitumor activity, and correlation of monotherapy activity with genetic background.",
+    "pmid": 22294718
+  },
+  "civic.source:1076": {
+    "id": "civic.source:1076",
+    "label": "Liu et al., 2009",
+    "type": "Document",
+    "title": "Genetic alterations in the phosphoinositide 3-kinase/Akt signaling pathway confer sensitivity of thyroid cancer cells to therapeutic targeting of Akt and mammalian target of rapamycin.",
+    "pmid": 19706758
+  },
+  "civic.source:1389": {
+    "id": "civic.source:1389",
+    "label": "Dai et al., 2013",
+    "type": "Document",
+    "title": "Large-scale analysis of PDGFRA mutations in melanomas and evaluation of their sensitivity to tyrosine kinase inhibitors imatinib and crenolanib.",
+    "pmid": 24132921
+  },
+  "civic.source:1406": {
+    "id": "civic.source:1406",
+    "label": "Migliardi et al., 2012",
+    "type": "Document",
+    "title": "Inhibition of MEK and PI3K/mTOR suppresses tumor growth but does not cause tumor regression in patient-derived xenografts of RAS-mutant colorectal carcinomas.",
+    "pmid": 22392911
   },
   "civic.source:1468": {
     "id": "civic.source:1468",
-    "label": "Baselga et al., 2016, Clin. Cancer Res.",
+    "label": "Baselga et al., 2016",
     "type": "Document",
     "title": "Relationship between Tumor Biomarkers and Efficacy in EMILIA, a Phase III Study of Trastuzumab Emtansine in HER2-Positive Metastatic Breast Cancer.",
     "pmid": 26920887
   },
   "civic.source:1515": {
     "id": "civic.source:1515",
-    "label": "Engelman et al., 2007, Cancer Res.",
+    "label": "Engelman et al., 2007",
     "type": "Document",
     "title": "PF00299804, an irreversible pan-ERBB inhibitor, is effective in lung cancer models with EGFR and ERBB2 mutations that are resistant to gefitinib.",
     "pmid": 18089823
   },
   "civic.source:1541": {
     "id": "civic.source:1541",
-    "label": "Navrkalova et al., 2013, Haematologica",
+    "label": "Navrkalova et al., 2013",
     "type": "Document",
     "title": "ATM mutations uniformly lead to ATM dysfunction in chronic lymphocytic leukemia: application of functional test using doxorubicin.",
     "pmid": 23585524
   },
   "civic.source:1526": {
     "id": "civic.source:1526",
-    "label": "Shimamura et al., 2006, Cancer Res.",
+    "label": "Shimamura et al., 2006",
     "type": "Document",
     "title": "Non-small-cell lung cancer and Ba/F3 transformed cells harboring the ERBB2 G776insV_G/C mutation are sensitive to the dual-specific epidermal growth factor receptor and ERBB2 inhibitor HKI-272.",
     "pmid": 16818618
   },
   "civic.source:1632": {
     "id": "civic.source:1632",
-    "label": "Janakiraman et al., 2010, Cancer Res.",
+    "label": "Janakiraman et al., 2010",
     "type": "Document",
     "title": "Genomic and biological characterization of exon 4 KRAS mutations in human cancer.",
     "pmid": 20570890
   },
   "civic.source:1708": {
     "id": "civic.source:1708",
-    "label": "Arjumand et al., 2016, Oncotarget",
+    "label": "Arjumand et al., 2016",
     "type": "Document",
     "title": "Phosphatidyl inositol-3 kinase (PIK3CA) E545K mutation confers cisplatin resistance and a migratory phenotype in cervical cancer cells.",
     "pmid": 27489350
   },
   "civic.source:367": {
     "id": "civic.source:367",
-    "label": "Clark et al., 2004, Blood",
+    "label": "Clark et al., 2004",
     "type": "Document",
     "title": "Variable sensitivity of FLT3 activation loop mutations to the small molecule tyrosine kinase inhibitor MLN518.",
     "pmid": 15256420
   },
   "civic.source:1731": {
     "id": "civic.source:1731",
-    "label": "Yee et al., 2004, Blood",
+    "label": "Yee et al., 2004",
     "type": "Document",
     "title": "Synergistic effect of SU11248 with cytarabine or daunorubicin on FLT3 ITD-positive leukemic cells.",
     "pmid": 15304385
   },
-  "civic.source:108": {
-    "id": "civic.source:108",
-    "label": "Yang et al., 2012, Cancer Res.",
-    "type": "Document",
-    "title": "Antitumor activity of BRAF inhibitor vemurafenib in preclinical models of BRAF-mutant colorectal cancer.",
-    "pmid": 22180495
-  },
   "civic.source:2024": {
     "id": "civic.source:2024",
-    "label": "Sato et al., 2012, Oncol. Rep.",
+    "label": "Sato et al., 2012",
     "type": "Document",
     "title": "Cetuximab inhibits the growth of mucinous ovarian carcinoma tumor cells lacking KRAS gene mutations.",
     "pmid": 22246397
   },
   "civic.source:1608": {
     "id": "civic.source:1608",
-    "label": "Lee et al., 2006, PLoS Med.",
+    "label": "Lee et al., 2006",
     "type": "Document",
     "title": "Epidermal growth factor receptor activation in glioblastoma through novel missense mutations in the extracellular domain.",
     "pmid": 17177598
   },
   "civic.source:1991": {
     "id": "civic.source:1991",
-    "label": "de Gunst et al., 2007, Mol. Cancer",
+    "label": "de Gunst et al., 2007",
     "type": "Document",
     "title": "Functional analysis of cancer-associated EGFR mutants using a cellular assay with YFP-tagged EGFR intracellular domain.",
     "pmid": 17877814
   },
   "civic.source:2081": {
     "id": "civic.source:2081",
-    "label": "Foster et al., 2010, World J Surg Oncol",
+    "label": "Foster et al., 2010",
     "type": "Document",
     "title": "Clinical implications of novel activating EGFR mutations in malignant peritoneal mesothelioma.",
     "pmid": 20942962
   },
   "civic.source:2086": {
     "id": "civic.source:2086",
-    "label": "Konduri et al., 2016, Cancer Discov",
+    "label": "Konduri et al., 2016",
     "type": "Document",
     "title": "EGFR Fusions as Novel Therapeutic Targets in Lung Cancer.",
     "pmid": 27102076
   },
+  "civic.source:1706": {
+    "id": "civic.source:1706",
+    "label": "Miller et al., 2016",
+    "type": "Document",
+    "title": "Synthetic Lethal Targeting of ARID1A-Mutant Ovarian Clear Cell Tumors with Dasatinib.",
+    "pmid": 27364904
+  },
   "civic.source:1952": {
     "id": "civic.source:1952",
-    "label": "Tsai et al., 2008, Proc. Natl. Acad. Sci. U.S.A.",
+    "label": "Tsai et al., 2008",
     "type": "Document",
     "title": "Discovery of a selective inhibitor of oncogenic B-Raf kinase with potent antimelanoma activity.",
     "pmid": 18287029
   },
   "civic.source:337": {
     "id": "civic.source:337",
-    "label": "Smalley et al., 2009, Oncogene",
+    "label": "Smalley et al., 2009",
     "type": "Document",
     "title": "CRAF inhibition induces apoptosis in melanoma cells with non-V600E BRAF mutations.",
     "pmid": 18794803
   },
   "civic.source:2397": {
     "id": "civic.source:2397",
-    "label": "Hanker et al., 2017, Cancer Discov",
+    "label": "Hanker et al., 2017",
     "type": "Document",
     "title": "An Acquired HER2T798I Gatekeeper Mutation Induces Resistance to Neratinib in a Patient with HER2 Mutant-Driven Breast Cancer.",
     "pmid": 28274957
   },
+  "civic.source:2913": {
+    "id": "civic.source:2913",
+    "label": "Gozgit et al., 2011",
+    "type": "Document",
+    "title": "Potent activity of ponatinib (AP24534) in models of FLT3-driven acute myeloid leukemia and other hematologic malignancies.",
+    "pmid": 21482694
+  },
+  "civic.source:2932": {
+    "id": "civic.source:2932",
+    "label": "Wong et al., 2007",
+    "type": "Document",
+    "title": "p53-R273H gains new function in induction of drug resistance through down-regulation of procaspase-3.",
+    "pmid": 17363498
+  },
   "civic.source:3005": {
     "id": "civic.source:3005",
-    "label": "Yao et al., 2017, Nature",
+    "label": "Yao et al., 2017",
     "type": "Document",
     "title": "Tumours with class 3 BRAF mutants are sensitive to the inhibition of activated RAS.",
     "pmid": 28783719
   },
   "civic.source:3631": {
     "id": "civic.source:3631",
-    "label": "Xie et al., 2019, Exp Ther Med",
+    "label": "Xie et al., 2019",
     "type": "Document",
     "title": "FGFR3S249C mutation promotes chemoresistance by activating Akt signaling in bladder cancer cells.",
     "pmid": 31316618
   },
   "civic.source:3500": {
     "id": "civic.source:3500",
-    "label": "Birkinshaw et al., 2019, Nat Commun",
+    "label": "Birkinshaw et al., 2019",
     "type": "Document",
     "title": "Structures of BCL-2 in complex with venetoclax reveal the molecular basis of resistance mutations.",
     "pmid": 31160589
   },
   "civic.source:4212": {
     "id": "civic.source:4212",
-    "label": "Kuo et al., 2016, Am J Cancer Res",
+    "label": "Kuo et al., 2016",
     "type": "Document",
     "title": "The role of PIM1 in the ibrutinib-resistant ABC subtype of diffuse large B-cell lymphoma.",
     "pmid": 27904766
   },
+  "civic.source:4228": {
+    "id": "civic.source:4228",
+    "label": "Lappin et al., 2022",
+    "type": "Document",
+    "title": "Cancer-Associated SF3B1 Mutations Confer a BRCA-Like Cellular Phenotype and Synthetic Lethality to PARP Inhibitors.",
+    "pmid": 35027467
+  },
   "civic.source:1683": {
     "id": "civic.source:1683",
-    "label": "Sulkowski et al., 2017, Sci Transl Med",
+    "label": "Sulkowski et al., 2017",
     "type": "Document",
     "title": "2-Hydroxyglutarate produced by neomorphic IDH mutations suppresses homologous recombination and induces PARP inhibitor sensitivity.",
     "pmid": 28148839
   },
+  "civic.source:107": {
+    "id": "civic.source:107",
+    "label": "Ji et al., 2013",
+    "type": "Document",
+    "title": "Vemurafenib synergizes with nutlin-3 to deplete survivin and suppresses melanoma viability and tumor growth.",
+    "pmid": 23812671
+  },
   "civic.source:465": {
     "id": "civic.source:465",
-    "label": "Lassen et al., 2014, Mol. Cancer",
+    "label": "Lassen et al., 2014",
     "type": "Document",
     "title": "Effects of AKT inhibitor therapy in response and resistance to BRAF inhibition in melanoma.",
     "pmid": 24735930
   },
   "civic.source:643": {
     "id": "civic.source:643",
-    "label": "Takakuwa et al., 2011, J Thorac Oncol",
+    "label": "Takakuwa et al., 2011",
     "type": "Document",
     "title": "C609T polymorphism of NAD(P)H quinone oxidoreductase 1 as a predictive biomarker for response to amrubicin.",
     "pmid": 21964527
   },
   "civic.source:669": {
     "id": "civic.source:669",
-    "label": "Hirano et al., 2015, Oncotarget",
+    "label": "Hirano et al., 2015",
     "type": "Document",
     "title": "In vitro modeling to determine mutation specificity of EGFR tyrosine kinase inhibitors against clinically relevant EGFR mutants in non-small-cell lung cancer.",
     "pmid": 26515464
   },
+  "civic.source:694": {
+    "id": "civic.source:694",
+    "label": "Penna et al., 2016",
+    "type": "Document",
+    "title": "Primary cross-resistance to BRAFV600E-, MEK1/2- and PI3K/mTOR-specific inhibitors in BRAF-mutant melanoma cells counteracted by dual pathway blockade.",
+    "pmid": 26678033
+  },
   "civic.source:808": {
     "id": "civic.source:808",
-    "label": "Engelman et al., 2006, J. Clin. Invest.",
+    "label": "Engelman et al., 2006",
     "type": "Document",
     "title": "Allelic dilution obscures detection of a biologically significant resistance mutation in EGFR-amplified lung cancer.",
     "pmid": 16906227
   },
   "civic.source:911": {
     "id": "civic.source:911",
-    "label": "Grabiner et al., 2014, Cancer Discov",
+    "label": "Grabiner et al., 2014",
     "type": "Document",
     "title": "A diverse array of cancer-associated MTOR mutations are hyperactivating and can predict rapamycin sensitivity.",
     "pmid": 24631838
   },
   "civic.source:927": {
     "id": "civic.source:927",
-    "label": "Lui et al., 2013, Cancer Discov",
+    "label": "Lui et al., 2013",
     "type": "Document",
     "title": "Frequent mutation of the PI3K pathway in head and neck cancer defines predictive biomarkers.",
     "pmid": 23619167
   },
   "civic.source:981": {
     "id": "civic.source:981",
-    "label": "Serra et al., 2008, Cancer Res.",
+    "label": "Serra et al., 2008",
     "type": "Document",
     "title": "NVP-BEZ235, a dual PI3K/mTOR inhibitor, prevents PI3K signaling and inhibits the growth of cancer cells with activating PI3K mutations.",
     "pmid": 18829560
   },
   "civic.source:984": {
     "id": "civic.source:984",
-    "label": "Zumsteg et al., 2016, Clin. Cancer Res.",
+    "label": "Zumsteg et al., 2016",
     "type": "Document",
     "title": "Taselisib (GDC-0032), a Potent \u03b2-Sparing Small Molecule Inhibitor of PI3K, Radiosensitizes Head and Neck Squamous Carcinomas Containing Activating PIK3CA Alterations.",
     "pmid": 26589432
   },
   "civic.source:988": {
     "id": "civic.source:988",
-    "label": "Atefi et al., 2011, PLoS ONE",
+    "label": "Atefi et al., 2011",
     "type": "Document",
     "title": "Reversing melanoma cross-resistance to BRAF and MEK inhibitors by co-targeting the AKT/mTOR pathway.",
     "pmid": 22194965
   },
+  "civic.source:3009": {
+    "id": "civic.source:3009",
+    "label": "Noeparast et al., 2017",
+    "type": "Document",
+    "title": "Non-V600 BRAF mutations recurrently found in lung cancer predict sensitivity to the combination of Trametinib and Dabrafenib.",
+    "pmid": 28947956
+  },
+  "civic.source:1267": {
+    "id": "civic.source:1267",
+    "label": "Umelo et al., 2016",
+    "type": "Document",
+    "title": "Identification of a novel HER3 activating mutation homologous to EGFR-L858R in lung cancer.",
+    "pmid": 26689995
+  },
   "civic.source:1396": {
     "id": "civic.source:1396",
-    "label": "Kancha et al., 2011, PLoS ONE",
+    "label": "Kancha et al., 2011",
     "type": "Document",
     "title": "Differential sensitivity of ERBB2 kinase domain mutations towards lapatinib.",
     "pmid": 22046346
   },
   "civic.source:1420": {
     "id": "civic.source:1420",
-    "label": "Rowley et al., 2000, Blood",
+    "label": "Rowley et al., 2000",
     "type": "Document",
     "title": "Heterogeneity in therapeutic response of genetically altered myeloma cell lines to interleukin 6, dexamethasone, doxorubicin, and melphalan.",
     "pmid": 11050000
   },
   "civic.source:1422": {
     "id": "civic.source:1422",
-    "label": "Hoang et al., 2006, Blood",
+    "label": "Hoang et al., 2006",
     "type": "Document",
     "title": "Oncogenic RAS mutations in myeloma cells selectively induce cox-2 expression, which participates in enhanced adhesion to fibronectin and chemoresistance.",
     "pmid": 16497971
   },
   "civic.source:1527": {
     "id": "civic.source:1527",
-    "label": "Cha et al., 2012, Int. J. Cancer",
+    "label": "Cha et al., 2012",
     "type": "Document",
     "title": "Antitumor activity of HM781-36B, a highly effective pan-HER inhibitor in erlotinib-resistant NSCLC and other EGFR-dependent cancer models.",
     "pmid": 21732342
   },
   "civic.source:1648": {
     "id": "civic.source:1648",
-    "label": "Ashida et al., 2009, Int. J. Cancer",
+    "label": "Ashida et al., 2009",
     "type": "Document",
     "title": "Pathological activation of KIT in metastatic tumors of acral and mucosal melanomas.",
     "pmid": 19035443
   },
+  "civic.source:1670": {
+    "id": "civic.source:1670",
+    "label": "Ohashi et al., 2013",
+    "type": "Document",
+    "title": "Characteristics of lung cancers harboring NRAS mutations.",
+    "pmid": 23515407
+  },
   "civic.source:1685": {
     "id": "civic.source:1685",
-    "label": "Marks et al., 2008, Cancer Res.",
+    "label": "Marks et al., 2008",
     "type": "Document",
     "title": "Novel MEK1 mutation identified by mutational analysis of epidermal growth factor receptor signaling pathway genes in lung adenocarcinoma.",
     "pmid": 18632602
   },
   "civic.source:1935": {
     "id": "civic.source:1935",
-    "label": "Camaj et al., 2015, Future Oncol",
+    "label": "Camaj et al., 2015",
     "type": "Document",
     "title": "KRAS exon 2 mutations influence activity of regorafenib in an SW48-based disease model of colorectal cancer.",
     "pmid": 26161928
   },
   "civic.source:1993": {
     "id": "civic.source:1993",
-    "label": "Harada et al., 2011, Oncogene",
+    "label": "Harada et al., 2011",
     "type": "Document",
     "title": "Characterization of epidermal growth factor receptor mutations in non-small-cell lung cancer patients of African-American ancestry.",
     "pmid": 21132006
   },
   "civic.source:2114": {
     "id": "civic.source:2114",
-    "label": "Stordal et al., 2013, Mol Oncol",
+    "label": "Stordal et al., 2013",
     "type": "Document",
     "title": "BRCA1/2 mutation analysis in 41 ovarian cell lines reveals only one functionally deleterious BRCA1 mutation.",
     "pmid": 23415752
   },
-  "civic.source:2913": {
-    "id": "civic.source:2913",
-    "label": "Gozgit et al., 2011, Mol. Cancer Ther.",
-    "type": "Document",
-    "title": "Potent activity of ponatinib (AP24534) in models of FLT3-driven acute myeloid leukemia and other hematologic malignancies.",
-    "pmid": 21482694
-  },
-  "civic.source:3161": {
-    "id": "civic.source:3161",
-    "label": "Li et al., 2015, Nat. Med.",
-    "type": "Document",
-    "title": "Negative feedback-defective PRPS1 mutants drive thiopurine resistance in relapsed childhood ALL.",
-    "pmid": 25962120
-  },
   "civic.source:3336": {
     "id": "civic.source:3336",
-    "label": "Lee et al., 2017, Blood",
+    "label": "Lee et al., 2017",
     "type": "Document",
     "title": "Preclinical studies of gilteritinib, a next-generation FLT3 inhibitor.",
     "pmid": 27908881
   },
+  "civic.source:4010": {
+    "id": "civic.source:4010",
+    "label": "Toledo et al., 2018",
+    "type": "Document",
+    "title": "Exome Sequencing of Plasma DNA Portrays the Mutation Landscape of Colorectal Cancer and Discovers Mutated VEGFR2 Receptors as Modulators of Antiangiogenic Therapies.",
+    "pmid": 29588308
+  },
   "civic.source:529": {
     "id": "civic.source:529",
-    "label": "Puyol et al., 2010, Cancer Cell",
+    "label": "Puyol et al., 2010",
     "type": "Document",
     "title": "A synthetic lethal interaction between K-Ras oncogenes and Cdk4 unveils a therapeutic strategy for non-small cell lung carcinoma.",
     "pmid": 20609353
   },
   "civic.source:926": {
     "id": "civic.source:926",
-    "label": "Wirtz et al., 2015, JAMA Otolaryngol Head Neck Surg",
+    "label": "Wirtz et al., 2015",
     "type": "Document",
     "title": "Response of head and neck squamous cell carcinoma cells carrying PIK3CA mutations to selected targeted therapies.",
     "pmid": 25855885
   },
   "civic.source:932": {
     "id": "civic.source:932",
-    "label": "Young et al., 2014, Pigment Cell Melanoma Res",
+    "label": "Young et al., 2014",
     "type": "Document",
     "title": "Loss of CDKN2A expression is a frequent event in primary invasive melanoma and correlates with sensitivity to the CDK4/6 inhibitor PD0332991 in melanoma cell lines.",
     "pmid": 24495407
   },
   "civic.source:949": {
     "id": "civic.source:949",
-    "label": "Keam et al., 2015, Anticancer Res.",
+    "label": "Keam et al., 2015",
     "type": "Document",
     "title": "In vitro anticancer activity of PI3K alpha selective inhibitor BYL719 in head and neck cancer.",
     "pmid": 25550549
   },
   "civic.source:2070": {
     "id": "civic.source:2070",
-    "label": "Ray et al., 2016, Oncotarget",
+    "label": "Ray et al., 2016",
     "type": "Document",
     "title": "Differential protein stability of EGFR mutants determines responsiveness to tyrosine kinase inhibitors.",
     "pmid": 27612423
   },
+  "civic.source:982": {
+    "id": "civic.source:982",
+    "label": "Heidorn et al., 2010",
+    "type": "Document",
+    "title": "Kinase-dead BRAF and oncogenic RAS cooperate to drive tumor progression through CRAF.",
+    "pmid": 20141835
+  },
   "civic.source:834": {
     "id": "civic.source:834",
-    "label": "Jennis et al., 2016, Genes Dev.",
+    "label": "Jennis et al., 2016",
     "type": "Document",
     "title": "An African-specific polymorphism in the TP53 gene impairs p53 tumor suppressor function in a mouse model.",
     "pmid": 27034505
   },
   "civic.source:446": {
     "id": "civic.source:446",
-    "label": "Agelopoulos et al., 2015, Clin. Cancer Res.",
+    "label": "Agelopoulos et al., 2015",
     "type": "Document",
     "title": "Deep Sequencing in Conjunction with Expression and Functional Analyses Reveals Activation of FGFR1 in Ewing Sarcoma.",
     "pmid": 26179511
   },
+  "civic.source:2672": {
+    "id": "civic.source:2672",
+    "label": "Strickler et al., 2018",
+    "type": "Document",
+    "title": "Genomic Landscape of Cell-Free DNA in Patients with Colorectal Cancer.",
+    "pmid": 29196463
+  },
+  "civic.source:2817": {
+    "id": "civic.source:2817",
+    "label": "Alvi et al., 2017",
+    "type": "Document",
+    "title": "Molecular profiling of signet ring cell colorectal cancer provides a strong rationale for genomic targeted and immune checkpoint inhibitor therapies.",
+    "pmid": 28595259
+  },
   "civic.source:184": {
     "id": "civic.source:184",
-    "label": "Ai et al., 2014, Amino Acids",
+    "label": "Ai et al., 2014",
     "type": "Document",
     "title": "A systematic profile of clinical inhibitors responsive to EGFR somatic amino acid mutations in lung cancer: implication for the molecular mechanism of drug resistance and sensitivity.",
     "pmid": 24658966

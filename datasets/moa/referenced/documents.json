@@ -1,6 +1,6 @@
 {
-  "moa.source:44": {
-    "id": "moa.source:44",
+  "moa.source:43": {
+    "id": "moa.source:43",
     "extensions": [
       {
         "type": "Extension",
@@ -9,13 +9,13 @@
       }
     ],
     "type": "Document",
-    "title": "Gorre, Mercedes E., et al. \"Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification.\" Science 293.5531 (2001): 876-880.",
+    "title": "Gorre, Mercedes E., et al. Clinical resistance to STI-571 cancer therapy caused by BCR-ABL gene mutation or amplification. Science 293.5531 (2001): 876-880.",
     "url": "https://doi.org/10.1126/science.1062538",
     "doi": "10.1126/science.1062538",
     "pmid": 11423618
   },
-  "moa.source:45": {
-    "id": "moa.source:45",
+  "moa.source:44": {
+    "id": "moa.source:44",
     "extensions": [
       {
         "type": "Extension",
@@ -29,8 +29,8 @@
     "doi": "10.1182/blood-2010-12-326405",
     "pmid": 27760149
   },
-  "moa.source:46": {
-    "id": "moa.source:46",
+  "moa.source:45": {
+    "id": "moa.source:45",
     "extensions": [
       {
         "type": "Extension",
@@ -39,11 +39,26 @@
       }
     ],
     "type": "Document",
-    "title": "National Comprehensive Cancer Network. Chronic Myeloid Leukemia NCCN Evidence Blocks (Version 1.2019). https://www.nccn.org/professionals/physician_gls/pdf/cml_blocks.pdf. Accessed August 9th, 2019.",
+    "title": "Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines\u00ae) for Chronic Myelogenous Leukemia V.2.2016. \u00a9 National Comprehensive Cancer Network, Inc. 2016. All rights reserved. Accessed August 9 2016. To view the most recent and complete version of the guideline, go online to NCCN.org.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/cml_blocks.pdf"
   },
-  "moa.source:49": {
-    "id": "moa.source:49",
+  "moa.source:46": {
+    "id": "moa.source:46",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Davies BR, Guan N, Logie A, et al. Tumors with AKT1 E17K Mutations Are Rational Targets for Single Agent or Combination Therapy with AKT Inhibitors. Mol Cancer Ther. 2015;14(11):2441-51.",
+    "url": "https://doi.org/10.1158/1535-7163.MCT-15-0230",
+    "doi": "10.1158/1535-7163.MCT-15-0230",
+    "pmid": 26351323
+  },
+  "moa.source:48": {
+    "id": "moa.source:48",
     "extensions": [
       {
         "type": "Extension",
@@ -57,8 +72,8 @@
     "doi": "10.1158/2159-8290.CD-13-0846",
     "pmid": 24675041
   },
-  "moa.source:50": {
-    "id": "moa.source:50",
+  "moa.source:49": {
+    "id": "moa.source:49",
     "extensions": [
       {
         "type": "Extension",
@@ -72,8 +87,8 @@
     "doi": "10.1158/1078-0432.CCR-14-1220",
     "pmid": 25320358
   },
-  "moa.source:51": {
-    "id": "moa.source:51",
+  "moa.source:50": {
+    "id": "moa.source:50",
     "extensions": [
       {
         "type": "Extension",
@@ -87,8 +102,8 @@
     "doi": "10.1172/JCI72763",
     "pmid": 24569458
   },
-  "moa.source:56": {
-    "id": "moa.source:56",
+  "moa.source:55": {
+    "id": "moa.source:55",
     "extensions": [
       {
         "type": "Extension",
@@ -102,8 +117,8 @@
     "doi": "10.1016/j.tranon.2017.01.007",
     "pmid": 28182994
   },
-  "moa.source:61": {
-    "id": "moa.source:61",
+  "moa.source:60": {
+    "id": "moa.source:60",
     "extensions": [
       {
         "type": "Extension",
@@ -115,8 +130,8 @@
     "title": "Novartis Pharmaceuticals Corporation. Tafinlar (dabrafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202806s015lbl.pdf"
   },
-  "moa.source:62": {
-    "id": "moa.source:62",
+  "moa.source:61": {
+    "id": "moa.source:61",
     "extensions": [
       {
         "type": "Extension",
@@ -128,8 +143,8 @@
     "title": "Novartis Pharmaceuticals Corporation. Mekinist (trametinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/204114s016lbl.pdf"
   },
-  "moa.source:63": {
-    "id": "moa.source:63",
+  "moa.source:62": {
+    "id": "moa.source:62",
     "extensions": [
       {
         "type": "Extension",
@@ -141,8 +156,8 @@
     "title": "Array BioPharma Inc. Braftovi (encorafenib) [package insert]. U.S. Food and Drug Administration website. www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf. Revised April 2020. Accessed October 15, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/210496s006lbl.pdf"
   },
-  "moa.source:64": {
-    "id": "moa.source:64",
+  "moa.source:63": {
+    "id": "moa.source:63",
     "extensions": [
       {
         "type": "Extension",
@@ -154,8 +169,8 @@
     "title": "Genentech, Inc. Zelboraf (vemurafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf"
   },
-  "moa.source:65": {
-    "id": "moa.source:65",
+  "moa.source:64": {
+    "id": "moa.source:64",
     "extensions": [
       {
         "type": "Extension",
@@ -164,8 +179,21 @@
       }
     ],
     "type": "Document",
-    "title": "National Comprehensive Cancer Network. Colon Cancer NCCN Evidence Blocks (Version 4.2018). https://www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf. Accessed March 20th, 2019.",
+    "title": "Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines\u00ae) for Colon Cancer V.4.2018. \u00a9 National Comprehensive Cancer Network, Inc. 2018. All rights reserved. Accessed March 20 2019. To view the most recent and complete version of the guideline, go online to NCCN.org.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/colon_blocks.pdf"
+  },
+  "moa.source:66": {
+    "id": "moa.source:66",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Guideline"
+      }
+    ],
+    "type": "Document",
+    "title": "Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines\u00ae) for Melanoma V.3.2016. \u00a9 National Comprehensive Cancer Network, Inc. 2016. All rights reserved. Accessed November 5 2016. To view the most recent and complete version of the guideline, go online to NCCN.org.",
+    "url": "https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf"
   },
   "moa.source:67": {
     "id": "moa.source:67",
@@ -173,15 +201,26 @@
       {
         "type": "Extension",
         "name": "source_type",
-        "value": "Guideline"
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT01673854"
+        },
+        "relation": "exactMatch"
       }
     ],
     "type": "Document",
-    "title": "National Comprehensive Cancer Network. Melanoma NCCN Evidence Blocks (Version 3.2016). https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf",
-    "url": "https://www.nccn.org/professionals/physician_gls/pdf/melanoma_blocks.pdf"
+    "title": "Amin A, Lawson DH, Salama AK, et al. Phase II study of vemurafenib followed by ipilimumab in patients with previously untreated BRAF-mutated metastatic melanoma. J Immunother Cancer. 2016;4:44.",
+    "url": "https://doi.org/10.1186/s40425-016-0148-7",
+    "doi": "10.1186/s40425-016-0148-7",
+    "pmid": 27532019
   },
-  "moa.source:70": {
-    "id": "moa.source:70",
+  "moa.source:68": {
+    "id": "moa.source:68",
     "extensions": [
       {
         "type": "Extension",
@@ -193,10 +232,10 @@
     "title": "Caporali S, Alvino E, Lacal PM, et al. Targeting the PI3K/AKT/mTOR pathway overcomes the stimulating effect of dabrafenib on the invasive behavior of melanoma cells with acquired resistance to the BRAF inhibitor. Int J Oncol. 2016;49(3):1164-74.",
     "url": "https://doi.org/10.3892/ijo.2016.3594",
     "doi": "10.3892/ijo.2016.3594",
-    "pmid": 27572939
+    "pmid": 27572607
   },
-  "moa.source:72": {
-    "id": "moa.source:72",
+  "moa.source:70": {
+    "id": "moa.source:70",
     "extensions": [
       {
         "type": "Extension",
@@ -206,12 +245,12 @@
     ],
     "type": "Document",
     "title": "Fondello C, Agnetti L, Villaverde MS, Simian M, Glikin GC, Finocchiaro LM. The combination of bleomycin with suicide or interferon-beta gene transfer is able to efficiently eliminate human melanoma tumor initiating cells. Biomed Pharmacother. 2016;83:290-301.",
-    "url": "https://doi.org/10.1016/j.biopha.2016638",
-    "doi": "10.1016/j.biopha.2016638",
+    "url": "https://doi.org/10.1016/j.biopha.2016.06.038",
+    "doi": "10.1016/j.biopha.2016.06.038",
     "pmid": 27399807
   },
-  "moa.source:74": {
-    "id": "moa.source:74",
+  "moa.source:72": {
+    "id": "moa.source:72",
     "extensions": [
       {
         "type": "Extension",
@@ -234,8 +273,8 @@
     "doi": "10.1056/NEJMoa1502309",
     "pmid": 26287849
   },
-  "moa.source:75": {
-    "id": "moa.source:75",
+  "moa.source:73": {
+    "id": "moa.source:73",
     "extensions": [
       {
         "type": "Extension",
@@ -249,8 +288,38 @@
     "doi": "10.18632/oncotarget.12328",
     "pmid": 27690220
   },
-  "moa.source:53": {
-    "id": "moa.source:53",
+  "moa.source:74": {
+    "id": "moa.source:74",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Klempner SJ, Gershenhorn B, Tran P, et al. BRAFV600E Mutations in High-Grade Colorectal Neuroendocrine Tumors May Predict Responsiveness to BRAF-MEK Combination Therapy. Cancer Discov. 2016;6(6):594-600.",
+    "url": "https://doi.org/10.1158/2159-8290.CD-15-1192",
+    "doi": "10.1158/2159-8290.CD-15-1192",
+    "pmid": 27048246
+  },
+  "moa.source:75": {
+    "id": "moa.source:75",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Suarez-kelly LP, Kemper GM, Duggan MC, et al. The combination of MLN2238 (ixazomib) with interferon-alpha results in enhanced cell death in melanoma. Oncotarget. 2016;",
+    "url": "https://doi.org/10.18632/oncotarget.12791",
+    "doi": "10.18632/oncotarget.12791",
+    "pmid": 27783987
+  },
+  "moa.source:52": {
+    "id": "moa.source:52",
     "extensions": [
       {
         "type": "Extension",
@@ -264,8 +333,23 @@
     "doi": "10.1038/ncomms7744",
     "pmid": 25855536
   },
-  "moa.source:91": {
-    "id": "moa.source:91",
+  "moa.source:77": {
+    "id": "moa.source:77",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "type": "Document",
+    "title": "Yao TW, Zhang J, Prados M, Weiss WA, James CD, Nicolaides T. EGFR blockade prevents glioma escape from BRAFV600E targeted therapy. Oncotarget. 2015;6(26):21993-2005.",
+    "url": "https://doi.org/10.18632/oncotarget.4014",
+    "doi": "10.18632/oncotarget.4014",
+    "pmid": 26023796
+  },
+  "moa.source:89": {
+    "id": "moa.source:89",
     "extensions": [
       {
         "type": "Extension",
@@ -277,8 +361,8 @@
     "title": "AstraZeneca Pharmaceuticals, LP. Tagrisso (osimertinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s016lbl.pdf. Revised May 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/208065s016lbl.pdf"
   },
-  "moa.source:92": {
-    "id": "moa.source:92",
+  "moa.source:20": {
+    "id": "moa.source:20",
     "extensions": [
       {
         "type": "Extension",
@@ -287,11 +371,35 @@
       }
     ],
     "type": "Document",
-    "title": "National Comprehensive Cancer Network. Non-Small Cell Lung Cancer NCCN Evidence Blocks (Version 1.2017). Accessed November 5, 2016.",
+    "title": "Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines\u00ae) for Non-Small Lung Cancer V.1.2017. \u00a9 National Comprehensive Cancer Network, Inc. 2017. All rights reserved. Accessed November 5, 2016. To view the most recent and complete version of the guideline, go online to NCCN.org.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/nscl_blocks.pdf"
   },
-  "moa.source:95": {
-    "id": "moa.source:95",
+  "moa.source:90": {
+    "id": "moa.source:90",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "Journal"
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://clinicaltrials.gov/search?term=",
+          "code": "NCT02143466"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Document",
+    "title": "Ahn MJ, Yang J, Yu H, et al. 136O: Osimertinib combined with durvalumab in EGFR-mutant non-small cell lung cancer: Results from the TATTON phase Ib trial. J Thorac Oncol. 2016;11(4 Suppl):S115.",
+    "url": "https://doi.org/10.1016/S1556-0864(16)30246-5",
+    "doi": "10.1016/S1556-0864(16)30246-5",
+    "pmid": 27599705
+  },
+  "moa.source:91": {
+    "id": "moa.source:91",
     "extensions": [
       {
         "type": "Extension",
@@ -313,8 +421,8 @@
     "url": "https://doi.org/10.1016/S1556-0864(16)30243-X",
     "doi": "10.1016/S1556-0864(16)30243-X"
   },
-  "moa.source:99": {
-    "id": "moa.source:99",
+  "moa.source:92": {
+    "id": "moa.source:92",
     "extensions": [
       {
         "type": "Extension",
@@ -326,43 +434,19 @@
       {
         "coding": {
           "system": "https://clinicaltrials.gov/search?term=",
-          "code": "NCT01774721"
+          "code": "NCT01708954"
         },
         "relation": "exactMatch"
       }
     ],
     "type": "Document",
     "title": "Ke EE, Wu YL. EGFR as a Pharmacological Target in EGFR-Mutant Non-Small-Cell Lung Cancer: Where Do We Stand Now?. Trends Pharmacol Sci. 2016;37(11):887-903.",
-    "url": "https://doi.org/10.1016/j.tips.2016903",
-    "doi": "10.1016/j.tips.2016903",
+    "url": "https://doi.org/ 10.1016/j.tips.2016.09.003",
+    "doi": "10.1016/j.tips.2016.09.003",
     "pmid": 27717507
   },
-  "moa.source:101": {
-    "id": "moa.source:101",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "source_type",
-        "value": "Journal"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://clinicaltrials.gov/search?term=",
-          "code": "NCT02094261"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Document",
-    "title": "Ke EE, Wu YL. EGFR as a Pharmacological Target in EGFR-Mutant Non-Small-Cell Lung Cancer: Where Do We Stand Now?. Trends Pharmacol Sci. 2016;37(11):887-903.",
-    "url": "https://doi.org/10.1016/j.tips.2016903",
-    "doi": "10.1016/j.tips.2016903",
-    "pmid": 27717507
-  },
-  "moa.source:102": {
-    "id": "moa.source:102",
+  "moa.source:93": {
+    "id": "moa.source:93",
     "extensions": [
       {
         "type": "Extension",
@@ -385,8 +469,8 @@
     "doi": "10.1056/NEJMoa1413654",
     "pmid": 25923550
   },
-  "moa.source:104": {
-    "id": "moa.source:104",
+  "moa.source:95": {
+    "id": "moa.source:95",
     "extensions": [
       {
         "type": "Extension",
@@ -400,8 +484,8 @@
     "doi": "10.1186/s13045-016-0268-z",
     "pmid": 27071706
   },
-  "moa.source:105": {
-    "id": "moa.source:105",
+  "moa.source:96": {
+    "id": "moa.source:96",
     "extensions": [
       {
         "type": "Extension",
@@ -415,8 +499,8 @@
     "doi": "10.1093/annonc/mdt573",
     "pmid": 24478319
   },
-  "moa.source:106": {
-    "id": "moa.source:106",
+  "moa.source:97": {
+    "id": "moa.source:97",
     "extensions": [
       {
         "type": "Extension",
@@ -428,8 +512,8 @@
     "title": "Boehringer Ingelheim Pharmaceuticals, Inc. Gilotrif (afatinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/201292s015lbl.pdf. Revised October 2019. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/201292s015lbl.pdf"
   },
-  "moa.source:108": {
-    "id": "moa.source:108",
+  "moa.source:98": {
+    "id": "moa.source:98",
     "extensions": [
       {
         "type": "Extension",
@@ -443,8 +527,8 @@
     "doi": "10.1056/NEJMoa1713137",
     "pmid": 29151359
   },
-  "moa.source:109": {
-    "id": "moa.source:109",
+  "moa.source:99": {
+    "id": "moa.source:99",
     "extensions": [
       {
         "type": "Extension",
@@ -471,8 +555,8 @@
     "doi": "10.1371/journal.pgen.1004135",
     "pmid": 24550739
   },
-  "moa.source:116": {
-    "id": "moa.source:116",
+  "moa.source:106": {
+    "id": "moa.source:106",
     "extensions": [
       {
         "type": "Extension",
@@ -484,8 +568,8 @@
     "title": "Epizyme, Inc. Tazverik (tazemetostat) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213400s000lbl.pdf. Revised June 2020. Accessed November 4th, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/213400s000lbl.pdf"
   },
-  "moa.source:27": {
-    "id": "moa.source:27",
+  "moa.source:26": {
+    "id": "moa.source:26",
     "extensions": [
       {
         "type": "Extension",
@@ -494,11 +578,11 @@
       }
     ],
     "type": "Document",
-    "title": "Janssen Products, LP. Balversa (erdafitinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125427s108lbl.pdf. Revised April 2020. Accessed November 12, 2020.",
-    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/125427s108lbl.pdf"
+    "title": "Janssen Products, LP. Balversa (erdafitinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212018s007s008s009lbl.pdf. Revised January 2024. Accessed January 25, 2024.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/212018s007s008s009lbl.pdf"
   },
-  "moa.source:120": {
-    "id": "moa.source:120",
+  "moa.source:110": {
+    "id": "moa.source:110",
     "extensions": [
       {
         "type": "Extension",
@@ -512,8 +596,8 @@
     "doi": "10.1038/leu.2013.14",
     "pmid": 23392356
   },
-  "moa.source:121": {
-    "id": "moa.source:121",
+  "moa.source:111": {
+    "id": "moa.source:111",
     "extensions": [
       {
         "type": "Extension",
@@ -527,8 +611,8 @@
     "doi": "10.1038/sj.leu.2404374",
     "pmid": 16990784
   },
-  "moa.source:122": {
-    "id": "moa.source:122",
+  "moa.source:112": {
+    "id": "moa.source:112",
     "extensions": [
       {
         "type": "Extension",
@@ -542,8 +626,8 @@
     "doi": "10.1038/nature11143",
     "pmid": 22722193
   },
-  "moa.source:126": {
-    "id": "moa.source:126",
+  "moa.source:115": {
+    "id": "moa.source:115",
     "extensions": [
       {
         "type": "Extension",
@@ -555,8 +639,8 @@
     "title": "Servier Pharmaceuticals LLC. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211192_s008lbl.pdf. Revised August 2021. Accessed September 2nd, 2021.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211192_s008lbl.pdf"
   },
-  "moa.source:127": {
-    "id": "moa.source:127",
+  "moa.source:116": {
+    "id": "moa.source:116",
     "extensions": [
       {
         "type": "Extension",
@@ -577,8 +661,8 @@
     "title": "Celgene Corporation. Idhifa (enasidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209606s002lbl.pdf. Revised September 2019. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/209606s002lbl.pdf"
   },
-  "moa.source:129": {
-    "id": "moa.source:129",
+  "moa.source:118": {
+    "id": "moa.source:118",
     "extensions": [
       {
         "type": "Extension",
@@ -592,8 +676,8 @@
     "doi": "10.1182/blood-2015-03-635821",
     "pmid": 26443624
   },
-  "moa.source:132": {
-    "id": "moa.source:132",
+  "moa.source:121": {
+    "id": "moa.source:121",
     "extensions": [
       {
         "type": "Extension",
@@ -605,8 +689,8 @@
     "title": "Bayer HealthCare Pharmaceuticals, Inc. Stivarga (regorafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203085s013lbl.pdf. Revised June 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/203085s013lbl.pdf"
   },
-  "moa.source:133": {
-    "id": "moa.source:133",
+  "moa.source:122": {
+    "id": "moa.source:122",
     "extensions": [
       {
         "type": "Extension",
@@ -618,8 +702,8 @@
     "title": "Pfizer, Inc. Sutent (sunitinib malate) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021938s037lbl.pdf. Revised August 2020. Accessed November 12, 2020.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/021938s037lbl.pdf"
   },
-  "moa.source:135": {
-    "id": "moa.source:135",
+  "moa.source:124": {
+    "id": "moa.source:124",
     "extensions": [
       {
         "type": "Extension",
@@ -628,11 +712,11 @@
       }
     ],
     "type": "Document",
-    "title": "National Comprehensive Cancer Network. Cutaneous Melanoma NCCN Evidence Blocks (Version 2.2019). https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma_blocks.pdf. Accessed August 12, 2019.",
+    "title": "Referenced with permission from the NCCN Clinical Practice Guidelines in Oncology (NCCN Guidelines\u00ae) for Cutaneous Melanoma V.2.2019. \u00a9 National Comprehensive Cancer Network, Inc. 2019. All rights reserved. Accessed August 12 2019. To view the most recent and complete version of the guideline, go online to NCCN.org.",
     "url": "https://www.nccn.org/professionals/physician_gls/pdf/cutaneous_melanoma_blocks.pdf"
   },
-  "moa.source:138": {
-    "id": "moa.source:138",
+  "moa.source:127": {
+    "id": "moa.source:127",
     "extensions": [
       {
         "type": "Extension",
@@ -641,11 +725,11 @@
       }
     ],
     "type": "Document",
-    "title": "Blueprint Medicines Corporation. Ayvakit (avapritinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf. Accessed September 2nd, 2021.",
+    "title": "Blueprint Medicines Corporation. Ayvakit (avapritinib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf. Revised June 2021. Accessed September 2nd, 2021.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/212608s007lbl.pdf"
   },
-  "moa.source:142": {
-    "id": "moa.source:142",
+  "moa.source:130": {
+    "id": "moa.source:130",
     "extensions": [
       {
         "type": "Extension",
@@ -657,30 +741,8 @@
     "title": "Amgen Inc. Lumakras (sotorasib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214665s000lbl.pdf. Revised May 2021. Accessed June 1st, 2021.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/214665s000lbl.pdf"
   },
-  "moa.source:143": {
-    "id": "moa.source:143",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "source_type",
-        "value": "Abstract"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://clinicaltrials.gov/search?term=",
-          "code": "NCT03600883"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Document",
-    "title": "J Clin Oncol 37, 2019 (suppl; abstr 3003)",
-    "url": "https://abstracts.asco.org/239/AbstView_239_268371.html"
-  },
-  "moa.source:71": {
-    "id": "moa.source:71",
+  "moa.source:69": {
+    "id": "moa.source:69",
     "extensions": [
       {
         "type": "Extension",
@@ -690,12 +752,12 @@
     ],
     "type": "Document",
     "title": "Emery CM, Vijayendran KG, Zipser MC, et al. MEK1 mutations confer resistance to MEK and B-RAF inhibition. Proc Natl Acad Sci USA. 2009;106(48):20411-6.",
-    "url": "https://doi.org/10.1073/pnas905833106",
-    "doi": "10.1073/pnas905833106",
+    "url": "https://doi.org/10.1073/pnas.0905833106",
+    "doi": "10.1073/pnas.0905833106",
     "pmid": 19915144
   },
-  "moa.source:151": {
-    "id": "moa.source:151",
+  "moa.source:138": {
+    "id": "moa.source:138",
     "extensions": [
       {
         "type": "Extension",
@@ -709,8 +771,8 @@
     "doi": "10.1158/0008-5472.CAN-08-0099",
     "pmid": 18632602
   },
-  "moa.source:152": {
-    "id": "moa.source:152",
+  "moa.source:139": {
+    "id": "moa.source:139",
     "extensions": [
       {
         "type": "Extension",
@@ -719,13 +781,13 @@
       }
     ],
     "type": "Document",
-    "title": "Trunzer, Kerstin, et al. \"Pharmacodynamic effects and mechanisms of resistance to vemurafenib in patients with metastatic melanoma.\" Journal of Clinical Oncology 31.14 (2013): 1767-1774.",
+    "title": "Trunzer, Kerstin, et al. Pharmacodynamic effects and mechanisms of resistance to vemurafenib in patients with metastatic melanoma. Journal of Clinical Oncology 31.14 (2013): 1767-1774.",
     "url": "https://doi.org/10.1200/JCO.2012.44.7888",
     "doi": "10.1200/JCO.2012.44.7888",
     "pmid": 23569304
   },
-  "moa.source:153": {
-    "id": "moa.source:153",
+  "moa.source:140": {
+    "id": "moa.source:140",
     "extensions": [
       {
         "type": "Extension",
@@ -739,8 +801,8 @@
     "doi": "10.1200/JCO.2010.33.2312",
     "pmid": 21383288
   },
-  "moa.source:79": {
-    "id": "moa.source:79",
+  "moa.source:76": {
+    "id": "moa.source:76",
     "extensions": [
       {
         "type": "Extension",
@@ -749,13 +811,13 @@
       }
     ],
     "type": "Document",
-    "title": "Wagle, Nikhil, et al. \"MAP kinase pathway alterations in BRAF-mutant melanoma patients with acquired resistance to combined RAF/MEK inhibition.\" Cancer discovery 4.1 (2014): 61-68.",
+    "title": "Wagle, Nikhil, et al. MAP kinase pathway alterations in BRAF-mutant melanoma patients with acquired resistance to combined RAF/MEK inhibition. Cancer discovery 4.1 (2014): 61-68.",
     "url": "https://doi.org/10.1158/2159-8290.CD-13-0631",
     "doi": "10.1158/2159-8290.CD-13-0631",
     "pmid": 24265154
   },
-  "moa.source:154": {
-    "id": "moa.source:154",
+  "moa.source:141": {
+    "id": "moa.source:141",
     "extensions": [
       {
         "type": "Extension",
@@ -769,8 +831,8 @@
     "doi": "10.1001/jamaoncol.2015.34",
     "pmid": 26181029
   },
-  "moa.source:156": {
-    "id": "moa.source:156",
+  "moa.source:143": {
+    "id": "moa.source:143",
     "extensions": [
       {
         "type": "Extension",
@@ -784,8 +846,8 @@
     "doi": "10.1158/0008-5472.CAN-08-2881",
     "pmid": 19318576
   },
-  "moa.source:162": {
-    "id": "moa.source:162",
+  "moa.source:149": {
+    "id": "moa.source:149",
     "extensions": [
       {
         "type": "Extension",
@@ -799,8 +861,8 @@
     "doi": "10.1200/JCO.2007.14.4956",
     "pmid": 18390968
   },
-  "moa.source:59": {
-    "id": "moa.source:59",
+  "moa.source:58": {
+    "id": "moa.source:58",
     "extensions": [
       {
         "type": "Extension",
@@ -814,8 +876,8 @@
     "doi": "10.1158/1078-0432.CCR-09-2828",
     "pmid": 20453058
   },
-  "moa.source:174": {
-    "id": "moa.source:174",
+  "moa.source:159": {
+    "id": "moa.source:159",
     "extensions": [
       {
         "type": "Extension",
@@ -829,8 +891,8 @@
     "doi": "10.1093/annonc/mdy137",
     "pmid": 29912274
   },
-  "moa.source:252": {
-    "id": "moa.source:252",
+  "moa.source:235": {
+    "id": "moa.source:235",
     "extensions": [
       {
         "type": "Extension",
@@ -842,8 +904,8 @@
     "title": "Servier Pharmaceuticals LLC. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211192s009lbl.pdf. Revised May 2022. Accessed July 7th, 2022.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/211192s009lbl.pdf"
   },
-  "moa.source:272": {
-    "id": "moa.source:272",
+  "moa.source:254": {
+    "id": "moa.source:254",
     "extensions": [
       {
         "type": "Extension",
@@ -855,8 +917,8 @@
     "title": "Metrics Contract Services. Rezlidhia (olutasidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf. Revised December 2022. Accessed January 5, 2023.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/215814s000lbl.pdf"
   },
-  "moa.source:273": {
-    "id": "moa.source:273",
+  "moa.source:255": {
+    "id": "moa.source:255",
     "extensions": [
       {
         "type": "Extension",
@@ -867,5 +929,57 @@
     "type": "Document",
     "title": "Mirati Therapeutics, Inc. Krazati (adagrasib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216340Orig1s000Corrected_lbl.pdf. Revised Dec 2022. Accessed January 5th, 2023.",
     "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/216340Orig1s000Corrected_lbl.pdf"
+  },
+  "moa.source:258": {
+    "id": "moa.source:258",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Novartis Pharmaceuticals Corporation. Tafinlar (dabrafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202806s025lbl.pdf. Revised March 2023. Accessed April 6, 2023.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/202806s025lbl.pdf"
+  },
+  "moa.source:268": {
+    "id": "moa.source:268",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Agios Pharmaceuticals, Inc.. Tibsovo (ivosidenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf. Revised October 2023. Accessed November 1, 2023.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/211192s011lbl.pdf"
+  },
+  "moa.source:269": {
+    "id": "moa.source:269",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Array BioPharma Inc. Braftovi (encorafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/210496s014lbl.pdf. Revised October 2023. Accessed November 1, 2023.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2023/210496s014lbl.pdf"
+  },
+  "moa.source:273": {
+    "id": "moa.source:273",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "source_type",
+        "value": "FDA"
+      }
+    ],
+    "type": "Document",
+    "title": "Genentech, Inc. Zelboraf (vemurafenib) [package insert]. U.S. Food and Drug Administration website. https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf. Revised May 2020. Accessed January 30, 2024.",
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/202429s019lbl.pdf"
   }
 }
