@@ -142,7 +142,7 @@
       {
         "type": "Extension",
         "name": "CIViC Molecular Profile Score",
-        "value": 1363.5
+        "value": 1378.5
       },
       {
         "type": "Extension",
@@ -211,8 +211,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "V640E",
       "VAL600GLU",
+      "V640E",
       "VAL640GLU"
     ],
     "members": [
@@ -2192,9 +2192,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "H166R",
       "HIS167ARG",
-      "H131R"
+      "H131R",
+      "H166R"
     ],
     "members": [
       {
@@ -3370,8 +3370,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "A893S",
-      "SER893THR"
+      "SER893THR",
+      "A893S"
     ],
     "members": [
       {
@@ -4835,8 +4835,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "3435C-T",
       "T3435C",
+      "3435C-T",
       "ILE1145="
     ],
     "members": [
@@ -5760,9 +5760,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "Y102C",
       "TYR234CYS",
-      "Y195C",
-      "Y102C"
+      "Y195C"
     ],
     "members": [
       {
@@ -7615,9 +7615,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "V556DEL",
-      "V559DEL",
       "V555DEL",
+      "V559DEL",
+      "V556DEL",
       "VAL560DEL"
     ],
     "members": [
@@ -7754,8 +7754,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "GLN1178TER",
-      "Q1178X"
+      "Q1178X",
+      "GLN1178TER"
     ],
     "members": [
       {
@@ -9153,9 +9153,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP1246VAL",
       "ASP1228VAL",
-      "D1246V"
+      "D1246V",
+      "ASP1246VAL"
     ],
     "definingContext": {
       "id": "ga4gh:VA._8jTS8nAvWwPZGOadQuD1o-tbbTQ5g3H",
@@ -16480,8 +16480,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "LEU747_SER752DELINSGLN",
-      "DEL L747-S752INSQ"
+      "DEL L747-S752INSQ",
+      "LEU747_SER752DELINSGLN"
     ],
     "members": [
       {
@@ -17017,9 +17017,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "L725S",
+      "L740S",
       "LEU755SER",
-      "L740S"
+      "L725S"
     ],
     "members": [
       {
@@ -18105,12 +18105,12 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "D769Y",
       "ASP769TYR",
-      "D739Y",
-      "ASP754TYR",
+      "D754Y",
       "ASP739TYR",
-      "D754Y"
+      "D769Y",
+      "ASP754TYR",
+      "D739Y"
     ],
     "members": [
       {
@@ -19582,9 +19582,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "ASP1228ASN",
       "ASP1246ASN",
-      "D1246N",
-      "ASP1228ASN"
+      "D1246N"
     ],
     "members": [
       {
@@ -19864,8 +19864,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "R202C",
-      "ARG201CYS"
+      "ARG201CYS",
+      "R202C"
     ],
     "members": [
       {
@@ -22276,9 +22276,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "GLY596ARG",
+      "G204R",
       "G24R",
-      "G204R"
+      "GLY596ARG"
     ],
     "members": [
       {
@@ -23756,9 +23756,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
+      "TYR646HIS",
       "Y641H",
-      "TYR641HIS",
-      "TYR646HIS"
+      "TYR641HIS"
     ],
     "members": [
       {
@@ -25172,8 +25172,8 @@
     "type": "ProteinSequenceConsequence",
     "aliases": [
       "V747L",
-      "V762L",
-      "VAL777LEU"
+      "VAL777LEU",
+      "V762L"
     ],
     "members": [
       {
@@ -25407,8 +25407,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "S768_D770DUP",
-      "ASP770_ASN771INSSERVALASP"
+      "ASP770_ASN771INSSERVALASP",
+      "S768_D770DUP"
     ],
     "members": [
       {
@@ -25707,9 +25707,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "A819T",
+      "ALA864THR",
       "A811T",
-      "ALA864THR"
+      "A819T"
     ],
     "members": [
       {
@@ -25831,8 +25831,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "N781S",
-      "N773S"
+      "N773S",
+      "N781S"
     ],
     "definingContext": {
       "id": "ga4gh:VA.kHxAxAGFZMdAQalYYTcJPoERrkRQkNMb",
@@ -26210,11 +26210,11 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "G279A",
-      "G294A",
-      "GLY294ALA",
       "GLY309ALA",
-      "GLY279ALA"
+      "G279A",
+      "GLY279ALA",
+      "G294A",
+      "GLY294ALA"
     ],
     "members": [
       {
@@ -26349,9 +26349,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "LEU755TRP",
+      "L740W",
       "L725W",
-      "L740W"
+      "LEU755TRP"
     ],
     "members": [
       {
@@ -26486,9 +26486,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "R648Q",
       "ARG678GLN",
-      "R663Q"
+      "R663Q",
+      "R648Q"
     ],
     "members": [
       {
@@ -26623,9 +26623,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "R881C",
+      "R866C",
       "ARG896CYS",
-      "R866C"
+      "R881C"
     ],
     "members": [
       {
@@ -26760,10 +26760,10 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "V827I",
-      "VAL827ILE",
-      "VAL812ILE",
       "VAL842ILE",
+      "V827I",
+      "VAL812ILE",
+      "VAL827ILE",
       "V812I"
     ],
     "members": [
@@ -28748,12 +28748,12 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ASP769HIS",
-      "ASP754HIS",
       "D739H",
+      "ASP754HIS",
       "D754H",
       "D769H",
-      "ASP739HIS"
+      "ASP739HIS",
+      "ASP769HIS"
     ],
     "members": [
       {
@@ -30681,8 +30681,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "ARG175HIS",
       "R136H",
+      "ARG175HIS",
       "R43H"
     ],
     "members": [
@@ -35072,8 +35072,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "E2187X",
-      "GLU2187TER"
+      "GLU2187TER",
+      "E2187X"
     ],
     "members": [
       {
@@ -37197,8 +37197,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "E689Q",
-      "E681Q"
+      "E681Q",
+      "E689Q"
     ],
     "definingContext": {
       "id": "ga4gh:VA.Cq6eBUHeapecVjqlBUUaAbZOoRDufPxc",
@@ -37290,8 +37290,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "T732A",
-      "T740A"
+      "T740A",
+      "T732A"
     ],
     "definingContext": {
       "id": "ga4gh:VA.L62U877TBMTrnYySy8SboCm8FJvMUzJR",
@@ -37383,8 +37383,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "C744Y",
       "C752Y",
+      "C744Y",
       "CYS797TYR"
     ],
     "members": [
@@ -37512,8 +37512,8 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "Y756H",
-      "Y748H"
+      "Y748H",
+      "Y756H"
     ],
     "definingContext": {
       "id": "ga4gh:VA.MnEGjyrxZra3XnDnlR22sCzBum9tLtgs",
@@ -40422,9 +40422,9 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "N842S",
+      "ASN857SER",
       "N827S",
-      "ASN857SER"
+      "N842S"
     ],
     "members": [
       {
@@ -41700,18 +41700,18 @@
     ],
     "type": "ProteinSequenceConsequence",
     "aliases": [
-      "W1768X",
-      "W632X",
-      "W125X",
-      "W1550X",
-      "W306X",
-      "W1576X",
-      "W48X",
-      "W711X",
-      "W1519X",
-      "W1836X",
       "W673X",
-      "W664X"
+      "W632X",
+      "W711X",
+      "W306X",
+      "W664X",
+      "W1576X",
+      "W1768X",
+      "W1550X",
+      "W1836X",
+      "W1519X",
+      "W125X",
+      "W48X"
     ],
     "definingContext": {
       "id": "ga4gh:VA.B80LrLThh-nV8pAvkCwXThDBi-GOLEar",

@@ -661,6 +661,13 @@
     "title": "Dabrafenib and Trametinib in Patients With Tumors With BRAFV600E Mutations: Results of the NCI-MATCH Trial Subprotocol H.",
     "pmid": 32758030
   },
+  "civic.source:4902": {
+    "id": "civic.source:4902",
+    "label": "Nicolaides et al., 2020",
+    "type": "Document",
+    "title": "Phase I study of vemurafenib in children with recurrent or progressive BRAFV600E mutant brain tumors: Pacific Pediatric Neuro-Oncology Consortium study (PNOC-002).",
+    "pmid": 32523649
+  },
   "civic.source:176": {
     "id": "civic.source:176",
     "label": "Sartore-Bianchi et al., 2009",

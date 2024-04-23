@@ -333,8 +333,8 @@
         "name": "disease_normalizer_data",
         "value": {
           "normalized_id": "ncit:C7418",
-          "label": "Malignant Rectal Neoplasm",
-          "mondo_id": "0006519"
+          "label": "Rectal Carcinoma",
+          "mondo_id": "0044937"
         }
       }
     ],
@@ -357,9 +357,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C7478",
-          "label": "Malignant Esophageal Neoplasm",
-          "mondo_id": "0007576"
+          "normalized_id": "ncit:C4764",
+          "label": "Malignant Neoplasm of the Abdominal Esophagus",
+          "mondo_id": "0021324"
         }
       }
     ],
@@ -524,8 +524,8 @@
         "name": "disease_normalizer_data",
         "value": {
           "normalized_id": "ncit:C9331",
-          "label": "Malignant Gastric Neoplasm",
-          "mondo_id": "0001056"
+          "label": "Gastric Carcinoma",
+          "mondo_id": "0004950"
         }
       }
     ],
@@ -634,6 +634,31 @@
         "coding": {
           "system": "https://www.disease-ontology.org/",
           "code": "DOID:4607"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:3047": {
+    "id": "civic.did:3047",
+    "label": "Low Grade Glioma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "DOID:0080829",
+          "label": "low grade glioma",
+          "mondo_id": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0080829"
         },
         "relation": "exactMatch"
       }
@@ -798,9 +823,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C2921",
-          "label": "Skin Basal Cell Carcinoma",
-          "mondo_id": "0005341"
+          "normalized_id": "ncit:C156767",
+          "label": "Basal Cell Carcinoma",
+          "mondo_id": "0020804"
         }
       }
     ],
@@ -1073,9 +1098,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C4068",
-          "label": "Trabecular Adenocarcinoma",
-          "mondo_id": "0002822"
+          "normalized_id": "ncit:C9231",
+          "label": "Merkel Cell Carcinoma",
+          "mondo_id": "0019210"
         }
       }
     ],
@@ -1173,9 +1198,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C2923",
-          "label": "Minimally Invasive Lung Adenocarcinoma",
-          "mondo_id": "0004991"
+          "normalized_id": "DOID:4926",
+          "label": "bronchiolo-alveolar adenocarcinoma",
+          "mondo_id": null
         }
       }
     ],
@@ -1373,9 +1398,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C9005",
-          "label": "Malignant Pancreatic Neoplasm",
-          "mondo_id": "0009831"
+          "normalized_id": "ncit:C43298",
+          "label": "Hereditary Pancreatic Carcinoma",
+          "mondo_id": "0015278"
         }
       }
     ],
@@ -1425,7 +1450,7 @@
         "value": {
           "normalized_id": "ncit:C3302",
           "label": "Extramammary Paget Disease",
-          "mondo_id": "0008177"
+          "mondo_id": "0002655"
         }
       }
     ],
@@ -1589,9 +1614,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C9140",
-          "label": "Childhood B Acute Lymphoblastic Leukemia",
-          "mondo_id": "0000872"
+          "normalized_id": "DOID:0080146",
+          "label": "childhood B-cell acute lymphoblastic leukemia",
+          "mondo_id": null
         }
       }
     ],
@@ -1764,9 +1789,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "mondo:0002113",
-          "label": "peritoneal carcinoma",
-          "mondo_id": null
+          "normalized_id": "ncit:C40022",
+          "label": "Primary Peritoneal Carcinoma",
+          "mondo_id": "0002113"
         }
       }
     ],
@@ -1814,9 +1839,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "mondo:0003540",
-          "label": "acute T cell leukemia",
-          "mondo_id": null
+          "normalized_id": "ncit:C3183",
+          "label": "T Acute Lymphoblastic Leukemia",
+          "mondo_id": "0004963"
         }
       }
     ],
@@ -1865,8 +1890,8 @@
         "name": "disease_normalizer_data",
         "value": {
           "normalized_id": "ncit:C9242",
-          "label": "Malignant Colon Neoplasm",
-          "mondo_id": "0021063"
+          "label": "Colon Carcinoma",
+          "mondo_id": "0002032"
         }
       }
     ],
@@ -2155,9 +2180,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C7359",
-          "label": "Endometrial Adenocarcinoma",
-          "mondo_id": "0005461"
+          "normalized_id": "ncit:C6287",
+          "label": "Endometrial Endometrioid Adenocarcinoma",
+          "mondo_id": "0006192"
         }
       }
     ],
@@ -2280,9 +2305,9 @@
         "type": "Extension",
         "name": "disease_normalizer_data",
         "value": {
-          "normalized_id": "ncit:C7967",
-          "label": "Colon Signet Ring Cell Adenocarcinoma",
-          "mondo_id": "0002495"
+          "normalized_id": "DOID:3033",
+          "label": "colon signet ring adenocarcinoma",
+          "mondo_id": null
         }
       }
     ],
