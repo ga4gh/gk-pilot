@@ -5,8 +5,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3174"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3174",
+          "label": "Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+          "mondo_id": "0011996"
+        }
       }
     ],
     "mappings": [
@@ -21,14 +25,44 @@
     ],
     "type": "Disease"
   },
+  "moa.normalize.disease.ncit:C9245": {
+    "id": "moa.normalize.disease.ncit:C9245",
+    "label": "Invasive Breast Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9245",
+          "label": "Invasive Breast Carcinoma",
+          "mondo_id": "0006256"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Invasive Breast Carcinoma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "BRCA"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "moa.normalize.disease.ncit:C2926": {
     "id": "moa.normalize.disease.ncit:C2926",
     "label": "Non-Small Cell Lung Cancer",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C2926"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C2926",
+          "label": "Lung Non-Small Cell Carcinoma",
+          "mondo_id": "0005233"
+        }
       }
     ],
     "mappings": [
@@ -49,8 +83,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C2919"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C2919",
+          "label": "Prostate Adenocarcinoma",
+          "mondo_id": "0005082"
+        }
       }
     ],
     "mappings": [
@@ -71,8 +109,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C5105"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C5105",
+          "label": "Colorectal Adenocarcinoma",
+          "mondo_id": "0005008"
+        }
       }
     ],
     "mappings": [
@@ -93,8 +135,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3224"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3224",
+          "label": "Melanoma",
+          "mondo_id": "0005105"
+        }
       }
     ],
     "mappings": [
@@ -115,8 +161,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3107"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3107",
+          "label": "Langerhans Cell Histiocytosis",
+          "mondo_id": "0018310"
+        }
       }
     ],
     "mappings": [
@@ -137,8 +187,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C53972"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C53972",
+          "label": "Erdheim-Chester Disease",
+          "mondo_id": "0018153"
+        }
       }
     ],
     "mappings": [
@@ -153,14 +207,44 @@
     ],
     "type": "Disease"
   },
+  "moa.normalize.disease.oncotree:HGNEC": {
+    "id": "moa.normalize.disease.oncotree:HGNEC",
+    "label": "High-Grade Neuroendocrine Carcinoma of the Colon and Rectum",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "oncotree:HGNEC",
+          "label": "High-Grade Neuroendocrine Carcinoma of the Colon and Rectum",
+          "mondo_id": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "High-Grade Neuroendocrine Carcinoma of the Colon and Rectum",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "HGNEC"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "moa.normalize.disease.ncit:C8294": {
     "id": "moa.normalize.disease.ncit:C8294",
     "label": "Pancreatic Adenocarcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C8294"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C8294",
+          "label": "Pancreatic Adenocarcinoma",
+          "mondo_id": "0006047"
+        }
       }
     ],
     "mappings": [
@@ -175,14 +259,44 @@
     ],
     "type": "Disease"
   },
+  "moa.normalize.disease.oncotree:GNOS": {
+    "id": "moa.normalize.disease.oncotree:GNOS",
+    "label": "Glioma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "oncotree:GNOS",
+          "label": "Glioma, NOS",
+          "mondo_id": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Glioma",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "GNOS"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "moa.normalize.disease.ncit:C4436": {
     "id": "moa.normalize.disease.ncit:C4436",
     "label": "Cholangiocarcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4436"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4436",
+          "label": "Cholangiocarcinoma",
+          "mondo_id": "0019087"
+        }
       }
     ],
     "mappings": [
@@ -203,8 +317,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3209"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3209",
+          "label": "Follicular Lymphoma",
+          "mondo_id": "0018906"
+        }
       }
     ],
     "mappings": [
@@ -225,8 +343,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C39851"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C39851",
+          "label": "Bladder Urothelial Carcinoma",
+          "mondo_id": "0005611"
+        }
       }
     ],
     "mappings": [
@@ -247,8 +369,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3171"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3171",
+          "label": "Acute Myeloid Leukemia",
+          "mondo_id": "0018874"
+        }
       }
     ],
     "mappings": [
@@ -263,36 +389,18 @@
     ],
     "type": "Disease"
   },
-  "moa.normalize.disease.ncit:C9245": {
-    "id": "moa.normalize.disease.ncit:C9245",
-    "label": "Invasive Breast Carcinoma",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9245"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "label": "Invasive Breast Carcinoma",
-          "system": "https://oncotree.mskcc.org/",
-          "code": "BRCA"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "moa.normalize.disease.ncit:C3167": {
     "id": "moa.normalize.disease.ncit:C3167",
     "label": "Acute Lymphoid Leukemia",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3167"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3167",
+          "label": "Acute Lymphoblastic Leukemia",
+          "mondo_id": "0004967"
+        }
       }
     ],
     "mappings": [
@@ -313,8 +421,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3868"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3868",
+          "label": "Gastrointestinal Stromal Tumor",
+          "mondo_id": "0011719"
+        }
       }
     ],
     "mappings": [
@@ -335,8 +447,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C34447"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C34447",
+          "label": "Head and Neck Squamous Cell Carcinoma",
+          "mondo_id": "0010150"
+        }
       }
     ],
     "mappings": [
@@ -357,8 +473,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3879"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3879",
+          "label": "Thyroid Gland Medullary Carcinoma",
+          "mondo_id": "0015277"
+        }
       }
     ],
     "mappings": [
@@ -367,6 +487,58 @@
           "label": "Medullary Thyroid Cancer",
           "system": "https://oncotree.mskcc.org/",
           "code": "THME"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.oncotree:LGGNOS": {
+    "id": "moa.normalize.disease.oncotree:LGGNOS",
+    "label": "Low-Grade Glioma, NOS",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "oncotree:LGGNOS",
+          "label": "Low-Grade Glioma, NOS",
+          "mondo_id": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Low-Grade Glioma, NOS",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "LGGNOS"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "moa.normalize.disease.ncit:C3247": {
+    "id": "moa.normalize.disease.ncit:C3247",
+    "label": "Myelodysplastic Syndromes",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3247",
+          "label": "Myelodysplastic Syndrome",
+          "mondo_id": "0018881"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "label": "Myelodysplastic Syndromes",
+          "system": "https://oncotree.mskcc.org/",
+          "code": "MDS"
         },
         "relation": "exactMatch"
       }

@@ -5,8 +5,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C2926"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C2926",
+          "label": "Lung Non-Small Cell Carcinoma",
+          "mondo_id": "0005233"
+        }
       }
     ],
     "mappings": [
@@ -26,8 +30,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3510"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3510",
+          "label": "Cutaneous Melanoma",
+          "mondo_id": "0005012"
+        }
       }
     ],
     "mappings": [
@@ -41,21 +49,25 @@
     ],
     "type": "Disease"
   },
-  "civic.did:7": {
-    "id": "civic.did:7",
-    "label": "Melanoma",
+  "civic.did:22": {
+    "id": "civic.did:22",
+    "label": "Breast Cancer",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3224"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9335",
+          "label": "Malignant Breast Neoplasm",
+          "mondo_id": "0007254"
+        }
       }
     ],
     "mappings": [
       {
         "coding": {
           "system": "https://www.disease-ontology.org/",
-          "code": "DOID:1909"
+          "code": "DOID:1612"
         },
         "relation": "exactMatch"
       }
@@ -68,8 +80,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4978"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4978",
+          "label": "Malignant Colorectal Neoplasm",
+          "mondo_id": "0005575"
+        }
       }
     ],
     "mappings": [
@@ -83,14 +99,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:7": {
+    "id": "civic.did:7",
+    "label": "Melanoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3224",
+          "label": "Melanoma",
+          "mondo_id": "0005105"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:1909"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:2": {
     "id": "civic.did:2",
     "label": "Gastrointestinal Stromal Tumor",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3868"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3868",
+          "label": "Gastrointestinal Stromal Tumor",
+          "mondo_id": "0011719"
+        }
       }
     ],
     "mappings": [
@@ -110,8 +155,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3336"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3336",
+          "label": "Polycythemia Vera",
+          "mondo_id": "0009891"
+        }
       }
     ],
     "mappings": [
@@ -131,8 +180,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3163"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3163",
+          "label": "Chronic Lymphocytic Leukemia",
+          "mondo_id": "0004948"
+        }
       }
     ],
     "mappings": [
@@ -146,14 +199,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:159": {
+    "id": "civic.did:159",
+    "label": "Cervical Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9311",
+          "label": "Malignant Cervical Neoplasm",
+          "mondo_id": "0002974"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:4362"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:134": {
     "id": "civic.did:134",
     "label": "Osteosarcoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9145"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9145",
+          "label": "Osteosarcoma",
+          "mondo_id": "0009807"
+        }
       }
     ],
     "mappings": [
@@ -173,8 +255,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3512"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3512",
+          "label": "Lung Adenocarcinoma",
+          "mondo_id": "0005061"
+        }
       }
     ],
     "mappings": [
@@ -194,8 +280,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C53556"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C53556",
+          "label": "HER2-Positive Breast Carcinoma",
+          "mondo_id": "0006244"
+        }
       }
     ],
     "mappings": [
@@ -215,8 +305,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9235"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9235",
+          "label": "Systemic Mastocytosis",
+          "mondo_id": "0016586"
+        }
       }
     ],
     "mappings": [
@@ -236,8 +330,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7418"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7418",
+          "label": "Rectal Carcinoma",
+          "mondo_id": "0044937"
+        }
       }
     ],
     "mappings": [
@@ -251,14 +349,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:1191": {
+    "id": "civic.did:1191",
+    "label": "Esophageal Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4764",
+          "label": "Malignant Neoplasm of the Abdominal Esophagus",
+          "mondo_id": "0021324"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:5041"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:216": {
     "id": "civic.did:216",
     "label": "Cancer",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9305"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9305",
+          "label": "Malignant Neoplasm",
+          "mondo_id": "0004992"
+        }
       }
     ],
     "mappings": [
@@ -272,14 +399,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:3040": {
+    "id": "civic.did:3040",
+    "label": "Thyroid Gland Anaplastic Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3878",
+          "label": "Thyroid Gland Anaplastic Carcinoma",
+          "mondo_id": "0006468"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0080522"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:1762": {
     "id": "civic.did:1762",
     "label": "Langerhans Cell Sarcoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C6921"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C6921",
+          "label": "Langerhans Cell Sarcoma",
+          "mondo_id": "0019480"
+        }
       }
     ],
     "mappings": [
@@ -299,8 +455,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3059"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3059",
+          "label": "Glioma",
+          "mondo_id": "0021042"
+        }
       }
     ],
     "type": "Disease"
@@ -311,8 +471,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3879"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3879",
+          "label": "Thyroid Gland Medullary Carcinoma",
+          "mondo_id": "0015277"
+        }
       }
     ],
     "mappings": [
@@ -332,8 +496,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4035"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4035",
+          "label": "Thyroid Gland Papillary Carcinoma",
+          "mondo_id": "0005075"
+        }
       }
     ],
     "mappings": [
@@ -353,8 +521,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9331"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9331",
+          "label": "Gastric Carcinoma",
+          "mondo_id": "0004950"
+        }
       }
     ],
     "mappings": [
@@ -374,8 +546,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7431"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7431",
+          "label": "Malignant Ovarian Neoplasm",
+          "mondo_id": "0008170"
+        }
       }
     ],
     "mappings": [
@@ -395,8 +571,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C2930"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C2930",
+          "label": "Transitional Cell Carcinoma",
+          "mondo_id": "0006474"
+        }
       }
     ],
     "mappings": [
@@ -410,21 +590,75 @@
     ],
     "type": "Disease"
   },
-  "civic.did:3040": {
-    "id": "civic.did:3040",
-    "label": "Thyroid Gland Anaplastic Carcinoma",
+  "civic.did:57": {
+    "id": "civic.did:57",
+    "label": "Colorectal Adenocarcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3878"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C5105",
+          "label": "Colorectal Adenocarcinoma",
+          "mondo_id": "0005008"
+        }
       }
     ],
     "mappings": [
       {
         "coding": {
           "system": "https://www.disease-ontology.org/",
-          "code": "DOID:0080522"
+          "code": "DOID:0050861"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:1065": {
+    "id": "civic.did:1065",
+    "label": "Biliary Tract Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "mondo:0003060",
+          "label": "biliary tract cancer",
+          "mondo_id": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:4607"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:3047": {
+    "id": "civic.did:3047",
+    "label": "Low Grade Glioma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "DOID:0080829",
+          "label": "low grade glioma",
+          "mondo_id": null
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0080829"
         },
         "relation": "exactMatch"
       }
@@ -437,8 +671,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7402"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7402",
+          "label": "Hairy Cell Leukemia",
+          "mondo_id": "0018935"
+        }
       }
     ],
     "mappings": [
@@ -458,8 +696,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7377"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7377",
+          "label": "Malignant Lung Neoplasm",
+          "mondo_id": "0008903"
+        }
       }
     ],
     "mappings": [
@@ -479,8 +721,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3242"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3242",
+          "label": "Plasma Cell Myeloma",
+          "mondo_id": "0009693"
+        }
       }
     ],
     "mappings": [
@@ -500,8 +746,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "mondo:0005499"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "mondo:0005499",
+          "label": "brain glioma",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
@@ -521,8 +771,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3171"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3171",
+          "label": "Acute Myeloid Leukemia",
+          "mondo_id": "0018874"
+        }
       }
     ],
     "mappings": [
@@ -542,8 +796,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4819"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4819",
+          "label": "Skin Squamous Cell Carcinoma",
+          "mondo_id": "0002529"
+        }
       }
     ],
     "mappings": [
@@ -563,8 +821,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C2921"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C156767",
+          "label": "Basal Cell Carcinoma",
+          "mondo_id": "0020804"
+        }
       }
     ],
     "mappings": [
@@ -584,8 +846,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7569"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7569",
+          "label": "Thymic Carcinoma",
+          "mondo_id": "0006451"
+        }
       }
     ],
     "mappings": [
@@ -605,8 +871,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4815"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4815",
+          "label": "Thyroid Gland Carcinoma",
+          "mondo_id": "0015075"
+        }
       }
     ],
     "mappings": [
@@ -626,8 +896,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C34447"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C34447",
+          "label": "Head and Neck Squamous Cell Carcinoma",
+          "mondo_id": "0010150"
+        }
       }
     ],
     "mappings": [
@@ -647,8 +921,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "mondo:0009892"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "mondo:0009892",
+          "label": "Chuvash polycythemia",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
@@ -668,8 +946,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7550"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7550",
+          "label": "Ovarian Serous Adenocarcinoma",
+          "mondo_id": "0005211"
+        }
       }
     ],
     "mappings": [
@@ -683,14 +965,68 @@
     ],
     "type": "Disease"
   },
+  "civic.did:135": {
+    "id": "civic.did:135",
+    "label": "Ewing Sarcoma Of Bone",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4835",
+          "label": "Ewing Sarcoma of Bone",
+          "mondo_id": "0002625"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:3368"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:1693": {
+    "id": "civic.did:1693",
+    "label": "Ureter Small Cell Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C6176",
+          "label": "Ureter Small Cell Neuroendocrine Carcinoma",
+          "mondo_id": "0006482"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:6886"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:2127": {
     "id": "civic.did:2127",
     "label": "Chronic Neutrophilic Leukemia",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3179"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3179",
+          "label": "Chronic Neutrophilic Leukemia",
+          "mondo_id": "0019451"
+        }
       }
     ],
     "mappings": [
@@ -710,8 +1046,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3270"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3270",
+          "label": "Neuroblastoma",
+          "mondo_id": "0005072"
+        }
       }
     ],
     "mappings": [
@@ -731,8 +1071,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7378"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7378",
+          "label": "Malignant Prostate Neoplasm",
+          "mondo_id": "0008315"
+        }
       }
     ],
     "mappings": [
@@ -746,35 +1090,18 @@
     ],
     "type": "Disease"
   },
-  "civic.did:22": {
-    "id": "civic.did:22",
-    "label": "Breast Cancer",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9335"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:1612"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:311": {
     "id": "civic.did:311",
     "label": "Merkel Cell Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4068"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9231",
+          "label": "Merkel Cell Carcinoma",
+          "mondo_id": "0019210"
+        }
       }
     ],
     "mappings": [
@@ -794,8 +1121,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3222"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3222",
+          "label": "Medulloblastoma",
+          "mondo_id": "0007959"
+        }
       }
     ],
     "mappings": [
@@ -809,14 +1140,68 @@
     ],
     "type": "Disease"
   },
+  "civic.did:53": {
+    "id": "civic.did:53",
+    "label": "Gastrointestinal Neuroendocrine Tumor",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C95404",
+          "label": "Digestive System Neuroendocrine Tumor",
+          "mondo_id": "0000386"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0050626"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:1322": {
+    "id": "civic.did:1322",
+    "label": "Stomach Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4911",
+          "label": "Gastric Carcinoma",
+          "mondo_id": "0004950"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:5517"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:1163": {
     "id": "civic.did:1163",
     "label": "Bronchiolo-alveolar Adenocarcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C2923"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "DOID:4926",
+          "label": "bronchiolo-alveolar adenocarcinoma",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
@@ -836,8 +1221,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4048"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4048",
+          "label": "Childhood Pilocytic Astrocytoma",
+          "mondo_id": "0004000"
+        }
       }
     ],
     "mappings": [
@@ -851,14 +1240,68 @@
     ],
     "type": "Disease"
   },
+  "civic.did:29": {
+    "id": "civic.did:29",
+    "label": "Cholangiocarcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4436",
+          "label": "Cholangiocarcinoma",
+          "mondo_id": "0019087"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:4947"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:1165": {
+    "id": "civic.did:1165",
+    "label": "Intrahepatic Cholangiocarcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C35417",
+          "label": "Intrahepatic Cholangiocarcinoma",
+          "mondo_id": "0003210"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:4928"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:124": {
     "id": "civic.did:124",
     "label": "Laryngeal Squamous Cell Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4044"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4044",
+          "label": "Laryngeal Squamous Cell Carcinoma",
+          "mondo_id": "0005595"
+        }
       }
     ],
     "mappings": [
@@ -878,8 +1321,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C8294"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C8294",
+          "label": "Pancreatic Adenocarcinoma",
+          "mondo_id": "0006047"
+        }
       }
     ],
     "mappings": [
@@ -899,8 +1346,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4013"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4013",
+          "label": "Malignant Head and Neck Neoplasm",
+          "mondo_id": "0005627"
+        }
       }
     ],
     "mappings": [
@@ -914,14 +1365,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:19": {
+    "id": "civic.did:19",
+    "label": "Glioblastoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3058",
+          "label": "Glioblastoma",
+          "mondo_id": "0018177"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:3068"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:556": {
     "id": "civic.did:556",
     "label": "Pancreatic Cancer",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9005"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C43298",
+          "label": "Hereditary Pancreatic Carcinoma",
+          "mondo_id": "0015278"
+        }
       }
     ],
     "mappings": [
@@ -941,8 +1421,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4047"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4047",
+          "label": "Pilocytic Astrocytoma",
+          "mondo_id": "0016691"
+        }
       }
     ],
     "mappings": [
@@ -956,14 +1440,34 @@
     ],
     "type": "Disease"
   },
+  "civic.did:3448": {
+    "id": "civic.did:3448",
+    "label": "Extramammary Paget Disease",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3302",
+          "label": "Extramammary Paget Disease",
+          "mondo_id": "0002655"
+        }
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:169": {
     "id": "civic.did:169",
     "label": "Pancreatic Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3850"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3850",
+          "label": "Pancreatic Carcinoma",
+          "mondo_id": "0005192"
+        }
       }
     ],
     "mappings": [
@@ -983,8 +1487,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7966"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7966",
+          "label": "Colon Mucinous Adenocarcinoma",
+          "mondo_id": "0005007"
+        }
       }
     ],
     "mappings": [
@@ -1004,8 +1512,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3483"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3483",
+          "label": "Chronic Leukemia",
+          "mondo_id": "0001014"
+        }
       }
     ],
     "mappings": [
@@ -1019,35 +1531,18 @@
     ],
     "type": "Disease"
   },
-  "civic.did:29": {
-    "id": "civic.did:29",
-    "label": "Cholangiocarcinoma",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4436"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:4947"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:83": {
     "id": "civic.did:83",
     "label": "Mucosal Melanoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C114828"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C114828",
+          "label": "Mucosal Melanoma",
+          "mondo_id": "0000544"
+        }
       }
     ],
     "mappings": [
@@ -1067,8 +1562,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9120"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9120",
+          "label": "Pancreatic Ductal Adenocarcinoma",
+          "mondo_id": "0005184"
+        }
       }
     ],
     "mappings": [
@@ -1088,8 +1587,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9182"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9182",
+          "label": "Desmoid Fibromatosis",
+          "mondo_id": "0007608"
+        }
       }
     ],
     "mappings": [
@@ -1109,8 +1612,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9140"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "DOID:0080146",
+          "label": "childhood B-cell acute lymphoblastic leukemia",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
@@ -1124,14 +1631,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:2991": {
+    "id": "civic.did:2991",
+    "label": "Childhood Acute Lymphocytic Leukemia",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3168",
+          "label": "Childhood Acute Lymphoblastic Leukemia",
+          "mondo_id": "0000870"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0080144"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:191": {
     "id": "civic.did:191",
     "label": "Chronic Lymphocytic Leukemia/small Lymphocytic Lymphoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C27911"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C27911",
+          "label": "Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma",
+          "mondo_id": "0003864"
+        }
       }
     ],
     "mappings": [
@@ -1151,8 +1687,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3209"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3209",
+          "label": "Follicular Lymphoma",
+          "mondo_id": "0018906"
+        }
       }
     ],
     "mappings": [
@@ -1172,8 +1712,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7550"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7550",
+          "label": "Ovarian Serous Adenocarcinoma",
+          "mondo_id": "0005211"
+        }
       }
     ],
     "mappings": [
@@ -1193,8 +1737,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C8851"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C8851",
+          "label": "Diffuse Large B-Cell Lymphoma",
+          "mondo_id": "0018905"
+        }
       }
     ],
     "mappings": [
@@ -1208,35 +1756,18 @@
     ],
     "type": "Disease"
   },
-  "civic.did:57": {
-    "id": "civic.did:57",
-    "label": "Colorectal Adenocarcinoma",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C5105"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:0050861"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:4": {
     "id": "civic.did:4",
     "label": "Chronic Myeloid Leukemia",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3174"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3174",
+          "label": "Chronic Myelogenous Leukemia, BCR-ABL1 Positive",
+          "mondo_id": "0011996"
+        }
       }
     ],
     "mappings": [
@@ -1250,21 +1781,75 @@
     ],
     "type": "Disease"
   },
-  "civic.did:88": {
-    "id": "civic.did:88",
-    "label": "Ovarian Clear Cell Carcinoma",
+  "civic.did:3424": {
+    "id": "civic.did:3424",
+    "label": "Peritoneal Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C40077"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C40022",
+          "label": "Primary Peritoneal Carcinoma",
+          "mondo_id": "0002113"
+        }
       }
     ],
     "mappings": [
       {
         "coding": {
           "system": "https://www.disease-ontology.org/",
-          "code": "DOID:0050934"
+          "code": "DOID:1791"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:3005": {
+    "id": "civic.did:3005",
+    "label": "B-lymphoblastic Leukemia/lymphoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C8936",
+          "label": "B Lymphoblastic Leukemia/Lymphoma",
+          "mondo_id": "0004947"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0080630"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:227": {
+    "id": "civic.did:227",
+    "label": "T-cell Acute Lymphoblastic Leukemia",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3183",
+          "label": "T Acute Lymphoblastic Leukemia",
+          "mondo_id": "0004963"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:5603"
         },
         "relation": "exactMatch"
       }
@@ -1277,8 +1862,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3288"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3288",
+          "label": "Oligodendroglioma",
+          "mondo_id": "0016695"
+        }
       }
     ],
     "mappings": [
@@ -1292,14 +1881,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:119": {
+    "id": "civic.did:119",
+    "label": "Colon Cancer",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9242",
+          "label": "Colon Carcinoma",
+          "mondo_id": "0002032"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:219"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:196": {
     "id": "civic.did:196",
     "label": "Hepatocellular Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3099"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3099",
+          "label": "Hepatocellular Carcinoma",
+          "mondo_id": "0007256"
+        }
       }
     ],
     "mappings": [
@@ -1319,8 +1937,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C6481"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C6481",
+          "label": "Inflammatory Myofibroblastic Tumor",
+          "mondo_id": "0015798"
+        }
       }
     ],
     "mappings": [
@@ -1334,14 +1956,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:330": {
+    "id": "civic.did:330",
+    "label": "Angiosarcoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3088",
+          "label": "Angiosarcoma",
+          "mondo_id": "0016982"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:0001816"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:108": {
     "id": "civic.did:108",
     "label": "Endometrial Cancer",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C27815"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C27815",
+          "label": "Malignant Endometrial Neoplasm",
+          "mondo_id": "0011962"
+        }
       }
     ],
     "mappings": [
@@ -1355,21 +2006,50 @@
     ],
     "type": "Disease"
   },
-  "civic.did:159": {
-    "id": "civic.did:159",
-    "label": "Cervical Cancer",
+  "civic.did:16": {
+    "id": "civic.did:16",
+    "label": "Thyroid Cancer",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C9311"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7510",
+          "label": "Malignant Thyroid Gland Neoplasm",
+          "mondo_id": "0002108"
+        }
       }
     ],
     "mappings": [
       {
         "coding": {
           "system": "https://www.disease-ontology.org/",
-          "code": "DOID:4362"
+          "code": "DOID:1781"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
+  "civic.did:125": {
+    "id": "civic.did:125",
+    "label": "Cervix Carcinoma",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C9039",
+          "label": "Cervical Carcinoma",
+          "mondo_id": "0005131"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:2893"
         },
         "relation": "exactMatch"
       }
@@ -1382,8 +2062,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4822"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4822",
+          "label": "Malignant Glioma",
+          "mondo_id": "0100342"
+        }
       }
     ],
     "mappings": [
@@ -1397,35 +2081,18 @@
     ],
     "type": "Disease"
   },
-  "civic.did:19": {
-    "id": "civic.did:19",
-    "label": "Glioblastoma",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3058"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:3068"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:117": {
     "id": "civic.did:117",
     "label": "Vulva Squamous Cell Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4052"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4052",
+          "label": "Vulvar Squamous Cell Carcinoma",
+          "mondo_id": "0024609"
+        }
       }
     ],
     "mappings": [
@@ -1445,8 +2112,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C8101"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C8101",
+          "label": "Adult Solid Neoplasm",
+          "mondo_id": null
+        }
       }
     ],
     "type": "Disease"
@@ -1457,8 +2128,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "DOID:0080996"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "DOID:0080996",
+          "label": "diffuse large B-cell lymphoma activated B-cell type",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
@@ -1472,14 +2147,43 @@
     ],
     "type": "Disease"
   },
+  "civic.did:106": {
+    "id": "civic.did:106",
+    "label": "Leukemia",
+    "extensions": [
+      {
+        "type": "Extension",
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C3161",
+          "label": "Leukemia",
+          "mondo_id": "0005059"
+        }
+      }
+    ],
+    "mappings": [
+      {
+        "coding": {
+          "system": "https://www.disease-ontology.org/",
+          "code": "DOID:1240"
+        },
+        "relation": "exactMatch"
+      }
+    ],
+    "type": "Disease"
+  },
   "civic.did:666": {
     "id": "civic.did:666",
     "label": "Endometrial Adenocarcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C6287"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C6287",
+          "label": "Endometrial Endometrioid Adenocarcinoma",
+          "mondo_id": "0006192"
+        }
       }
     ],
     "mappings": [
@@ -1493,35 +2197,18 @@
     ],
     "type": "Disease"
   },
-  "civic.did:227": {
-    "id": "civic.did:227",
-    "label": "T-cell Acute Lymphoblastic Leukemia",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C3184"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:5603"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
   "civic.did:48": {
     "id": "civic.did:48",
     "label": "Clear Cell Renal Cell Carcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4033"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4033",
+          "label": "Clear Cell Renal Cell Carcinoma",
+          "mondo_id": "0005005"
+        }
       }
     ],
     "mappings": [
@@ -1541,8 +2228,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "mondo:0006512"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "mondo:0006512",
+          "label": "estrogen-receptor positive breast cancer",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
@@ -1562,8 +2253,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4917"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C4917",
+          "label": "Lung Small Cell Carcinoma",
+          "mondo_id": "0008433"
+        }
       }
     ],
     "mappings": [
@@ -1583,8 +2278,12 @@
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C7979"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "ncit:C7979",
+          "label": "Ovarian Endometrioid Adenocarcinoma",
+          "mondo_id": "0006335"
+        }
       }
     ],
     "mappings": [
@@ -1598,42 +2297,25 @@
     ],
     "type": "Disease"
   },
-  "civic.did:3005": {
-    "id": "civic.did:3005",
-    "label": "B-lymphoblastic Leukemia/lymphoma",
+  "civic.did:693": {
+    "id": "civic.did:693",
+    "label": "Colon Signet Ring Adenocarcinoma",
     "extensions": [
       {
         "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C8936"
+        "name": "disease_normalizer_data",
+        "value": {
+          "normalized_id": "DOID:3033",
+          "label": "colon signet ring adenocarcinoma",
+          "mondo_id": null
+        }
       }
     ],
     "mappings": [
       {
         "coding": {
           "system": "https://www.disease-ontology.org/",
-          "code": "DOID:0080630"
-        },
-        "relation": "exactMatch"
-      }
-    ],
-    "type": "Disease"
-  },
-  "civic.did:135": {
-    "id": "civic.did:135",
-    "label": "Ewing Sarcoma Of Bone",
-    "extensions": [
-      {
-        "type": "Extension",
-        "name": "disease_normalizer_id",
-        "value": "ncit:C4835"
-      }
-    ],
-    "mappings": [
-      {
-        "coding": {
-          "system": "https://www.disease-ontology.org/",
-          "code": "DOID:3368"
+          "code": "DOID:3033"
         },
         "relation": "exactMatch"
       }
