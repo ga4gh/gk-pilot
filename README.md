@@ -1,5 +1,5 @@
-[![Download CIViC GK-Pilot Data](assets/data-civic-blue.svg)](https://github.com/ga4gh/gk-pilot/tree/2-alpha/datasets/civic)
-[![Download Molecular Oncology Almanac GK-Pilot Data](assets/data-moa-blue.svg)](https://github.com/ga4gh/gk-pilot/tree/2-alpha/datasets/moa)
+[![Download CIViC GK-Pilot Data](assets/data-civic-blue.svg)](https://github.com/ga4gh/gk-pilot/tree/main/datasets/civic)
+[![Download Molecular Oncology Almanac GK-Pilot Data](assets/data-moa-blue.svg)](https://github.com/ga4gh/gk-pilot/tree/main/datasets/moa)
 
 # gk-pilot
 A Genomic Knowledge pilot implementation of GKS Work Stream specifications.
