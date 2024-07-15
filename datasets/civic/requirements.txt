@@ -176,4 +176,4 @@ webencodings==0.5.1
 websocket-client==1.7.0
 WikibaseIntegrator==0.12.5
 yoyo-migrations==8.2.0
-zipp==3.18.1
+zipp==3.19.1
