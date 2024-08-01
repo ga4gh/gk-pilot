@@ -1,6 +1,6 @@
 **Computational Definition**
 
-The group maximum filtering allele frequency at 95% CI
+The group maximum filtering allele frequency at 95% CI.
 
     **Information Model**
     

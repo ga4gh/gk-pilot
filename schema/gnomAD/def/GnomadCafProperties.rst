@@ -15,10 +15,10 @@ Additional properties specific to the gnomAD CAF model.
           - Limits
           - Description
        *  - ancillaryResults
-          - object
+          - :ref:`GnomadAncillaryResults`
           - 0..1
           - 
        *  - qualityMeasures
-          - object
+          - :ref:`GnomadQualityMeasures`
           - 0..1
           - 
