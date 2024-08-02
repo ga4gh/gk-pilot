@@ -1,9 +1,7 @@
-[![Download CIViC GK-Pilot Data](assets/data-civic-blue.svg)](https://github.com/ga4gh/gk-pilot/tree/2-alpha/datasets/civic)
-[![Download Molecular Oncology Almanac GK-Pilot Data](assets/data-moa-blue.svg)](https://github.com/ga4gh/gk-pilot/tree/2-alpha/datasets/moa)
-
 # gk-pilot
-A Genomic Knowledge pilot implementation of GKS Work Stream specifications.
-This project is an ongoing effort in active development and the materials
-here will be regularly updated to reflect progress on this pilot.
+The GA4GH GKS Work Stream pilot repository for demonstrating the Genomic Knowledge Standards specification products.
 
+GA4GH Driver projects and invested community implementers will share the pilot work used to validate, mature and ultimately 
+approve the specifications for Variant Annotation (VA-Spec), Categorical Variation (Cat-VRS) and Variant Representation (VRS).
+ 
 Read the documentation [here](https://gk-pilot.readthedocs.org).
