@@ -1,6 +1,6 @@
 **Computational Definition**
 
-Additional properties specific to the gnomAD CAF model.
+The GA4GH Sequence Location Representation(SL) profile specific to Clinvar.
 
     **Information Model**
     
@@ -14,11 +14,11 @@ Additional properties specific to the gnomAD CAF model.
           - Type
           - Limits
           - Description
-       *  - ancillaryResults
-          - :ref:`GnomadAncillaryResults`
+       *  - sequenceReference
+          - `IRI </ga4gh/schema/gks-common/1.x/common/json/IRI>`_ | :ref:`ClinvarSequenceReference`
           - 0..1
-          - 
-       *  - qualityMeasures
-          - :ref:`GnomadQualityMeasures`
+          - The reference sequence for the location.
+       *  - extensions
+          - None
           - 0..1
           - 

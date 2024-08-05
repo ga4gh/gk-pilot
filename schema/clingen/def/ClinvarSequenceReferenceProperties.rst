@@ -1,6 +1,7 @@
 **Computational Definition**
 
-Additional properties specific to the gnomAD CAF model.
+The GA4GH Sequence Reference Representation(SR) profile specific to Clinvar.
+
 
     **Information Model**
     
@@ -14,11 +15,7 @@ Additional properties specific to the gnomAD CAF model.
           - Type
           - Limits
           - Description
-       *  - ancillaryResults
-          - :ref:`GnomadAncillaryResults`
-          - 0..1
-          - 
-       *  - qualityMeasures
-          - :ref:`GnomadQualityMeasures`
-          - 0..1
+       *  - extensions
+          - :ref:`ExtensionChromosome` | :ref:`ExtensionAssembly`
+          - 0..m
           - 

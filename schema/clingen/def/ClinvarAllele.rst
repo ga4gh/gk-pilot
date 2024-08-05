@@ -1,6 +1,6 @@
 **Computational Definition**
 
-Additional properties specific to the gnomAD CAF model.
+The GA4GH Allele Representation(AR) profile specific to Clinvar.
 
     **Information Model**
     
@@ -14,11 +14,3 @@ Additional properties specific to the gnomAD CAF model.
           - Type
           - Limits
           - Description
-       *  - ancillaryResults
-          - :ref:`GnomadAncillaryResults`
-          - 0..1
-          - 
-       *  - qualityMeasures
-          - :ref:`GnomadQualityMeasures`
-          - 0..1
-          - 

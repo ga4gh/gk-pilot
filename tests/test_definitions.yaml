@@ -1,0 +1,13 @@
+tests:
+  - test_file: gnomad/gnomad-test.yaml
+    schema: clingen
+    definition: GnomadCAF
+  - test_file: clingen/canonicalAllele-ex1.yaml
+    schema: clingen
+    definition: ClinvarCategoricalVariation
+  - test_file: clingen/categoricalCnv-ex1.yaml
+    schema: clingen
+    definition: ClinvarCategoricalVariation
+  - test_file: clingen/describedVariation-ex1.yaml
+    schema: clingen
+    definition: ClinvarCategoricalVariation
