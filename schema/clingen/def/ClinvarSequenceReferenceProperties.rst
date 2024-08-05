@@ -1,6 +1,6 @@
 **Computational Definition**
 
-The GA4GH Categorical Variant Representation(Cat-VRS) profile specific to ClinVar.
+The GA4GH Sequence Reference Representation(SR) profile specific to Clinvar.
 
 
     **Information Model**
@@ -15,3 +15,7 @@ The GA4GH Categorical Variant Representation(Cat-VRS) profile specific to ClinVa
           - Type
           - Limits
           - Description
+       *  - extensions
+          - :ref:`ExtensionChromosome` | :ref:`ExtensionAssembly`
+          - 0..m
+          - 

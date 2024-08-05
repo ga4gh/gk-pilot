@@ -1,6 +1,6 @@
 **Computational Definition**
 
-An extension item for the cytogenetic location associated with a ClinVar variant.
+An extension item for the cytogenetic location associated with a Clinvar variant.
 
     **Information Model**
     
@@ -17,11 +17,11 @@ An extension item for the cytogenetic location associated with a ClinVar variant
        *  - name
           - string
           - 0..1
-          - The name of the extension item, which must be 'CytogeneticLocation'.
+          - The name of the extension item, which must be 'cytogeneticLocation'.
        *  - value
           - string
           - 0..1
-          - The cytogenetic location of the variant as provided by ClinVar.
+          - The cytogenetic location of the variant as provided by Clinvar.
        *  - description
           - string
           - 0..1

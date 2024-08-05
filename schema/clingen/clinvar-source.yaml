@@ -2,7 +2,7 @@ $schema: "https://json-schema.org/draft/2020-12/schema"
 $id: "https://w3id.org/ga4gh/schema/gk-pilot/1.x/clingen/clinvar-source.yaml"
 title: ClinGen's Clinvar variant & statement profiles
 type: object
-strict: true
+# strict: true
 
 imports:
   va.core-im: ../va-core-im/core-im-source.yaml
@@ -13,12 +13,12 @@ imports:
   cat-vrs: ../cat-vrs/cat-vrs-source.yaml
 
 $defs:
-  # Extension types for ClinVar variants
+  # Extension types for Clinvar variants
   ExtensionHgvsValue:
     description: >-
-      A complex structure for sharing individual HGVS entries associated with ClinVar
+      A complex structure for sharing individual HGVS entries associated with Clinvar
       Variations. 
-    protectedClassOf: ClinVarVariant
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
@@ -26,12 +26,16 @@ $defs:
         $ref: "/ga4gh/schema/gks-common/1.x/common/json/Expression"
         description: >-
           The nucleotide HGVS expression for the variant. 
-      nucleotideType:
+      clinvarHgvsType:
         type: string
-        enum: ["genomic, top level","genomic","coding","non-coding"]
+        enum: 
+          - "genomic, top-level"
+          - "genomic"
+          - "coding"
+          - "non-coding"
         description: >-
           The clinvar type of nucleotide expression. It must be one of the following: 
-          'genomic, top level', 'genomic', 'coding', or 'non-coding'.
+          'genomic, top-level', 'genomic', 'coding', or 'non-coding'.
       maneSelect:
         type: boolean
         description: >-
@@ -47,46 +51,46 @@ $defs:
         description: >-
           The protein HGVS expression for the variant.
       molecularConsequence:
-        type: "/ga4gh/schema/gks-common/1.x/common/json/Coding"
+        $ref: "/ga4gh/schema/gks-common/1.x/common/json/Coding"
         description: >-
           The molecular consequence of the variant as provided by clinvar,
           typically sequence ontology, SO, concepts.
 
   ExtensionHgvsList:
     description: >-
-      An extension item for a list of HGVS values associated with a ClinVar variant.
-    protectedClassOf: ClinVarVariant
+      An extension item for a list of HGVS values associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
       name:
         type: string
-        const: "HGVSList"
+        const: hgvsList
         description: >-
-          The name of the extension item, which must be 'HGVSList'.
+          The name of the extension item, which must be 'hgvsList'.
       value:
         type: array
         items:
           $ref: "#/$defs/ExtensionHgvsValue"
         ordered: false
         description: >-
-          A list of HGVS values associated with the ClinVar variant.
+          A list of HGVS values associated with the Clinvar variant.
       description:
         type: string
-        const: "The list of HGVS values associated with the ClinVar variant."
+        const: "The list of HGVS values associated with the Clinvar variant."
 
   ExtensionVariationType:
     description: >-
-      An extension item for the variation type associated with a ClinVar variant.
-    protectedClassOf: ClinVarVariant
+      An extension item for the variation type associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
       name:
         type: string
-        const: "VariationType"
+        const: variationType
         description: >-
-          The name of the extension item, which must be 'VariationType'.
+          The name of the extension item, which must be 'variationType'.
       value:
         type: string
         enum: 
@@ -112,7 +116,7 @@ $defs:
           - "Translocation"
           - "Variation"
         description: >-
-          The type of variant as provided by ClinVar. It must be one of the following:
+          The type of variant as provided by Clinvar. It must be one of the following:
           'Complex', 'CompoundHeterozygote', 'copy number gain', 'copy number loss',
           'Deletion', 'Diplotype', 'Distinct chromosomes', 'Duplication', 'fusion',
           'Haplotype, single variant', 'Haplotype', 'Indel', 'Insertion', 'Inversion',
@@ -120,20 +124,20 @@ $defs:
           'Tandem duplication', 'Translocation', or 'Variation'.
       description:
         type: string
-        const: "The Variation Type as provided by ClinVar."
+        const: "The Variation Type as provided by Clinvar."
 
   ExtensionSubclassType:
     description: >-
-      An extension item for the subclass type associated with a ClinVar variant.
-    protectedClassOf: ClinVarVariant
+      An extension item for the subclass type associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
       name:
         type: string
-        const: "SubclassType"
+        const: subclassType
         description: >-
-          The name of the extension item, which must be 'SubclassType'.
+          The name of the extension item, which must be 'subclassType'.
       value:
         type: string
         enum: 
@@ -141,24 +145,24 @@ $defs:
           - Haplotype
           - SimpleAllele
         description: >-
-          The subclass type of the variant as provided by ClinVar. It must be one of the following:
+          The subclass type of the variant as provided by Clinvar. It must be one of the following:
           'Genotype', 'Haplotype', or 'SimpleAllele'.
       description:
         type: string
-        const: "The Subclass Type as provided by ClinVar."
+        const: "The Subclass Type as provided by Clinvar."
 
   ExtensionChromosome:
     description: >-
-      An extension item for the single chromosome associated with a ClinVar variant.
-    protectedClassOf: ClinVarVariant
+      An extension item for the single chromosome associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
       name:
         type: string
-        const: "Chromosome"
+        const: chromosome
         description: >-
-          The name of the extension item, which must be 'Chromosome'.
+          The name of the extension item, which must be 'chromosome'.
       value:
         type: string
         enum: ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","X","Y","MT"]
@@ -172,49 +176,275 @@ $defs:
 
   ExtensionCytogeneticLocation:
     description: >-
-      An extension item for the cytogenetic location associated with a ClinVar variant.
-    protectedClassOf: ClinVarVariant
+      An extension item for the cytogenetic location associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
       name:
         type: string
-        const: "CytogeneticLocation"
+        const: cytogeneticLocation
         description: >-
-          The name of the extension item, which must be 'CytogeneticLocation'.
+          The name of the extension item, which must be 'cytogeneticLocation'.
       value:
         type: string
         description: >-
-          The cytogenetic location of the variant as provided by ClinVar.
+          The cytogenetic location of the variant as provided by Clinvar.
       description:
         type: string
-        const: "The cytogenetic location of the variant as provided by ClinVar."
+        const: "The cytogenetic location of the variant as provided by Clinvar."
 
-  ClinVarVariantProperties:
+  ExtensionAssembly:
     description: >-
-      A variant in ClinVar, which may be associated with multiple statements.
-    protectedClassOf: ClinVarVariant
+      An extension item for the assembly associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
+    type: object
+    maturity: draft
+    properties:
+      name:
+        type: string
+        const: assembly
+        description: >-
+          The name of the extension item, which must be 'assembly'.
+      value:
+        type: string
+        enum: ["GRCh37","GRCh38","NCBI36"]
+        description: >-
+          The assembly of the variant as provided by Clinvar. It must be one of the following:
+          'GRCh37', 'GRCh38', or 'NCBI36'.
+      description:
+        type: string
+        const: "The assembly of the variant as provided by Clinvar."
+
+  ExtensionClinvarVcf:
+    type: object
+    maturity: draft
+    description: >-
+      An extension item for the Clinvar VCF value associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
+    properties:
+      name:
+        type: string
+        const: clinvarVcf
+        description: >-
+          The name of the extension item, which must be 'clinvarVcf'.
+      value:
+        type: string
+        description: >-
+          The Clinvar VCF value associated with the Clinvar variant.
+      description:
+        type: string
+        const: "The Clinvar VCF value associated with the Clinvar variant."
+
+  ExtensionClinvarHgvsType:
+    type: object
+    maturity: draft
+    description: >-
+      An extension item for the Clinvar HGVS type associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
+    properties:
+      name:
+        type: string
+        const: clinvarHgvsType
+        description: >-
+          The name of the extension item, which must be 'clinvarHgvsType'.
+      value:
+        type: string
+        enum: ["genomic, top-level","genomic","coding","non-coding"]
+        description: >-
+          The Clinvar HGVS type associated with the Clinvar variant. It must be one of the following:
+          'genomic, top-level', 'genomic', 'coding', or 'non-coding'.
+      description:
+        type: string
+        const: "The Clinvar HGVS type associated with the Clinvar variant."
+
+  ExtensionVrsProcessingErrors:
+    type: object
+    maturity: draft
+    description: >-
+      An extension item for the VRS processing errors associated with a Clinvar variant.
+    protectedClassOf: ClinvarCategoricalVariation
+    properties:
+      name:
+        type: string
+        const: vrsProcessingErrors
+        description: >-
+          The name of the extension item, which must be 'vrsProcessingErrors'.
+      value:
+        type: string
+        description: >-
+          The VRS processing errors associated with the Clinvar variant.
+      description:
+        type: string
+        const: "The VRS processing errors associated with the Clinvar variant."
+
+  ClinvarSequenceReferenceProperties:
+    type: object
+    maturity: draft
+    description: >
+      The GA4GH Sequence Reference Representation(SR) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    properties:
+      extensions:
+        type: array
+        items:
+          oneOf:
+            - $ref: "#/$defs/ExtensionChromosome"
+            - $ref: "#/$defs/ExtensionAssembly"
+    additionalProperties: true
+
+  ClinvarSequenceReference:
+    maturity: draft
+    description: >
+      The GA4GH Sequence Reference Representation(SR) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    allOf:
+      - $ref: "/ga4gh/schema/vrs/2.x/json/SequenceReference"
+      - $ref: "#/$defs/ClinvarSequenceReferenceProperties"
+
+  ClinvarSequenceLocationProperties:
+    type: object
+    maturity: draft
+    description: >-
+      The GA4GH Sequence Location Representation(SL) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    properties:
+      sequenceReference:
+        oneOf:
+          - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+          - $ref: "#/$defs/ClinvarSequenceReference"
+        description: >-
+          The reference sequence for the location.
+      extensions:
+        type: 
+        ordered: false
+        maxItems: 0
+    additionalProperties: true
+
+  ClinvarSequenceLocation:
+    maturity: draft
+    description: >
+      The GA4GH Sequence Location Representation(SL) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    allOf:
+      - $ref: "/ga4gh/schema/vrs/2.x/json/SequenceLocation"
+      - $ref: "#/$defs/ClinvarSequenceLocationProperties"
+
+  ClinvarAlleleProperties:
+    description: >-
+      The GA4GH Allele Representation(AR) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    type: object
+    maturity: draft
+    properties:
+      location:
+        oneOf:
+          - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+          - $ref: "#/$defs/ClinvarSequenceLocation"
+        description: >-
+          The location of the variant.
+      extensions:
+        type: array
+        ordered: false
+        items:
+          oneOf:
+            - $ref: "#/$defs/ExtensionClinvarVcf"
+            - $ref: "#/$defs/ExtensionClinvarHgvsType"
+        description: >-
+          A list of extensions to the entity. Extensions are not expected to be natively understood,
+          but may be used for pre-negotiated exchange of message attributes between systems.
+    additionalProperties: true
+
+  ClinvarAllele:
+    maturity: draft
+    description: >-
+      The GA4GH Allele Representation(AR) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    allOf:
+      - $ref: "/ga4gh/schema/vrs/2.x/json/Allele"
+      - $ref: "#/$defs/ClinvarAlleleProperties"
+
+  ClinvarCanonicalAlleleProperties:
+    type: object
+    maturity: draft
+    description: >-
+      The GA4GH Canonical Allele Representation profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
+    properties:
+      definingContext:
+        oneOf:
+          - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+          - $ref: "#/$defs/ClinvarAllele"
+      members:
+        type: array
+        ordered: false
+        description: >-
+          A non-exhaustive list of VRS variation contexts that satisfy the constraints of
+          this categorical variant.
+        items:
+          oneOf:
+            - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+            - $ref: "#/$defs/ClinvarAllele"
+    additionalProperties: true
+    
+  ClinvarCategoricalVariationProperties:
+    description: >-
+      A variant in Clinvar, which may be associated with multiple statements.
+    protectedClassOf: ClinvarCategoricalVariation
     type: object
     maturity: draft
     properties:
       extensions:
         type: array
-        ordered: true
+        ordered: false
         items:
-          anyOf:
+          oneOf:
             - $ref: "#/$defs/ExtensionHgvsList"
             - $ref: "#/$defs/ExtensionVariationType"
             - $ref: "#/$defs/ExtensionSubclassType"
             - $ref: "#/$defs/ExtensionChromosome"
             - $ref: "#/$defs/ExtensionCytogeneticLocation"
+            - $ref: "#/$defs/ExtensionVrsProcessingErrors"
         description: >-
           A list of extensions to the entity. Extensions are not expected to be natively understood,
           but may be used for pre-negotiated exchange of message attributes between systems.
-      
-  ClinvarVariant:
+    additionalProperties: true
+
+  ClinvarCanonicalAllele:
     maturity: draft
     description: >
-      The GA4GH Categorical Variant Representation(Cat-VRS) profile specific to ClinVar.
+      The GA4GH Allele Representation(AR) profile specific to Clinvar.
+    protectedClassOf: ClinvarCategoricalVariation
     allOf:
-      - $ref: "/ga4gh/schema/cat-vrs/1.x/json/CategoricalVariation"
-      - $ref: "#/$defs/ClinVarVariantProperties" 
+      - $ref: "/ga4gh/schema/cat-vrs/1.x/json/CanonicalAllele"
+      - $ref: "#/$defs/ClinvarCanonicalAlleleProperties" 
+      - $ref: "#/$defs/ClinvarCategoricalVariationProperties"
+
+  ClinvarCategoricalCnv:
+    maturity: draft
+    description: >-
+      The Clinvar specific representations of described variants.
+    protectedClassOf: ClinvarCategoricalVariation
+    allOf:
+      - $ref: "/ga4gh/schema/cat-vrs/1.x/json/CategoricalCnv"
+      # - $ref: "#/$defs/ClinvarCategoricalCnvProperties" 
+      - $ref: "#/$defs/ClinvarCategoricalVariationProperties"
+
+  ClinvarDescribedVariation:
+    maturity: draft
+    description: >-
+      The Clinvar specific representations of described variants.
+    protectedClassOf: ClinvarCategoricalVariation
+    allOf:
+      - $ref: "/ga4gh/schema/cat-vrs/1.x/json/DescribedVariation"
+      # - $ref: "#/$defs/ClinvarDescribedVariationProperties" 
+      - $ref: "#/$defs/ClinvarCategoricalVariationProperties"
+
+  ClinvarCategoricalVariation:
+    maturity: draft
+    description: >-
+      The Clinvar specific representations of categorical variants.
+    oneOf:
+      - $ref: "#/$defs/ClinvarCanonicalAllele"
+      - $ref: "#/$defs/ClinvarCategoricalCnv"
+      - $ref: "#/$defs/ClinvarDescribedVariation"

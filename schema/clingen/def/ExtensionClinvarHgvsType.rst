@@ -1,6 +1,6 @@
 **Computational Definition**
 
-An extension item for a list of HGVS values associated with a Clinvar variant.
+An extension item for the Clinvar HGVS type associated with a Clinvar variant.
 
     **Information Model**
     
@@ -17,11 +17,11 @@ An extension item for a list of HGVS values associated with a Clinvar variant.
        *  - name
           - string
           - 0..1
-          - The name of the extension item, which must be 'hgvsList'.
+          - The name of the extension item, which must be 'clinvarHgvsType'.
        *  - value
-          - :ref:`ExtensionHgvsValue`
-          - 0..m
-          - A list of HGVS values associated with the Clinvar variant.
+          - string
+          - 0..1
+          - The Clinvar HGVS type associated with the Clinvar variant. It must be one of the following: 'genomic, top-level', 'genomic', 'coding', or 'non-coding'.
        *  - description
           - string
           - 0..1

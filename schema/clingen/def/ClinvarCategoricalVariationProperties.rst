@@ -1,6 +1,6 @@
 **Computational Definition**
 
-A variant in ClinVar, which may be associated with multiple statements.
+A variant in Clinvar, which may be associated with multiple statements.
 
     **Information Model**
     
@@ -15,6 +15,6 @@ A variant in ClinVar, which may be associated with multiple statements.
           - Limits
           - Description
        *  - extensions
-          - :ref:`ExtensionHgvsList` | :ref:`ExtensionVariationType` | :ref:`ExtensionSubclassType` | :ref:`ExtensionChromosome` | :ref:`ExtensionCytogeneticLocation`
+          - :ref:`ExtensionHgvsList` | :ref:`ExtensionVariationType` | :ref:`ExtensionSubclassType` | :ref:`ExtensionChromosome` | :ref:`ExtensionCytogeneticLocation` | :ref:`ExtensionVrsProcessingErrors`
           - 0..m
           - A list of extensions to the entity. Extensions are not expected to be natively understood, but may be used for pre-negotiated exchange of message attributes between systems.

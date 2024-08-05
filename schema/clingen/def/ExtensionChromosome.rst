@@ -1,6 +1,6 @@
 **Computational Definition**
 
-An extension item for the single chromosome associated with a ClinVar variant.
+An extension item for the single chromosome associated with a Clinvar variant.
 
     **Information Model**
     
@@ -17,7 +17,7 @@ An extension item for the single chromosome associated with a ClinVar variant.
        *  - name
           - string
           - 0..1
-          - The name of the extension item, which must be 'Chromosome'.
+          - The name of the extension item, which must be 'chromosome'.
        *  - value
           - string
           - 0..1

@@ -1,6 +1,6 @@
 **Computational Definition**
 
-An extension item for the variation type associated with a ClinVar variant.
+An extension item for the variation type associated with a Clinvar variant.
 
     **Information Model**
     
@@ -17,11 +17,11 @@ An extension item for the variation type associated with a ClinVar variant.
        *  - name
           - string
           - 0..1
-          - The name of the extension item, which must be 'VariationType'.
+          - The name of the extension item, which must be 'variationType'.
        *  - value
           - string
           - 0..1
-          - The type of variant as provided by ClinVar. It must be one of the following: 'Complex', 'CompoundHeterozygote', 'copy number gain', 'copy number loss', 'Deletion', 'Diplotype', 'Distinct chromosomes', 'Duplication', 'fusion', 'Haplotype, single variant', 'Haplotype', 'Indel', 'Insertion', 'Inversion', 'Microsatellite', 'Phase unknown', 'protein only', 'single nucleotide variant', 'Tandem duplication', 'Translocation', or 'Variation'.
+          - The type of variant as provided by Clinvar. It must be one of the following: 'Complex', 'CompoundHeterozygote', 'copy number gain', 'copy number loss', 'Deletion', 'Diplotype', 'Distinct chromosomes', 'Duplication', 'fusion', 'Haplotype, single variant', 'Haplotype', 'Indel', 'Insertion', 'Inversion', 'Microsatellite', 'Phase unknown', 'protein only', 'single nucleotide variant', 'Tandem duplication', 'Translocation', or 'Variation'.
        *  - description
           - string
           - 0..1
