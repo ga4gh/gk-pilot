@@ -1,0 +1,4 @@
+tests:
+  - test_file: gnomad/gnomad-test.yaml
+    schema: CohortAlleleFrequencyStudyResult
+    definition: GnomadCAF

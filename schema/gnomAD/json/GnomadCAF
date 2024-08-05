@@ -27,32 +27,6 @@
          "additionalProperties": false,
          "required": []
       },
-      "GrpMaxFAF95": {
-         "description": "The group maximum filtering allele frequency at 95% CI.",
-         "protectedClassOf": "GnomadCAF",
-         "type": "object",
-         "maturity": "draft",
-         "properties": {
-            "frequency": {
-               "type": "number"
-            },
-            "confidenceInterval": {
-               "type": "number",
-               "const": 0.95,
-               "default": 0.95
-            },
-            "groupId": {
-               "type": "string",
-               "description": "The genetic ancestry group from which the max frequency was calculated."
-            }
-         },
-         "required": [
-            "confidenceInterval",
-            "frequency",
-            "groupId"
-         ],
-         "additionalProperties": false
-      },
       "GnomadQualityMeasures": {
          "maturity": "draft",
          "type": "object",
@@ -115,7 +89,33 @@
                "$ref": "#/$defs/GnomadQualityMeasures"
             }
          },
-         "required": [],
+         "additionalProperties": true,
+         "required": []
+      },
+      "GrpMaxFAF95": {
+         "description": "The group maximum filtering allele frequency at 95% CI.",
+         "protectedClassOf": "GnomadCAF",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "frequency": {
+               "type": "number"
+            },
+            "confidenceInterval": {
+               "type": "number",
+               "const": 0.95,
+               "default": 0.95
+            },
+            "groupId": {
+               "type": "string",
+               "description": "The genetic ancestry group from which the max frequency was calculated."
+            }
+         },
+         "required": [
+            "confidenceInterval",
+            "frequency",
+            "groupId"
+         ],
          "additionalProperties": false
       }
    },
