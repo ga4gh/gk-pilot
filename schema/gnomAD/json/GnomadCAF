@@ -4,20 +4,27 @@
    "title": "GnomadCAF",
    "type": "object",
    "$defs": {
-      "GnomadCafProperties": {
-         "description": "Additional properties specific to the gnomAD CAF model.",
-         "protectedClassOf": "GnomadCAF",
-         "type": "object",
+      "GnomadAncillaryResults": {
          "maturity": "draft",
+         "type": "object",
+         "protectedClassOf": "GnomadCAF",
+         "description": "Ancillary gnomAD results that may be associated with the CohortAlleleFrequency, providing additional context or information.",
          "properties": {
-            "ancillaryResults": {
-               "$ref": "#/$defs/GnomadAncillaryResults"
+            "grpMaxFAF95": {
+               "$ref": "#/$defs/GrpMaxFAF95"
             },
-            "qualityMeasures": {
-               "$ref": "#/$defs/GnomadQualityMeasures"
+            "jointGrpMaxFAF95": {
+               "description": "The Group Max Filtering Allele Frequency (95% confidence interval) calculated jointly from genome and exome data.",
+               "$ref": "#/$defs/GrpMaxFAF95"
+            },
+            "homozygotes": {
+               "type": "integer"
+            },
+            "hemizygotes": {
+               "type": "integer"
             }
          },
-         "additionalProperties": true,
+         "additionalProperties": false,
          "required": []
       },
       "GnomadQualityMeasures": {
@@ -95,32 +102,25 @@
          ],
          "additionalProperties": false
       },
-      "GnomadAncillaryResults": {
-         "maturity": "draft",
-         "type": "object",
+      "GnomadCafProperties": {
+         "description": "Additional properties specific to the gnomAD CAF model.",
          "protectedClassOf": "GnomadCAF",
-         "description": "Ancillary gnomAD results that may be associated with the CohortAlleleFrequency, providing additional context or information.",
+         "type": "object",
+         "maturity": "draft",
          "properties": {
-            "grpMaxFAF95": {
-               "$ref": "#/$defs/GrpMaxFAF95"
+            "ancillaryResults": {
+               "$ref": "#/$defs/GnomadAncillaryResults"
             },
-            "jointGrpMaxFAF95": {
-               "description": "The Group Max Filtering Allele Frequency (95% confidence interval) calculated jointly from genome and exome data.",
-               "$ref": "#/$defs/GrpMaxFAF95"
-            },
-            "homozygotes": {
-               "type": "integer"
-            },
-            "hemizygotes": {
-               "type": "integer"
+            "qualityMeasures": {
+               "$ref": "#/$defs/GnomadQualityMeasures"
             }
          },
-         "additionalProperties": false,
+         "additionalProperties": true,
          "required": []
       }
    },
    "maturity": "draft",
-   "description": "The GA4GH Cohort Allele Frequency Study Result profile, with additional properties  specific to the gnomAD resource. ",
+   "description": "The GA4GH Cohort Allele Frequency Study Result profile, with additional properties specific to the gnomAD resource. ",
    "allOf": [
       {
          "$ref": "/ga4gh/schema/va-spec/1.x/profiles/json/CohortAlleleFrequencyStudyResult"

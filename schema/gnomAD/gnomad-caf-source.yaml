@@ -118,7 +118,7 @@ $defs:
   GnomadCAF:
     maturity: draft
     description: >
-      The GA4GH Cohort Allele Frequency Study Result profile, with additional properties 
+      The GA4GH Cohort Allele Frequency Study Result profile, with additional properties
       specific to the gnomAD resource.
     allOf:
       - $ref: "/ga4gh/schema/va-spec/1.x/profiles/json/CohortAlleleFrequencyStudyResult"

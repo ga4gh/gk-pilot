@@ -1,6 +1,6 @@
 **Computational Definition**
 
-The GA4GH Cohort Allele Frequency Study Result profile, with additional properties  specific to the gnomAD resource.
+The GA4GH Cohort Allele Frequency Study Result profile, with additional properties specific to the gnomAD resource.
 
 
     **Information Model**
