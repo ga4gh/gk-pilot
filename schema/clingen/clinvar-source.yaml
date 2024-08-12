@@ -2,13 +2,12 @@ $schema: "https://json-schema.org/draft/2020-12/schema"
 $id: "https://w3id.org/ga4gh/schema/gk-pilot/1.x/clingen/clinvar-source.yaml"
 title: ClinGen's Clinvar variant & statement profiles
 type: object
-# strict: true
 
 imports:
-  va.core-im: ../va-core-im/core-im-source.yaml
-  va.profiles: ../va-profiles/profiles-source.yaml
-  gks.common: ../gks-common/common-source.yaml
-  gks.domain-entities: ../gks-domain-entities/domain-entities-source.yaml
+  va.profiles: ../profiles/profiles-source.yaml
+  gks.core-im: ../core-im/core-im-source.yaml
+  gks.data-types: ../data-types/data-types-source.yaml
+  gks.domain-entities: ../domain-entities/domain-entities-source.yaml
   vrs: ../vrs/vrs-source.yaml
   cat-vrs: ../cat-vrs/cat-vrs-source.yaml
 
@@ -23,7 +22,7 @@ $defs:
     maturity: draft
     properties:
       nucleotide:
-        $ref: "/ga4gh/schema/gks-common/1.x/common/json/Expression"
+        $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/Expression"
         description: >-
           The nucleotide HGVS expression for the variant. 
       clinvarHgvsType:
@@ -34,24 +33,24 @@ $defs:
           - "coding"
           - "non-coding"
         description: >-
-          The clinvar type of nucleotide expression. It must be one of the following: 
+          The clinvar type of nucleotide expression. It must be one of the following:
           'genomic, top-level', 'genomic', 'coding', or 'non-coding'.
       maneSelect:
         type: boolean
         description: >-
-          A boolean value indicating whether the HGVS expression is selected as the 
+          A boolean value indicating whether the HGVS expression is selected as the
           MANE (Matched Annotation from NCBI and EMBL-EBI) Select expression.
       manePlus:
         type: boolean
         description: >-
-          A boolean value indicating whether the HGVS expression is selected as the 
+          A boolean value indicating whether the HGVS expression is selected as the
           MANE Plus Clinical expression.
       protein:
-        $ref: "/ga4gh/schema/gks-common/1.x/common/json/Expression"
+        $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/Expression"
         description: >-
           The protein HGVS expression for the variant.
       molecularConsequence:
-        $ref: "/ga4gh/schema/gks-common/1.x/common/json/Coding"
+        $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/Coding"
         description: >-
           The molecular consequence of the variant as provided by clinvar,
           typically sequence ontology, SO, concepts.
@@ -311,7 +310,7 @@ $defs:
     properties:
       sequenceReference:
         oneOf:
-          - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+          - $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/IRI"
           - $ref: "#/$defs/ClinvarSequenceReference"
         description: >-
           The reference sequence for the location.
@@ -339,7 +338,7 @@ $defs:
     properties:
       location:
         oneOf:
-          - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+          - $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/IRI"
           - $ref: "#/$defs/ClinvarSequenceLocation"
         description: >-
           The location of the variant.
@@ -373,7 +372,7 @@ $defs:
     properties:
       definingContext:
         oneOf:
-          - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+          - $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/IRI"
           - $ref: "#/$defs/ClinvarAllele"
       members:
         type: array
@@ -383,7 +382,7 @@ $defs:
           this categorical variant.
         items:
           oneOf:
-            - $ref: "/ga4gh/schema/gks-common/1.x/common/json/IRI"
+            - $ref: "/ga4gh/schema/gks-common/1.x/data-types/json/IRI"
             - $ref: "#/$defs/ClinvarAllele"
     additionalProperties: true
     

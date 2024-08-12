@@ -4,7 +4,7 @@ title: gnomAD Cohort Allele Frequency Study Result profile
 type: object
 
 imports:
-  va.profiles: ../va-profiles/profiles-source.yaml
+  va.profiles: ../profiles/profiles-source.yaml
 
 $defs:
   GnomadCafProperties:
@@ -87,14 +87,14 @@ $defs:
       lowComplexityRegion:
         description: >-
           This flag indicates the variant is found in a low complexity 
-          region. These regions were identified
-          with the symmetric DUST algorithm at a score threshold of 30.
+          region. These regions were identified with the symmetric DUST
+          algorithm at a score threshold of 30.
         type: boolean
       lowConfidenceLossOfFunctionError:
         description: >-
           Low confidence in predicted Loss of Function (pLoF), where 
-          variant is determined by LOFTEE
-          to be unlikely loss of function for a transcript.
+          variant is determined by LOFTEE to be unlikely loss of function
+          for a transcript.
         type: boolean
       lossOfFunctionWarning:
         description: >-
@@ -104,8 +104,8 @@ $defs:
       noncodingTranscriptError:
         description: >-
           Marked in a putative loss of function category by VEP 
-          (essential splice, stop-gained, or frameshift)
-          but appears on a non-protein-coding transcript.
+          (essential splice, stop-gained, or frameshift) but appears
+          on a non-protein-coding transcript.
         type: boolean
       heterozygousSkewedAlleleCount:
         description: >-

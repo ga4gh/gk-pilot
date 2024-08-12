@@ -15,7 +15,7 @@ The GA4GH Sequence Location Representation(SL) profile specific to Clinvar.
           - Limits
           - Description
        *  - sequenceReference
-          - `IRI </ga4gh/schema/gks-common/1.x/common/json/IRI>`_ | :ref:`ClinvarSequenceReference`
+          - `IRI </ga4gh/schema/gks-common/1.x/data-types/json/IRI>`_ | :ref:`ClinvarSequenceReference`
           - 0..1
           - The reference sequence for the location.
        *  - extensions
