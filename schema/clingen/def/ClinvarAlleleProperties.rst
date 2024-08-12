@@ -15,7 +15,7 @@ The GA4GH Allele Representation(AR) profile specific to Clinvar.
           - Limits
           - Description
        *  - location
-          - `IRI </ga4gh/schema/gks-common/1.x/common/json/IRI>`_ | :ref:`ClinvarSequenceLocation`
+          - `IRI </ga4gh/schema/gks-common/1.x/data-types/json/IRI>`_ | :ref:`ClinvarSequenceLocation`
           - 0..1
           - The location of the variant.
        *  - extensions
