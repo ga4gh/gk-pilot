@@ -1,0 +1,14 @@
+id: clinvar:SCV000960199.6
+label: NM_004958.4(MTOR):c.5992_5993del (p.Met1998fs)
+type: VariantPathogenicityStatement
+subjectVariant: clinvar:662001
+predicate: isCausalFor
+objectCondition: condition:123
+direction: disputes
+extensions:
+  - name: localKey
+    value: mylocal-key-123
+    description: The local key as submitted to Clinvar for a given SCV.
+  - name: reviewStatus
+    value: criteria provided, single submitter
+    description: The clinvar review status (star rating) of the SCV.

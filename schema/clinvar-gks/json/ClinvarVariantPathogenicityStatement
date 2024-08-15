@@ -1,0 +1,130 @@
+{
+   "$schema": "https://json-schema.org/draft/2020-12/schema",
+   "$id": "https://w3id.org/ga4gh/schema/gk-pilot/1.x/clinvar-gks/json/ClinvarVariantPathogenicityStatement",
+   "title": "ClinvarVariantPathogenicityStatement",
+   "type": "object",
+   "$defs": {
+      "ExtensionLocalKey": {
+         "description": "An extension to the entity that provides the local-key submitted with the SCV, if available.",
+         "protectedClassOf": "ClinvarVariantPathogenicityStatement",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "name": {
+               "type": "string",
+               "const": "localKey",
+               "description": "The name of the extension item, which must be 'localKey'."
+            },
+            "value": {
+               "type": "string",
+               "description": "The subclass type of the variant as provided by Clinvar. It must be one of the following: 'Genotype', 'Haplotype', or 'SimpleAllele'."
+            }
+         },
+         "required": []
+      },
+      "ExtensionMethodCategory": {
+         "description": "An extension to the entity that provides the method category of the SCV.",
+         "protectedClassOf": "ClinvarVariantPathogenicityStatement",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "name": {
+               "type": "string",
+               "const": "methodCategory",
+               "description": "The name of the extension item, which must be 'methodCategory'."
+            },
+            "value": {
+               "type": "string",
+               "description": "The method category of the SCV."
+            }
+         },
+         "required": []
+      },
+      "ExtensionSubmittedClassification": {
+         "description": "An extension to the entity that provides the submitted classification of the SCV.",
+         "protectedClassOf": "ClinvarVariantPathogenicityStatement",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "name": {
+               "type": "string",
+               "const": "submittedClassification",
+               "description": "The name of the extension item, which must be 'submittedClassification'."
+            },
+            "value": {
+               "type": "string",
+               "description": "The submitted classification of the SCV."
+            }
+         },
+         "required": []
+      },
+      "ExtensionReviewStatus": {
+         "description": "An extension to the entity that provides the review status of the SCV.",
+         "protectedClassOf": "ClinvarVariantPathogenicityStatement",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "name": {
+               "type": "string",
+               "const": "reviewStatus",
+               "description": "The name of the extension item, which must be 'reviewStatus'."
+            },
+            "value": {
+               "type": "string",
+               "enum": [
+                  "review_status",
+                  "criteria provided, single submitter",
+                  "flagged submission",
+                  "no assertion criteria provided",
+                  "no assertion provided",
+                  "practice guideline",
+                  "reviewed by expert panel"
+               ],
+               "description": "The review status of the SCV."
+            }
+         },
+         "required": []
+      },
+      "ClinvarSCVProperties": {
+         "description": "ClinVar specific properties for Clinvar submitted statements (aka SCVs).",
+         "protectedClassOf": "ClinvarVariantPathogenicityStatement",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "extensions": {
+               "type": "array",
+               "ordered": false,
+               "items": {
+                  "oneOf": [
+                     {
+                        "$ref": "#/$defs/ExtensionSubmittedClassification"
+                     },
+                     {
+                        "$ref": "#/$defs/ExtensionMethodCategory"
+                     },
+                     {
+                        "$ref": "#/$defs/ExtensionReviewStatus"
+                     },
+                     {
+                        "$ref": "#/$defs/ExtensionLocalKey"
+                     }
+                  ]
+               },
+               "description": "A list of extensions to the clinvar scv statements. Extensions are not expected to be natively understood, but may be used for pre-negotiated exchange of message attributes between systems."
+            }
+         },
+         "additionalProperties": true,
+         "required": []
+      }
+   },
+   "maturity": "draft",
+   "description": "The GA4GH Variant Pathogenicity submission statement profile specific to Clinvar. ",
+   "allOf": [
+      {
+         "$ref": "/ga4gh/schema/va-spec/1.x/profiles/json/VariantPathogenicityStatement"
+      },
+      {
+         "$ref": "#/$defs/ClinvarSCVProperties"
+      }
+   ]
+}

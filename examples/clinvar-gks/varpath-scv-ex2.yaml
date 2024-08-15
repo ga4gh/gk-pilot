@@ -1,0 +1,194 @@
+id: SCV004334569.1
+subjectVariant:
+  definingContext:
+    digest: hf_va4AnlG99NuOjtaXJzh_XvszWWOO9
+    expressions:                
+      - syntax: spdi
+        value: NC_000003.12:52407384:C:A
+      - syntax: hgvs.g
+        value: NC_000003.12:g.52407385C>A
+      - syntax: gnomad
+        value: 3-52407385-C-A
+    extensions:
+      - name: clinvarVcf
+        value: 3-52407385-C-A
+      - name: clinvarHgvsType
+        value: "genomic, top-level"
+    id: ga4gh:VA.hf_va4AnlG99NuOjtaXJzh_XvszWWOO9
+    label: NC_000003.12:52407384:C:A
+    location:
+      digest: 5GzVzGL_ew5gQ-H8NfjzlIblepJy4bw-
+      end: 52407385
+      id: ga4gh:SL.5GzVzGL_ew5gQ-H8NfjzlIblepJy4bw-
+      sequenceReference:
+        extensions:
+          - name: assembly
+            value: GRCh38
+          - name: chromosome
+            value: 3
+        id: NC_000003.12
+        refgetAccession: SQ.Zu7h9AggXxhTaGVsy7h_EZSChSZGcmgX
+        residueAlphabet: na
+        type: SequenceReference
+      start: 52407384
+      type: SequenceLocation
+    state: 
+      sequence: A
+      type: LiteralSequenceExpression
+    type: Allele
+  extensions:
+    - name: cytogeneticLocation
+      value: 3p21.1
+    - name: subclassType
+      value: SimpleAllele
+    - name: variationType
+      value: single nucleotide variant
+    - name: hgvsList
+      value:
+        - nucleotideExpression:
+            syntax: hgvs.g
+            value: NC_000003.12:g.52407385C>A
+          clinvarHgvsType: "genomic, top-level"
+        - nucleotideExpression:
+            syntax: hgvs.g
+            value: NC_000003.11:g.52441401C>A
+          clinvarHgvsType: "genomic, top-level"
+        - nucleotideExpression:
+            syntax: hgvs.g
+            value: LRG_529:g.7609G>T
+          clinvarHgvsType: genomic
+        - nucleotideExpression:
+            syntax: hgvs.g
+            value: NG_031859.1:g.7609G>T
+          clinvarHgvsType: genomic
+        - nucleotideExpression:
+            syntax: hgvs.c
+            value: NM_004656.4:c.437+14G>T
+          clinvarHgvsType: coding
+          maneSelect: true
+          molecularConsequence:
+            code: SO:0001627
+            system: http://www.sequenceontology.org/browser/current_release/term/
+            label: intron_variant
+        - nucleotideExpression:
+            syntax: hgvs.c
+            value: NM_001410772.1:c.437+14G>T
+          clinvarHgvsType: coding
+          molecularConsequence:
+            code: SO:0001627
+            system: http://www.sequenceontology.org/browser/current_release/term/
+            label: intron variant
+  id: clinvar:2769522
+  label: NM_004656.4(BAP1):c.437+14G>T
+  members:
+    - digest: hf_va4AnlG99NuOjtaXJzh_XvszWWOO9
+      expressions:
+        - syntax: spdi
+          value: NC_000003.12:52407384:C:A
+        - syntax: hgvs.g
+          value: NC_000003.12:g.52407385C>A
+        - syntax: gnomad
+          value: 3-52407385-C-A
+      extensions:
+        - name: clinvar vcf
+          value: 3-52407385-C-A
+        - name: clinvar hgvs type
+          value: "genomic, top-level"
+      id: ga4gh:VA.hf_va4AnlG99NuOjtaXJzh_XvszWWOO9
+      label: NC_000003.12:52407384:C:A
+      location:
+        digest: 5GzVzGL_ew5gQ-H8NfjzlIblepJy4bw-
+        end: 52407385
+        id: ga4gh:SL.5GzVzGL_ew5gQ-H8NfjzlIblepJy4bw-
+        sequenceReference:
+          extensions:
+            - name: assembly
+              value: GRCh38
+            - name: chromosome
+              value: 3
+          id: NC_000003.12
+          refgetAccession: SQ.Zu7h9AggXxhTaGVsy7h_EZSChSZGcmgX
+          residueAlphabet: na
+          type: SequenceReference
+        start: 52407384
+        type: SequenceLocation
+      state:
+        sequence: A
+        type: LiteralSequenceExpression
+      type: Allele
+  type: CanonicalAllele
+predicate: isCausalFor
+subjectClassification:
+  code: cg000002
+  label: Likely benign
+  system: https://dataexchange.clinicalgenome.org/codes/
+objectCondition:
+  id: clinvarTrait:16619
+  label: "BAP1-related tumor predisposition syndrome"
+  mappings:
+    - coding:
+        code: C3280492
+        system: https://www.ncbi.nlm.nih.gov/medgen/
+      relation: exactMatch
+  type: Disease
+contributions:
+  - activity:
+      code: CRO_0000105
+      label: submitter role
+      system: http://purl.obolibrary.org/obo/
+    agent:
+      id: clinvar.submitter:500031
+      label: Invitae
+      type: Agent
+    date: "2024-02-14"
+    label: Last Updated
+    type: Contribution
+  - activity:
+      code: CRO_0000105
+      label: submitter role
+      system: http://purl.obolibrary.org/obo/
+    agent:
+      id: clinvar.submitter:500031
+      label: Invitae
+      type: Agent
+    date: "2024-02-14"
+    label: First in ClinVar
+    type: Contribution
+  - activity:
+      code: CRO_0000001
+      label: author role
+      system: http://purl.obolibrary.org/obo/
+    agent:
+      id: clinvar.submitter:500031
+      label: Invitae
+      type: Agent
+    date: "2023-01-13"
+    label: Last Evaluated
+    type: Contribution
+direction: disputes
+extensions:
+  - name: localKey
+    value: 2870741|MedGen:C3280492
+  - name: submittedClassification
+    value: Likely benign
+  - name: methodCategory
+    value: clinical testing
+  - name: reviewStatus
+    value: "criteria provided, single submitter"
+specifiedBy:
+  id: pubmed:28492532
+  isReportedIn:
+    id: pubmed:28492532
+    pmid: 28492532
+    type: Document
+    url: https://pubmed.ncbi.nlm.nih.gov/28492532
+  label: "Invitae Variant Classification Sherloc (09022015)"
+  type: Method
+# scv_id: SCV004334569
+# scv_ver: 1
+strength:
+  code: cg000102
+  label: likely
+  system: https://dataexchange.clinicalgenome.org/codes/
+type: VariantPathogenicityStatement
+      

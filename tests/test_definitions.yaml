@@ -1,13 +1,19 @@
 tests:
   - test_file: gnomad/gnomad-test.yaml
-    schema: clingen
+    schema: gnomad
     definition: GnomadCAF
-  - test_file: clingen/canonicalAllele-ex1.yaml
-    schema: clingen
+  - test_file: clinvar-gks/canonicalAllele-ex1.yaml
+    schema: clinvar-gks
     definition: ClinvarCategoricalVariation
-  - test_file: clingen/categoricalCnv-ex1.yaml
-    schema: clingen
+  - test_file: clinvar-gks/categoricalCnv-ex1.yaml
+    schema: clinvar-gks
     definition: ClinvarCategoricalVariation
-  - test_file: clingen/describedVariation-ex1.yaml
-    schema: clingen
+  - test_file: clinvar-gks/describedVariation-ex1.yaml
+    schema: clinvar-gks
     definition: ClinvarCategoricalVariation
+  - test_file: clinvar-gks/varpath-scv-ex1.yaml
+    schema: clinvar-gks
+    definition: ClinvarVariantPathogenicityStatement
+  - test_file: clinvar-gks/varpath-scv-ex2.yaml
+    schema: clinvar-gks
+    definition: ClinvarVariantPathogenicityStatement
