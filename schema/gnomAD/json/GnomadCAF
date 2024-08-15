@@ -4,46 +4,27 @@
    "title": "GnomadCAF",
    "type": "object",
    "$defs": {
-      "GrpMaxFAF95": {
-         "description": "The group maximum filtering allele frequency at 95% CI.",
-         "protectedClassOf": "GnomadCAF",
-         "type": "object",
+      "GnomadAncillaryResults": {
          "maturity": "draft",
+         "type": "object",
+         "protectedClassOf": "GnomadCAF",
+         "description": "Ancillary gnomAD results that may be associated with the CohortAlleleFrequency, providing additional context or information.",
          "properties": {
-            "frequency": {
-               "type": "number"
+            "grpMaxFAF95": {
+               "$ref": "#/$defs/GrpMaxFAF95"
             },
-            "confidenceInterval": {
-               "type": "number",
-               "const": 0.95,
-               "default": 0.95
+            "jointGrpMaxFAF95": {
+               "description": "The Group Max Filtering Allele Frequency (95% confidence interval) calculated jointly from genome and exome data.",
+               "$ref": "#/$defs/GrpMaxFAF95"
             },
-            "groupId": {
-               "type": "string",
-               "description": "The genetic ancestry group from which the max frequency was calculated."
+            "homozygotes": {
+               "type": "integer"
+            },
+            "hemizygotes": {
+               "type": "integer"
             }
          },
-         "required": [
-            "confidenceInterval",
-            "frequency",
-            "groupId"
-         ],
-         "additionalProperties": false
-      },
-      "GnomadCafProperties": {
-         "description": "Additional properties specific to the gnomAD CAF model.",
-         "protectedClassOf": "GnomadCAF",
-         "type": "object",
-         "maturity": "draft",
-         "properties": {
-            "ancillaryResults": {
-               "$ref": "#/$defs/GnomadAncillaryResults"
-            },
-            "qualityMeasures": {
-               "$ref": "#/$defs/GnomadQualityMeasures"
-            }
-         },
-         "additionalProperties": true,
+         "additionalProperties": false,
          "required": []
       },
       "GnomadQualityMeasures": {
@@ -95,27 +76,46 @@
          "additionalProperties": false,
          "required": []
       },
-      "GnomadAncillaryResults": {
-         "maturity": "draft",
-         "type": "object",
+      "GrpMaxFAF95": {
+         "description": "The group maximum filtering allele frequency at 95% CI.",
          "protectedClassOf": "GnomadCAF",
-         "description": "Ancillary gnomAD results that may be associated with the CohortAlleleFrequency, providing additional context or information.",
+         "type": "object",
+         "maturity": "draft",
          "properties": {
-            "grpMaxFAF95": {
-               "$ref": "#/$defs/GrpMaxFAF95"
+            "frequency": {
+               "type": "number"
             },
-            "jointGrpMaxFAF95": {
-               "description": "The Group Max Filtering Allele Frequency (95% confidence interval) calculated jointly from genome and exome data.",
-               "$ref": "#/$defs/GrpMaxFAF95"
+            "confidenceInterval": {
+               "type": "number",
+               "const": 0.95,
+               "default": 0.95
             },
-            "homozygotes": {
-               "type": "integer"
-            },
-            "hemizygotes": {
-               "type": "integer"
+            "groupId": {
+               "type": "string",
+               "description": "The genetic ancestry group from which the max frequency was calculated."
             }
          },
-         "additionalProperties": false,
+         "required": [
+            "confidenceInterval",
+            "frequency",
+            "groupId"
+         ],
+         "additionalProperties": false
+      },
+      "GnomadCafProperties": {
+         "description": "Additional properties specific to the gnomAD CAF model.",
+         "protectedClassOf": "GnomadCAF",
+         "type": "object",
+         "maturity": "draft",
+         "properties": {
+            "ancillaryResults": {
+               "$ref": "#/$defs/GnomadAncillaryResults"
+            },
+            "qualityMeasures": {
+               "$ref": "#/$defs/GnomadQualityMeasures"
+            }
+         },
+         "additionalProperties": true,
          "required": []
       }
    },

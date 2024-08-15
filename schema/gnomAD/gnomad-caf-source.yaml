@@ -4,7 +4,7 @@ title: gnomAD Cohort Allele Frequency Study Result profile
 type: object
 
 imports:
-  va.profiles: ../profiles/profiles-source.yaml
+  va.caf-profile: ../profiles/caf-study-result-source.yaml
 
 $defs:
   GnomadCafProperties:
