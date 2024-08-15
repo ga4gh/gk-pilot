@@ -1,6 +1,6 @@
 pytest
 pyyaml
-ga4gh.gks.metaschema==0.3.0b9
+ga4gh.gks.metaschema==0.3.0b11
 jsonschema
 referencing
 jupyterlab
